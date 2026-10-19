@@ -1,0 +1,7002 @@
+[
+  {
+    "CustomerID": "12346",
+    "Description": "GRAND CHOCOLATECANDLE",
+    "StockCode": "72741",
+    "rank": 1,
+    "score": 0.0402991957962513
+  },
+  {
+    "CustomerID": "12346",
+    "Description": "FAIRY CAKE FLANNEL ASSORTED COLOUR",
+    "StockCode": "21108",
+    "rank": 2,
+    "score": 0.039935287088155746
+  },
+  {
+    "CustomerID": "12346",
+    "Description": "BLACK RECORD COVER FRAME",
+    "StockCode": "21137",
+    "rank": 3,
+    "score": 0.03985157608985901
+  },
+  {
+    "CustomerID": "12346",
+    "Description": "CHOCOLATE HOT WATER BOTTLE",
+    "StockCode": "22112",
+    "rank": 4,
+    "score": 0.0377892404794693
+  },
+  {
+    "CustomerID": "12346",
+    "Description": "PINK DOUGHNUT TRINKET POT ",
+    "StockCode": "22064",
+    "rank": 5,
+    "score": 0.03754897788167
+  },
+  {
+    "CustomerID": "12346",
+    "Description": "HOT WATER BOTTLE TEA AND SYMPATHY",
+    "StockCode": "22114",
+    "rank": 6,
+    "score": 0.037470247596502304
+  },
+  {
+    "CustomerID": "12346",
+    "Description": "RECORD FRAME 7\" SINGLE SIZE ",
+    "StockCode": "22041",
+    "rank": 7,
+    "score": 0.03705039992928505
+  },
+  {
+    "CustomerID": "12346",
+    "Description": "SMALL CHINESE STYLE SCISSOR",
+    "StockCode": "16014",
+    "rank": 8,
+    "score": 0.03692827373743057
+  },
+  {
+    "CustomerID": "12346",
+    "Description": "CERAMIC CAKE DESIGN SPOTTED MUG",
+    "StockCode": "37448",
+    "rank": 9,
+    "score": 0.036488477140665054
+  },
+  {
+    "CustomerID": "12347",
+    "Description": "SMALL POPCORN HOLDER",
+    "StockCode": "22197",
+    "rank": 1,
+    "score": 0.9359655976295471
+  },
+  {
+    "CustomerID": "12347",
+    "Description": "DOUGHNUT LIP GLOSS ",
+    "StockCode": "23077",
+    "rank": 2,
+    "score": 0.9243799448013306
+  },
+  {
+    "CustomerID": "12347",
+    "Description": "VINTAGE SNAP CARDS",
+    "StockCode": "21790",
+    "rank": 3,
+    "score": 0.8442571759223938
+  },
+  {
+    "CustomerID": "12347",
+    "Description": "HAND WARMER OWL DESIGN",
+    "StockCode": "22865",
+    "rank": 4,
+    "score": 0.8421215415000916
+  },
+  {
+    "CustomerID": "12347",
+    "Description": "WORLD WAR 2 GLIDERS ASSTD DESIGNS",
+    "StockCode": "84077",
+    "rank": 5,
+    "score": 0.8418896794319153
+  },
+  {
+    "CustomerID": "12347",
+    "Description": "WOODEN BOX OF DOMINOES",
+    "StockCode": "21889",
+    "rank": 6,
+    "score": 0.8390781283378601
+  },
+  {
+    "CustomerID": "12347",
+    "Description": "PINK CREAM FELT CRAFT TRINKET BOX ",
+    "StockCode": "20972",
+    "rank": 7,
+    "score": 0.8298894166946411
+  },
+  {
+    "CustomerID": "12348",
+    "Description": "TRADITIONAL WOODEN CATCH CUP GAME ",
+    "StockCode": "21892",
+    "rank": 1,
+    "score": 0.7350571155548096
+  },
+  {
+    "CustomerID": "12348",
+    "Description": "PACK OF 12 TRADITIONAL CRAYONS",
+    "StockCode": "22489",
+    "rank": 2,
+    "score": 0.7035333514213562
+  },
+  {
+    "CustomerID": "12348",
+    "Description": "DINOSAUR KEYRINGS ASSORTED",
+    "StockCode": "21829",
+    "rank": 3,
+    "score": 0.695488452911377
+  },
+  {
+    "CustomerID": "12348",
+    "Description": "WOODEN BOX OF DOMINOES",
+    "StockCode": "21889",
+    "rank": 4,
+    "score": 0.6942987442016602
+  },
+  {
+    "CustomerID": "12348",
+    "Description": "TRADITIONAL WOODEN SKIPPING ROPE",
+    "StockCode": "21891",
+    "rank": 5,
+    "score": 0.6838999390602112
+  },
+  {
+    "CustomerID": "12348",
+    "Description": "BLUE HARMONICA IN BOX ",
+    "StockCode": "21914",
+    "rank": 6,
+    "score": 0.67391437292099
+  },
+  {
+    "CustomerID": "12348",
+    "Description": "RED  HARMONICA IN BOX ",
+    "StockCode": "21915",
+    "rank": 7,
+    "score": 0.6664905548095703
+  },
+  {
+    "CustomerID": "12348",
+    "Description": "MINI PAINT SET VINTAGE ",
+    "StockCode": "22492",
+    "rank": 8,
+    "score": 0.6592159867286682
+  },
+  {
+    "CustomerID": "12350",
+    "Description": "WORLD WAR 2 GLIDERS ASSTD DESIGNS",
+    "StockCode": "84077",
+    "rank": 1,
+    "score": 0.4015645384788513
+  },
+  {
+    "CustomerID": "12350",
+    "Description": "DOUGHNUT LIP GLOSS ",
+    "StockCode": "23077",
+    "rank": 2,
+    "score": 0.3932299017906189
+  },
+  {
+    "CustomerID": "12350",
+    "Description": "ICE CREAM SUNDAE LIP GLOSS",
+    "StockCode": "23076",
+    "rank": 3,
+    "score": 0.38653364777565
+  },
+  {
+    "CustomerID": "12350",
+    "Description": "WOODEN BOX OF DOMINOES",
+    "StockCode": "21889",
+    "rank": 4,
+    "score": 0.37266942858695984
+  },
+  {
+    "CustomerID": "12350",
+    "Description": "SMALL POPCORN HOLDER",
+    "StockCode": "22197",
+    "rank": 5,
+    "score": 0.37060779333114624
+  },
+  {
+    "CustomerID": "12350",
+    "Description": "HAND WARMER OWL DESIGN",
+    "StockCode": "22865",
+    "rank": 6,
+    "score": 0.35372188687324524
+  },
+  {
+    "CustomerID": "12350",
+    "Description": "HAND WARMER UNION JACK",
+    "StockCode": "22633",
+    "rank": 7,
+    "score": 0.34511467814445496
+  },
+  {
+    "CustomerID": "12350",
+    "Description": "MINI PAINT SET VINTAGE ",
+    "StockCode": "22492",
+    "rank": 8,
+    "score": 0.3431759476661682
+  },
+  {
+    "CustomerID": "12350",
+    "Description": "VINTAGE SNAP CARDS",
+    "StockCode": "21790",
+    "rank": 9,
+    "score": 0.34283214807510376
+  },
+  {
+    "CustomerID": "12350",
+    "Description": "SET 12 KIDS  WHITE CHALK STICKS",
+    "StockCode": "21917",
+    "rank": 10,
+    "score": 0.3379749059677124
+  },
+  {
+    "CustomerID": "12352",
+    "Description": "JAM MAKING SET PRINTED",
+    "StockCode": "22961",
+    "rank": 1,
+    "score": 0.4332335889339447
+  },
+  {
+    "CustomerID": "12352",
+    "Description": "SET/5 RED SPOTTY LID GLASS BOWLS",
+    "StockCode": "20914",
+    "rank": 2,
+    "score": 0.4239913821220398
+  },
+  {
+    "CustomerID": "12352",
+    "Description": "PARTY BUNTING",
+    "StockCode": "47566",
+    "rank": 3,
+    "score": 0.4079747498035431
+  },
+  {
+    "CustomerID": "12352",
+    "Description": "RECIPE BOX PANTRY YELLOW DESIGN",
+    "StockCode": "22666",
+    "rank": 4,
+    "score": 0.4056204557418823
+  },
+  {
+    "CustomerID": "12352",
+    "Description": "SET OF 3 CAKE TINS PANTRY DESIGN ",
+    "StockCode": "22720",
+    "rank": 5,
+    "score": 0.40129485726356506
+  },
+  {
+    "CustomerID": "12352",
+    "Description": "REGENCY CAKESTAND 3 TIER",
+    "StockCode": "22423",
+    "rank": 6,
+    "score": 0.3978672921657562
+  },
+  {
+    "CustomerID": "12352",
+    "Description": "DOOR MAT UNION FLAG",
+    "StockCode": "48138",
+    "rank": 7,
+    "score": 0.3923194408416748
+  },
+  {
+    "CustomerID": "12352",
+    "Description": "VINTAGE UNION JACK BUNTING",
+    "StockCode": "21621",
+    "rank": 8,
+    "score": 0.39084556698799133
+  },
+  {
+    "CustomerID": "12352",
+    "Description": "PAPER CHAIN KIT EMPIRE",
+    "StockCode": "22084",
+    "rank": 9,
+    "score": 0.3879185914993286
+  },
+  {
+    "CustomerID": "12352",
+    "Description": "RED RETROSPOT PEG BAG",
+    "StockCode": "21155",
+    "rank": 10,
+    "score": 0.3849486708641052
+  },
+  {
+    "CustomerID": "12355",
+    "Description": "ICE CREAM PEN LIP GLOSS ",
+    "StockCode": "23078",
+    "rank": 1,
+    "score": 0.5858027935028076
+  },
+  {
+    "CustomerID": "12355",
+    "Description": "HAND WARMER UNION JACK",
+    "StockCode": "22633",
+    "rank": 2,
+    "score": 0.5808811783790588
+  },
+  {
+    "CustomerID": "12355",
+    "Description": "DINOSAUR KEYRINGS ASSORTED",
+    "StockCode": "21829",
+    "rank": 3,
+    "score": 0.5741320848464966
+  },
+  {
+    "CustomerID": "12355",
+    "Description": "HAND WARMER OWL DESIGN",
+    "StockCode": "22865",
+    "rank": 4,
+    "score": 0.5718886256217957
+  },
+  {
+    "CustomerID": "12355",
+    "Description": "HAND WARMER SCOTTY DOG DESIGN",
+    "StockCode": "22866",
+    "rank": 5,
+    "score": 0.564735472202301
+  },
+  {
+    "CustomerID": "12355",
+    "Description": "TRADITIONAL WOODEN CATCH CUP GAME ",
+    "StockCode": "21892",
+    "rank": 6,
+    "score": 0.5609581470489502
+  },
+  {
+    "CustomerID": "12355",
+    "Description": "HAND WARMER BIRD DESIGN",
+    "StockCode": "22867",
+    "rank": 7,
+    "score": 0.5472473502159119
+  },
+  {
+    "CustomerID": "12356",
+    "Description": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "StockCode": "21977",
+    "rank": 1,
+    "score": 1.1420646905899048
+  },
+  {
+    "CustomerID": "12356",
+    "Description": "STRAWBERRY CERAMIC TRINKET BOX",
+    "StockCode": "21232",
+    "rank": 2,
+    "score": 1.140698790550232
+  },
+  {
+    "CustomerID": "12356",
+    "Description": "GRAND CHOCOLATECANDLE",
+    "StockCode": "72741",
+    "rank": 3,
+    "score": 1.1208720207214355
+  },
+  {
+    "CustomerID": "12356",
+    "Description": "CHILLI LIGHTS",
+    "StockCode": "79321",
+    "rank": 4,
+    "score": 1.1034138202667236
+  },
+  {
+    "CustomerID": "12356",
+    "Description": "PACK OF 12 HEARTS DESIGN TISSUES ",
+    "StockCode": "21985",
+    "rank": 5,
+    "score": 1.092610478401184
+  },
+  {
+    "CustomerID": "12357",
+    "Description": "FAIRY CAKE FLANNEL ASSORTED COLOUR",
+    "StockCode": "21108",
+    "rank": 1,
+    "score": 1.3584717512130737
+  },
+  {
+    "CustomerID": "12357",
+    "Description": "HAND WARMER BABUSHKA DESIGN",
+    "StockCode": "22834",
+    "rank": 2,
+    "score": 1.2313822507858276
+  },
+  {
+    "CustomerID": "12357",
+    "Description": "SET/6 PINK  BUTTERFLY T-LIGHTS",
+    "StockCode": "72351B",
+    "rank": 3,
+    "score": 1.1713745594024658
+  },
+  {
+    "CustomerID": "12357",
+    "Description": "SMALL CHINESE STYLE SCISSOR",
+    "StockCode": "16014",
+    "rank": 4,
+    "score": 1.1400123834609985
+  },
+  {
+    "CustomerID": "12357",
+    "Description": "RECORD FRAME 7\" SINGLE SIZE ",
+    "StockCode": "22041",
+    "rank": 5,
+    "score": 1.1390328407287598
+  },
+  {
+    "CustomerID": "12357",
+    "Description": "BLACK RECORD COVER FRAME",
+    "StockCode": "21137",
+    "rank": 6,
+    "score": 1.1275509595870972
+  },
+  {
+    "CustomerID": "12357",
+    "Description": "TRAVEL CARD WALLET VINTAGE TICKET",
+    "StockCode": "22996",
+    "rank": 7,
+    "score": 1.11812424659729
+  },
+  {
+    "CustomerID": "12358",
+    "Description": "FAIRY CAKE FLANNEL ASSORTED COLOUR",
+    "StockCode": "21108",
+    "rank": 1,
+    "score": 1.1589727401733398
+  },
+  {
+    "CustomerID": "12358",
+    "Description": "SMALL CHINESE STYLE SCISSOR",
+    "StockCode": "16014",
+    "rank": 2,
+    "score": 1.0717054605484009
+  },
+  {
+    "CustomerID": "12358",
+    "Description": "PINK DOUGHNUT TRINKET POT ",
+    "StockCode": "22064",
+    "rank": 3,
+    "score": 1.0455763339996338
+  },
+  {
+    "CustomerID": "12358",
+    "Description": "SET/6 PINK  BUTTERFLY T-LIGHTS",
+    "StockCode": "72351B",
+    "rank": 4,
+    "score": 1.0293796062469482
+  },
+  {
+    "CustomerID": "12358",
+    "Description": "BLACK RECORD COVER FRAME",
+    "StockCode": "21137",
+    "rank": 5,
+    "score": 0.9961744546890259
+  },
+  {
+    "CustomerID": "12358",
+    "Description": "RECORD FRAME 7\" SINGLE SIZE ",
+    "StockCode": "22041",
+    "rank": 6,
+    "score": 0.9795532822608948
+  },
+  {
+    "CustomerID": "12358",
+    "Description": "HAND WARMER BABUSHKA DESIGN",
+    "StockCode": "22834",
+    "rank": 7,
+    "score": 0.9779496192932129
+  },
+  {
+    "CustomerID": "12358",
+    "Description": "FENG SHUI PILLAR CANDLE",
+    "StockCode": "72232",
+    "rank": 8,
+    "score": 0.9765704274177551
+  },
+  {
+    "CustomerID": "12359",
+    "Description": "DOOR MAT UNION FLAG",
+    "StockCode": "48138",
+    "rank": 1,
+    "score": 1.0125788450241089
+  },
+  {
+    "CustomerID": "12359",
+    "Description": "BLUE STRIPE CERAMIC DRAWER KNOB",
+    "StockCode": "21669",
+    "rank": 2,
+    "score": 1.0000345706939697
+  },
+  {
+    "CustomerID": "12359",
+    "Description": "SET/5 RED SPOTTY LID GLASS BOWLS",
+    "StockCode": "20914",
+    "rank": 3,
+    "score": 0.9945593476295471
+  },
+  {
+    "CustomerID": "12359",
+    "Description": "WHITE SPOT RED CERAMIC DRAWER KNOB",
+    "StockCode": "21672",
+    "rank": 4,
+    "score": 0.990627110004425
+  },
+  {
+    "CustomerID": "12359",
+    "Description": "RED SPOT CERAMIC DRAWER KNOB",
+    "StockCode": "21671",
+    "rank": 5,
+    "score": 0.9878280758857727
+  },
+  {
+    "CustomerID": "12359",
+    "Description": "BLUE SPOT CERAMIC DRAWER KNOB",
+    "StockCode": "21670",
+    "rank": 6,
+    "score": 0.9800410270690918
+  },
+  {
+    "CustomerID": "12359",
+    "Description": "RED STRIPE CERAMIC DRAWER KNOB",
+    "StockCode": "21668",
+    "rank": 7,
+    "score": 0.9770882725715637
+  },
+  {
+    "CustomerID": "12359",
+    "Description": "POTTERING IN THE SHED METAL SIGN",
+    "StockCode": "21174",
+    "rank": 8,
+    "score": 0.9716113209724426
+  },
+  {
+    "CustomerID": "12360",
+    "Description": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "StockCode": "21977",
+    "rank": 1,
+    "score": 0.7586849331855774
+  },
+  {
+    "CustomerID": "12360",
+    "Description": "PACK OF 72 RETRO SPOT CAKE CASES",
+    "StockCode": "21212",
+    "rank": 2,
+    "score": 0.7369730472564697
+  },
+  {
+    "CustomerID": "12360",
+    "Description": "PACK OF 60 SPACEBOY CAKE CASES",
+    "StockCode": "22417",
+    "rank": 3,
+    "score": 0.7262579798698425
+  },
+  {
+    "CustomerID": "12360",
+    "Description": "RED TOADSTOOL LED NIGHT LIGHT",
+    "StockCode": "21731",
+    "rank": 4,
+    "score": 0.7215776443481445
+  },
+  {
+    "CustomerID": "12360",
+    "Description": "POLKADOT PEN",
+    "StockCode": "22740",
+    "rank": 5,
+    "score": 0.7193674445152283
+  },
+  {
+    "CustomerID": "12360",
+    "Description": "60 TEATIME FAIRY CAKE CASES",
+    "StockCode": "84991",
+    "rank": 6,
+    "score": 0.7065946459770203
+  },
+  {
+    "CustomerID": "12361",
+    "Description": "BROCADE RING PURSE ",
+    "StockCode": "17003",
+    "rank": 1,
+    "score": 0.6248635649681091
+  },
+  {
+    "CustomerID": "12361",
+    "Description": "CHINESE DRAGON PAPER LANTERNS",
+    "StockCode": "40016",
+    "rank": 2,
+    "score": 0.5994088649749756
+  },
+  {
+    "CustomerID": "12361",
+    "Description": "RED SPOTTY CHARLOTTE BAG",
+    "StockCode": "20724",
+    "rank": 3,
+    "score": 0.5915188193321228
+  },
+  {
+    "CustomerID": "12361",
+    "Description": "CHARLOTTE BAG , PINK/WHITE SPOTS",
+    "StockCode": "22356",
+    "rank": 4,
+    "score": 0.5671203136444092
+  },
+  {
+    "CustomerID": "12361",
+    "Description": "STRAWBERRY CHARLOTTE BAG",
+    "StockCode": "20723",
+    "rank": 5,
+    "score": 0.5620188117027283
+  },
+  {
+    "CustomerID": "12361",
+    "Description": "CHARLOTTE BAG , SUKI DESIGN",
+    "StockCode": "22355",
+    "rank": 6,
+    "score": 0.5602765679359436
+  },
+  {
+    "CustomerID": "12361",
+    "Description": "ASSORTED COLOURS SILK FAN",
+    "StockCode": "15036",
+    "rank": 7,
+    "score": 0.5157567858695984
+  },
+  {
+    "CustomerID": "12362",
+    "Description": "PACK OF 72 SKULL CAKE CASES",
+    "StockCode": "21213",
+    "rank": 1,
+    "score": 0.8623170852661133
+  },
+  {
+    "CustomerID": "12362",
+    "Description": "RED SPOTTY CHARLOTTE BAG",
+    "StockCode": "20724",
+    "rank": 2,
+    "score": 0.860866904258728
+  },
+  {
+    "CustomerID": "12362",
+    "Description": "RED SPOTTY CHILDS APRON",
+    "StockCode": "21156",
+    "rank": 3,
+    "score": 0.8523687720298767
+  },
+  {
+    "CustomerID": "12362",
+    "Description": "PACK OF 60 SPACEBOY CAKE CASES",
+    "StockCode": "22417",
+    "rank": 4,
+    "score": 0.8513921499252319
+  },
+  {
+    "CustomerID": "12362",
+    "Description": "CHARLOTTE BAG DOLLY GIRL DESIGN",
+    "StockCode": "22661",
+    "rank": 5,
+    "score": 0.8478999137878418
+  },
+  {
+    "CustomerID": "12362",
+    "Description": "PACK OF 60 DINOSAUR CAKE CASES",
+    "StockCode": "21975",
+    "rank": 6,
+    "score": 0.8361918330192566
+  },
+  {
+    "CustomerID": "12362",
+    "Description": "PACK OF 60 MUSHROOM CAKE CASES",
+    "StockCode": "21976",
+    "rank": 7,
+    "score": 0.8281489014625549
+  },
+  {
+    "CustomerID": "12362",
+    "Description": "WOODLAND CHARLOTTE BAG",
+    "StockCode": "20719",
+    "rank": 8,
+    "score": 0.8194499611854553
+  },
+  {
+    "CustomerID": "12363",
+    "Description": "PACK OF 60 SPACEBOY CAKE CASES",
+    "StockCode": "22417",
+    "rank": 1,
+    "score": 0.7940943837165833
+  },
+  {
+    "CustomerID": "12363",
+    "Description": "PACK OF 60 DINOSAUR CAKE CASES",
+    "StockCode": "21975",
+    "rank": 2,
+    "score": 0.780716598033905
+  },
+  {
+    "CustomerID": "12363",
+    "Description": "60 CAKE CASES VINTAGE CHRISTMAS",
+    "StockCode": "22952",
+    "rank": 3,
+    "score": 0.778477668762207
+  },
+  {
+    "CustomerID": "12363",
+    "Description": "SET OF 36 TEATIME PAPER DOILIES",
+    "StockCode": "84987",
+    "rank": 4,
+    "score": 0.7684561014175415
+  },
+  {
+    "CustomerID": "12364",
+    "Description": "FANCY FONTS BIRTHDAY WRAP",
+    "StockCode": "21497",
+    "rank": 1,
+    "score": 0.8749005198478699
+  },
+  {
+    "CustomerID": "12364",
+    "Description": "WRAP ENGLISH ROSE ",
+    "StockCode": "16161P",
+    "rank": 2,
+    "score": 0.8456149101257324
+  },
+  {
+    "CustomerID": "12369",
+    "Description": "ANTIQUE SILVER T-LIGHT GLASS",
+    "StockCode": "84946",
+    "rank": 1,
+    "score": 0.4819694757461548
+  },
+  {
+    "CustomerID": "12369",
+    "Description": "ANTIQUE SILVER TEA GLASS ENGRAVED",
+    "StockCode": "84947",
+    "rank": 2,
+    "score": 0.47361671924591064
+  },
+  {
+    "CustomerID": "12369",
+    "Description": "HEART OF WICKER SMALL",
+    "StockCode": "22469",
+    "rank": 3,
+    "score": 0.4714595079421997
+  },
+  {
+    "CustomerID": "12369",
+    "Description": "ZINC METAL HEART DECORATION",
+    "StockCode": "84836",
+    "rank": 4,
+    "score": 0.46923983097076416
+  },
+  {
+    "CustomerID": "12369",
+    "Description": "DISCO BALL CHRISTMAS DECORATION",
+    "StockCode": "20668",
+    "rank": 5,
+    "score": 0.462986022233963
+  },
+  {
+    "CustomerID": "12369",
+    "Description": "VICTORIAN GLASS HANGING T-LIGHT",
+    "StockCode": "22178",
+    "rank": 6,
+    "score": 0.4586627185344696
+  },
+  {
+    "CustomerID": "12369",
+    "Description": "AGED GLASS SILVER T-LIGHT HOLDER",
+    "StockCode": "21326",
+    "rank": 7,
+    "score": 0.45813804864883423
+  },
+  {
+    "CustomerID": "12369",
+    "Description": "WHITE HANGING HEART T-LIGHT HOLDER",
+    "StockCode": "85123A",
+    "rank": 8,
+    "score": 0.4398261308670044
+  },
+  {
+    "CustomerID": "12369",
+    "Description": "PAINTED METAL PEARS ASSORTED",
+    "StockCode": "21136",
+    "rank": 9,
+    "score": 0.43737518787384033
+  },
+  {
+    "CustomerID": "12370",
+    "Description": "CACTI T-LIGHT CANDLES",
+    "StockCode": "85175",
+    "rank": 1,
+    "score": 1.0159562826156616
+  },
+  {
+    "CustomerID": "12370",
+    "Description": "ASSTD DESIGN BUBBLE GUM RING",
+    "StockCode": "84270",
+    "rank": 2,
+    "score": 0.966968297958374
+  },
+  {
+    "CustomerID": "12370",
+    "Description": "PACK OF 12 LONDON TISSUES ",
+    "StockCode": "22616",
+    "rank": 3,
+    "score": 0.9471662640571594
+  },
+  {
+    "CustomerID": "12370",
+    "Description": "PACK OF 12 HEARTS DESIGN TISSUES ",
+    "StockCode": "21985",
+    "rank": 4,
+    "score": 0.9329466819763184
+  },
+  {
+    "CustomerID": "12370",
+    "Description": "GROW A FLYTRAP OR SUNFLOWER IN TIN",
+    "StockCode": "22693",
+    "rank": 5,
+    "score": 0.927812933921814
+  },
+  {
+    "CustomerID": "12370",
+    "Description": "PACK OF 12 PINK POLKADOT TISSUES",
+    "StockCode": "21986",
+    "rank": 6,
+    "score": 0.9179141521453857
+  },
+  {
+    "CustomerID": "12370",
+    "Description": "PACK OF 12 PINK PAISLEY TISSUES ",
+    "StockCode": "21984",
+    "rank": 7,
+    "score": 0.9036948680877686
+  },
+  {
+    "CustomerID": "12370",
+    "Description": "PACK OF 12 RED SPOTTY TISSUES ",
+    "StockCode": "21980",
+    "rank": 8,
+    "score": 0.9023823142051697
+  },
+  {
+    "CustomerID": "12371",
+    "Description": "FAIRY CAKE FLANNEL ASSORTED COLOUR",
+    "StockCode": "21108",
+    "rank": 1,
+    "score": 1.140081524848938
+  },
+  {
+    "CustomerID": "12371",
+    "Description": "SMALL CHINESE STYLE SCISSOR",
+    "StockCode": "16014",
+    "rank": 2,
+    "score": 1.0572903156280518
+  },
+  {
+    "CustomerID": "12371",
+    "Description": "PINK DOUGHNUT TRINKET POT ",
+    "StockCode": "22064",
+    "rank": 3,
+    "score": 1.0408496856689453
+  },
+  {
+    "CustomerID": "12371",
+    "Description": "CERAMIC CAKE DESIGN SPOTTED MUG",
+    "StockCode": "37448",
+    "rank": 4,
+    "score": 0.9967560768127441
+  },
+  {
+    "CustomerID": "12371",
+    "Description": "FENG SHUI PILLAR CANDLE",
+    "StockCode": "72232",
+    "rank": 5,
+    "score": 0.9871904850006104
+  },
+  {
+    "CustomerID": "12371",
+    "Description": "SET/6 PINK  BUTTERFLY T-LIGHTS",
+    "StockCode": "72351B",
+    "rank": 6,
+    "score": 0.9772843718528748
+  },
+  {
+    "CustomerID": "12371",
+    "Description": "BLACK RECORD COVER FRAME",
+    "StockCode": "21137",
+    "rank": 7,
+    "score": 0.9538452625274658
+  },
+  {
+    "CustomerID": "12371",
+    "Description": "FEATHER PEN,HOT PINK",
+    "StockCode": "51014A",
+    "rank": 8,
+    "score": 0.9468601942062378
+  },
+  {
+    "CustomerID": "12372",
+    "Description": "TEA PARTY BIRTHDAY CARD",
+    "StockCode": "22027",
+    "rank": 1,
+    "score": 0.7694646120071411
+  },
+  {
+    "CustomerID": "12372",
+    "Description": "PINK POLKADOT WRAP ",
+    "StockCode": "21500",
+    "rank": 2,
+    "score": 0.7572623491287231
+  },
+  {
+    "CustomerID": "12372",
+    "Description": "BLUE SPOTS  WRAP",
+    "StockCode": "21499",
+    "rank": 3,
+    "score": 0.7498856782913208
+  },
+  {
+    "CustomerID": "12372",
+    "Description": "SPACEBOY BIRTHDAY CARD",
+    "StockCode": "22029",
+    "rank": 4,
+    "score": 0.7331014275550842
+  },
+  {
+    "CustomerID": "12372",
+    "Description": "RED SPOTS  WRAP ",
+    "StockCode": "21498",
+    "rank": 5,
+    "score": 0.728283166885376
+  },
+  {
+    "CustomerID": "12372",
+    "Description": "TEA PARTY  WRAPPING PAPER ",
+    "StockCode": "22046",
+    "rank": 6,
+    "score": 0.7107625603675842
+  },
+  {
+    "CustomerID": "12372",
+    "Description": "SKULLS AND CROSSBONES WRAP",
+    "StockCode": "21495",
+    "rank": 7,
+    "score": 0.6927500367164612
+  },
+  {
+    "CustomerID": "12373",
+    "Description": "BROCADE RING PURSE ",
+    "StockCode": "17003",
+    "rank": 1,
+    "score": 0.8980714678764343
+  },
+  {
+    "CustomerID": "12373",
+    "Description": "CHARLOTTE BAG , SUKI DESIGN",
+    "StockCode": "22355",
+    "rank": 2,
+    "score": 0.880318284034729
+  },
+  {
+    "CustomerID": "12373",
+    "Description": "STRAWBERRY CHARLOTTE BAG",
+    "StockCode": "20723",
+    "rank": 3,
+    "score": 0.8660098314285278
+  },
+  {
+    "CustomerID": "12373",
+    "Description": "CHINESE DRAGON PAPER LANTERNS",
+    "StockCode": "40016",
+    "rank": 4,
+    "score": 0.8450018167495728
+  },
+  {
+    "CustomerID": "12373",
+    "Description": "LUNCH BAG SUKI  DESIGN ",
+    "StockCode": "22383",
+    "rank": 5,
+    "score": 0.8390353322029114
+  },
+  {
+    "CustomerID": "12373",
+    "Description": "LUNCH BAG PINK RETROSPOT",
+    "StockCode": "22384",
+    "rank": 6,
+    "score": 0.8384345173835754
+  },
+  {
+    "CustomerID": "12373",
+    "Description": "LUNCH BAG SPACEBOY DESIGN ",
+    "StockCode": "22382",
+    "rank": 7,
+    "score": 0.8250762224197388
+  },
+  {
+    "CustomerID": "12375",
+    "Description": "RED SPOTTY CHARLOTTE BAG",
+    "StockCode": "20724",
+    "rank": 1,
+    "score": 0.5028634071350098
+  },
+  {
+    "CustomerID": "12375",
+    "Description": "BROCADE RING PURSE ",
+    "StockCode": "17003",
+    "rank": 2,
+    "score": 0.48955217003822327
+  },
+  {
+    "CustomerID": "12375",
+    "Description": "STRAWBERRY CHARLOTTE BAG",
+    "StockCode": "20723",
+    "rank": 3,
+    "score": 0.4770022928714752
+  },
+  {
+    "CustomerID": "12375",
+    "Description": "LUNCH BAG PINK RETROSPOT",
+    "StockCode": "22384",
+    "rank": 4,
+    "score": 0.4732672870159149
+  },
+  {
+    "CustomerID": "12375",
+    "Description": "LUNCH BAG SUKI  DESIGN ",
+    "StockCode": "22383",
+    "rank": 5,
+    "score": 0.4690481722354889
+  },
+  {
+    "CustomerID": "12375",
+    "Description": "JUMBO BAG PINK POLKADOT",
+    "StockCode": "22386",
+    "rank": 6,
+    "score": 0.4673477113246918
+  },
+  {
+    "CustomerID": "12375",
+    "Description": "CHINESE DRAGON PAPER LANTERNS",
+    "StockCode": "40016",
+    "rank": 7,
+    "score": 0.46646812558174133
+  },
+  {
+    "CustomerID": "12375",
+    "Description": "LUNCH BAG RED SPOTTY",
+    "StockCode": "20725",
+    "rank": 8,
+    "score": 0.46411123871803284
+  },
+  {
+    "CustomerID": "12378",
+    "Description": "PINK POLKADOT WRAP ",
+    "StockCode": "21500",
+    "rank": 1,
+    "score": 1.1214078664779663
+  },
+  {
+    "CustomerID": "12378",
+    "Description": "FANCY FONTS BIRTHDAY WRAP",
+    "StockCode": "21497",
+    "rank": 2,
+    "score": 1.1117792129516602
+  },
+  {
+    "CustomerID": "12378",
+    "Description": "BLUE SPOTS  WRAP",
+    "StockCode": "21499",
+    "rank": 3,
+    "score": 1.1046355962753296
+  },
+  {
+    "CustomerID": "12378",
+    "Description": "WRAP 50'S  CHRISTMAS",
+    "StockCode": "16169E",
+    "rank": 4,
+    "score": 1.1025530099868774
+  },
+  {
+    "CustomerID": "12378",
+    "Description": "SPACEBOY GIFT WRAP",
+    "StockCode": "22045",
+    "rank": 5,
+    "score": 1.1001334190368652
+  },
+  {
+    "CustomerID": "12378",
+    "Description": "WRAP ENGLISH ROSE ",
+    "StockCode": "16161P",
+    "rank": 6,
+    "score": 1.0983506441116333
+  },
+  {
+    "CustomerID": "12378",
+    "Description": "RED SPOTS  WRAP ",
+    "StockCode": "21498",
+    "rank": 7,
+    "score": 1.094256043434143
+  },
+  {
+    "CustomerID": "12378",
+    "Description": "WRAP ALPHABET DESIGN",
+    "StockCode": "23230",
+    "rank": 8,
+    "score": 1.0891846418380737
+  },
+  {
+    "CustomerID": "12378",
+    "Description": "WRAP CHRISTMAS VILLAGE",
+    "StockCode": "22959",
+    "rank": 9,
+    "score": 1.0717893838882446
+  },
+  {
+    "CustomerID": "12380",
+    "Description": "BROCADE RING PURSE ",
+    "StockCode": "17003",
+    "rank": 1,
+    "score": 0.8573429584503174
+  },
+  {
+    "CustomerID": "12380",
+    "Description": "CHINESE DRAGON PAPER LANTERNS",
+    "StockCode": "40016",
+    "rank": 2,
+    "score": 0.8067152500152588
+  },
+  {
+    "CustomerID": "12381",
+    "Description": "SET OF 20 VINTAGE CHRISTMAS NAPKINS",
+    "StockCode": "22909",
+    "rank": 1,
+    "score": 0.8885700106620789
+  },
+  {
+    "CustomerID": "12381",
+    "Description": "PAPER CHAIN KIT VINTAGE CHRISTMAS",
+    "StockCode": "22910",
+    "rank": 2,
+    "score": 0.8857144117355347
+  },
+  {
+    "CustomerID": "12381",
+    "Description": "SET OF 6 RIBBONS VINTAGE CHRISTMAS",
+    "StockCode": "22734",
+    "rank": 3,
+    "score": 0.8498130440711975
+  },
+  {
+    "CustomerID": "12381",
+    "Description": "JAM MAKING SET PRINTED",
+    "StockCode": "22961",
+    "rank": 4,
+    "score": 0.8495262265205383
+  },
+  {
+    "CustomerID": "12381",
+    "Description": "PACK OF 60 SPACEBOY CAKE CASES",
+    "StockCode": "22417",
+    "rank": 5,
+    "score": 0.848909854888916
+  },
+  {
+    "CustomerID": "12381",
+    "Description": "60 CAKE CASES DOLLY GIRL DESIGN",
+    "StockCode": "22951",
+    "rank": 6,
+    "score": 0.837573230266571
+  },
+  {
+    "CustomerID": "12381",
+    "Description": "PACK OF 60 DINOSAUR CAKE CASES",
+    "StockCode": "21975",
+    "rank": 7,
+    "score": 0.8279773592948914
+  },
+  {
+    "CustomerID": "12383",
+    "Description": "MAGIC DRAWING SLATE SPACEBOY ",
+    "StockCode": "22534",
+    "rank": 1,
+    "score": 0.8372757434844971
+  },
+  {
+    "CustomerID": "12383",
+    "Description": "10 COLOUR SPACEBOY PEN",
+    "StockCode": "22418",
+    "rank": 2,
+    "score": 0.8080939650535583
+  },
+  {
+    "CustomerID": "12383",
+    "Description": "VINTAGE HEADS AND TAILS CARD GAME ",
+    "StockCode": "21791",
+    "rank": 3,
+    "score": 0.8057563304901123
+  },
+  {
+    "CustomerID": "12383",
+    "Description": "MAGIC DRAWING SLATE CIRCUS PARADE  ",
+    "StockCode": "22531",
+    "rank": 4,
+    "score": 0.7864587903022766
+  },
+  {
+    "CustomerID": "12383",
+    "Description": "WOODEN SCHOOL COLOURING SET",
+    "StockCode": "22561",
+    "rank": 5,
+    "score": 0.7830556631088257
+  },
+  {
+    "CustomerID": "12383",
+    "Description": "PICTURE DOMINOES",
+    "StockCode": "22549",
+    "rank": 6,
+    "score": 0.782265841960907
+  },
+  {
+    "CustomerID": "12384",
+    "Description": "SMALL POPCORN HOLDER",
+    "StockCode": "22197",
+    "rank": 1,
+    "score": 0.2829023003578186
+  },
+  {
+    "CustomerID": "12384",
+    "Description": "WORLD WAR 2 GLIDERS ASSTD DESIGNS",
+    "StockCode": "84077",
+    "rank": 2,
+    "score": 0.2551192343235016
+  },
+  {
+    "CustomerID": "12384",
+    "Description": "PACK OF 60 DINOSAUR CAKE CASES",
+    "StockCode": "21975",
+    "rank": 3,
+    "score": 0.23998068273067474
+  },
+  {
+    "CustomerID": "12384",
+    "Description": "RED TOADSTOOL LED NIGHT LIGHT",
+    "StockCode": "21731",
+    "rank": 4,
+    "score": 0.23859639465808868
+  },
+  {
+    "CustomerID": "12384",
+    "Description": "PACK OF 60 SPACEBOY CAKE CASES",
+    "StockCode": "22417",
+    "rank": 5,
+    "score": 0.2303430438041687
+  },
+  {
+    "CustomerID": "12384",
+    "Description": "VINTAGE SNAP CARDS",
+    "StockCode": "21790",
+    "rank": 6,
+    "score": 0.22944174706935883
+  },
+  {
+    "CustomerID": "12384",
+    "Description": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "StockCode": "21977",
+    "rank": 7,
+    "score": 0.22468635439872742
+  },
+  {
+    "CustomerID": "12384",
+    "Description": "PACK OF 72 RETRO SPOT CAKE CASES",
+    "StockCode": "21212",
+    "rank": 8,
+    "score": 0.22358338534832
+  },
+  {
+    "CustomerID": "12384",
+    "Description": "PARTY BUNTING",
+    "StockCode": "47566",
+    "rank": 9,
+    "score": 0.22255533933639526
+  },
+  {
+    "CustomerID": "12384",
+    "Description": "SET/5 RED SPOTTY LID GLASS BOWLS",
+    "StockCode": "20914",
+    "rank": 10,
+    "score": 0.22167403995990753
+  },
+  {
+    "CustomerID": "12386",
+    "Description": "FAIRY CAKE FLANNEL ASSORTED COLOUR",
+    "StockCode": "21108",
+    "rank": 1,
+    "score": 0.8063063621520996
+  },
+  {
+    "CustomerID": "12386",
+    "Description": "PINK DOUGHNUT TRINKET POT ",
+    "StockCode": "22064",
+    "rank": 2,
+    "score": 0.7457757592201233
+  },
+  {
+    "CustomerID": "12386",
+    "Description": "SMALL CHINESE STYLE SCISSOR",
+    "StockCode": "16014",
+    "rank": 3,
+    "score": 0.7440165877342224
+  },
+  {
+    "CustomerID": "12386",
+    "Description": "SET/6 PINK  BUTTERFLY T-LIGHTS",
+    "StockCode": "72351B",
+    "rank": 4,
+    "score": 0.7198704481124878
+  },
+  {
+    "CustomerID": "12386",
+    "Description": "CERAMIC CAKE DESIGN SPOTTED MUG",
+    "StockCode": "37448",
+    "rank": 5,
+    "score": 0.7166087031364441
+  },
+  {
+    "CustomerID": "12386",
+    "Description": "GRAND CHOCOLATECANDLE",
+    "StockCode": "72741",
+    "rank": 6,
+    "score": 0.7036173343658447
+  },
+  {
+    "CustomerID": "12386",
+    "Description": "HAND WARMER BABUSHKA DESIGN",
+    "StockCode": "22834",
+    "rank": 7,
+    "score": 0.7003724575042725
+  },
+  {
+    "CustomerID": "12386",
+    "Description": "FENG SHUI PILLAR CANDLE",
+    "StockCode": "72232",
+    "rank": 8,
+    "score": 0.6779704093933105
+  },
+  {
+    "CustomerID": "12386",
+    "Description": "MINI CAKE STAND  HANGING STRAWBERY",
+    "StockCode": "22055",
+    "rank": 9,
+    "score": 0.673989474773407
+  },
+  {
+    "CustomerID": "12388",
+    "Description": "PACK OF 72 RETRO SPOT CAKE CASES",
+    "StockCode": "21212",
+    "rank": 1,
+    "score": 0.86357581615448
+  },
+  {
+    "CustomerID": "12388",
+    "Description": "60 TEATIME FAIRY CAKE CASES",
+    "StockCode": "84991",
+    "rank": 2,
+    "score": 0.8455662727355957
+  },
+  {
+    "CustomerID": "12388",
+    "Description": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "StockCode": "21977",
+    "rank": 3,
+    "score": 0.8450875878334045
+  },
+  {
+    "CustomerID": "12388",
+    "Description": "72 SWEETHEART FAIRY CAKE CASES",
+    "StockCode": "84992",
+    "rank": 4,
+    "score": 0.8403717875480652
+  },
+  {
+    "CustomerID": "12388",
+    "Description": "60 CAKE CASES VINTAGE CHRISTMAS",
+    "StockCode": "22952",
+    "rank": 5,
+    "score": 0.823235034942627
+  },
+  {
+    "CustomerID": "12388",
+    "Description": "PACK OF 60 DINOSAUR CAKE CASES",
+    "StockCode": "21975",
+    "rank": 6,
+    "score": 0.7683249711990356
+  },
+  {
+    "CustomerID": "12388",
+    "Description": "SET OF 3 HEART COOKIE CUTTERS",
+    "StockCode": "84378",
+    "rank": 7,
+    "score": 0.766634464263916
+  },
+  {
+    "CustomerID": "12388",
+    "Description": "6 RIBBONS RUSTIC CHARM",
+    "StockCode": "22077",
+    "rank": 8,
+    "score": 0.7653394937515259
+  },
+  {
+    "CustomerID": "12389",
+    "Description": "CARD DOLLY GIRL ",
+    "StockCode": "22712",
+    "rank": 1,
+    "score": 0.7149524688720703
+  },
+  {
+    "CustomerID": "12389",
+    "Description": "PINK  SPOTTY PLATE ",
+    "StockCode": "21243",
+    "rank": 2,
+    "score": 0.7016215920448303
+  },
+  {
+    "CustomerID": "12389",
+    "Description": "TEA PARTY BIRTHDAY CARD",
+    "StockCode": "22027",
+    "rank": 3,
+    "score": 0.6880026459693909
+  },
+  {
+    "CustomerID": "12389",
+    "Description": "VINTAGE KID DOLLY CARD ",
+    "StockCode": "21508",
+    "rank": 4,
+    "score": 0.6855687499046326
+  },
+  {
+    "CustomerID": "12389",
+    "Description": "BLUE POLKADOT PLATE ",
+    "StockCode": "21244",
+    "rank": 5,
+    "score": 0.6848716139793396
+  },
+  {
+    "CustomerID": "12389",
+    "Description": "COWBOYS AND INDIANS BIRTHDAY CARD ",
+    "StockCode": "21509",
+    "rank": 6,
+    "score": 0.6791906356811523
+  },
+  {
+    "CustomerID": "12389",
+    "Description": "ELEPHANT BIRTHDAY CARD ",
+    "StockCode": "21507",
+    "rank": 7,
+    "score": 0.6741080284118652
+  },
+  {
+    "CustomerID": "12389",
+    "Description": "PENNY FARTHING BIRTHDAY CARD",
+    "StockCode": "22028",
+    "rank": 8,
+    "score": 0.660054624080658
+  },
+  {
+    "CustomerID": "12389",
+    "Description": "BLUE POLKADOT BOWL",
+    "StockCode": "20675",
+    "rank": 9,
+    "score": 0.6554650664329529
+  },
+  {
+    "CustomerID": "12389",
+    "Description": "PINK SPOTTY BOWL",
+    "StockCode": "20677",
+    "rank": 10,
+    "score": 0.6506081223487854
+  },
+  {
+    "CustomerID": "12391",
+    "Description": "RED SPOTS  WRAP ",
+    "StockCode": "21498",
+    "rank": 1,
+    "score": 0.5611339807510376
+  },
+  {
+    "CustomerID": "12391",
+    "Description": "WRAP ENGLISH ROSE ",
+    "StockCode": "16161P",
+    "rank": 2,
+    "score": 0.4963577091693878
+  },
+  {
+    "CustomerID": "12391",
+    "Description": "WRAP PINK FAIRY CAKES ",
+    "StockCode": "16156S",
+    "rank": 3,
+    "score": 0.48004698753356934
+  },
+  {
+    "CustomerID": "12391",
+    "Description": "PACK OF 12 RED SPOTTY TISSUES ",
+    "StockCode": "21980",
+    "rank": 4,
+    "score": 0.47881579399108887
+  },
+  {
+    "CustomerID": "12391",
+    "Description": "FANCY FONTS BIRTHDAY WRAP",
+    "StockCode": "21497",
+    "rank": 5,
+    "score": 0.4651991128921509
+  },
+  {
+    "CustomerID": "12391",
+    "Description": "SKULLS AND CROSSBONES WRAP",
+    "StockCode": "21495",
+    "rank": 6,
+    "score": 0.46186357736587524
+  },
+  {
+    "CustomerID": "12391",
+    "Description": "GIRLS ALPHABET IRON ON PATCHES ",
+    "StockCode": "84568",
+    "rank": 7,
+    "score": 0.4451650381088257
+  },
+  {
+    "CustomerID": "12393",
+    "Description": "BROCADE RING PURSE ",
+    "StockCode": "17003",
+    "rank": 1,
+    "score": 0.9386113882064819
+  },
+  {
+    "CustomerID": "12393",
+    "Description": "RED SPOTTY CHARLOTTE BAG",
+    "StockCode": "20724",
+    "rank": 2,
+    "score": 0.9325299859046936
+  },
+  {
+    "CustomerID": "12393",
+    "Description": "CHARLOTTE BAG , SUKI DESIGN",
+    "StockCode": "22355",
+    "rank": 3,
+    "score": 0.913307785987854
+  },
+  {
+    "CustomerID": "12393",
+    "Description": "WOODLAND CHARLOTTE BAG",
+    "StockCode": "20719",
+    "rank": 4,
+    "score": 0.8914400339126587
+  },
+  {
+    "CustomerID": "12393",
+    "Description": "STRAWBERRY CHARLOTTE BAG",
+    "StockCode": "20723",
+    "rank": 5,
+    "score": 0.8778834939002991
+  },
+  {
+    "CustomerID": "12393",
+    "Description": "CHARLOTTE BAG , PINK/WHITE SPOTS",
+    "StockCode": "22356",
+    "rank": 6,
+    "score": 0.873197078704834
+  },
+  {
+    "CustomerID": "12394",
+    "Description": "SET/10 PINK SPOTTY PARTY CANDLES",
+    "StockCode": "21122",
+    "rank": 1,
+    "score": 1.1234896183013916
+  },
+  {
+    "CustomerID": "12394",
+    "Description": "PACK OF 60 SPACEBOY CAKE CASES",
+    "StockCode": "22417",
+    "rank": 2,
+    "score": 1.0948307514190674
+  },
+  {
+    "CustomerID": "12394",
+    "Description": "60 CAKE CASES DOLLY GIRL DESIGN",
+    "StockCode": "22951",
+    "rank": 3,
+    "score": 1.0834250450134277
+  },
+  {
+    "CustomerID": "12394",
+    "Description": "60 CAKE CASES VINTAGE CHRISTMAS",
+    "StockCode": "22952",
+    "rank": 4,
+    "score": 1.077690839767456
+  },
+  {
+    "CustomerID": "12394",
+    "Description": "SET OF 72 RETROSPOT PAPER  DOILIES",
+    "StockCode": "21210",
+    "rank": 5,
+    "score": 1.059747576713562
+  },
+  {
+    "CustomerID": "12394",
+    "Description": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "StockCode": "21977",
+    "rank": 6,
+    "score": 1.0499123334884644
+  },
+  {
+    "CustomerID": "12394",
+    "Description": "72 SWEETHEART FAIRY CAKE CASES",
+    "StockCode": "84992",
+    "rank": 7,
+    "score": 1.049817442893982
+  },
+  {
+    "CustomerID": "12394",
+    "Description": "SET/10 BLUE SPOTTY PARTY CANDLES",
+    "StockCode": "21124",
+    "rank": 8,
+    "score": 1.045343279838562
+  },
+  {
+    "CustomerID": "12394",
+    "Description": "SET/10 RED POLKADOT PARTY CANDLES",
+    "StockCode": "21121",
+    "rank": 9,
+    "score": 1.0410692691802979
+  },
+  {
+    "CustomerID": "12394",
+    "Description": "PACK OF 60 DINOSAUR CAKE CASES",
+    "StockCode": "21975",
+    "rank": 10,
+    "score": 1.0355687141418457
+  },
+  {
+    "CustomerID": "12395",
+    "Description": "PACK OF 72 SKULL CAKE CASES",
+    "StockCode": "21213",
+    "rank": 1,
+    "score": 0.9393008351325989
+  },
+  {
+    "CustomerID": "12395",
+    "Description": "SET/10 RED POLKADOT PARTY CANDLES",
+    "StockCode": "21121",
+    "rank": 2,
+    "score": 0.9334042072296143
+  },
+  {
+    "CustomerID": "12395",
+    "Description": "SET/10 PINK SPOTTY PARTY CANDLES",
+    "StockCode": "21122",
+    "rank": 3,
+    "score": 0.927825927734375
+  },
+  {
+    "CustomerID": "12395",
+    "Description": "SET/6 RED SPOTTY PAPER PLATES",
+    "StockCode": "21094",
+    "rank": 4,
+    "score": 0.9226844310760498
+  },
+  {
+    "CustomerID": "12396",
+    "Description": "PLASTERS IN TIN STRONGMAN",
+    "StockCode": "22555",
+    "rank": 1,
+    "score": 0.7481849193572998
+  },
+  {
+    "CustomerID": "12396",
+    "Description": "RED TOADSTOOL LED NIGHT LIGHT",
+    "StockCode": "21731",
+    "rank": 2,
+    "score": 0.7400082945823669
+  },
+  {
+    "CustomerID": "12396",
+    "Description": "PACK OF 60 SPACEBOY CAKE CASES",
+    "StockCode": "22417",
+    "rank": 3,
+    "score": 0.7341073155403137
+  },
+  {
+    "CustomerID": "12396",
+    "Description": "SET/10 RED POLKADOT PARTY CANDLES",
+    "StockCode": "21121",
+    "rank": 4,
+    "score": 0.7338615655899048
+  },
+  {
+    "CustomerID": "12396",
+    "Description": "PLASTERS IN TIN CIRCUS PARADE ",
+    "StockCode": "22556",
+    "rank": 5,
+    "score": 0.7298710942268372
+  },
+  {
+    "CustomerID": "12396",
+    "Description": "RAIN PONCHO RETROSPOT",
+    "StockCode": "21787",
+    "rank": 6,
+    "score": 0.7263922095298767
+  },
+  {
+    "CustomerID": "12396",
+    "Description": "SPACEBOY LUNCH BOX ",
+    "StockCode": "22629",
+    "rank": 7,
+    "score": 0.7191336154937744
+  },
+  {
+    "CustomerID": "12396",
+    "Description": "PLASTERS IN TIN SPACEBOY",
+    "StockCode": "22551",
+    "rank": 8,
+    "score": 0.7158120274543762
+  },
+  {
+    "CustomerID": "12396",
+    "Description": "POLKADOT PEN",
+    "StockCode": "22740",
+    "rank": 9,
+    "score": 0.7118998765945435
+  },
+  {
+    "CustomerID": "12396",
+    "Description": "DOLLY GIRL LUNCH BOX",
+    "StockCode": "22630",
+    "rank": 10,
+    "score": 0.7052835822105408
+  },
+  {
+    "CustomerID": "12397",
+    "Description": "SET OF 6 RIBBONS VINTAGE CHRISTMAS",
+    "StockCode": "22734",
+    "rank": 1,
+    "score": 0.7716529965400696
+  },
+  {
+    "CustomerID": "12397",
+    "Description": "6 GIFT TAGS VINTAGE CHRISTMAS ",
+    "StockCode": "23353",
+    "rank": 2,
+    "score": 0.7712934613227844
+  },
+  {
+    "CustomerID": "12397",
+    "Description": "SET OF 60 I LOVE LONDON CAKE CASES ",
+    "StockCode": "23309",
+    "rank": 3,
+    "score": 0.7480291128158569
+  },
+  {
+    "CustomerID": "12397",
+    "Description": "60 CAKE CASES VINTAGE CHRISTMAS",
+    "StockCode": "22952",
+    "rank": 4,
+    "score": 0.7472161650657654
+  },
+  {
+    "CustomerID": "12397",
+    "Description": "WRAP CHRISTMAS VILLAGE",
+    "StockCode": "22959",
+    "rank": 5,
+    "score": 0.7358350157737732
+  },
+  {
+    "CustomerID": "12397",
+    "Description": "WRAP 50'S  CHRISTMAS",
+    "StockCode": "16169E",
+    "rank": 6,
+    "score": 0.7327889800071716
+  },
+  {
+    "CustomerID": "12397",
+    "Description": "36 DOILIES VINTAGE CHRISTMAS",
+    "StockCode": "22950",
+    "rank": 7,
+    "score": 0.7277920246124268
+  },
+  {
+    "CustomerID": "12397",
+    "Description": "6 GIFT TAGS 50'S CHRISTMAS ",
+    "StockCode": "23354",
+    "rank": 8,
+    "score": 0.7265143394470215
+  },
+  {
+    "CustomerID": "12397",
+    "Description": "3D VINTAGE CHRISTMAS STICKERS ",
+    "StockCode": "22732",
+    "rank": 9,
+    "score": 0.7188307642936707
+  },
+  {
+    "CustomerID": "12399",
+    "Description": "RED TOADSTOOL LED NIGHT LIGHT",
+    "StockCode": "21731",
+    "rank": 1,
+    "score": 1.1247631311416626
+  },
+  {
+    "CustomerID": "12399",
+    "Description": "SMALL POPCORN HOLDER",
+    "StockCode": "22197",
+    "rank": 2,
+    "score": 1.0925556421279907
+  },
+  {
+    "CustomerID": "12399",
+    "Description": "10 COLOUR SPACEBOY PEN",
+    "StockCode": "22418",
+    "rank": 3,
+    "score": 1.0505536794662476
+  },
+  {
+    "CustomerID": "12399",
+    "Description": "FUNKY DIVA PEN",
+    "StockCode": "22741",
+    "rank": 4,
+    "score": 1.0173574686050415
+  },
+  {
+    "CustomerID": "12399",
+    "Description": "PLASTERS IN TIN SPACEBOY",
+    "StockCode": "22551",
+    "rank": 5,
+    "score": 0.9920587539672852
+  },
+  {
+    "CustomerID": "12399",
+    "Description": "12 PENCILS SMALL TUBE RED RETROSPOT",
+    "StockCode": "20975",
+    "rank": 6,
+    "score": 0.9894943237304688
+  },
+  {
+    "CustomerID": "12399",
+    "Description": "WORLD WAR 2 GLIDERS ASSTD DESIGNS",
+    "StockCode": "84077",
+    "rank": 7,
+    "score": 0.9882746338844299
+  },
+  {
+    "CustomerID": "12399",
+    "Description": "RAIN PONCHO RETROSPOT",
+    "StockCode": "21787",
+    "rank": 8,
+    "score": 0.9768247604370117
+  },
+  {
+    "CustomerID": "12401",
+    "Description": "60 TEATIME FAIRY CAKE CASES",
+    "StockCode": "84991",
+    "rank": 1,
+    "score": 0.046211473643779755
+  },
+  {
+    "CustomerID": "12401",
+    "Description": "SET OF 36 TEATIME PAPER DOILIES",
+    "StockCode": "84987",
+    "rank": 2,
+    "score": 0.04518307000398636
+  },
+  {
+    "CustomerID": "12401",
+    "Description": "SET/5 RED SPOTTY LID GLASS BOWLS",
+    "StockCode": "20914",
+    "rank": 3,
+    "score": 0.04486885294318199
+  },
+  {
+    "CustomerID": "12401",
+    "Description": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "StockCode": "21977",
+    "rank": 4,
+    "score": 0.0442994125187397
+  },
+  {
+    "CustomerID": "12401",
+    "Description": "PACK OF 72 RETRO SPOT CAKE CASES",
+    "StockCode": "21212",
+    "rank": 5,
+    "score": 0.04402749985456467
+  },
+  {
+    "CustomerID": "12401",
+    "Description": "72 SWEETHEART FAIRY CAKE CASES",
+    "StockCode": "84992",
+    "rank": 6,
+    "score": 0.04373485967516899
+  },
+  {
+    "CustomerID": "12401",
+    "Description": "PARTY BUNTING",
+    "StockCode": "47566",
+    "rank": 7,
+    "score": 0.04343467205762863
+  },
+  {
+    "CustomerID": "12401",
+    "Description": "JAM MAKING SET PRINTED",
+    "StockCode": "22961",
+    "rank": 8,
+    "score": 0.04326032102108002
+  },
+  {
+    "CustomerID": "12401",
+    "Description": "SET OF 72 RETROSPOT PAPER  DOILIES",
+    "StockCode": "21210",
+    "rank": 9,
+    "score": 0.04313638061285019
+  },
+  {
+    "CustomerID": "12402",
+    "Description": "RED SPOTTY CHARLOTTE BAG",
+    "StockCode": "20724",
+    "rank": 1,
+    "score": 0.7153949737548828
+  },
+  {
+    "CustomerID": "12402",
+    "Description": "CHARLOTTE BAG , SUKI DESIGN",
+    "StockCode": "22355",
+    "rank": 2,
+    "score": 0.695465087890625
+  },
+  {
+    "CustomerID": "12402",
+    "Description": "STRAWBERRY CHARLOTTE BAG",
+    "StockCode": "20723",
+    "rank": 3,
+    "score": 0.6749430298805237
+  },
+  {
+    "CustomerID": "12402",
+    "Description": "LUNCH BAG SPACEBOY DESIGN ",
+    "StockCode": "22382",
+    "rank": 4,
+    "score": 0.6697591543197632
+  },
+  {
+    "CustomerID": "12402",
+    "Description": "LUNCH BAG PINK RETROSPOT",
+    "StockCode": "22384",
+    "rank": 5,
+    "score": 0.6673290729522705
+  },
+  {
+    "CustomerID": "12402",
+    "Description": "LUNCH BAG SUKI  DESIGN ",
+    "StockCode": "22383",
+    "rank": 6,
+    "score": 0.6666795611381531
+  },
+  {
+    "CustomerID": "12402",
+    "Description": "CHARLOTTE BAG , PINK/WHITE SPOTS",
+    "StockCode": "22356",
+    "rank": 7,
+    "score": 0.6655163168907166
+  },
+  {
+    "CustomerID": "12402",
+    "Description": "WOODLAND CHARLOTTE BAG",
+    "StockCode": "20719",
+    "rank": 8,
+    "score": 0.6638062596321106
+  },
+  {
+    "CustomerID": "12402",
+    "Description": "LUNCH BAG WOODLAND",
+    "StockCode": "20726",
+    "rank": 9,
+    "score": 0.6597433686256409
+  },
+  {
+    "CustomerID": "12402",
+    "Description": "LUNCH BAG RED SPOTTY",
+    "StockCode": "20725",
+    "rank": 10,
+    "score": 0.6483120918273926
+  },
+  {
+    "CustomerID": "12403",
+    "Description": "CARD DOLLY GIRL ",
+    "StockCode": "22712",
+    "rank": 1,
+    "score": 0.5025470852851868
+  },
+  {
+    "CustomerID": "12403",
+    "Description": "PINK  SPOTTY PLATE ",
+    "StockCode": "21243",
+    "rank": 2,
+    "score": 0.499297559261322
+  },
+  {
+    "CustomerID": "12403",
+    "Description": "TEA PARTY BIRTHDAY CARD",
+    "StockCode": "22027",
+    "rank": 3,
+    "score": 0.48274362087249756
+  },
+  {
+    "CustomerID": "12403",
+    "Description": "BLUE POLKADOT PLATE ",
+    "StockCode": "21244",
+    "rank": 4,
+    "score": 0.4814029335975647
+  },
+  {
+    "CustomerID": "12403",
+    "Description": "VINTAGE KID DOLLY CARD ",
+    "StockCode": "21508",
+    "rank": 5,
+    "score": 0.4808329939842224
+  },
+  {
+    "CustomerID": "12403",
+    "Description": "COWBOYS AND INDIANS BIRTHDAY CARD ",
+    "StockCode": "21509",
+    "rank": 6,
+    "score": 0.47555863857269287
+  },
+  {
+    "CustomerID": "12403",
+    "Description": "ELEPHANT BIRTHDAY CARD ",
+    "StockCode": "21507",
+    "rank": 7,
+    "score": 0.47217315435409546
+  },
+  {
+    "CustomerID": "12406",
+    "Description": "ASSORTED COLOURS SILK FAN",
+    "StockCode": "15036",
+    "rank": 1,
+    "score": 1.116453766822815
+  },
+  {
+    "CustomerID": "12406",
+    "Description": "SMALL POPCORN HOLDER",
+    "StockCode": "22197",
+    "rank": 2,
+    "score": 0.9920278787612915
+  },
+  {
+    "CustomerID": "12406",
+    "Description": "RED SPOTTY CHILDS APRON",
+    "StockCode": "21156",
+    "rank": 3,
+    "score": 0.9815973043441772
+  },
+  {
+    "CustomerID": "12406",
+    "Description": "FEATHER PEN,HOT PINK",
+    "StockCode": "51014A",
+    "rank": 4,
+    "score": 0.9223353862762451
+  },
+  {
+    "CustomerID": "12406",
+    "Description": "PINK FAIRY CAKE CHILDRENS APRON",
+    "StockCode": "47591D",
+    "rank": 5,
+    "score": 0.9069457054138184
+  },
+  {
+    "CustomerID": "12406",
+    "Description": "PINK CREAM FELT CRAFT TRINKET BOX ",
+    "StockCode": "20972",
+    "rank": 6,
+    "score": 0.8991842269897461
+  },
+  {
+    "CustomerID": "12407",
+    "Description": "ASSORTED COLOURS SILK FAN",
+    "StockCode": "15036",
+    "rank": 1,
+    "score": 0.8317959308624268
+  },
+  {
+    "CustomerID": "12407",
+    "Description": "SMALL CHINESE STYLE SCISSOR",
+    "StockCode": "16014",
+    "rank": 2,
+    "score": 0.8141550421714783
+  },
+  {
+    "CustomerID": "12407",
+    "Description": "FEATHER PEN,HOT PINK",
+    "StockCode": "51014A",
+    "rank": 3,
+    "score": 0.8002976775169373
+  },
+  {
+    "CustomerID": "12407",
+    "Description": "HAND WARMER BABUSHKA DESIGN",
+    "StockCode": "22834",
+    "rank": 4,
+    "score": 0.786719799041748
+  },
+  {
+    "CustomerID": "12407",
+    "Description": "FENG SHUI PILLAR CANDLE",
+    "StockCode": "72232",
+    "rank": 5,
+    "score": 0.7727487087249756
+  },
+  {
+    "CustomerID": "12407",
+    "Description": "SET/6 PINK  BUTTERFLY T-LIGHTS",
+    "StockCode": "72351B",
+    "rank": 6,
+    "score": 0.7420108318328857
+  },
+  {
+    "CustomerID": "12407",
+    "Description": "GRAND CHOCOLATECANDLE",
+    "StockCode": "72741",
+    "rank": 7,
+    "score": 0.7132804989814758
+  },
+  {
+    "CustomerID": "12408",
+    "Description": "RED RETROSPOT CUP",
+    "StockCode": "21238",
+    "rank": 1,
+    "score": 0.7227122783660889
+  },
+  {
+    "CustomerID": "12408",
+    "Description": "PINK SPOTTY BOWL",
+    "StockCode": "20677",
+    "rank": 2,
+    "score": 0.716037392616272
+  },
+  {
+    "CustomerID": "12408",
+    "Description": "RED SPOTTY PLATE ",
+    "StockCode": "21242",
+    "rank": 3,
+    "score": 0.7126340866088867
+  },
+  {
+    "CustomerID": "12408",
+    "Description": "BLUE POLKADOT BOWL",
+    "StockCode": "20675",
+    "rank": 4,
+    "score": 0.7109777331352234
+  },
+  {
+    "CustomerID": "12408",
+    "Description": "WOODLAND CHARLOTTE BAG",
+    "StockCode": "20719",
+    "rank": 5,
+    "score": 0.703965425491333
+  },
+  {
+    "CustomerID": "12408",
+    "Description": "PINK  SPOTTY PLATE ",
+    "StockCode": "21243",
+    "rank": 6,
+    "score": 0.7004719972610474
+  },
+  {
+    "CustomerID": "12408",
+    "Description": "PINK  SPOTTY CUP",
+    "StockCode": "21239",
+    "rank": 7,
+    "score": 0.7000590562820435
+  },
+  {
+    "CustomerID": "12409",
+    "Description": "SET/5 RED SPOTTY LID GLASS BOWLS",
+    "StockCode": "20914",
+    "rank": 1,
+    "score": 1.1600933074951172
+  },
+  {
+    "CustomerID": "12409",
+    "Description": "GUMBALL COAT RACK",
+    "StockCode": "22467",
+    "rank": 2,
+    "score": 1.1587821245193481
+  },
+  {
+    "CustomerID": "12409",
+    "Description": "PINK 3 PIECE MINI DOTS CUTLERY SET",
+    "StockCode": "84997D",
+    "rank": 3,
+    "score": 1.0923888683319092
+  },
+  {
+    "CustomerID": "12409",
+    "Description": "RED 3 PIECE RETROSPOT CUTLERY SET",
+    "StockCode": "84997B",
+    "rank": 4,
+    "score": 1.07840895652771
+  },
+  {
+    "CustomerID": "12409",
+    "Description": "RED SPOT CERAMIC DRAWER KNOB",
+    "StockCode": "21671",
+    "rank": 5,
+    "score": 1.0768057107925415
+  },
+  {
+    "CustomerID": "12409",
+    "Description": "BLUE 3 PIECE POLKADOT CUTLERY SET",
+    "StockCode": "84997C",
+    "rank": 6,
+    "score": 1.0767273902893066
+  },
+  {
+    "CustomerID": "12409",
+    "Description": "WHITE SPOT RED CERAMIC DRAWER KNOB",
+    "StockCode": "21672",
+    "rank": 7,
+    "score": 1.0628628730773926
+  },
+  {
+    "CustomerID": "12409",
+    "Description": "TEA TIME PARTY BUNTING",
+    "StockCode": "47566B",
+    "rank": 8,
+    "score": 1.0599654912948608
+  },
+  {
+    "CustomerID": "12409",
+    "Description": "20 DOLLY PEGS RETROSPOT",
+    "StockCode": "22567",
+    "rank": 9,
+    "score": 1.054796814918518
+  },
+  {
+    "CustomerID": "12410",
+    "Description": "VINTAGE UNION JACK BUNTING",
+    "StockCode": "21621",
+    "rank": 1,
+    "score": 0.5194795727729797
+  },
+  {
+    "CustomerID": "12410",
+    "Description": "RED RETROSPOT PEG BAG",
+    "StockCode": "21155",
+    "rank": 2,
+    "score": 0.5144156217575073
+  },
+  {
+    "CustomerID": "12410",
+    "Description": "SET/5 RED SPOTTY LID GLASS BOWLS",
+    "StockCode": "20914",
+    "rank": 3,
+    "score": 0.5104895234107971
+  },
+  {
+    "CustomerID": "12410",
+    "Description": "DOOR MAT UNION FLAG",
+    "StockCode": "48138",
+    "rank": 4,
+    "score": 0.5057618021965027
+  },
+  {
+    "CustomerID": "12410",
+    "Description": "BATHROOM METAL SIGN",
+    "StockCode": "82580",
+    "rank": 5,
+    "score": 0.4955611228942871
+  },
+  {
+    "CustomerID": "12410",
+    "Description": "PAPER CHAIN KIT EMPIRE",
+    "StockCode": "22084",
+    "rank": 6,
+    "score": 0.49350300431251526
+  },
+  {
+    "CustomerID": "12410",
+    "Description": "PARTY BUNTING",
+    "StockCode": "47566",
+    "rank": 7,
+    "score": 0.4931432902812958
+  },
+  {
+    "CustomerID": "12410",
+    "Description": "GIN + TONIC DIET METAL SIGN",
+    "StockCode": "21175",
+    "rank": 8,
+    "score": 0.49067121744155884
+  },
+  {
+    "CustomerID": "12410",
+    "Description": "COLOUR GLASS. STAR T-LIGHT HOLDER",
+    "StockCode": "71477",
+    "rank": 9,
+    "score": 0.4880080819129944
+  },
+  {
+    "CustomerID": "12410",
+    "Description": "PLEASE ONE PERSON METAL SIGN",
+    "StockCode": "21181",
+    "rank": 10,
+    "score": 0.48800423741340637
+  },
+  {
+    "CustomerID": "12412",
+    "Description": "MINI PAINT SET VINTAGE ",
+    "StockCode": "22492",
+    "rank": 1,
+    "score": 0.8552390933036804
+  },
+  {
+    "CustomerID": "12412",
+    "Description": "PLASTERS IN TIN CIRCUS PARADE ",
+    "StockCode": "22556",
+    "rank": 2,
+    "score": 0.8227216601371765
+  },
+  {
+    "CustomerID": "12412",
+    "Description": "MAGIC DRAWING SLATE SPACEBOY ",
+    "StockCode": "22534",
+    "rank": 3,
+    "score": 0.8220335245132446
+  },
+  {
+    "CustomerID": "12412",
+    "Description": "VINTAGE HEADS AND TAILS CARD GAME ",
+    "StockCode": "21791",
+    "rank": 4,
+    "score": 0.7896862626075745
+  },
+  {
+    "CustomerID": "12412",
+    "Description": "TRADITIONAL MODELLING CLAY",
+    "StockCode": "22560",
+    "rank": 5,
+    "score": 0.781055748462677
+  },
+  {
+    "CustomerID": "12412",
+    "Description": "MAGIC DRAWING SLATE CIRCUS PARADE  ",
+    "StockCode": "22531",
+    "rank": 6,
+    "score": 0.7784053087234497
+  },
+  {
+    "CustomerID": "12412",
+    "Description": "ASSORTED CREEPY CRAWLIES",
+    "StockCode": "21830",
+    "rank": 7,
+    "score": 0.7781256437301636
+  },
+  {
+    "CustomerID": "12412",
+    "Description": "PICTURE DOMINOES",
+    "StockCode": "22549",
+    "rank": 8,
+    "score": 0.7766154408454895
+  },
+  {
+    "CustomerID": "12412",
+    "Description": "10 COLOUR SPACEBOY PEN",
+    "StockCode": "22418",
+    "rank": 9,
+    "score": 0.7717958688735962
+  },
+  {
+    "CustomerID": "12413",
+    "Description": "PACK OF 72 SKULL CAKE CASES",
+    "StockCode": "21213",
+    "rank": 1,
+    "score": 0.6290457844734192
+  },
+  {
+    "CustomerID": "12413",
+    "Description": "LUNCH BAG RED SPOTTY",
+    "StockCode": "20725",
+    "rank": 2,
+    "score": 0.618992805480957
+  },
+  {
+    "CustomerID": "12413",
+    "Description": "PACK OF 60 DINOSAUR CAKE CASES",
+    "StockCode": "21975",
+    "rank": 3,
+    "score": 0.618833065032959
+  },
+  {
+    "CustomerID": "12413",
+    "Description": "LUNCH BAG SUKI  DESIGN ",
+    "StockCode": "22383",
+    "rank": 4,
+    "score": 0.612358033657074
+  },
+  {
+    "CustomerID": "12413",
+    "Description": "LUNCH BAG SPACEBOY DESIGN ",
+    "StockCode": "22382",
+    "rank": 5,
+    "score": 0.6121202707290649
+  },
+  {
+    "CustomerID": "12413",
+    "Description": "PACK OF 60 SPACEBOY CAKE CASES",
+    "StockCode": "22417",
+    "rank": 6,
+    "score": 0.6046241521835327
+  },
+  {
+    "CustomerID": "12413",
+    "Description": "BROCADE RING PURSE ",
+    "StockCode": "17003",
+    "rank": 7,
+    "score": 0.5957404375076294
+  },
+  {
+    "CustomerID": "12413",
+    "Description": "LUNCH BAG WOODLAND",
+    "StockCode": "20726",
+    "rank": 8,
+    "score": 0.587897002696991
+  },
+  {
+    "CustomerID": "12413",
+    "Description": "LUNCH BAG PINK RETROSPOT",
+    "StockCode": "22384",
+    "rank": 9,
+    "score": 0.5873380303382874
+  },
+  {
+    "CustomerID": "12414",
+    "Description": "WORLD WAR 2 GLIDERS ASSTD DESIGNS",
+    "StockCode": "84077",
+    "rank": 1,
+    "score": 0.8105854988098145
+  },
+  {
+    "CustomerID": "12414",
+    "Description": "RED  HARMONICA IN BOX ",
+    "StockCode": "21915",
+    "rank": 2,
+    "score": 0.7755358815193176
+  },
+  {
+    "CustomerID": "12414",
+    "Description": "10 COLOUR SPACEBOY PEN",
+    "StockCode": "22418",
+    "rank": 3,
+    "score": 0.7722169756889343
+  },
+  {
+    "CustomerID": "12414",
+    "Description": "ICE CREAM SUNDAE LIP GLOSS",
+    "StockCode": "23076",
+    "rank": 4,
+    "score": 0.7648061513900757
+  },
+  {
+    "CustomerID": "12414",
+    "Description": "TRADITIONAL WOODEN CATCH CUP GAME ",
+    "StockCode": "21892",
+    "rank": 5,
+    "score": 0.7512649297714233
+  },
+  {
+    "CustomerID": "12414",
+    "Description": "ASSTD DESIGN BUBBLE GUM RING",
+    "StockCode": "84270",
+    "rank": 6,
+    "score": 0.7384002804756165
+  },
+  {
+    "CustomerID": "12414",
+    "Description": "VINTAGE SNAP CARDS",
+    "StockCode": "21790",
+    "rank": 7,
+    "score": 0.7349627614021301
+  },
+  {
+    "CustomerID": "12415",
+    "Description": "WRAP CHRISTMAS VILLAGE",
+    "StockCode": "22959",
+    "rank": 1,
+    "score": 1.6847556829452515
+  },
+  {
+    "CustomerID": "12415",
+    "Description": "WRAP 50'S  CHRISTMAS",
+    "StockCode": "16169E",
+    "rank": 2,
+    "score": 1.6582635641098022
+  },
+  {
+    "CustomerID": "12415",
+    "Description": "6 GIFT TAGS VINTAGE CHRISTMAS ",
+    "StockCode": "23353",
+    "rank": 3,
+    "score": 1.5394648313522339
+  },
+  {
+    "CustomerID": "12415",
+    "Description": "6 GIFT TAGS 50'S CHRISTMAS ",
+    "StockCode": "23354",
+    "rank": 4,
+    "score": 1.4616987705230713
+  },
+  {
+    "CustomerID": "12415",
+    "Description": "SMALL CERAMIC TOP STORAGE JAR ",
+    "StockCode": "23167",
+    "rank": 5,
+    "score": 1.4458774328231812
+  },
+  {
+    "CustomerID": "12415",
+    "Description": "ROLL WRAP 50'S CHRISTMAS",
+    "StockCode": "23351",
+    "rank": 6,
+    "score": 1.4348033666610718
+  },
+  {
+    "CustomerID": "12415",
+    "Description": "BOX OF 6 MINI VINTAGE CRACKERS",
+    "StockCode": "23318",
+    "rank": 7,
+    "score": 1.4268845319747925
+  },
+  {
+    "CustomerID": "12415",
+    "Description": "SET OF 60 I LOVE LONDON CAKE CASES ",
+    "StockCode": "23309",
+    "rank": 8,
+    "score": 1.4130299091339111
+  },
+  {
+    "CustomerID": "12415",
+    "Description": "TRAVEL CARD WALLET VINTAGE TICKET",
+    "StockCode": "22996",
+    "rank": 9,
+    "score": 1.4075497388839722
+  },
+  {
+    "CustomerID": "12417",
+    "Description": "PINK POLKADOT WRAP ",
+    "StockCode": "21500",
+    "rank": 1,
+    "score": 0.9413673281669617
+  },
+  {
+    "CustomerID": "12417",
+    "Description": "BLUE SPOTS  WRAP",
+    "StockCode": "21499",
+    "rank": 2,
+    "score": 0.9329655170440674
+  },
+  {
+    "CustomerID": "12417",
+    "Description": "RED SPOTS  WRAP ",
+    "StockCode": "21498",
+    "rank": 3,
+    "score": 0.9230058193206787
+  },
+  {
+    "CustomerID": "12417",
+    "Description": "TEA PARTY BIRTHDAY CARD",
+    "StockCode": "22027",
+    "rank": 4,
+    "score": 0.9202149510383606
+  },
+  {
+    "CustomerID": "12417",
+    "Description": "SPACEBOY GIFT WRAP",
+    "StockCode": "22045",
+    "rank": 5,
+    "score": 0.9098148345947266
+  },
+  {
+    "CustomerID": "12417",
+    "Description": "WRAP RED APPLES ",
+    "StockCode": "22704",
+    "rank": 6,
+    "score": 0.9088698029518127
+  },
+  {
+    "CustomerID": "12417",
+    "Description": "SPACEBOY BIRTHDAY CARD",
+    "StockCode": "22029",
+    "rank": 7,
+    "score": 0.8712179660797119
+  },
+  {
+    "CustomerID": "12417",
+    "Description": "FANCY FONTS BIRTHDAY WRAP",
+    "StockCode": "21497",
+    "rank": 8,
+    "score": 0.8700735569000244
+  },
+  {
+    "CustomerID": "12417",
+    "Description": "TEA PARTY  WRAPPING PAPER ",
+    "StockCode": "22046",
+    "rank": 9,
+    "score": 0.8619858622550964
+  },
+  {
+    "CustomerID": "12418",
+    "Description": "PLEASE ONE PERSON METAL SIGN",
+    "StockCode": "21181",
+    "rank": 1,
+    "score": 0.46143826842308044
+  },
+  {
+    "CustomerID": "12418",
+    "Description": "BATHROOM METAL SIGN",
+    "StockCode": "82580",
+    "rank": 2,
+    "score": 0.4574653208255768
+  },
+  {
+    "CustomerID": "12418",
+    "Description": "COLOUR GLASS. STAR T-LIGHT HOLDER",
+    "StockCode": "71477",
+    "rank": 3,
+    "score": 0.4488936960697174
+  },
+  {
+    "CustomerID": "12418",
+    "Description": "HAND OVER THE CHOCOLATE   SIGN ",
+    "StockCode": "85152",
+    "rank": 4,
+    "score": 0.44330084323883057
+  },
+  {
+    "CustomerID": "12418",
+    "Description": "POTTERING IN THE SHED METAL SIGN",
+    "StockCode": "21174",
+    "rank": 5,
+    "score": 0.4420601725578308
+  },
+  {
+    "CustomerID": "12418",
+    "Description": "COOK WITH WINE METAL SIGN ",
+    "StockCode": "21166",
+    "rank": 6,
+    "score": 0.4377223551273346
+  },
+  {
+    "CustomerID": "12418",
+    "Description": "TOILET METAL SIGN",
+    "StockCode": "82581",
+    "rank": 7,
+    "score": 0.43591055274009705
+  },
+  {
+    "CustomerID": "12418",
+    "Description": "GIN + TONIC DIET METAL SIGN",
+    "StockCode": "21175",
+    "rank": 8,
+    "score": 0.43332573771476746
+  },
+  {
+    "CustomerID": "12418",
+    "Description": "LARGE CIRCULAR MIRROR MOBILE",
+    "StockCode": "75049L",
+    "rank": 9,
+    "score": 0.4252120554447174
+  },
+  {
+    "CustomerID": "12420",
+    "Description": "DOUGHNUT LIP GLOSS ",
+    "StockCode": "23077",
+    "rank": 1,
+    "score": 0.5566236972808838
+  },
+  {
+    "CustomerID": "12420",
+    "Description": "HAND WARMER OWL DESIGN",
+    "StockCode": "22865",
+    "rank": 2,
+    "score": 0.5184698104858398
+  },
+  {
+    "CustomerID": "12420",
+    "Description": "HAND WARMER UNION JACK",
+    "StockCode": "22633",
+    "rank": 3,
+    "score": 0.5130858421325684
+  },
+  {
+    "CustomerID": "12420",
+    "Description": "ICE CREAM SUNDAE LIP GLOSS",
+    "StockCode": "23076",
+    "rank": 4,
+    "score": 0.5128007531166077
+  },
+  {
+    "CustomerID": "12420",
+    "Description": "HAND WARMER BIRD DESIGN",
+    "StockCode": "22867",
+    "rank": 5,
+    "score": 0.5113173127174377
+  },
+  {
+    "CustomerID": "12420",
+    "Description": "HAND WARMER SCOTTY DOG DESIGN",
+    "StockCode": "22866",
+    "rank": 6,
+    "score": 0.5105905532836914
+  },
+  {
+    "CustomerID": "12420",
+    "Description": "FAIRY CAKE FLANNEL ASSORTED COLOUR",
+    "StockCode": "21108",
+    "rank": 7,
+    "score": 0.49329784512519836
+  },
+  {
+    "CustomerID": "12420",
+    "Description": "HAND WARMER RED RETROSPOT",
+    "StockCode": "22632",
+    "rank": 8,
+    "score": 0.47262123227119446
+  },
+  {
+    "CustomerID": "12420",
+    "Description": "PINK CREAM FELT CRAFT TRINKET BOX ",
+    "StockCode": "20972",
+    "rank": 9,
+    "score": 0.4695633351802826
+  },
+  {
+    "CustomerID": "12420",
+    "Description": "BLACK RECORD COVER FRAME",
+    "StockCode": "21137",
+    "rank": 10,
+    "score": 0.4661141335964203
+  },
+  {
+    "CustomerID": "12422",
+    "Description": "BROCADE RING PURSE ",
+    "StockCode": "17003",
+    "rank": 1,
+    "score": 1.2697267532348633
+  },
+  {
+    "CustomerID": "12422",
+    "Description": "CHINESE DRAGON PAPER LANTERNS",
+    "StockCode": "40016",
+    "rank": 2,
+    "score": 1.1019750833511353
+  },
+  {
+    "CustomerID": "12422",
+    "Description": "ASSORTED COLOURS SILK FAN",
+    "StockCode": "15036",
+    "rank": 3,
+    "score": 1.075758457183838
+  },
+  {
+    "CustomerID": "12422",
+    "Description": "ASSTD DESIGN BUBBLE GUM RING",
+    "StockCode": "84270",
+    "rank": 4,
+    "score": 1.0587553977966309
+  },
+  {
+    "CustomerID": "12422",
+    "Description": "PACK OF 12 SUKI TISSUES ",
+    "StockCode": "21982",
+    "rank": 5,
+    "score": 0.9659865498542786
+  },
+  {
+    "CustomerID": "12422",
+    "Description": "LUNCH BAG PINK RETROSPOT",
+    "StockCode": "22384",
+    "rank": 6,
+    "score": 0.950264573097229
+  },
+  {
+    "CustomerID": "12423",
+    "Description": "ASSORTED COLOURS SILK FAN",
+    "StockCode": "15036",
+    "rank": 1,
+    "score": 0.5368942022323608
+  },
+  {
+    "CustomerID": "12423",
+    "Description": "WOODLAND CHARLOTTE BAG",
+    "StockCode": "20719",
+    "rank": 2,
+    "score": 0.48164424300193787
+  },
+  {
+    "CustomerID": "12423",
+    "Description": "BROCADE RING PURSE ",
+    "StockCode": "17003",
+    "rank": 3,
+    "score": 0.4736255705356598
+  },
+  {
+    "CustomerID": "12423",
+    "Description": "CHARLOTTE BAG , SUKI DESIGN",
+    "StockCode": "22355",
+    "rank": 4,
+    "score": 0.4728894531726837
+  },
+  {
+    "CustomerID": "12423",
+    "Description": "CHARLOTTE BAG , PINK/WHITE SPOTS",
+    "StockCode": "22356",
+    "rank": 5,
+    "score": 0.46060216426849365
+  },
+  {
+    "CustomerID": "12423",
+    "Description": "CHARLOTTE BAG DOLLY GIRL DESIGN",
+    "StockCode": "22661",
+    "rank": 6,
+    "score": 0.4521913230419159
+  },
+  {
+    "CustomerID": "12423",
+    "Description": "ROUND SNACK BOXES SET OF 4 FRUITS ",
+    "StockCode": "22328",
+    "rank": 7,
+    "score": 0.44280320405960083
+  },
+  {
+    "CustomerID": "12423",
+    "Description": "LUNCH BAG SPACEBOY DESIGN ",
+    "StockCode": "22382",
+    "rank": 8,
+    "score": 0.4419901669025421
+  },
+  {
+    "CustomerID": "12423",
+    "Description": "LUNCH BAG DOLLY GIRL DESIGN",
+    "StockCode": "22662",
+    "rank": 9,
+    "score": 0.43764492869377136
+  },
+  {
+    "CustomerID": "12424",
+    "Description": "PACK OF 60 SPACEBOY CAKE CASES",
+    "StockCode": "22417",
+    "rank": 1,
+    "score": 0.8892606496810913
+  },
+  {
+    "CustomerID": "12424",
+    "Description": "SET/10 PINK SPOTTY PARTY CANDLES",
+    "StockCode": "21122",
+    "rank": 2,
+    "score": 0.8876131772994995
+  },
+  {
+    "CustomerID": "12424",
+    "Description": "72 SWEETHEART FAIRY CAKE CASES",
+    "StockCode": "84992",
+    "rank": 3,
+    "score": 0.8732050061225891
+  },
+  {
+    "CustomerID": "12424",
+    "Description": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "StockCode": "21977",
+    "rank": 4,
+    "score": 0.8712950348854065
+  },
+  {
+    "CustomerID": "12424",
+    "Description": "60 CAKE CASES VINTAGE CHRISTMAS",
+    "StockCode": "22952",
+    "rank": 5,
+    "score": 0.8630905747413635
+  },
+  {
+    "CustomerID": "12424",
+    "Description": "SET OF 36 TEATIME PAPER DOILIES",
+    "StockCode": "84987",
+    "rank": 6,
+    "score": 0.8567199110984802
+  },
+  {
+    "CustomerID": "12424",
+    "Description": "PACK OF 60 DINOSAUR CAKE CASES",
+    "StockCode": "21975",
+    "rank": 7,
+    "score": 0.8525460362434387
+  },
+  {
+    "CustomerID": "12424",
+    "Description": "60 TEATIME FAIRY CAKE CASES",
+    "StockCode": "84991",
+    "rank": 8,
+    "score": 0.8477580547332764
+  },
+  {
+    "CustomerID": "12427",
+    "Description": "ROBOT BIRTHDAY CARD",
+    "StockCode": "22037",
+    "rank": 1,
+    "score": 0.35029536485671997
+  },
+  {
+    "CustomerID": "12427",
+    "Description": "CARD DOLLY GIRL ",
+    "StockCode": "22712",
+    "rank": 2,
+    "score": 0.3499293029308319
+  },
+  {
+    "CustomerID": "12427",
+    "Description": "COWBOYS AND INDIANS BIRTHDAY CARD ",
+    "StockCode": "21509",
+    "rank": 3,
+    "score": 0.34981346130371094
+  },
+  {
+    "CustomerID": "12427",
+    "Description": "VINTAGE KID DOLLY CARD ",
+    "StockCode": "21508",
+    "rank": 4,
+    "score": 0.34495145082473755
+  },
+  {
+    "CustomerID": "12427",
+    "Description": "ELEPHANT BIRTHDAY CARD ",
+    "StockCode": "21507",
+    "rank": 5,
+    "score": 0.3447006344795227
+  },
+  {
+    "CustomerID": "12427",
+    "Description": "PINK  SPOTTY PLATE ",
+    "StockCode": "21243",
+    "rank": 6,
+    "score": 0.34384018182754517
+  },
+  {
+    "CustomerID": "12427",
+    "Description": "TEA PARTY BIRTHDAY CARD",
+    "StockCode": "22027",
+    "rank": 7,
+    "score": 0.3398626148700714
+  },
+  {
+    "CustomerID": "12427",
+    "Description": "SPACEBOY BIRTHDAY CARD",
+    "StockCode": "22029",
+    "rank": 8,
+    "score": 0.33935004472732544
+  },
+  {
+    "CustomerID": "12427",
+    "Description": "CARD CIRCUS PARADE",
+    "StockCode": "22716",
+    "rank": 9,
+    "score": 0.3374747335910797
+  },
+  {
+    "CustomerID": "12427",
+    "Description": "BLUE POLKADOT PLATE ",
+    "StockCode": "21244",
+    "rank": 10,
+    "score": 0.3363456130027771
+  },
+  {
+    "CustomerID": "12428",
+    "Description": "PINK 3 PIECE MINI DOTS CUTLERY SET",
+    "StockCode": "84997D",
+    "rank": 1,
+    "score": 1.0191221237182617
+  },
+  {
+    "CustomerID": "12428",
+    "Description": "RED 3 PIECE RETROSPOT CUTLERY SET",
+    "StockCode": "84997B",
+    "rank": 2,
+    "score": 1.0005944967269897
+  },
+  {
+    "CustomerID": "12428",
+    "Description": "BLUE 3 PIECE POLKADOT CUTLERY SET",
+    "StockCode": "84997C",
+    "rank": 3,
+    "score": 0.9979032278060913
+  },
+  {
+    "CustomerID": "12428",
+    "Description": "PINK  SPOTTY CUP",
+    "StockCode": "21239",
+    "rank": 4,
+    "score": 0.9807843565940857
+  },
+  {
+    "CustomerID": "12428",
+    "Description": "CHILDRENS CUTLERY POLKADOT GREEN ",
+    "StockCode": "84997A",
+    "rank": 5,
+    "score": 0.9690587520599365
+  },
+  {
+    "CustomerID": "12428",
+    "Description": "SET/5 RED SPOTTY LID GLASS BOWLS",
+    "StockCode": "20914",
+    "rank": 6,
+    "score": 0.967839777469635
+  },
+  {
+    "CustomerID": "12429",
+    "Description": "SMALL POPCORN HOLDER",
+    "StockCode": "22197",
+    "rank": 1,
+    "score": 1.0586178302764893
+  },
+  {
+    "CustomerID": "12429",
+    "Description": "PARTY BUNTING",
+    "StockCode": "47566",
+    "rank": 2,
+    "score": 1.0172017812728882
+  },
+  {
+    "CustomerID": "12429",
+    "Description": "REGENCY CAKESTAND 3 TIER",
+    "StockCode": "22423",
+    "rank": 3,
+    "score": 0.9927838444709778
+  },
+  {
+    "CustomerID": "12429",
+    "Description": "60 TEATIME FAIRY CAKE CASES",
+    "StockCode": "84991",
+    "rank": 4,
+    "score": 0.9828836917877197
+  },
+  {
+    "CustomerID": "12429",
+    "Description": "SET OF 72 RETROSPOT PAPER  DOILIES",
+    "StockCode": "21210",
+    "rank": 5,
+    "score": 0.9704355001449585
+  },
+  {
+    "CustomerID": "12429",
+    "Description": "JAM MAKING SET PRINTED",
+    "StockCode": "22961",
+    "rank": 6,
+    "score": 0.966291606426239
+  },
+  {
+    "CustomerID": "12429",
+    "Description": "TEA TIME PARTY BUNTING",
+    "StockCode": "47566B",
+    "rank": 7,
+    "score": 0.9577987194061279
+  },
+  {
+    "CustomerID": "12429",
+    "Description": "PAPER CHAIN KIT EMPIRE",
+    "StockCode": "22084",
+    "rank": 8,
+    "score": 0.9548166394233704
+  },
+  {
+    "CustomerID": "12431",
+    "Description": "SET/5 RED SPOTTY LID GLASS BOWLS",
+    "StockCode": "20914",
+    "rank": 1,
+    "score": 0.9778456091880798
+  },
+  {
+    "CustomerID": "12431",
+    "Description": "SMALL POPCORN HOLDER",
+    "StockCode": "22197",
+    "rank": 2,
+    "score": 0.9722838997840881
+  },
+  {
+    "CustomerID": "12431",
+    "Description": "SET OF 4 PANTRY JELLY MOULDS",
+    "StockCode": "22993",
+    "rank": 3,
+    "score": 0.9512017965316772
+  },
+  {
+    "CustomerID": "12431",
+    "Description": "PACK OF 60 DINOSAUR CAKE CASES",
+    "StockCode": "21975",
+    "rank": 4,
+    "score": 0.9508258104324341
+  },
+  {
+    "CustomerID": "12431",
+    "Description": "PACK OF 60 SPACEBOY CAKE CASES",
+    "StockCode": "22417",
+    "rank": 5,
+    "score": 0.9406031370162964
+  },
+  {
+    "CustomerID": "12431",
+    "Description": "JAM MAKING SET PRINTED",
+    "StockCode": "22961",
+    "rank": 6,
+    "score": 0.9125370979309082
+  },
+  {
+    "CustomerID": "12431",
+    "Description": "SET/20 RED RETROSPOT PAPER NAPKINS ",
+    "StockCode": "21080",
+    "rank": 7,
+    "score": 0.9094445705413818
+  },
+  {
+    "CustomerID": "12431",
+    "Description": "PACK OF 72 RETRO SPOT CAKE CASES",
+    "StockCode": "21212",
+    "rank": 8,
+    "score": 0.9069893956184387
+  },
+  {
+    "CustomerID": "12431",
+    "Description": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "StockCode": "21977",
+    "rank": 9,
+    "score": 0.9059406518936157
+  },
+  {
+    "CustomerID": "12433",
+    "Description": "PACK OF 12 LONDON TISSUES ",
+    "StockCode": "22616",
+    "rank": 1,
+    "score": 1.248417854309082
+  },
+  {
+    "CustomerID": "12433",
+    "Description": "DOUGHNUT LIP GLOSS ",
+    "StockCode": "23077",
+    "rank": 2,
+    "score": 1.2037384510040283
+  },
+  {
+    "CustomerID": "12433",
+    "Description": "FAIRY CAKE FLANNEL ASSORTED COLOUR",
+    "StockCode": "21108",
+    "rank": 3,
+    "score": 1.1688623428344727
+  },
+  {
+    "CustomerID": "12433",
+    "Description": "HAND WARMER UNION JACK",
+    "StockCode": "22633",
+    "rank": 4,
+    "score": 1.16478431224823
+  },
+  {
+    "CustomerID": "12433",
+    "Description": "STRAWBERRY CERAMIC TRINKET BOX",
+    "StockCode": "21232",
+    "rank": 5,
+    "score": 1.1511709690093994
+  },
+  {
+    "CustomerID": "12433",
+    "Description": "WORLD WAR 2 GLIDERS ASSTD DESIGNS",
+    "StockCode": "84077",
+    "rank": 6,
+    "score": 1.1377536058425903
+  },
+  {
+    "CustomerID": "12435",
+    "Description": "RABBIT NIGHT LIGHT",
+    "StockCode": "23084",
+    "rank": 1,
+    "score": 1.0162503719329834
+  },
+  {
+    "CustomerID": "12435",
+    "Description": "60 CAKE CASES DOLLY GIRL DESIGN",
+    "StockCode": "22951",
+    "rank": 2,
+    "score": 1.0066345930099487
+  },
+  {
+    "CustomerID": "12435",
+    "Description": "SET OF 4 PANTRY JELLY MOULDS",
+    "StockCode": "22993",
+    "rank": 3,
+    "score": 0.9983183741569519
+  },
+  {
+    "CustomerID": "12435",
+    "Description": "PACK OF 60 SPACEBOY CAKE CASES",
+    "StockCode": "22417",
+    "rank": 4,
+    "score": 0.9936174154281616
+  },
+  {
+    "CustomerID": "12435",
+    "Description": "SET/10 RED POLKADOT PARTY CANDLES",
+    "StockCode": "21121",
+    "rank": 5,
+    "score": 0.990020215511322
+  },
+  {
+    "CustomerID": "12435",
+    "Description": "60 CAKE CASES VINTAGE CHRISTMAS",
+    "StockCode": "22952",
+    "rank": 6,
+    "score": 0.9720227718353271
+  },
+  {
+    "CustomerID": "12435",
+    "Description": "SET/10 PINK SPOTTY PARTY CANDLES",
+    "StockCode": "21122",
+    "rank": 7,
+    "score": 0.9683202505111694
+  },
+  {
+    "CustomerID": "12435",
+    "Description": "PACK OF 60 DINOSAUR CAKE CASES",
+    "StockCode": "21975",
+    "rank": 8,
+    "score": 0.9593392014503479
+  },
+  {
+    "CustomerID": "12435",
+    "Description": "SET/10 BLUE SPOTTY PARTY CANDLES",
+    "StockCode": "21124",
+    "rank": 9,
+    "score": 0.946691632270813
+  },
+  {
+    "CustomerID": "12436",
+    "Description": "60 CAKE CASES VINTAGE CHRISTMAS",
+    "StockCode": "22952",
+    "rank": 1,
+    "score": 0.761296808719635
+  },
+  {
+    "CustomerID": "12436",
+    "Description": "SET/10 PINK SPOTTY PARTY CANDLES",
+    "StockCode": "21122",
+    "rank": 2,
+    "score": 0.725056529045105
+  },
+  {
+    "CustomerID": "12436",
+    "Description": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "StockCode": "21977",
+    "rank": 3,
+    "score": 0.7180107235908508
+  },
+  {
+    "CustomerID": "12436",
+    "Description": "60 CAKE CASES DOLLY GIRL DESIGN",
+    "StockCode": "22951",
+    "rank": 4,
+    "score": 0.7079845070838928
+  },
+  {
+    "CustomerID": "12436",
+    "Description": "SET OF 36 PAISLEY FLOWER DOILIES",
+    "StockCode": "21974",
+    "rank": 5,
+    "score": 0.7015321850776672
+  },
+  {
+    "CustomerID": "12436",
+    "Description": "60 TEATIME FAIRY CAKE CASES",
+    "StockCode": "84991",
+    "rank": 6,
+    "score": 0.6982837319374084
+  },
+  {
+    "CustomerID": "12436",
+    "Description": "SET OF 36 TEATIME PAPER DOILIES",
+    "StockCode": "84987",
+    "rank": 7,
+    "score": 0.6963881254196167
+  },
+  {
+    "CustomerID": "12437",
+    "Description": "RED TOADSTOOL LED NIGHT LIGHT",
+    "StockCode": "21731",
+    "rank": 1,
+    "score": 1.2512916326522827
+  },
+  {
+    "CustomerID": "12437",
+    "Description": "PLASTERS IN TIN SPACEBOY",
+    "StockCode": "22551",
+    "rank": 2,
+    "score": 1.1979751586914062
+  },
+  {
+    "CustomerID": "12437",
+    "Description": "10 COLOUR SPACEBOY PEN",
+    "StockCode": "22418",
+    "rank": 3,
+    "score": 1.1814062595367432
+  },
+  {
+    "CustomerID": "12437",
+    "Description": "PLASTERS IN TIN CIRCUS PARADE ",
+    "StockCode": "22556",
+    "rank": 4,
+    "score": 1.1637091636657715
+  },
+  {
+    "CustomerID": "12437",
+    "Description": "RED SPOTTY CHILDS APRON",
+    "StockCode": "21156",
+    "rank": 5,
+    "score": 1.1375383138656616
+  },
+  {
+    "CustomerID": "12440",
+    "Description": "CARD DOLLY GIRL ",
+    "StockCode": "22712",
+    "rank": 1,
+    "score": 0.29088979959487915
+  },
+  {
+    "CustomerID": "12440",
+    "Description": "BLUE POLKADOT PLATE ",
+    "StockCode": "21244",
+    "rank": 2,
+    "score": 0.28169354796409607
+  },
+  {
+    "CustomerID": "12440",
+    "Description": "BLUE POLKADOT BOWL",
+    "StockCode": "20675",
+    "rank": 3,
+    "score": 0.2782825231552124
+  },
+  {
+    "CustomerID": "12440",
+    "Description": "TEA PARTY BIRTHDAY CARD",
+    "StockCode": "22027",
+    "rank": 4,
+    "score": 0.27589213848114014
+  },
+  {
+    "CustomerID": "12440",
+    "Description": "VINTAGE KID DOLLY CARD ",
+    "StockCode": "21508",
+    "rank": 5,
+    "score": 0.27480021119117737
+  },
+  {
+    "CustomerID": "12440",
+    "Description": "CHILDRENS CUTLERY POLKADOT GREEN ",
+    "StockCode": "84997A",
+    "rank": 6,
+    "score": 0.27209699153900146
+  },
+  {
+    "CustomerID": "12440",
+    "Description": "COWBOYS AND INDIANS BIRTHDAY CARD ",
+    "StockCode": "21509",
+    "rank": 7,
+    "score": 0.2717858552932739
+  },
+  {
+    "CustomerID": "12441",
+    "Description": "RED SPOTS  WRAP ",
+    "StockCode": "21498",
+    "rank": 1,
+    "score": 0.5297688841819763
+  },
+  {
+    "CustomerID": "12441",
+    "Description": "PINK POLKADOT WRAP ",
+    "StockCode": "21500",
+    "rank": 2,
+    "score": 0.5194125771522522
+  },
+  {
+    "CustomerID": "12441",
+    "Description": "BLUE SPOTS  WRAP",
+    "StockCode": "21499",
+    "rank": 3,
+    "score": 0.5097762942314148
+  },
+  {
+    "CustomerID": "12441",
+    "Description": "WRAP ENGLISH ROSE ",
+    "StockCode": "16161P",
+    "rank": 4,
+    "score": 0.475848913192749
+  },
+  {
+    "CustomerID": "12441",
+    "Description": "WRAP PINK FAIRY CAKES ",
+    "StockCode": "16156S",
+    "rank": 5,
+    "score": 0.46361812949180603
+  },
+  {
+    "CustomerID": "12441",
+    "Description": "SKULLS AND CROSSBONES WRAP",
+    "StockCode": "21495",
+    "rank": 6,
+    "score": 0.458607941865921
+  },
+  {
+    "CustomerID": "12441",
+    "Description": "PACK OF 12 RED SPOTTY TISSUES ",
+    "StockCode": "21980",
+    "rank": 7,
+    "score": 0.4547857642173767
+  },
+  {
+    "CustomerID": "12441",
+    "Description": "FANCY FONTS BIRTHDAY WRAP",
+    "StockCode": "21497",
+    "rank": 8,
+    "score": 0.4545131027698517
+  },
+  {
+    "CustomerID": "12441",
+    "Description": "GIRLS ALPHABET IRON ON PATCHES ",
+    "StockCode": "84568",
+    "rank": 9,
+    "score": 0.4320470988750458
+  },
+  {
+    "CustomerID": "12441",
+    "Description": "SPACEBOY GIFT WRAP",
+    "StockCode": "22045",
+    "rank": 10,
+    "score": 0.4163561761379242
+  },
+  {
+    "CustomerID": "12443",
+    "Description": "ASSORTED COLOURS SILK FAN",
+    "StockCode": "15036",
+    "rank": 1,
+    "score": 0.5033453702926636
+  },
+  {
+    "CustomerID": "12443",
+    "Description": "FAIRY CAKE FLANNEL ASSORTED COLOUR",
+    "StockCode": "21108",
+    "rank": 2,
+    "score": 0.41085126996040344
+  },
+  {
+    "CustomerID": "12443",
+    "Description": "PACK OF 12 HEARTS DESIGN TISSUES ",
+    "StockCode": "21985",
+    "rank": 3,
+    "score": 0.4081268310546875
+  },
+  {
+    "CustomerID": "12443",
+    "Description": "FEATHER PEN,HOT PINK",
+    "StockCode": "51014A",
+    "rank": 4,
+    "score": 0.40567976236343384
+  },
+  {
+    "CustomerID": "12443",
+    "Description": "SWEETHEART CERAMIC TRINKET BOX",
+    "StockCode": "21231",
+    "rank": 5,
+    "score": 0.4003535509109497
+  },
+  {
+    "CustomerID": "12443",
+    "Description": "SMALL CHINESE STYLE SCISSOR",
+    "StockCode": "16014",
+    "rank": 6,
+    "score": 0.39919838309288025
+  },
+  {
+    "CustomerID": "12443",
+    "Description": "GRAND CHOCOLATECANDLE",
+    "StockCode": "72741",
+    "rank": 7,
+    "score": 0.39667388796806335
+  },
+  {
+    "CustomerID": "12443",
+    "Description": "FENG SHUI PILLAR CANDLE",
+    "StockCode": "72232",
+    "rank": 8,
+    "score": 0.39146915078163147
+  },
+  {
+    "CustomerID": "12443",
+    "Description": "FEATHER PEN,COAL BLACK",
+    "StockCode": "51014C",
+    "rank": 9,
+    "score": 0.3650439977645874
+  },
+  {
+    "CustomerID": "12443",
+    "Description": "CERAMIC CAKE DESIGN SPOTTED MUG",
+    "StockCode": "37448",
+    "rank": 10,
+    "score": 0.3629467189311981
+  },
+  {
+    "CustomerID": "12444",
+    "Description": "JAM MAKING SET PRINTED",
+    "StockCode": "22961",
+    "rank": 1,
+    "score": 0.39743325114250183
+  },
+  {
+    "CustomerID": "12444",
+    "Description": "60 TEATIME FAIRY CAKE CASES",
+    "StockCode": "84991",
+    "rank": 2,
+    "score": 0.3888076841831207
+  },
+  {
+    "CustomerID": "12444",
+    "Description": "60 CAKE CASES VINTAGE CHRISTMAS",
+    "StockCode": "22952",
+    "rank": 3,
+    "score": 0.3835931420326233
+  },
+  {
+    "CustomerID": "12444",
+    "Description": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "StockCode": "21977",
+    "rank": 4,
+    "score": 0.3807506561279297
+  },
+  {
+    "CustomerID": "12444",
+    "Description": "SET/5 RED SPOTTY LID GLASS BOWLS",
+    "StockCode": "20914",
+    "rank": 5,
+    "score": 0.3788498342037201
+  },
+  {
+    "CustomerID": "12444",
+    "Description": "PACK OF 72 RETRO SPOT CAKE CASES",
+    "StockCode": "21212",
+    "rank": 6,
+    "score": 0.3775177299976349
+  },
+  {
+    "CustomerID": "12444",
+    "Description": "SET OF 72 RETROSPOT PAPER  DOILIES",
+    "StockCode": "21210",
+    "rank": 7,
+    "score": 0.37531983852386475
+  },
+  {
+    "CustomerID": "12444",
+    "Description": "SET OF 36 TEATIME PAPER DOILIES",
+    "StockCode": "84987",
+    "rank": 8,
+    "score": 0.3711332678794861
+  },
+  {
+    "CustomerID": "12444",
+    "Description": "72 SWEETHEART FAIRY CAKE CASES",
+    "StockCode": "84992",
+    "rank": 9,
+    "score": 0.37079718708992004
+  },
+  {
+    "CustomerID": "12447",
+    "Description": "PINK  SPOTTY PLATE ",
+    "StockCode": "21243",
+    "rank": 1,
+    "score": 0.4399262070655823
+  },
+  {
+    "CustomerID": "12447",
+    "Description": "PINK SPOTTY BOWL",
+    "StockCode": "20677",
+    "rank": 2,
+    "score": 0.439349502325058
+  },
+  {
+    "CustomerID": "12447",
+    "Description": "CARD DOLLY GIRL ",
+    "StockCode": "22712",
+    "rank": 3,
+    "score": 0.43921828269958496
+  },
+  {
+    "CustomerID": "12447",
+    "Description": "BLUE POLKADOT BOWL",
+    "StockCode": "20675",
+    "rank": 4,
+    "score": 0.43738090991973877
+  },
+  {
+    "CustomerID": "12447",
+    "Description": "BLUE POLKADOT PLATE ",
+    "StockCode": "21244",
+    "rank": 5,
+    "score": 0.42992791533470154
+  },
+  {
+    "CustomerID": "12447",
+    "Description": "PINK  SPOTTY CUP",
+    "StockCode": "21239",
+    "rank": 6,
+    "score": 0.4290119707584381
+  },
+  {
+    "CustomerID": "12447",
+    "Description": "PINK 3 PIECE MINI DOTS CUTLERY SET",
+    "StockCode": "84997D",
+    "rank": 7,
+    "score": 0.4245186746120453
+  },
+  {
+    "CustomerID": "12449",
+    "Description": "PINK 3 PIECE MINI DOTS CUTLERY SET",
+    "StockCode": "84997D",
+    "rank": 1,
+    "score": 0.9268290996551514
+  },
+  {
+    "CustomerID": "12449",
+    "Description": "BLUE 3 PIECE POLKADOT CUTLERY SET",
+    "StockCode": "84997C",
+    "rank": 2,
+    "score": 0.9189782738685608
+  },
+  {
+    "CustomerID": "12449",
+    "Description": "CHILDRENS CUTLERY POLKADOT GREEN ",
+    "StockCode": "84997A",
+    "rank": 3,
+    "score": 0.884485125541687
+  },
+  {
+    "CustomerID": "12449",
+    "Description": "PINK  SPOTTY PLATE ",
+    "StockCode": "21243",
+    "rank": 4,
+    "score": 0.8769721984863281
+  },
+  {
+    "CustomerID": "12449",
+    "Description": "GUMBALL COAT RACK",
+    "StockCode": "22467",
+    "rank": 5,
+    "score": 0.8676419854164124
+  },
+  {
+    "CustomerID": "12449",
+    "Description": "ROBOT BIRTHDAY CARD",
+    "StockCode": "22037",
+    "rank": 6,
+    "score": 0.8671296834945679
+  },
+  {
+    "CustomerID": "12449",
+    "Description": "RED 3 PIECE RETROSPOT CUTLERY SET",
+    "StockCode": "84997B",
+    "rank": 7,
+    "score": 0.860423743724823
+  },
+  {
+    "CustomerID": "12449",
+    "Description": "COWBOYS AND INDIANS BIRTHDAY CARD ",
+    "StockCode": "21509",
+    "rank": 8,
+    "score": 0.8602020740509033
+  },
+  {
+    "CustomerID": "12449",
+    "Description": "PINK  SPOTTY CUP",
+    "StockCode": "21239",
+    "rank": 9,
+    "score": 0.8595827221870422
+  },
+  {
+    "CustomerID": "12450",
+    "Description": "JUMBO BAG PINK POLKADOT",
+    "StockCode": "22386",
+    "rank": 1,
+    "score": 0.5889502167701721
+  },
+  {
+    "CustomerID": "12450",
+    "Description": "JUMBO BAG RED WHITE SPOTTY ",
+    "StockCode": "85099B",
+    "rank": 2,
+    "score": 0.5797466039657593
+  },
+  {
+    "CustomerID": "12450",
+    "Description": "LUNCH BAG SUKI  DESIGN ",
+    "StockCode": "22383",
+    "rank": 3,
+    "score": 0.5782980918884277
+  },
+  {
+    "CustomerID": "12450",
+    "Description": "LUNCH BAG PINK RETROSPOT",
+    "StockCode": "22384",
+    "rank": 4,
+    "score": 0.5777895450592041
+  },
+  {
+    "CustomerID": "12450",
+    "Description": "LUNCH BAG CARS BLUE",
+    "StockCode": "20728",
+    "rank": 5,
+    "score": 0.5606762170791626
+  },
+  {
+    "CustomerID": "12450",
+    "Description": "LUNCH BAG SPACEBOY DESIGN ",
+    "StockCode": "22382",
+    "rank": 6,
+    "score": 0.5506957173347473
+  },
+  {
+    "CustomerID": "12450",
+    "Description": "JUMBO BAG PINK VINTAGE PAISLEY",
+    "StockCode": "21929",
+    "rank": 7,
+    "score": 0.5495893359184265
+  },
+  {
+    "CustomerID": "12450",
+    "Description": "LUNCH BAG  BLACK SKULL.",
+    "StockCode": "20727",
+    "rank": 8,
+    "score": 0.5495007038116455
+  },
+  {
+    "CustomerID": "12451",
+    "Description": "ROUND SNACK BOXES SET OF 4 FRUITS ",
+    "StockCode": "22328",
+    "rank": 1,
+    "score": 1.184738278388977
+  },
+  {
+    "CustomerID": "12451",
+    "Description": "RED RETROSPOT CUP",
+    "StockCode": "21238",
+    "rank": 2,
+    "score": 1.1187821626663208
+  },
+  {
+    "CustomerID": "12451",
+    "Description": "ROBOT BIRTHDAY CARD",
+    "StockCode": "22037",
+    "rank": 3,
+    "score": 1.1093430519104004
+  },
+  {
+    "CustomerID": "12451",
+    "Description": "RED SPOTTY PLATE ",
+    "StockCode": "21242",
+    "rank": 4,
+    "score": 1.1046838760375977
+  },
+  {
+    "CustomerID": "12454",
+    "Description": "TRADITIONAL WOODEN CATCH CUP GAME ",
+    "StockCode": "21892",
+    "rank": 1,
+    "score": 1.0196244716644287
+  },
+  {
+    "CustomerID": "12454",
+    "Description": " PAINT YOUR OWN CANVAS SET",
+    "StockCode": "22493",
+    "rank": 2,
+    "score": 0.9934167265892029
+  },
+  {
+    "CustomerID": "12454",
+    "Description": "HERB MARKER BASIL",
+    "StockCode": "22920",
+    "rank": 3,
+    "score": 0.9833651185035706
+  },
+  {
+    "CustomerID": "12454",
+    "Description": "JACOBS LADDER SMALL",
+    "StockCode": "35015",
+    "rank": 4,
+    "score": 0.9575873613357544
+  },
+  {
+    "CustomerID": "12454",
+    "Description": "FELTCRAFT CUSHION RABBIT",
+    "StockCode": "22570",
+    "rank": 5,
+    "score": 0.9451166987419128
+  },
+  {
+    "CustomerID": "12454",
+    "Description": "PACK OF 12 TRADITIONAL CRAYONS",
+    "StockCode": "22489",
+    "rank": 6,
+    "score": 0.9337953329086304
+  },
+  {
+    "CustomerID": "12454",
+    "Description": "FELTCRAFT CUSHION BUTTERFLY",
+    "StockCode": "22569",
+    "rank": 7,
+    "score": 0.9252380728721619
+  },
+  {
+    "CustomerID": "12454",
+    "Description": "COLOURING PENCILS BROWN TUBE",
+    "StockCode": "10135",
+    "rank": 8,
+    "score": 0.9154585003852844
+  },
+  {
+    "CustomerID": "12454",
+    "Description": "TRADITIONAL WOODEN SKIPPING ROPE",
+    "StockCode": "21891",
+    "rank": 9,
+    "score": 0.9079311490058899
+  },
+  {
+    "CustomerID": "12455",
+    "Description": "RED SPOTTY CHARLOTTE BAG",
+    "StockCode": "20724",
+    "rank": 1,
+    "score": 0.6730496883392334
+  },
+  {
+    "CustomerID": "12455",
+    "Description": "LUNCH BAG SPACEBOY DESIGN ",
+    "StockCode": "22382",
+    "rank": 2,
+    "score": 0.6540114283561707
+  },
+  {
+    "CustomerID": "12455",
+    "Description": "LUNCH BAG PINK RETROSPOT",
+    "StockCode": "22384",
+    "rank": 3,
+    "score": 0.6478323936462402
+  },
+  {
+    "CustomerID": "12455",
+    "Description": "LUNCH BAG WOODLAND",
+    "StockCode": "20726",
+    "rank": 4,
+    "score": 0.636049211025238
+  },
+  {
+    "CustomerID": "12455",
+    "Description": "SET/5 RED SPOTTY LID GLASS BOWLS",
+    "StockCode": "20914",
+    "rank": 5,
+    "score": 0.629338800907135
+  },
+  {
+    "CustomerID": "12455",
+    "Description": "LUNCH BAG CARS BLUE",
+    "StockCode": "20728",
+    "rank": 6,
+    "score": 0.6262877583503723
+  },
+  {
+    "CustomerID": "12455",
+    "Description": "STRAWBERRY CHARLOTTE BAG",
+    "StockCode": "20723",
+    "rank": 7,
+    "score": 0.6217678189277649
+  },
+  {
+    "CustomerID": "12455",
+    "Description": "LUNCH BAG  BLACK SKULL.",
+    "StockCode": "20727",
+    "rank": 8,
+    "score": 0.6179952025413513
+  },
+  {
+    "CustomerID": "12457",
+    "Description": "GIN + TONIC DIET METAL SIGN",
+    "StockCode": "21175",
+    "rank": 1,
+    "score": 0.14000163972377777
+  },
+  {
+    "CustomerID": "12457",
+    "Description": "NO SINGING METAL SIGN",
+    "StockCode": "82600",
+    "rank": 2,
+    "score": 0.13906748592853546
+  },
+  {
+    "CustomerID": "12457",
+    "Description": "CHOCOLATE THIS WAY METAL SIGN",
+    "StockCode": "21908",
+    "rank": 3,
+    "score": 0.13699759542942047
+  },
+  {
+    "CustomerID": "12457",
+    "Description": "COOK WITH WINE METAL SIGN ",
+    "StockCode": "21166",
+    "rank": 4,
+    "score": 0.13594001531600952
+  },
+  {
+    "CustomerID": "12457",
+    "Description": "HAND OVER THE CHOCOLATE   SIGN ",
+    "StockCode": "85152",
+    "rank": 5,
+    "score": 0.13581134378910065
+  },
+  {
+    "CustomerID": "12457",
+    "Description": "HOT BATHS METAL SIGN",
+    "StockCode": "82583",
+    "rank": 6,
+    "score": 0.135380357503891
+  },
+  {
+    "CustomerID": "12457",
+    "Description": "AREA PATROLLED METAL SIGN",
+    "StockCode": "82582",
+    "rank": 7,
+    "score": 0.13433249294757843
+  },
+  {
+    "CustomerID": "12457",
+    "Description": "HOT WATER BOTTLE TEA AND SYMPATHY",
+    "StockCode": "22114",
+    "rank": 8,
+    "score": 0.1342930942773819
+  },
+  {
+    "CustomerID": "12457",
+    "Description": "TOILET METAL SIGN",
+    "StockCode": "82581",
+    "rank": 9,
+    "score": 0.13411253690719604
+  },
+  {
+    "CustomerID": "12458",
+    "Description": "ROUND SNACK BOXES SET OF 4 FRUITS ",
+    "StockCode": "22328",
+    "rank": 1,
+    "score": 0.7262738943099976
+  },
+  {
+    "CustomerID": "12458",
+    "Description": "ROUND SNACK BOXES SET OF4 WOODLAND ",
+    "StockCode": "22326",
+    "rank": 2,
+    "score": 0.6756800413131714
+  },
+  {
+    "CustomerID": "12458",
+    "Description": "TEA PARTY BIRTHDAY CARD",
+    "StockCode": "22027",
+    "rank": 3,
+    "score": 0.6582636833190918
+  },
+  {
+    "CustomerID": "12458",
+    "Description": "SPACEBOY BIRTHDAY CARD",
+    "StockCode": "22029",
+    "rank": 4,
+    "score": 0.6555203199386597
+  },
+  {
+    "CustomerID": "12458",
+    "Description": "CARD DOLLY GIRL ",
+    "StockCode": "22712",
+    "rank": 5,
+    "score": 0.6461520791053772
+  },
+  {
+    "CustomerID": "12460",
+    "Description": "PINK POLKADOT WRAP ",
+    "StockCode": "21500",
+    "rank": 1,
+    "score": 0.5916163325309753
+  },
+  {
+    "CustomerID": "12460",
+    "Description": "BLUE SPOTS  WRAP",
+    "StockCode": "21499",
+    "rank": 2,
+    "score": 0.5818359851837158
+  },
+  {
+    "CustomerID": "12460",
+    "Description": "SKULLS AND CROSSBONES WRAP",
+    "StockCode": "21495",
+    "rank": 3,
+    "score": 0.5315532088279724
+  },
+  {
+    "CustomerID": "12460",
+    "Description": "FANCY FONTS BIRTHDAY WRAP",
+    "StockCode": "21497",
+    "rank": 4,
+    "score": 0.5133242011070251
+  },
+  {
+    "CustomerID": "12460",
+    "Description": "WRAP PINK FAIRY CAKES ",
+    "StockCode": "16156S",
+    "rank": 5,
+    "score": 0.5077587366104126
+  },
+  {
+    "CustomerID": "12460",
+    "Description": "WRAP RED APPLES ",
+    "StockCode": "22704",
+    "rank": 6,
+    "score": 0.502972424030304
+  },
+  {
+    "CustomerID": "12460",
+    "Description": "PACK OF 12 RED SPOTTY TISSUES ",
+    "StockCode": "21980",
+    "rank": 7,
+    "score": 0.4879608452320099
+  },
+  {
+    "CustomerID": "12461",
+    "Description": "MINI PAINT SET VINTAGE ",
+    "StockCode": "22492",
+    "rank": 1,
+    "score": 0.40294933319091797
+  },
+  {
+    "CustomerID": "12461",
+    "Description": "PLASTERS IN TIN CIRCUS PARADE ",
+    "StockCode": "22556",
+    "rank": 2,
+    "score": 0.39521223306655884
+  },
+  {
+    "CustomerID": "12461",
+    "Description": "VINTAGE HEADS AND TAILS CARD GAME ",
+    "StockCode": "21791",
+    "rank": 3,
+    "score": 0.38559290766716003
+  },
+  {
+    "CustomerID": "12461",
+    "Description": "MAGIC DRAWING SLATE SPACEBOY ",
+    "StockCode": "22534",
+    "rank": 4,
+    "score": 0.38174307346343994
+  },
+  {
+    "CustomerID": "12461",
+    "Description": "SET 12 KIDS COLOUR  CHALK STICKS",
+    "StockCode": "21918",
+    "rank": 5,
+    "score": 0.3777604103088379
+  },
+  {
+    "CustomerID": "12461",
+    "Description": "WOODEN SCHOOL COLOURING SET",
+    "StockCode": "22561",
+    "rank": 6,
+    "score": 0.3711339235305786
+  },
+  {
+    "CustomerID": "12461",
+    "Description": "WOODEN BOX OF DOMINOES",
+    "StockCode": "21889",
+    "rank": 7,
+    "score": 0.3708356022834778
+  },
+  {
+    "CustomerID": "12461",
+    "Description": "PACK OF 12 TRADITIONAL CRAYONS",
+    "StockCode": "22489",
+    "rank": 8,
+    "score": 0.3696156442165375
+  },
+  {
+    "CustomerID": "12461",
+    "Description": "BLUE HARMONICA IN BOX ",
+    "StockCode": "21914",
+    "rank": 9,
+    "score": 0.3695034384727478
+  },
+  {
+    "CustomerID": "12461",
+    "Description": "10 COLOUR SPACEBOY PEN",
+    "StockCode": "22418",
+    "rank": 10,
+    "score": 0.36944183707237244
+  },
+  {
+    "CustomerID": "12462",
+    "Description": "MOROCCAN TEA GLASS",
+    "StockCode": "79000",
+    "rank": 1,
+    "score": 0.6191123127937317
+  },
+  {
+    "CustomerID": "12462",
+    "Description": "PLACE SETTING WHITE HEART",
+    "StockCode": "22151",
+    "rank": 2,
+    "score": 0.5706266760826111
+  },
+  {
+    "CustomerID": "12462",
+    "Description": "AGED GLASS SILVER T-LIGHT HOLDER",
+    "StockCode": "21326",
+    "rank": 3,
+    "score": 0.5692574381828308
+  },
+  {
+    "CustomerID": "12462",
+    "Description": "GRAND CHOCOLATECANDLE",
+    "StockCode": "72741",
+    "rank": 4,
+    "score": 0.5648956298828125
+  },
+  {
+    "CustomerID": "12462",
+    "Description": "SET/6 PINK  BUTTERFLY T-LIGHTS",
+    "StockCode": "72351B",
+    "rank": 5,
+    "score": 0.5291388630867004
+  },
+  {
+    "CustomerID": "12462",
+    "Description": "HAND WARMER BIRD DESIGN",
+    "StockCode": "22867",
+    "rank": 6,
+    "score": 0.5202850699424744
+  },
+  {
+    "CustomerID": "12462",
+    "Description": "SMALL GLASS HEART TRINKET POT",
+    "StockCode": "21314",
+    "rank": 7,
+    "score": 0.4948239028453827
+  },
+  {
+    "CustomerID": "12463",
+    "Description": "ASSTD DESIGN BUBBLE GUM RING",
+    "StockCode": "84270",
+    "rank": 1,
+    "score": 0.43975403904914856
+  },
+  {
+    "CustomerID": "12463",
+    "Description": "WORLD WAR 2 GLIDERS ASSTD DESIGNS",
+    "StockCode": "84077",
+    "rank": 2,
+    "score": 0.4236387610435486
+  },
+  {
+    "CustomerID": "12463",
+    "Description": "VINTAGE SNAP CARDS",
+    "StockCode": "21790",
+    "rank": 3,
+    "score": 0.40444064140319824
+  },
+  {
+    "CustomerID": "12463",
+    "Description": "PINK CREAM FELT CRAFT TRINKET BOX ",
+    "StockCode": "20972",
+    "rank": 4,
+    "score": 0.3935461640357971
+  },
+  {
+    "CustomerID": "12463",
+    "Description": "PACK OF 12 LONDON TISSUES ",
+    "StockCode": "22616",
+    "rank": 5,
+    "score": 0.392324835062027
+  },
+  {
+    "CustomerID": "12463",
+    "Description": "PACK OF 12 RED SPOTTY TISSUES ",
+    "StockCode": "21980",
+    "rank": 6,
+    "score": 0.3885856568813324
+  },
+  {
+    "CustomerID": "12463",
+    "Description": "PINK BLUE FELT CRAFT TRINKET BOX",
+    "StockCode": "20971",
+    "rank": 7,
+    "score": 0.383657842874527
+  },
+  {
+    "CustomerID": "12463",
+    "Description": "PACK OF 12 WOODLAND TISSUES ",
+    "StockCode": "21981",
+    "rank": 8,
+    "score": 0.3828142583370209
+  },
+  {
+    "CustomerID": "12463",
+    "Description": "DINOSAUR KEYRINGS ASSORTED",
+    "StockCode": "21829",
+    "rank": 9,
+    "score": 0.3827260732650757
+  },
+  {
+    "CustomerID": "12464",
+    "Description": "SET/5 RED SPOTTY LID GLASS BOWLS",
+    "StockCode": "20914",
+    "rank": 1,
+    "score": 0.06226763501763344
+  },
+  {
+    "CustomerID": "12464",
+    "Description": "TEA TIME PARTY BUNTING",
+    "StockCode": "47566B",
+    "rank": 2,
+    "score": 0.061003707349300385
+  },
+  {
+    "CustomerID": "12464",
+    "Description": "20 DOLLY PEGS RETROSPOT",
+    "StockCode": "22567",
+    "rank": 3,
+    "score": 0.05815761536359787
+  },
+  {
+    "CustomerID": "12464",
+    "Description": "RED RETROSPOT PEG BAG",
+    "StockCode": "21155",
+    "rank": 4,
+    "score": 0.05810121074318886
+  },
+  {
+    "CustomerID": "12464",
+    "Description": "PINK 3 PIECE MINI DOTS CUTLERY SET",
+    "StockCode": "84997D",
+    "rank": 5,
+    "score": 0.05620160698890686
+  },
+  {
+    "CustomerID": "12464",
+    "Description": "RED 3 PIECE RETROSPOT CUTLERY SET",
+    "StockCode": "84997B",
+    "rank": 6,
+    "score": 0.05593618378043175
+  },
+  {
+    "CustomerID": "12464",
+    "Description": "DOOR MAT RED SPOT",
+    "StockCode": "20685",
+    "rank": 7,
+    "score": 0.05582784116268158
+  },
+  {
+    "CustomerID": "12464",
+    "Description": "SET OF 72 RETROSPOT PAPER  DOILIES",
+    "StockCode": "21210",
+    "rank": 8,
+    "score": 0.05549968034029007
+  },
+  {
+    "CustomerID": "12464",
+    "Description": "BLUE 3 PIECE POLKADOT CUTLERY SET",
+    "StockCode": "84997C",
+    "rank": 9,
+    "score": 0.05543992668390274
+  },
+  {
+    "CustomerID": "12467",
+    "Description": "WRAP 50'S  CHRISTMAS",
+    "StockCode": "16169E",
+    "rank": 1,
+    "score": 0.29447054862976074
+  },
+  {
+    "CustomerID": "12467",
+    "Description": "WRAP  VINTAGE DOILY ",
+    "StockCode": "23231",
+    "rank": 2,
+    "score": 0.27231770753860474
+  },
+  {
+    "CustomerID": "12467",
+    "Description": "PINK POLKADOT WRAP ",
+    "StockCode": "21500",
+    "rank": 3,
+    "score": 0.2715037167072296
+  },
+  {
+    "CustomerID": "12467",
+    "Description": "WRAP VINTAGE PETALS  DESIGN",
+    "StockCode": "23232",
+    "rank": 4,
+    "score": 0.27147796750068665
+  },
+  {
+    "CustomerID": "12467",
+    "Description": "BLUE SPOTS  WRAP",
+    "StockCode": "21499",
+    "rank": 5,
+    "score": 0.270183801651001
+  },
+  {
+    "CustomerID": "12467",
+    "Description": "RED SPOTS  WRAP ",
+    "StockCode": "21498",
+    "rank": 6,
+    "score": 0.269724041223526
+  },
+  {
+    "CustomerID": "12467",
+    "Description": "WRAP ENGLISH ROSE ",
+    "StockCode": "16161P",
+    "rank": 7,
+    "score": 0.2673659920692444
+  },
+  {
+    "CustomerID": "12467",
+    "Description": "FANCY FONTS BIRTHDAY WRAP",
+    "StockCode": "21497",
+    "rank": 8,
+    "score": 0.2624099552631378
+  },
+  {
+    "CustomerID": "12467",
+    "Description": "WRAP GINGHAM ROSE ",
+    "StockCode": "22986",
+    "rank": 9,
+    "score": 0.257747083902359
+  },
+  {
+    "CustomerID": "12468",
+    "Description": "TEA PARTY BIRTHDAY CARD",
+    "StockCode": "22027",
+    "rank": 1,
+    "score": 1.053094506263733
+  },
+  {
+    "CustomerID": "12468",
+    "Description": "ROBOT BIRTHDAY CARD",
+    "StockCode": "22037",
+    "rank": 2,
+    "score": 1.044799566268921
+  },
+  {
+    "CustomerID": "12468",
+    "Description": "COWBOYS AND INDIANS BIRTHDAY CARD ",
+    "StockCode": "21509",
+    "rank": 3,
+    "score": 1.040420651435852
+  },
+  {
+    "CustomerID": "12468",
+    "Description": "ELEPHANT BIRTHDAY CARD ",
+    "StockCode": "21507",
+    "rank": 4,
+    "score": 1.0234192609786987
+  },
+  {
+    "CustomerID": "12468",
+    "Description": "VINTAGE KID DOLLY CARD ",
+    "StockCode": "21508",
+    "rank": 5,
+    "score": 1.011285424232483
+  },
+  {
+    "CustomerID": "12468",
+    "Description": "CARD DOLLY GIRL ",
+    "StockCode": "22712",
+    "rank": 6,
+    "score": 0.9996734261512756
+  },
+  {
+    "CustomerID": "12468",
+    "Description": "CARD CIRCUS PARADE",
+    "StockCode": "22716",
+    "rank": 7,
+    "score": 0.9817180037498474
+  },
+  {
+    "CustomerID": "12469",
+    "Description": "SET/10 RED POLKADOT PARTY CANDLES",
+    "StockCode": "21121",
+    "rank": 1,
+    "score": 0.5925779342651367
+  },
+  {
+    "CustomerID": "12469",
+    "Description": "72 SWEETHEART FAIRY CAKE CASES",
+    "StockCode": "84992",
+    "rank": 2,
+    "score": 0.5590819716453552
+  },
+  {
+    "CustomerID": "12469",
+    "Description": "SET OF 3 HEART COOKIE CUTTERS",
+    "StockCode": "84378",
+    "rank": 3,
+    "score": 0.5508443713188171
+  },
+  {
+    "CustomerID": "12469",
+    "Description": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "StockCode": "21977",
+    "rank": 4,
+    "score": 0.5487495064735413
+  },
+  {
+    "CustomerID": "12469",
+    "Description": "PACK OF 60 MUSHROOM CAKE CASES",
+    "StockCode": "21976",
+    "rank": 5,
+    "score": 0.5395790338516235
+  },
+  {
+    "CustomerID": "12469",
+    "Description": "PACK OF 72 RETRO SPOT CAKE CASES",
+    "StockCode": "21212",
+    "rank": 6,
+    "score": 0.5389982461929321
+  },
+  {
+    "CustomerID": "12469",
+    "Description": "SET OF 3 BUTTERFLY COOKIE CUTTERS",
+    "StockCode": "84380",
+    "rank": 7,
+    "score": 0.5348591804504395
+  },
+  {
+    "CustomerID": "12469",
+    "Description": "60 TEATIME FAIRY CAKE CASES",
+    "StockCode": "84991",
+    "rank": 8,
+    "score": 0.5281360745429993
+  },
+  {
+    "CustomerID": "12471",
+    "Description": "60 CAKE CASES DOLLY GIRL DESIGN",
+    "StockCode": "22951",
+    "rank": 1,
+    "score": 1.1950370073318481
+  },
+  {
+    "CustomerID": "12471",
+    "Description": "GINGERBREAD MAN COOKIE CUTTER",
+    "StockCode": "22966",
+    "rank": 2,
+    "score": 1.1882083415985107
+  },
+  {
+    "CustomerID": "12471",
+    "Description": "RABBIT NIGHT LIGHT",
+    "StockCode": "23084",
+    "rank": 3,
+    "score": 1.1853445768356323
+  },
+  {
+    "CustomerID": "12471",
+    "Description": "PACK OF 60 SPACEBOY CAKE CASES",
+    "StockCode": "22417",
+    "rank": 4,
+    "score": 1.1735931634902954
+  },
+  {
+    "CustomerID": "12471",
+    "Description": "SET/10 RED POLKADOT PARTY CANDLES",
+    "StockCode": "21121",
+    "rank": 5,
+    "score": 1.1709926128387451
+  },
+  {
+    "CustomerID": "12471",
+    "Description": "HAND WARMER BIRD DESIGN",
+    "StockCode": "22867",
+    "rank": 6,
+    "score": 1.1600128412246704
+  },
+  {
+    "CustomerID": "12471",
+    "Description": "60 CAKE CASES VINTAGE CHRISTMAS",
+    "StockCode": "22952",
+    "rank": 7,
+    "score": 1.1565238237380981
+  },
+  {
+    "CustomerID": "12471",
+    "Description": "SET/10 PINK SPOTTY PARTY CANDLES",
+    "StockCode": "21122",
+    "rank": 8,
+    "score": 1.1497336626052856
+  },
+  {
+    "CustomerID": "12471",
+    "Description": "RED SPOTTY CHILDS APRON",
+    "StockCode": "21156",
+    "rank": 9,
+    "score": 1.1471354961395264
+  },
+  {
+    "CustomerID": "12472",
+    "Description": "PARTY CONE CHRISTMAS DECORATION ",
+    "StockCode": "22130",
+    "rank": 1,
+    "score": 1.1591473817825317
+  },
+  {
+    "CustomerID": "12472",
+    "Description": "PAPER CHAIN KIT 50'S CHRISTMAS ",
+    "StockCode": "22086",
+    "rank": 2,
+    "score": 1.1457983255386353
+  },
+  {
+    "CustomerID": "12472",
+    "Description": "SMALL HANGING IVORY/RED WOOD BIRD",
+    "StockCode": "85199S",
+    "rank": 3,
+    "score": 1.0949498414993286
+  },
+  {
+    "CustomerID": "12472",
+    "Description": "ROBOT BIRTHDAY CARD",
+    "StockCode": "22037",
+    "rank": 4,
+    "score": 1.088071346282959
+  },
+  {
+    "CustomerID": "12472",
+    "Description": "COWBOYS AND INDIANS BIRTHDAY CARD ",
+    "StockCode": "21509",
+    "rank": 5,
+    "score": 1.0822532176971436
+  },
+  {
+    "CustomerID": "12472",
+    "Description": "PINK SPOTTY BOWL",
+    "StockCode": "20677",
+    "rank": 6,
+    "score": 1.0778805017471313
+  },
+  {
+    "CustomerID": "12473",
+    "Description": "PACK OF 12 RED SPOTTY TISSUES ",
+    "StockCode": "21980",
+    "rank": 1,
+    "score": 0.8111785054206848
+  },
+  {
+    "CustomerID": "12473",
+    "Description": "FANCY FONTS BIRTHDAY WRAP",
+    "StockCode": "21497",
+    "rank": 2,
+    "score": 0.8012876510620117
+  },
+  {
+    "CustomerID": "12473",
+    "Description": "PINK POLKADOT WRAP ",
+    "StockCode": "21500",
+    "rank": 3,
+    "score": 0.8005596399307251
+  },
+  {
+    "CustomerID": "12473",
+    "Description": "VINTAGE SNAP CARDS",
+    "StockCode": "21790",
+    "rank": 4,
+    "score": 0.7906070947647095
+  },
+  {
+    "CustomerID": "12473",
+    "Description": "WRAP ENGLISH ROSE ",
+    "StockCode": "16161P",
+    "rank": 5,
+    "score": 0.769974946975708
+  },
+  {
+    "CustomerID": "12473",
+    "Description": "SKULLS AND CROSSBONES WRAP",
+    "StockCode": "21495",
+    "rank": 6,
+    "score": 0.7620354294776917
+  },
+  {
+    "CustomerID": "12473",
+    "Description": "ASSTD DESIGN BUBBLE GUM RING",
+    "StockCode": "84270",
+    "rank": 7,
+    "score": 0.7606075406074524
+  },
+  {
+    "CustomerID": "12474",
+    "Description": "CARD DOLLY GIRL ",
+    "StockCode": "22712",
+    "rank": 1,
+    "score": 1.053104043006897
+  },
+  {
+    "CustomerID": "12474",
+    "Description": "COWBOYS AND INDIANS BIRTHDAY CARD ",
+    "StockCode": "21509",
+    "rank": 2,
+    "score": 1.0479055643081665
+  },
+  {
+    "CustomerID": "12476",
+    "Description": "PINK 3 PIECE MINI DOTS CUTLERY SET",
+    "StockCode": "84997D",
+    "rank": 1,
+    "score": 0.8844931721687317
+  },
+  {
+    "CustomerID": "12476",
+    "Description": "BLUE 3 PIECE POLKADOT CUTLERY SET",
+    "StockCode": "84997C",
+    "rank": 2,
+    "score": 0.8798441886901855
+  },
+  {
+    "CustomerID": "12476",
+    "Description": "DISCO BALL CHRISTMAS DECORATION",
+    "StockCode": "20668",
+    "rank": 3,
+    "score": 0.8551152348518372
+  },
+  {
+    "CustomerID": "12476",
+    "Description": "SMALL POPCORN HOLDER",
+    "StockCode": "22197",
+    "rank": 4,
+    "score": 0.8188513517379761
+  },
+  {
+    "CustomerID": "12476",
+    "Description": "PARTY METAL SIGN ",
+    "StockCode": "21172",
+    "rank": 5,
+    "score": 0.7997981905937195
+  },
+  {
+    "CustomerID": "12477",
+    "Description": "TEA TIME PARTY BUNTING",
+    "StockCode": "47566B",
+    "rank": 1,
+    "score": 1.0267395973205566
+  },
+  {
+    "CustomerID": "12477",
+    "Description": "PINK 3 PIECE MINI DOTS CUTLERY SET",
+    "StockCode": "84997D",
+    "rank": 2,
+    "score": 1.0229058265686035
+  },
+  {
+    "CustomerID": "12477",
+    "Description": "BLUE 3 PIECE POLKADOT CUTLERY SET",
+    "StockCode": "84997C",
+    "rank": 3,
+    "score": 1.009198784828186
+  },
+  {
+    "CustomerID": "12477",
+    "Description": "NO SINGING METAL SIGN",
+    "StockCode": "82600",
+    "rank": 4,
+    "score": 0.9709910750389099
+  },
+  {
+    "CustomerID": "12477",
+    "Description": "RED SPOT CERAMIC DRAWER KNOB",
+    "StockCode": "21671",
+    "rank": 5,
+    "score": 0.963121235370636
+  },
+  {
+    "CustomerID": "12480",
+    "Description": "PACK OF 60 MUSHROOM CAKE CASES",
+    "StockCode": "21976",
+    "rank": 1,
+    "score": 1.0806597471237183
+  },
+  {
+    "CustomerID": "12480",
+    "Description": "PACK OF 72 SKULL CAKE CASES",
+    "StockCode": "21213",
+    "rank": 2,
+    "score": 1.070623755455017
+  },
+  {
+    "CustomerID": "12480",
+    "Description": "RED SPOTTY CHILDS APRON",
+    "StockCode": "21156",
+    "rank": 3,
+    "score": 1.061946988105774
+  },
+  {
+    "CustomerID": "12480",
+    "Description": "PACK OF 60 DINOSAUR CAKE CASES",
+    "StockCode": "21975",
+    "rank": 4,
+    "score": 1.049240231513977
+  },
+  {
+    "CustomerID": "12480",
+    "Description": "SET/6 RED SPOTTY PAPER PLATES",
+    "StockCode": "21094",
+    "rank": 5,
+    "score": 1.035992980003357
+  },
+  {
+    "CustomerID": "12480",
+    "Description": "SET/10 RED POLKADOT PARTY CANDLES",
+    "StockCode": "21121",
+    "rank": 6,
+    "score": 1.01698637008667
+  },
+  {
+    "CustomerID": "12481",
+    "Description": "WRAP CHRISTMAS VILLAGE",
+    "StockCode": "22959",
+    "rank": 1,
+    "score": 1.2041988372802734
+  },
+  {
+    "CustomerID": "12481",
+    "Description": "PACK OF 72 RETRO SPOT CAKE CASES",
+    "StockCode": "21212",
+    "rank": 2,
+    "score": 1.1298569440841675
+  },
+  {
+    "CustomerID": "12481",
+    "Description": "WRAP,SUKI AND FRIENDS",
+    "StockCode": "16161U",
+    "rank": 3,
+    "score": 1.1185654401779175
+  },
+  {
+    "CustomerID": "12481",
+    "Description": "WRAP 50'S  CHRISTMAS",
+    "StockCode": "16169E",
+    "rank": 4,
+    "score": 1.1105835437774658
+  },
+  {
+    "CustomerID": "12481",
+    "Description": "RED SPOTS  WRAP ",
+    "StockCode": "21498",
+    "rank": 5,
+    "score": 1.0969871282577515
+  },
+  {
+    "CustomerID": "12481",
+    "Description": "PINK POLKADOT WRAP ",
+    "StockCode": "21500",
+    "rank": 6,
+    "score": 1.0851554870605469
+  },
+  {
+    "CustomerID": "12481",
+    "Description": "BLUE SPOTS  WRAP",
+    "StockCode": "21499",
+    "rank": 7,
+    "score": 1.0841305255889893
+  },
+  {
+    "CustomerID": "12481",
+    "Description": "PACK OF 60 MUSHROOM CAKE CASES",
+    "StockCode": "21976",
+    "rank": 8,
+    "score": 1.0832332372665405
+  },
+  {
+    "CustomerID": "12481",
+    "Description": "CHARLOTTE BAG DOLLY GIRL DESIGN",
+    "StockCode": "22661",
+    "rank": 9,
+    "score": 1.0763843059539795
+  },
+  {
+    "CustomerID": "12481",
+    "Description": "PACK OF 72 SKULL CAKE CASES",
+    "StockCode": "21213",
+    "rank": 10,
+    "score": 1.0733426809310913
+  },
+  {
+    "CustomerID": "12482",
+    "Description": "RED SPOTS  WRAP ",
+    "StockCode": "21498",
+    "rank": 1,
+    "score": 1.8443282842636108
+  },
+  {
+    "CustomerID": "12482",
+    "Description": "PINK POLKADOT WRAP ",
+    "StockCode": "21500",
+    "rank": 2,
+    "score": 1.8237568140029907
+  },
+  {
+    "CustomerID": "12482",
+    "Description": "BLUE SPOTS  WRAP",
+    "StockCode": "21499",
+    "rank": 3,
+    "score": 1.7733038663864136
+  },
+  {
+    "CustomerID": "12482",
+    "Description": "ASSTD DESIGN BUBBLE GUM RING",
+    "StockCode": "84270",
+    "rank": 4,
+    "score": 1.7251415252685547
+  },
+  {
+    "CustomerID": "12482",
+    "Description": "PACK OF 12 WOODLAND TISSUES ",
+    "StockCode": "21981",
+    "rank": 5,
+    "score": 1.7098212242126465
+  },
+  {
+    "CustomerID": "12482",
+    "Description": "SKULLS AND CROSSBONES WRAP",
+    "StockCode": "21495",
+    "rank": 6,
+    "score": 1.694331407546997
+  },
+  {
+    "CustomerID": "12482",
+    "Description": "FANCY FONTS BIRTHDAY WRAP",
+    "StockCode": "21497",
+    "rank": 7,
+    "score": 1.6682875156402588
+  },
+  {
+    "CustomerID": "12482",
+    "Description": "WRAP,SUKI AND FRIENDS",
+    "StockCode": "16161U",
+    "rank": 8,
+    "score": 1.619788408279419
+  },
+  {
+    "CustomerID": "12482",
+    "Description": "PACK OF 12 RED SPOTTY TISSUES ",
+    "StockCode": "21980",
+    "rank": 9,
+    "score": 1.61874258518219
+  },
+  {
+    "CustomerID": "12482",
+    "Description": "SPACEBOY GIFT WRAP",
+    "StockCode": "22045",
+    "rank": 10,
+    "score": 1.6138750314712524
+  },
+  {
+    "CustomerID": "12483",
+    "Description": "LUNCH BAG SPACEBOY DESIGN ",
+    "StockCode": "22382",
+    "rank": 1,
+    "score": 0.8714966773986816
+  },
+  {
+    "CustomerID": "12483",
+    "Description": "PLASTERS IN TIN SPACEBOY",
+    "StockCode": "22551",
+    "rank": 2,
+    "score": 0.8632877469062805
+  },
+  {
+    "CustomerID": "12483",
+    "Description": "PACK OF 60 SPACEBOY CAKE CASES",
+    "StockCode": "22417",
+    "rank": 3,
+    "score": 0.857107400894165
+  },
+  {
+    "CustomerID": "12483",
+    "Description": "BROCADE RING PURSE ",
+    "StockCode": "17003",
+    "rank": 4,
+    "score": 0.8509300351142883
+  },
+  {
+    "CustomerID": "12483",
+    "Description": "PACK OF 60 DINOSAUR CAKE CASES",
+    "StockCode": "21975",
+    "rank": 5,
+    "score": 0.845267117023468
+  },
+  {
+    "CustomerID": "12483",
+    "Description": "10 COLOUR SPACEBOY PEN",
+    "StockCode": "22418",
+    "rank": 6,
+    "score": 0.8418369889259338
+  },
+  {
+    "CustomerID": "12483",
+    "Description": "PLASTERS IN TIN WOODLAND ANIMALS",
+    "StockCode": "22554",
+    "rank": 7,
+    "score": 0.8332385420799255
+  },
+  {
+    "CustomerID": "12484",
+    "Description": "WORLD WAR 2 GLIDERS ASSTD DESIGNS",
+    "StockCode": "84077",
+    "rank": 1,
+    "score": 0.9428391456604004
+  },
+  {
+    "CustomerID": "12484",
+    "Description": "PACK OF 12 LONDON TISSUES ",
+    "StockCode": "22616",
+    "rank": 2,
+    "score": 0.9184573888778687
+  },
+  {
+    "CustomerID": "12484",
+    "Description": "VINTAGE SNAP CARDS",
+    "StockCode": "21790",
+    "rank": 3,
+    "score": 0.9066725969314575
+  },
+  {
+    "CustomerID": "12484",
+    "Description": "RED TOADSTOOL LED NIGHT LIGHT",
+    "StockCode": "21731",
+    "rank": 4,
+    "score": 0.8764292597770691
+  },
+  {
+    "CustomerID": "12484",
+    "Description": "PACK OF 12 RED SPOTTY TISSUES ",
+    "StockCode": "21980",
+    "rank": 5,
+    "score": 0.8557628393173218
+  },
+  {
+    "CustomerID": "12484",
+    "Description": "ASSTD DESIGN BUBBLE GUM RING",
+    "StockCode": "84270",
+    "rank": 6,
+    "score": 0.8429607152938843
+  },
+  {
+    "CustomerID": "12484",
+    "Description": "VINTAGE HEADS AND TAILS CARD GAME ",
+    "StockCode": "21791",
+    "rank": 7,
+    "score": 0.8359842300415039
+  },
+  {
+    "CustomerID": "12486",
+    "Description": "TRADITIONAL WOODEN CATCH CUP GAME ",
+    "StockCode": "21892",
+    "rank": 1,
+    "score": 0.8601375222206116
+  },
+  {
+    "CustomerID": "12486",
+    "Description": "PACK OF 12 TRADITIONAL CRAYONS",
+    "StockCode": "22489",
+    "rank": 2,
+    "score": 0.8593587279319763
+  },
+  {
+    "CustomerID": "12486",
+    "Description": "ICE CREAM SUNDAE LIP GLOSS",
+    "StockCode": "23076",
+    "rank": 3,
+    "score": 0.8270515203475952
+  },
+  {
+    "CustomerID": "12486",
+    "Description": "RED  HARMONICA IN BOX ",
+    "StockCode": "21915",
+    "rank": 4,
+    "score": 0.8267508745193481
+  },
+  {
+    "CustomerID": "12486",
+    "Description": "10 COLOUR SPACEBOY PEN",
+    "StockCode": "22418",
+    "rank": 5,
+    "score": 0.825898289680481
+  },
+  {
+    "CustomerID": "12486",
+    "Description": "BLUE HARMONICA IN BOX ",
+    "StockCode": "21914",
+    "rank": 6,
+    "score": 0.8216845393180847
+  },
+  {
+    "CustomerID": "12486",
+    "Description": "WOODEN BOX OF DOMINOES",
+    "StockCode": "21889",
+    "rank": 7,
+    "score": 0.8201131820678711
+  },
+  {
+    "CustomerID": "12486",
+    "Description": "TRADITIONAL WOODEN SKIPPING ROPE",
+    "StockCode": "21891",
+    "rank": 8,
+    "score": 0.8168848156929016
+  },
+  {
+    "CustomerID": "12487",
+    "Description": "FUNKY DIVA PEN",
+    "StockCode": "22741",
+    "rank": 1,
+    "score": 0.5595704317092896
+  },
+  {
+    "CustomerID": "12487",
+    "Description": "SMALL POPCORN HOLDER",
+    "StockCode": "22197",
+    "rank": 2,
+    "score": 0.542106032371521
+  },
+  {
+    "CustomerID": "12487",
+    "Description": "VINTAGE SNAP CARDS",
+    "StockCode": "21790",
+    "rank": 3,
+    "score": 0.5274122953414917
+  },
+  {
+    "CustomerID": "12487",
+    "Description": "WORLD WAR 2 GLIDERS ASSTD DESIGNS",
+    "StockCode": "84077",
+    "rank": 4,
+    "score": 0.5244960784912109
+  },
+  {
+    "CustomerID": "12487",
+    "Description": "PACK OF 12 TRADITIONAL CRAYONS",
+    "StockCode": "22489",
+    "rank": 5,
+    "score": 0.5073652267456055
+  },
+  {
+    "CustomerID": "12487",
+    "Description": "10 COLOUR SPACEBOY PEN",
+    "StockCode": "22418",
+    "rank": 6,
+    "score": 0.5067455768585205
+  },
+  {
+    "CustomerID": "12487",
+    "Description": "12 PENCILS SMALL TUBE RED RETROSPOT",
+    "StockCode": "20975",
+    "rank": 7,
+    "score": 0.5002575516700745
+  },
+  {
+    "CustomerID": "12487",
+    "Description": "TRADITIONAL WOODEN CATCH CUP GAME ",
+    "StockCode": "21892",
+    "rank": 8,
+    "score": 0.4963419735431671
+  },
+  {
+    "CustomerID": "12487",
+    "Description": "RED  HARMONICA IN BOX ",
+    "StockCode": "21915",
+    "rank": 9,
+    "score": 0.49551939964294434
+  },
+  {
+    "CustomerID": "12489",
+    "Description": "CARD DOLLY GIRL ",
+    "StockCode": "22712",
+    "rank": 1,
+    "score": 0.27892857789993286
+  },
+  {
+    "CustomerID": "12489",
+    "Description": "COWBOYS AND INDIANS BIRTHDAY CARD ",
+    "StockCode": "21509",
+    "rank": 2,
+    "score": 0.27812647819519043
+  },
+  {
+    "CustomerID": "12489",
+    "Description": "VINTAGE KID DOLLY CARD ",
+    "StockCode": "21508",
+    "rank": 3,
+    "score": 0.27588343620300293
+  },
+  {
+    "CustomerID": "12489",
+    "Description": "ELEPHANT BIRTHDAY CARD ",
+    "StockCode": "21507",
+    "rank": 4,
+    "score": 0.27491554617881775
+  },
+  {
+    "CustomerID": "12489",
+    "Description": "PINK  SPOTTY PLATE ",
+    "StockCode": "21243",
+    "rank": 5,
+    "score": 0.27409836649894714
+  },
+  {
+    "CustomerID": "12489",
+    "Description": "SPACEBOY BIRTHDAY CARD",
+    "StockCode": "22029",
+    "rank": 6,
+    "score": 0.273825466632843
+  },
+  {
+    "CustomerID": "12489",
+    "Description": "ROBOT BIRTHDAY CARD",
+    "StockCode": "22037",
+    "rank": 7,
+    "score": 0.27041754126548767
+  },
+  {
+    "CustomerID": "12489",
+    "Description": "PINK SPOTTY BOWL",
+    "StockCode": "20677",
+    "rank": 8,
+    "score": 0.2703626751899719
+  },
+  {
+    "CustomerID": "12489",
+    "Description": "BLUE POLKADOT PLATE ",
+    "StockCode": "21244",
+    "rank": 9,
+    "score": 0.2684558033943176
+  },
+  {
+    "CustomerID": "12490",
+    "Description": "RED SPOTTY PLATE ",
+    "StockCode": "21242",
+    "rank": 1,
+    "score": 1.1066548824310303
+  },
+  {
+    "CustomerID": "12490",
+    "Description": "PINK SPOTTY BOWL",
+    "StockCode": "20677",
+    "rank": 2,
+    "score": 1.1039245128631592
+  },
+  {
+    "CustomerID": "12490",
+    "Description": "BLUE POLKADOT BOWL",
+    "StockCode": "20675",
+    "rank": 3,
+    "score": 1.0966404676437378
+  },
+  {
+    "CustomerID": "12491",
+    "Description": "BROCADE RING PURSE ",
+    "StockCode": "17003",
+    "rank": 1,
+    "score": 0.6781963109970093
+  },
+  {
+    "CustomerID": "12491",
+    "Description": "CHARLOTTE BAG , SUKI DESIGN",
+    "StockCode": "22355",
+    "rank": 2,
+    "score": 0.5982967615127563
+  },
+  {
+    "CustomerID": "12491",
+    "Description": "CHINESE DRAGON PAPER LANTERNS",
+    "StockCode": "40016",
+    "rank": 3,
+    "score": 0.5945782661437988
+  },
+  {
+    "CustomerID": "12491",
+    "Description": "LUNCH BAG SPACEBOY DESIGN ",
+    "StockCode": "22382",
+    "rank": 4,
+    "score": 0.5920699834823608
+  },
+  {
+    "CustomerID": "12491",
+    "Description": "CHARLOTTE BAG , PINK/WHITE SPOTS",
+    "StockCode": "22356",
+    "rank": 5,
+    "score": 0.5842071175575256
+  },
+  {
+    "CustomerID": "12491",
+    "Description": "STRAWBERRY CHARLOTTE BAG",
+    "StockCode": "20723",
+    "rank": 6,
+    "score": 0.581020176410675
+  },
+  {
+    "CustomerID": "12491",
+    "Description": "ASSORTED COLOURS SILK FAN",
+    "StockCode": "15036",
+    "rank": 7,
+    "score": 0.5793381333351135
+  },
+  {
+    "CustomerID": "12491",
+    "Description": "LUNCH BAG WOODLAND",
+    "StockCode": "20726",
+    "rank": 8,
+    "score": 0.5766438245773315
+  },
+  {
+    "CustomerID": "12492",
+    "Description": "LUNCH BAG SPACEBOY DESIGN ",
+    "StockCode": "22382",
+    "rank": 1,
+    "score": 0.5969495177268982
+  },
+  {
+    "CustomerID": "12492",
+    "Description": "ROUND SNACK BOXES SET OF 4 FRUITS ",
+    "StockCode": "22328",
+    "rank": 2,
+    "score": 0.578139066696167
+  },
+  {
+    "CustomerID": "12492",
+    "Description": "LUNCH BAG WOODLAND",
+    "StockCode": "20726",
+    "rank": 3,
+    "score": 0.5778529644012451
+  },
+  {
+    "CustomerID": "12492",
+    "Description": "LUNCH BAG SUKI  DESIGN ",
+    "StockCode": "22383",
+    "rank": 4,
+    "score": 0.5690935850143433
+  },
+  {
+    "CustomerID": "12492",
+    "Description": "RED SPOTTY CHILDS APRON",
+    "StockCode": "21156",
+    "rank": 5,
+    "score": 0.5671640634536743
+  },
+  {
+    "CustomerID": "12492",
+    "Description": "DOLLY GIRL LUNCH BOX",
+    "StockCode": "22630",
+    "rank": 6,
+    "score": 0.5632163882255554
+  },
+  {
+    "CustomerID": "12492",
+    "Description": "LUNCH BAG RED SPOTTY",
+    "StockCode": "20725",
+    "rank": 7,
+    "score": 0.5626773834228516
+  },
+  {
+    "CustomerID": "12494",
+    "Description": "BROCADE RING PURSE ",
+    "StockCode": "17003",
+    "rank": 1,
+    "score": 0.6249244213104248
+  },
+  {
+    "CustomerID": "12494",
+    "Description": "RED SPOTTY CHARLOTTE BAG",
+    "StockCode": "20724",
+    "rank": 2,
+    "score": 0.5986331701278687
+  },
+  {
+    "CustomerID": "12494",
+    "Description": "ASSORTED COLOURS SILK FAN",
+    "StockCode": "15036",
+    "rank": 3,
+    "score": 0.5984277129173279
+  },
+  {
+    "CustomerID": "12494",
+    "Description": "STRAWBERRY CHARLOTTE BAG",
+    "StockCode": "20723",
+    "rank": 4,
+    "score": 0.5630250573158264
+  },
+  {
+    "CustomerID": "12494",
+    "Description": "CHINESE DRAGON PAPER LANTERNS",
+    "StockCode": "40016",
+    "rank": 5,
+    "score": 0.5577352046966553
+  },
+  {
+    "CustomerID": "12494",
+    "Description": "PACK OF 72 SKULL CAKE CASES",
+    "StockCode": "21213",
+    "rank": 6,
+    "score": 0.5359442234039307
+  },
+  {
+    "CustomerID": "12495",
+    "Description": "60 TEATIME FAIRY CAKE CASES",
+    "StockCode": "84991",
+    "rank": 1,
+    "score": 0.5167291164398193
+  },
+  {
+    "CustomerID": "12495",
+    "Description": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "StockCode": "21977",
+    "rank": 2,
+    "score": 0.5160027742385864
+  },
+  {
+    "CustomerID": "12495",
+    "Description": "72 SWEETHEART FAIRY CAKE CASES",
+    "StockCode": "84992",
+    "rank": 3,
+    "score": 0.5056622624397278
+  },
+  {
+    "CustomerID": "12495",
+    "Description": "PACK OF 72 RETRO SPOT CAKE CASES",
+    "StockCode": "21212",
+    "rank": 4,
+    "score": 0.5036342144012451
+  },
+  {
+    "CustomerID": "12495",
+    "Description": "PACK OF 60 SPACEBOY CAKE CASES",
+    "StockCode": "22417",
+    "rank": 5,
+    "score": 0.49752646684646606
+  },
+  {
+    "CustomerID": "12495",
+    "Description": "SET/10 PINK SPOTTY PARTY CANDLES",
+    "StockCode": "21122",
+    "rank": 6,
+    "score": 0.4962659180164337
+  },
+  {
+    "CustomerID": "12495",
+    "Description": "PACK OF 60 DINOSAUR CAKE CASES",
+    "StockCode": "21975",
+    "rank": 7,
+    "score": 0.49187135696411133
+  },
+  {
+    "CustomerID": "12495",
+    "Description": "60 CAKE CASES VINTAGE CHRISTMAS",
+    "StockCode": "22952",
+    "rank": 8,
+    "score": 0.4916154444217682
+  },
+  {
+    "CustomerID": "12497",
+    "Description": "BROCADE RING PURSE ",
+    "StockCode": "17003",
+    "rank": 1,
+    "score": 1.970744013786316
+  },
+  {
+    "CustomerID": "12497",
+    "Description": "JUMBO BAG 50'S CHRISTMAS ",
+    "StockCode": "23344",
+    "rank": 2,
+    "score": 1.8441870212554932
+  },
+  {
+    "CustomerID": "12497",
+    "Description": "CHINESE DRAGON PAPER LANTERNS",
+    "StockCode": "40016",
+    "rank": 3,
+    "score": 1.8064284324645996
+  },
+  {
+    "CustomerID": "12497",
+    "Description": "12 PENCILS TALL TUBE POSY",
+    "StockCode": "20984",
+    "rank": 4,
+    "score": 1.7562322616577148
+  },
+  {
+    "CustomerID": "12497",
+    "Description": "BUBBLEGUM RING ASSORTED",
+    "StockCode": "23310",
+    "rank": 5,
+    "score": 1.7260456085205078
+  },
+  {
+    "CustomerID": "12497",
+    "Description": "FRENCH STYLE STORAGE JAR BONBONS",
+    "StockCode": "23187",
+    "rank": 6,
+    "score": 1.7186003923416138
+  },
+  {
+    "CustomerID": "12497",
+    "Description": "JUMBO BAG VINTAGE DOILY ",
+    "StockCode": "23203",
+    "rank": 7,
+    "score": 1.7058825492858887
+  },
+  {
+    "CustomerID": "12497",
+    "Description": "ASSORTED COLOURS SILK FAN",
+    "StockCode": "15036",
+    "rank": 8,
+    "score": 1.6919467449188232
+  },
+  {
+    "CustomerID": "12497",
+    "Description": "VINTAGE DOILY JUMBO BAG RED ",
+    "StockCode": "23582",
+    "rank": 9,
+    "score": 1.6898061037063599
+  },
+  {
+    "CustomerID": "12497",
+    "Description": "RED SPOTTY BEAKER ",
+    "StockCode": "21394",
+    "rank": 10,
+    "score": 1.6619046926498413
+  },
+  {
+    "CustomerID": "12500",
+    "Description": "PACK OF 72 RETRO SPOT CAKE CASES",
+    "StockCode": "21212",
+    "rank": 1,
+    "score": 1.098512887954712
+  },
+  {
+    "CustomerID": "12500",
+    "Description": "60 TEATIME FAIRY CAKE CASES",
+    "StockCode": "84991",
+    "rank": 2,
+    "score": 1.095768690109253
+  },
+  {
+    "CustomerID": "12500",
+    "Description": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "StockCode": "21977",
+    "rank": 3,
+    "score": 1.0634859800338745
+  },
+  {
+    "CustomerID": "12500",
+    "Description": "WRAP ENGLISH ROSE ",
+    "StockCode": "16161P",
+    "rank": 4,
+    "score": 1.0245860815048218
+  },
+  {
+    "CustomerID": "12500",
+    "Description": "PACK OF 12 RED SPOTTY TISSUES ",
+    "StockCode": "21980",
+    "rank": 5,
+    "score": 1.0205291509628296
+  },
+  {
+    "CustomerID": "12500",
+    "Description": "CHILLI LIGHTS",
+    "StockCode": "79321",
+    "rank": 6,
+    "score": 1.0045626163482666
+  },
+  {
+    "CustomerID": "12500",
+    "Description": "72 SWEETHEART FAIRY CAKE CASES",
+    "StockCode": "84992",
+    "rank": 7,
+    "score": 1.0034476518630981
+  },
+  {
+    "CustomerID": "12500",
+    "Description": "SET/20 RED RETROSPOT PAPER NAPKINS ",
+    "StockCode": "21080",
+    "rank": 8,
+    "score": 0.9504595994949341
+  },
+  {
+    "CustomerID": "12500",
+    "Description": "RED SPOTS  WRAP ",
+    "StockCode": "21498",
+    "rank": 9,
+    "score": 0.9435136318206787
+  },
+  {
+    "CustomerID": "12500",
+    "Description": "SET/10 PINK SPOTTY PARTY CANDLES",
+    "StockCode": "21122",
+    "rank": 10,
+    "score": 0.9223840832710266
+  },
+  {
+    "CustomerID": "12501",
+    "Description": "PACK OF 60 MUSHROOM CAKE CASES",
+    "StockCode": "21976",
+    "rank": 1,
+    "score": 1.0885896682739258
+  },
+  {
+    "CustomerID": "12501",
+    "Description": "TEA PARTY BIRTHDAY CARD",
+    "StockCode": "22027",
+    "rank": 2,
+    "score": 1.0589967966079712
+  },
+  {
+    "CustomerID": "12501",
+    "Description": "PACK OF 72 SKULL CAKE CASES",
+    "StockCode": "21213",
+    "rank": 3,
+    "score": 1.048671007156372
+  },
+  {
+    "CustomerID": "12501",
+    "Description": "WRAP,SUKI AND FRIENDS",
+    "StockCode": "16161U",
+    "rank": 4,
+    "score": 1.0441434383392334
+  },
+  {
+    "CustomerID": "12501",
+    "Description": "SPACEBOY BIRTHDAY CARD",
+    "StockCode": "22029",
+    "rank": 5,
+    "score": 1.0388025045394897
+  },
+  {
+    "CustomerID": "12501",
+    "Description": "ROUND SNACK BOXES SET OF4 WOODLAND ",
+    "StockCode": "22326",
+    "rank": 6,
+    "score": 1.0296802520751953
+  },
+  {
+    "CustomerID": "12502",
+    "Description": "PARTY BUNTING",
+    "StockCode": "47566",
+    "rank": 1,
+    "score": 0.7347858548164368
+  },
+  {
+    "CustomerID": "12502",
+    "Description": "PACK OF 72 RETRO SPOT CAKE CASES",
+    "StockCode": "21212",
+    "rank": 2,
+    "score": 0.7162903547286987
+  },
+  {
+    "CustomerID": "12502",
+    "Description": "SET OF 72 RETROSPOT PAPER  DOILIES",
+    "StockCode": "21210",
+    "rank": 3,
+    "score": 0.7143944501876831
+  },
+  {
+    "CustomerID": "12502",
+    "Description": "60 TEATIME FAIRY CAKE CASES",
+    "StockCode": "84991",
+    "rank": 4,
+    "score": 0.7134547829627991
+  },
+  {
+    "CustomerID": "12502",
+    "Description": "SET/5 RED SPOTTY LID GLASS BOWLS",
+    "StockCode": "20914",
+    "rank": 5,
+    "score": 0.7094193696975708
+  },
+  {
+    "CustomerID": "12502",
+    "Description": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "StockCode": "21977",
+    "rank": 6,
+    "score": 0.705470860004425
+  },
+  {
+    "CustomerID": "12502",
+    "Description": "72 SWEETHEART FAIRY CAKE CASES",
+    "StockCode": "84992",
+    "rank": 7,
+    "score": 0.7025049328804016
+  },
+  {
+    "CustomerID": "12502",
+    "Description": "SET OF 3 HEART COOKIE CUTTERS",
+    "StockCode": "84378",
+    "rank": 8,
+    "score": 0.69969642162323
+  },
+  {
+    "CustomerID": "12503",
+    "Description": "RED SPOTS  WRAP ",
+    "StockCode": "21498",
+    "rank": 1,
+    "score": 1.4413788318634033
+  },
+  {
+    "CustomerID": "12503",
+    "Description": "PINK POLKADOT WRAP ",
+    "StockCode": "21500",
+    "rank": 2,
+    "score": 1.3733220100402832
+  },
+  {
+    "CustomerID": "12503",
+    "Description": "GIRLS ALPHABET IRON ON PATCHES ",
+    "StockCode": "84568",
+    "rank": 3,
+    "score": 1.3569577932357788
+  },
+  {
+    "CustomerID": "12503",
+    "Description": "BLUE SPOTS  WRAP",
+    "StockCode": "21499",
+    "rank": 4,
+    "score": 1.3390469551086426
+  },
+  {
+    "CustomerID": "12503",
+    "Description": "WRAP PINK FAIRY CAKES ",
+    "StockCode": "16156S",
+    "rank": 5,
+    "score": 1.299967885017395
+  },
+  {
+    "CustomerID": "12503",
+    "Description": "WRAP ENGLISH ROSE ",
+    "StockCode": "16161P",
+    "rank": 6,
+    "score": 1.2714778184890747
+  },
+  {
+    "CustomerID": "12503",
+    "Description": "PACK OF 12 RED SPOTTY TISSUES ",
+    "StockCode": "21980",
+    "rank": 7,
+    "score": 1.2579072713851929
+  },
+  {
+    "CustomerID": "12503",
+    "Description": "PACK OF 12 PINK PAISLEY TISSUES ",
+    "StockCode": "21984",
+    "rank": 8,
+    "score": 1.2446224689483643
+  },
+  {
+    "CustomerID": "12503",
+    "Description": "FANCY FONTS BIRTHDAY WRAP",
+    "StockCode": "21497",
+    "rank": 9,
+    "score": 1.229604959487915
+  },
+  {
+    "CustomerID": "12503",
+    "Description": "PACK OF 12 BLUE PAISLEY TISSUES ",
+    "StockCode": "21983",
+    "rank": 10,
+    "score": 1.20240318775177
+  },
+  {
+    "CustomerID": "12504",
+    "Description": "PACK OF 60 SPACEBOY CAKE CASES",
+    "StockCode": "22417",
+    "rank": 1,
+    "score": 0.44330817461013794
+  },
+  {
+    "CustomerID": "12504",
+    "Description": "60 CAKE CASES VINTAGE CHRISTMAS",
+    "StockCode": "22952",
+    "rank": 2,
+    "score": 0.43813860416412354
+  },
+  {
+    "CustomerID": "12504",
+    "Description": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "StockCode": "21977",
+    "rank": 3,
+    "score": 0.43798524141311646
+  },
+  {
+    "CustomerID": "12504",
+    "Description": "72 SWEETHEART FAIRY CAKE CASES",
+    "StockCode": "84992",
+    "rank": 4,
+    "score": 0.4373902380466461
+  },
+  {
+    "CustomerID": "12504",
+    "Description": "PACK OF 60 DINOSAUR CAKE CASES",
+    "StockCode": "21975",
+    "rank": 5,
+    "score": 0.42663025856018066
+  },
+  {
+    "CustomerID": "12504",
+    "Description": "60 TEATIME FAIRY CAKE CASES",
+    "StockCode": "84991",
+    "rank": 6,
+    "score": 0.42595183849334717
+  },
+  {
+    "CustomerID": "12504",
+    "Description": "SET OF 36 TEATIME PAPER DOILIES",
+    "StockCode": "84987",
+    "rank": 7,
+    "score": 0.42402777075767517
+  },
+  {
+    "CustomerID": "12504",
+    "Description": "PACK OF 72 RETRO SPOT CAKE CASES",
+    "StockCode": "21212",
+    "rank": 8,
+    "score": 0.4225747287273407
+  },
+  {
+    "CustomerID": "12504",
+    "Description": "SET OF 72 RETROSPOT PAPER  DOILIES",
+    "StockCode": "21210",
+    "rank": 9,
+    "score": 0.4213498532772064
+  },
+  {
+    "CustomerID": "12507",
+    "Description": "PACK OF 72 RETRO SPOT CAKE CASES",
+    "StockCode": "21212",
+    "rank": 1,
+    "score": 0.8648977279663086
+  },
+  {
+    "CustomerID": "12507",
+    "Description": "PACK OF 60 DINOSAUR CAKE CASES",
+    "StockCode": "21975",
+    "rank": 2,
+    "score": 0.8492171168327332
+  },
+  {
+    "CustomerID": "12507",
+    "Description": "PACK OF 60 SPACEBOY CAKE CASES",
+    "StockCode": "22417",
+    "rank": 3,
+    "score": 0.8465241193771362
+  },
+  {
+    "CustomerID": "12507",
+    "Description": "PACK OF 72 SKULL CAKE CASES",
+    "StockCode": "21213",
+    "rank": 4,
+    "score": 0.8403494358062744
+  },
+  {
+    "CustomerID": "12507",
+    "Description": "SET/10 PINK SPOTTY PARTY CANDLES",
+    "StockCode": "21122",
+    "rank": 5,
+    "score": 0.8171334266662598
+  },
+  {
+    "CustomerID": "12507",
+    "Description": "60 CAKE CASES VINTAGE CHRISTMAS",
+    "StockCode": "22952",
+    "rank": 6,
+    "score": 0.7856109738349915
+  },
+  {
+    "CustomerID": "12507",
+    "Description": "SET/20 RED RETROSPOT PAPER NAPKINS ",
+    "StockCode": "21080",
+    "rank": 7,
+    "score": 0.7639064192771912
+  },
+  {
+    "CustomerID": "12508",
+    "Description": "AGED GLASS SILVER T-LIGHT HOLDER",
+    "StockCode": "21326",
+    "rank": 1,
+    "score": 0.6552005410194397
+  },
+  {
+    "CustomerID": "12508",
+    "Description": "ANTIQUE SILVER T-LIGHT GLASS",
+    "StockCode": "84946",
+    "rank": 2,
+    "score": 0.6444748640060425
+  },
+  {
+    "CustomerID": "12508",
+    "Description": "DISCO BALL CHRISTMAS DECORATION",
+    "StockCode": "20668",
+    "rank": 3,
+    "score": 0.6177203059196472
+  },
+  {
+    "CustomerID": "12508",
+    "Description": "ANTIQUE SILVER TEA GLASS ENGRAVED",
+    "StockCode": "84947",
+    "rank": 4,
+    "score": 0.6154286861419678
+  },
+  {
+    "CustomerID": "12508",
+    "Description": "MULTI COLOUR SILVER T-LIGHT HOLDER",
+    "StockCode": "84945",
+    "rank": 5,
+    "score": 0.6147884130477905
+  },
+  {
+    "CustomerID": "12508",
+    "Description": "ASSORTED COLOUR BIRD ORNAMENT",
+    "StockCode": "84879",
+    "rank": 6,
+    "score": 0.5645335912704468
+  },
+  {
+    "CustomerID": "12508",
+    "Description": "T-LIGHT GLASS FLUTED ANTIQUE",
+    "StockCode": "22791",
+    "rank": 7,
+    "score": 0.549640417098999
+  },
+  {
+    "CustomerID": "12508",
+    "Description": "VICTORIAN GLASS HANGING T-LIGHT",
+    "StockCode": "22178",
+    "rank": 8,
+    "score": 0.5427352786064148
+  },
+  {
+    "CustomerID": "12510",
+    "Description": "DINOSAUR KEYRINGS ASSORTED",
+    "StockCode": "21829",
+    "rank": 1,
+    "score": 1.018380045890808
+  },
+  {
+    "CustomerID": "12510",
+    "Description": "RED  HARMONICA IN BOX ",
+    "StockCode": "21915",
+    "rank": 2,
+    "score": 0.9776735901832581
+  },
+  {
+    "CustomerID": "12510",
+    "Description": "10 COLOUR SPACEBOY PEN",
+    "StockCode": "22418",
+    "rank": 3,
+    "score": 0.9732778072357178
+  },
+  {
+    "CustomerID": "12510",
+    "Description": "ICE CREAM SUNDAE LIP GLOSS",
+    "StockCode": "23076",
+    "rank": 4,
+    "score": 0.9511018395423889
+  },
+  {
+    "CustomerID": "12510",
+    "Description": "TRADITIONAL WOODEN CATCH CUP GAME ",
+    "StockCode": "21892",
+    "rank": 5,
+    "score": 0.9453864693641663
+  },
+  {
+    "CustomerID": "12510",
+    "Description": "PACK OF 12 TRADITIONAL CRAYONS",
+    "StockCode": "22489",
+    "rank": 6,
+    "score": 0.9332779049873352
+  },
+  {
+    "CustomerID": "12510",
+    "Description": "ASSTD DESIGN BUBBLE GUM RING",
+    "StockCode": "84270",
+    "rank": 7,
+    "score": 0.9284665584564209
+  },
+  {
+    "CustomerID": "12510",
+    "Description": "BROCADE RING PURSE ",
+    "StockCode": "17003",
+    "rank": 8,
+    "score": 0.9258854389190674
+  },
+  {
+    "CustomerID": "12510",
+    "Description": "BLUE HARMONICA IN BOX ",
+    "StockCode": "21914",
+    "rank": 9,
+    "score": 0.9076341986656189
+  },
+  {
+    "CustomerID": "12511",
+    "Description": "ANTIQUE SILVER TEA GLASS ENGRAVED",
+    "StockCode": "84947",
+    "rank": 1,
+    "score": 1.1590914726257324
+  },
+  {
+    "CustomerID": "12511",
+    "Description": "ANTIQUE SILVER T-LIGHT GLASS",
+    "StockCode": "84946",
+    "rank": 2,
+    "score": 1.0693057775497437
+  },
+  {
+    "CustomerID": "12511",
+    "Description": "HEART OF WICKER LARGE",
+    "StockCode": "22470",
+    "rank": 3,
+    "score": 1.0210541486740112
+  },
+  {
+    "CustomerID": "12511",
+    "Description": "HEART OF WICKER SMALL",
+    "StockCode": "22469",
+    "rank": 4,
+    "score": 1.0190993547439575
+  },
+  {
+    "CustomerID": "12511",
+    "Description": "HEART DECORATION WITH PEARLS ",
+    "StockCode": "22156",
+    "rank": 5,
+    "score": 1.0190640687942505
+  },
+  {
+    "CustomerID": "12512",
+    "Description": "RED SPOTS  WRAP ",
+    "StockCode": "21498",
+    "rank": 1,
+    "score": 0.3352717459201813
+  },
+  {
+    "CustomerID": "12512",
+    "Description": "PINK POLKADOT WRAP ",
+    "StockCode": "21500",
+    "rank": 2,
+    "score": 0.32176879048347473
+  },
+  {
+    "CustomerID": "12512",
+    "Description": "BLUE SPOTS  WRAP",
+    "StockCode": "21499",
+    "rank": 3,
+    "score": 0.31491225957870483
+  },
+  {
+    "CustomerID": "12512",
+    "Description": "GIRLS ALPHABET IRON ON PATCHES ",
+    "StockCode": "84568",
+    "rank": 4,
+    "score": 0.3122823238372803
+  },
+  {
+    "CustomerID": "12512",
+    "Description": "WRAP PINK FAIRY CAKES ",
+    "StockCode": "16156S",
+    "rank": 5,
+    "score": 0.3059130311012268
+  },
+  {
+    "CustomerID": "12512",
+    "Description": "PACK OF 12 RED SPOTTY TISSUES ",
+    "StockCode": "21980",
+    "rank": 6,
+    "score": 0.3039998412132263
+  },
+  {
+    "CustomerID": "12512",
+    "Description": "FANCY FONTS BIRTHDAY WRAP",
+    "StockCode": "21497",
+    "rank": 7,
+    "score": 0.3012203276157379
+  },
+  {
+    "CustomerID": "12512",
+    "Description": "PACK OF 12 PINK PAISLEY TISSUES ",
+    "StockCode": "21984",
+    "rank": 8,
+    "score": 0.296734094619751
+  },
+  {
+    "CustomerID": "12512",
+    "Description": "PACK OF 12 BLUE PAISLEY TISSUES ",
+    "StockCode": "21983",
+    "rank": 9,
+    "score": 0.2828196585178375
+  },
+  {
+    "CustomerID": "12514",
+    "Description": "BROCADE RING PURSE ",
+    "StockCode": "17003",
+    "rank": 1,
+    "score": 0.787441611289978
+  },
+  {
+    "CustomerID": "12514",
+    "Description": "ASSORTED COLOURS SILK FAN",
+    "StockCode": "15036",
+    "rank": 2,
+    "score": 0.7740600109100342
+  },
+  {
+    "CustomerID": "12514",
+    "Description": "CHINESE DRAGON PAPER LANTERNS",
+    "StockCode": "40016",
+    "rank": 3,
+    "score": 0.6996862888336182
+  },
+  {
+    "CustomerID": "12514",
+    "Description": "LUNCH BAG RED SPOTTY",
+    "StockCode": "20725",
+    "rank": 4,
+    "score": 0.6874972581863403
+  },
+  {
+    "CustomerID": "12514",
+    "Description": "LUNCH BAG PINK RETROSPOT",
+    "StockCode": "22384",
+    "rank": 5,
+    "score": 0.6730279326438904
+  },
+  {
+    "CustomerID": "12514",
+    "Description": "LUNCH BAG SUKI  DESIGN ",
+    "StockCode": "22383",
+    "rank": 6,
+    "score": 0.671747624874115
+  },
+  {
+    "CustomerID": "12514",
+    "Description": "LUNCH BAG SPACEBOY DESIGN ",
+    "StockCode": "22382",
+    "rank": 7,
+    "score": 0.6665026545524597
+  },
+  {
+    "CustomerID": "12516",
+    "Description": "PACK OF 72 SKULL CAKE CASES",
+    "StockCode": "21213",
+    "rank": 1,
+    "score": 0.986059308052063
+  },
+  {
+    "CustomerID": "12516",
+    "Description": "STRAWBERRY CHARLOTTE BAG",
+    "StockCode": "20723",
+    "rank": 2,
+    "score": 0.9798763394355774
+  },
+  {
+    "CustomerID": "12516",
+    "Description": "LUNCH BAG SUKI  DESIGN ",
+    "StockCode": "22383",
+    "rank": 3,
+    "score": 0.9691224694252014
+  },
+  {
+    "CustomerID": "12516",
+    "Description": "LUNCH BAG RED SPOTTY",
+    "StockCode": "20725",
+    "rank": 4,
+    "score": 0.967723548412323
+  },
+  {
+    "CustomerID": "12516",
+    "Description": "BROCADE RING PURSE ",
+    "StockCode": "17003",
+    "rank": 5,
+    "score": 0.9437206387519836
+  },
+  {
+    "CustomerID": "12516",
+    "Description": "LUNCH BAG PINK RETROSPOT",
+    "StockCode": "22384",
+    "rank": 6,
+    "score": 0.9414693713188171
+  },
+  {
+    "CustomerID": "12517",
+    "Description": "60 CAKE CASES VINTAGE CHRISTMAS",
+    "StockCode": "22952",
+    "rank": 1,
+    "score": 0.9561931490898132
+  },
+  {
+    "CustomerID": "12517",
+    "Description": "SET OF 4 PANTRY JELLY MOULDS",
+    "StockCode": "22993",
+    "rank": 2,
+    "score": 0.9365541934967041
+  },
+  {
+    "CustomerID": "12517",
+    "Description": "SET/20 RED RETROSPOT PAPER NAPKINS ",
+    "StockCode": "21080",
+    "rank": 3,
+    "score": 0.8813811540603638
+  },
+  {
+    "CustomerID": "12518",
+    "Description": "ELEPHANT BIRTHDAY CARD ",
+    "StockCode": "21507",
+    "rank": 1,
+    "score": 0.7901182770729065
+  },
+  {
+    "CustomerID": "12518",
+    "Description": "VINTAGE KID DOLLY CARD ",
+    "StockCode": "21508",
+    "rank": 2,
+    "score": 0.7862704396247864
+  },
+  {
+    "CustomerID": "12518",
+    "Description": "PINK  SPOTTY PLATE ",
+    "StockCode": "21243",
+    "rank": 3,
+    "score": 0.7750331163406372
+  },
+  {
+    "CustomerID": "12518",
+    "Description": "CARD CIRCUS PARADE",
+    "StockCode": "22716",
+    "rank": 4,
+    "score": 0.7741659879684448
+  },
+  {
+    "CustomerID": "12518",
+    "Description": "TEA PARTY BIRTHDAY CARD",
+    "StockCode": "22027",
+    "rank": 5,
+    "score": 0.7697709202766418
+  },
+  {
+    "CustomerID": "12518",
+    "Description": "PICTURE DOMINOES",
+    "StockCode": "22549",
+    "rank": 6,
+    "score": 0.7627140879631042
+  },
+  {
+    "CustomerID": "12519",
+    "Description": "PACK OF 72 SKULL CAKE CASES",
+    "StockCode": "21213",
+    "rank": 1,
+    "score": 0.4851769506931305
+  },
+  {
+    "CustomerID": "12519",
+    "Description": "PACK OF 60 DINOSAUR CAKE CASES",
+    "StockCode": "21975",
+    "rank": 2,
+    "score": 0.4734329581260681
+  },
+  {
+    "CustomerID": "12519",
+    "Description": "PACK OF 60 SPACEBOY CAKE CASES",
+    "StockCode": "22417",
+    "rank": 3,
+    "score": 0.458842009305954
+  },
+  {
+    "CustomerID": "12519",
+    "Description": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "StockCode": "21977",
+    "rank": 4,
+    "score": 0.45713192224502563
+  },
+  {
+    "CustomerID": "12519",
+    "Description": "60 TEATIME FAIRY CAKE CASES",
+    "StockCode": "84991",
+    "rank": 5,
+    "score": 0.44641026854515076
+  },
+  {
+    "CustomerID": "12519",
+    "Description": "72 SWEETHEART FAIRY CAKE CASES",
+    "StockCode": "84992",
+    "rank": 6,
+    "score": 0.43695881962776184
+  },
+  {
+    "CustomerID": "12519",
+    "Description": "SET/20 RED RETROSPOT PAPER NAPKINS ",
+    "StockCode": "21080",
+    "rank": 7,
+    "score": 0.4247131049633026
+  },
+  {
+    "CustomerID": "12519",
+    "Description": "PACK OF 60 MUSHROOM CAKE CASES",
+    "StockCode": "21976",
+    "rank": 8,
+    "score": 0.41743558645248413
+  },
+  {
+    "CustomerID": "12519",
+    "Description": "SET/10 PINK SPOTTY PARTY CANDLES",
+    "StockCode": "21122",
+    "rank": 9,
+    "score": 0.40288904309272766
+  },
+  {
+    "CustomerID": "12520",
+    "Description": "SMALL POPCORN HOLDER",
+    "StockCode": "22197",
+    "rank": 1,
+    "score": 0.7397128939628601
+  },
+  {
+    "CustomerID": "12520",
+    "Description": "SET/10 PINK SPOTTY PARTY CANDLES",
+    "StockCode": "21122",
+    "rank": 2,
+    "score": 0.7215484380722046
+  },
+  {
+    "CustomerID": "12520",
+    "Description": "PACK OF 60 DINOSAUR CAKE CASES",
+    "StockCode": "21975",
+    "rank": 3,
+    "score": 0.7205855846405029
+  },
+  {
+    "CustomerID": "12520",
+    "Description": "SET/10 RED POLKADOT PARTY CANDLES",
+    "StockCode": "21121",
+    "rank": 4,
+    "score": 0.7169455289840698
+  },
+  {
+    "CustomerID": "12520",
+    "Description": "PAPER BUNTING RETRO SPOTS",
+    "StockCode": "22090",
+    "rank": 5,
+    "score": 0.7168434262275696
+  },
+  {
+    "CustomerID": "12523",
+    "Description": "WHITE HANGING HEART T-LIGHT HOLDER",
+    "StockCode": "85123A",
+    "rank": 1,
+    "score": 1.3045854568481445
+  },
+  {
+    "CustomerID": "12523",
+    "Description": "HANGING JAM JAR T-LIGHT HOLDER",
+    "StockCode": "71459",
+    "rank": 2,
+    "score": 1.1635932922363281
+  },
+  {
+    "CustomerID": "12523",
+    "Description": "RED SPOTS  WRAP ",
+    "StockCode": "21498",
+    "rank": 3,
+    "score": 1.1406644582748413
+  },
+  {
+    "CustomerID": "12523",
+    "Description": "HANGING HEART ZINC T-LIGHT HOLDER",
+    "StockCode": "84970S",
+    "rank": 4,
+    "score": 1.1368486881256104
+  },
+  {
+    "CustomerID": "12523",
+    "Description": "ZINC METAL HEART DECORATION",
+    "StockCode": "84836",
+    "rank": 5,
+    "score": 1.1294605731964111
+  },
+  {
+    "CustomerID": "12523",
+    "Description": "COLOUR GLASS T-LIGHT HOLDER HANGING",
+    "StockCode": "84755",
+    "rank": 6,
+    "score": 1.1052170991897583
+  },
+  {
+    "CustomerID": "12523",
+    "Description": "VICTORIAN GLASS HANGING T-LIGHT",
+    "StockCode": "22178",
+    "rank": 7,
+    "score": 1.083760380744934
+  },
+  {
+    "CustomerID": "12523",
+    "Description": "HANGING HEART JAR T-LIGHT HOLDER",
+    "StockCode": "84978",
+    "rank": 8,
+    "score": 1.0716701745986938
+  },
+  {
+    "CustomerID": "12523",
+    "Description": "HEART OF WICKER SMALL",
+    "StockCode": "22469",
+    "rank": 9,
+    "score": 1.0630024671554565
+  },
+  {
+    "CustomerID": "12524",
+    "Description": "CHARLOTTE BAG DOLLY GIRL DESIGN",
+    "StockCode": "22661",
+    "rank": 1,
+    "score": 1.1826735734939575
+  },
+  {
+    "CustomerID": "12524",
+    "Description": "RED SPOTTY CHARLOTTE BAG",
+    "StockCode": "20724",
+    "rank": 2,
+    "score": 1.156057357788086
+  },
+  {
+    "CustomerID": "12524",
+    "Description": "CHARLOTTE BAG , SUKI DESIGN",
+    "StockCode": "22355",
+    "rank": 3,
+    "score": 1.1558904647827148
+  },
+  {
+    "CustomerID": "12524",
+    "Description": "LUNCH BAG DOLLY GIRL DESIGN",
+    "StockCode": "22662",
+    "rank": 4,
+    "score": 1.1345354318618774
+  },
+  {
+    "CustomerID": "12524",
+    "Description": "BROCADE RING PURSE ",
+    "StockCode": "17003",
+    "rank": 5,
+    "score": 1.0965319871902466
+  },
+  {
+    "CustomerID": "12525",
+    "Description": "JUMBO BAG RED WHITE SPOTTY ",
+    "StockCode": "85099B",
+    "rank": 1,
+    "score": 0.7042272686958313
+  },
+  {
+    "CustomerID": "12525",
+    "Description": "JUMBO STORAGE BAG SUKI",
+    "StockCode": "21931",
+    "rank": 2,
+    "score": 0.6598309278488159
+  },
+  {
+    "CustomerID": "12525",
+    "Description": "JUMBO SHOPPER VINTAGE RED PAISLEY",
+    "StockCode": "22411",
+    "rank": 3,
+    "score": 0.6485556960105896
+  },
+  {
+    "CustomerID": "12525",
+    "Description": "JUMBO BAG SPACEBOY DESIGN",
+    "StockCode": "22385",
+    "rank": 4,
+    "score": 0.6372040510177612
+  },
+  {
+    "CustomerID": "12525",
+    "Description": "JUMBO BAG STRAWBERRY",
+    "StockCode": "85099F",
+    "rank": 5,
+    "score": 0.6346864104270935
+  },
+  {
+    "CustomerID": "12525",
+    "Description": "LUNCH BAG SPACEBOY DESIGN ",
+    "StockCode": "22382",
+    "rank": 6,
+    "score": 0.6335740089416504
+  },
+  {
+    "CustomerID": "12525",
+    "Description": "LUNCH BAG  BLACK SKULL.",
+    "StockCode": "20727",
+    "rank": 7,
+    "score": 0.6288406252861023
+  },
+  {
+    "CustomerID": "12526",
+    "Description": "DINOSAUR KEYRINGS ASSORTED",
+    "StockCode": "21829",
+    "rank": 1,
+    "score": 0.7863994240760803
+  },
+  {
+    "CustomerID": "12526",
+    "Description": "ICE CREAM SUNDAE LIP GLOSS",
+    "StockCode": "23076",
+    "rank": 2,
+    "score": 0.770927369594574
+  },
+  {
+    "CustomerID": "12526",
+    "Description": "10 COLOUR SPACEBOY PEN",
+    "StockCode": "22418",
+    "rank": 3,
+    "score": 0.7662917375564575
+  },
+  {
+    "CustomerID": "12526",
+    "Description": "RED  HARMONICA IN BOX ",
+    "StockCode": "21915",
+    "rank": 4,
+    "score": 0.762100100517273
+  },
+  {
+    "CustomerID": "12526",
+    "Description": "WORLD WAR 2 GLIDERS ASSTD DESIGNS",
+    "StockCode": "84077",
+    "rank": 5,
+    "score": 0.7560016512870789
+  },
+  {
+    "CustomerID": "12526",
+    "Description": "PACK OF 12 TRADITIONAL CRAYONS",
+    "StockCode": "22489",
+    "rank": 6,
+    "score": 0.7552010416984558
+  },
+  {
+    "CustomerID": "12526",
+    "Description": "BLUE HARMONICA IN BOX ",
+    "StockCode": "21914",
+    "rank": 7,
+    "score": 0.7406900525093079
+  },
+  {
+    "CustomerID": "12526",
+    "Description": "MINI PAINT SET VINTAGE ",
+    "StockCode": "22492",
+    "rank": 8,
+    "score": 0.7390407919883728
+  },
+  {
+    "CustomerID": "12526",
+    "Description": "WOODEN BOX OF DOMINOES",
+    "StockCode": "21889",
+    "rank": 9,
+    "score": 0.7274008989334106
+  },
+  {
+    "CustomerID": "12527",
+    "Description": "PACK OF 60 SPACEBOY CAKE CASES",
+    "StockCode": "22417",
+    "rank": 1,
+    "score": 0.036847855895757675
+  },
+  {
+    "CustomerID": "12527",
+    "Description": "SET/10 PINK SPOTTY PARTY CANDLES",
+    "StockCode": "21122",
+    "rank": 2,
+    "score": 0.03677680343389511
+  },
+  {
+    "CustomerID": "12527",
+    "Description": "72 SWEETHEART FAIRY CAKE CASES",
+    "StockCode": "84992",
+    "rank": 3,
+    "score": 0.03607240319252014
+  },
+  {
+    "CustomerID": "12527",
+    "Description": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "StockCode": "21977",
+    "rank": 4,
+    "score": 0.035899583250284195
+  },
+  {
+    "CustomerID": "12527",
+    "Description": "SET OF 36 PAISLEY FLOWER DOILIES",
+    "StockCode": "21974",
+    "rank": 5,
+    "score": 0.03571445122361183
+  },
+  {
+    "CustomerID": "12527",
+    "Description": "SET OF 36 TEATIME PAPER DOILIES",
+    "StockCode": "84987",
+    "rank": 6,
+    "score": 0.03571216017007828
+  },
+  {
+    "CustomerID": "12527",
+    "Description": "60 CAKE CASES VINTAGE CHRISTMAS",
+    "StockCode": "22952",
+    "rank": 7,
+    "score": 0.035321105271577835
+  },
+  {
+    "CustomerID": "12527",
+    "Description": "PACK OF 60 DINOSAUR CAKE CASES",
+    "StockCode": "21975",
+    "rank": 8,
+    "score": 0.03523742035031319
+  },
+  {
+    "CustomerID": "12527",
+    "Description": "60 TEATIME FAIRY CAKE CASES",
+    "StockCode": "84991",
+    "rank": 9,
+    "score": 0.034954484552145004
+  },
+  {
+    "CustomerID": "12527",
+    "Description": "PACK OF 72 SKULL CAKE CASES",
+    "StockCode": "21213",
+    "rank": 10,
+    "score": 0.034561529755592346
+  },
+  {
+    "CustomerID": "12528",
+    "Description": "GRAND CHOCOLATECANDLE",
+    "StockCode": "72741",
+    "rank": 1,
+    "score": 0.52475905418396
+  },
+  {
+    "CustomerID": "12528",
+    "Description": "SWEETHEART CERAMIC TRINKET BOX",
+    "StockCode": "21231",
+    "rank": 2,
+    "score": 0.4868917763233185
+  },
+  {
+    "CustomerID": "12528",
+    "Description": "SET/6 PINK  BUTTERFLY T-LIGHTS",
+    "StockCode": "72351B",
+    "rank": 3,
+    "score": 0.48311495780944824
+  },
+  {
+    "CustomerID": "12528",
+    "Description": "MINI CAKE STAND  HANGING STRAWBERY",
+    "StockCode": "22055",
+    "rank": 4,
+    "score": 0.47674626111984253
+  },
+  {
+    "CustomerID": "12528",
+    "Description": "PACK OF 12 HEARTS DESIGN TISSUES ",
+    "StockCode": "21985",
+    "rank": 5,
+    "score": 0.46737727522850037
+  },
+  {
+    "CustomerID": "12528",
+    "Description": "SMALL HEART MEASURING SPOONS",
+    "StockCode": "22196",
+    "rank": 6,
+    "score": 0.4529176950454712
+  },
+  {
+    "CustomerID": "12528",
+    "Description": "FAIRY CAKE CANDLES",
+    "StockCode": "72756",
+    "rank": 7,
+    "score": 0.44848334789276123
+  },
+  {
+    "CustomerID": "12528",
+    "Description": "SET OF 3 HEART COOKIE CUTTERS",
+    "StockCode": "84378",
+    "rank": 8,
+    "score": 0.44589412212371826
+  },
+  {
+    "CustomerID": "12530",
+    "Description": "BROCADE RING PURSE ",
+    "StockCode": "17003",
+    "rank": 1,
+    "score": 1.1551355123519897
+  },
+  {
+    "CustomerID": "12530",
+    "Description": "CHINESE DRAGON PAPER LANTERNS",
+    "StockCode": "40016",
+    "rank": 2,
+    "score": 1.04522705078125
+  },
+  {
+    "CustomerID": "12530",
+    "Description": "CHARLOTTE BAG , SUKI DESIGN",
+    "StockCode": "22355",
+    "rank": 3,
+    "score": 0.9714903235435486
+  },
+  {
+    "CustomerID": "12530",
+    "Description": "STRAWBERRY CHARLOTTE BAG",
+    "StockCode": "20723",
+    "rank": 4,
+    "score": 0.9539245963096619
+  },
+  {
+    "CustomerID": "12530",
+    "Description": "LUNCH BAG SPACEBOY DESIGN ",
+    "StockCode": "22382",
+    "rank": 5,
+    "score": 0.9478285908699036
+  },
+  {
+    "CustomerID": "12530",
+    "Description": "LUNCH BAG SUKI  DESIGN ",
+    "StockCode": "22383",
+    "rank": 6,
+    "score": 0.9435714483261108
+  },
+  {
+    "CustomerID": "12530",
+    "Description": "LUNCH BAG WOODLAND",
+    "StockCode": "20726",
+    "rank": 7,
+    "score": 0.9234822392463684
+  },
+  {
+    "CustomerID": "12532",
+    "Description": "WRAP CHRISTMAS VILLAGE",
+    "StockCode": "22959",
+    "rank": 1,
+    "score": 0.4195472002029419
+  },
+  {
+    "CustomerID": "12532",
+    "Description": "WOODEN HEART CHRISTMAS SCANDINAVIAN",
+    "StockCode": "22577",
+    "rank": 2,
+    "score": 0.37934184074401855
+  },
+  {
+    "CustomerID": "12532",
+    "Description": "ROTATING SILVER ANGELS T-LIGHT HLDR",
+    "StockCode": "84347",
+    "rank": 3,
+    "score": 0.36996081471443176
+  },
+  {
+    "CustomerID": "12532",
+    "Description": "ZINC FOLKART SLEIGH BELLS",
+    "StockCode": "35970",
+    "rank": 4,
+    "score": 0.3654012382030487
+  },
+  {
+    "CustomerID": "12532",
+    "Description": "WOODEN STAR CHRISTMAS SCANDINAVIAN",
+    "StockCode": "22578",
+    "rank": 5,
+    "score": 0.3589428961277008
+  },
+  {
+    "CustomerID": "12532",
+    "Description": "6 GIFT TAGS 50'S CHRISTMAS ",
+    "StockCode": "23354",
+    "rank": 6,
+    "score": 0.3570444583892822
+  },
+  {
+    "CustomerID": "12532",
+    "Description": "SET OF 3 WOODEN HEART DECORATIONS",
+    "StockCode": "23263",
+    "rank": 7,
+    "score": 0.35423603653907776
+  },
+  {
+    "CustomerID": "12532",
+    "Description": "CHRISTMAS STAR WISH LIST CHALKBOARD",
+    "StockCode": "22596",
+    "rank": 8,
+    "score": 0.34847548604011536
+  },
+  {
+    "CustomerID": "12532",
+    "Description": "AGED GLASS SILVER T-LIGHT HOLDER",
+    "StockCode": "21326",
+    "rank": 9,
+    "score": 0.34220555424690247
+  },
+  {
+    "CustomerID": "12532",
+    "Description": "ZINC T-LIGHT HOLDER STARS SMALL",
+    "StockCode": "23144",
+    "rank": 10,
+    "score": 0.33742988109588623
+  },
+  {
+    "CustomerID": "12533",
+    "Description": "PACK OF 72 RETRO SPOT CAKE CASES",
+    "StockCode": "21212",
+    "rank": 1,
+    "score": 0.612519383430481
+  },
+  {
+    "CustomerID": "12533",
+    "Description": "SET/10 RED POLKADOT PARTY CANDLES",
+    "StockCode": "21121",
+    "rank": 2,
+    "score": 0.6116535663604736
+  },
+  {
+    "CustomerID": "12533",
+    "Description": "SET/20 RED RETROSPOT PAPER NAPKINS ",
+    "StockCode": "21080",
+    "rank": 3,
+    "score": 0.5995151996612549
+  },
+  {
+    "CustomerID": "12533",
+    "Description": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "StockCode": "21977",
+    "rank": 4,
+    "score": 0.5811760425567627
+  },
+  {
+    "CustomerID": "12533",
+    "Description": "PACK OF 6 BIRDY GIFT TAGS",
+    "StockCode": "22585",
+    "rank": 5,
+    "score": 0.5795088410377502
+  },
+  {
+    "CustomerID": "12533",
+    "Description": "SET/10 PINK SPOTTY PARTY CANDLES",
+    "StockCode": "21122",
+    "rank": 6,
+    "score": 0.5790257453918457
+  },
+  {
+    "CustomerID": "12533",
+    "Description": "REGENCY CAKESTAND 3 TIER",
+    "StockCode": "22423",
+    "rank": 7,
+    "score": 0.5773746371269226
+  },
+  {
+    "CustomerID": "12533",
+    "Description": "ASSORTED COLOUR BIRD ORNAMENT",
+    "StockCode": "84879",
+    "rank": 8,
+    "score": 0.5756084322929382
+  },
+  {
+    "CustomerID": "12533",
+    "Description": "SET OF 72 RETROSPOT PAPER  DOILIES",
+    "StockCode": "21210",
+    "rank": 9,
+    "score": 0.5704861879348755
+  },
+  {
+    "CustomerID": "12534",
+    "Description": "PACK OF 72 RETRO SPOT CAKE CASES",
+    "StockCode": "21212",
+    "rank": 1,
+    "score": 0.9270561933517456
+  },
+  {
+    "CustomerID": "12534",
+    "Description": "60 TEATIME FAIRY CAKE CASES",
+    "StockCode": "84991",
+    "rank": 2,
+    "score": 0.898391842842102
+  },
+  {
+    "CustomerID": "12534",
+    "Description": "72 SWEETHEART FAIRY CAKE CASES",
+    "StockCode": "84992",
+    "rank": 3,
+    "score": 0.8317862153053284
+  },
+  {
+    "CustomerID": "12534",
+    "Description": "SET/20 RED RETROSPOT PAPER NAPKINS ",
+    "StockCode": "21080",
+    "rank": 4,
+    "score": 0.8193516135215759
+  },
+  {
+    "CustomerID": "12534",
+    "Description": "WHITE HANGING HEART T-LIGHT HOLDER",
+    "StockCode": "85123A",
+    "rank": 5,
+    "score": 0.8160558938980103
+  },
+  {
+    "CustomerID": "12534",
+    "Description": "PACK OF 6 BIRDY GIFT TAGS",
+    "StockCode": "22585",
+    "rank": 6,
+    "score": 0.8014283180236816
+  },
+  {
+    "CustomerID": "12534",
+    "Description": "WRAP ENGLISH ROSE ",
+    "StockCode": "16161P",
+    "rank": 7,
+    "score": 0.7780665755271912
+  },
+  {
+    "CustomerID": "12534",
+    "Description": "PAPER CHAIN KIT 50'S CHRISTMAS ",
+    "StockCode": "22086",
+    "rank": 8,
+    "score": 0.7616118788719177
+  },
+  {
+    "CustomerID": "12535",
+    "Description": "60 TEATIME FAIRY CAKE CASES",
+    "StockCode": "84991",
+    "rank": 1,
+    "score": 0.4704475402832031
+  },
+  {
+    "CustomerID": "12535",
+    "Description": "PARTY BUNTING",
+    "StockCode": "47566",
+    "rank": 2,
+    "score": 0.46734997630119324
+  },
+  {
+    "CustomerID": "12535",
+    "Description": "PACK OF 72 RETRO SPOT CAKE CASES",
+    "StockCode": "21212",
+    "rank": 3,
+    "score": 0.4544948637485504
+  },
+  {
+    "CustomerID": "12535",
+    "Description": "SET/5 RED SPOTTY LID GLASS BOWLS",
+    "StockCode": "20914",
+    "rank": 4,
+    "score": 0.43665024638175964
+  },
+  {
+    "CustomerID": "12535",
+    "Description": "REGENCY CAKESTAND 3 TIER",
+    "StockCode": "22423",
+    "rank": 5,
+    "score": 0.4352686405181885
+  },
+  {
+    "CustomerID": "12535",
+    "Description": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "StockCode": "21977",
+    "rank": 6,
+    "score": 0.43500015139579773
+  },
+  {
+    "CustomerID": "12535",
+    "Description": "PAPER CHAIN KIT EMPIRE",
+    "StockCode": "22084",
+    "rank": 7,
+    "score": 0.42753273248672485
+  },
+  {
+    "CustomerID": "12535",
+    "Description": "WHITE HANGING HEART T-LIGHT HOLDER",
+    "StockCode": "85123A",
+    "rank": 8,
+    "score": 0.4253329634666443
+  },
+  {
+    "CustomerID": "12535",
+    "Description": "JAM MAKING SET PRINTED",
+    "StockCode": "22961",
+    "rank": 9,
+    "score": 0.41243070363998413
+  },
+  {
+    "CustomerID": "12536",
+    "Description": "ASSORTED COLOURS SILK FAN",
+    "StockCode": "15036",
+    "rank": 1,
+    "score": 1.0953574180603027
+  },
+  {
+    "CustomerID": "12536",
+    "Description": "RABBIT NIGHT LIGHT",
+    "StockCode": "23084",
+    "rank": 2,
+    "score": 1.055346131324768
+  },
+  {
+    "CustomerID": "12536",
+    "Description": "BUBBLEGUM RING ASSORTED",
+    "StockCode": "23310",
+    "rank": 3,
+    "score": 1.0343496799468994
+  },
+  {
+    "CustomerID": "12538",
+    "Description": "DOUGHNUT LIP GLOSS ",
+    "StockCode": "23077",
+    "rank": 1,
+    "score": 0.399502158164978
+  },
+  {
+    "CustomerID": "12538",
+    "Description": "ICE CREAM SUNDAE LIP GLOSS",
+    "StockCode": "23076",
+    "rank": 2,
+    "score": 0.37458452582359314
+  },
+  {
+    "CustomerID": "12538",
+    "Description": "ICE CREAM PEN LIP GLOSS ",
+    "StockCode": "23078",
+    "rank": 3,
+    "score": 0.34116941690444946
+  },
+  {
+    "CustomerID": "12538",
+    "Description": "WOODEN BOX OF DOMINOES",
+    "StockCode": "21889",
+    "rank": 4,
+    "score": 0.3343955874443054
+  },
+  {
+    "CustomerID": "12538",
+    "Description": "PACK OF 12 TRADITIONAL CRAYONS",
+    "StockCode": "22489",
+    "rank": 5,
+    "score": 0.33361661434173584
+  },
+  {
+    "CustomerID": "12538",
+    "Description": "PACK OF 12 LONDON TISSUES ",
+    "StockCode": "22616",
+    "rank": 6,
+    "score": 0.32961270213127136
+  },
+  {
+    "CustomerID": "12538",
+    "Description": "TRADITIONAL MODELLING CLAY",
+    "StockCode": "22560",
+    "rank": 7,
+    "score": 0.3268435299396515
+  },
+  {
+    "CustomerID": "12538",
+    "Description": "BLUE HARMONICA IN BOX ",
+    "StockCode": "21914",
+    "rank": 8,
+    "score": 0.32523468136787415
+  }
+]

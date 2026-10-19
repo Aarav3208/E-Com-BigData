@@ -1,0 +1,7002 @@
+[
+  {
+    "CustomerID": "12346",
+    "Frequency": 3,
+    "Monetary": 72.05,
+    "Recency": 618,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12347",
+    "Frequency": 4,
+    "Monetary": 2315.47,
+    "Recency": 95,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12348",
+    "Frequency": 1,
+    "Monetary": 367.0,
+    "Recency": 220,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12350",
+    "Frequency": 1,
+    "Monetary": 334.4,
+    "Recency": 311,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12352",
+    "Frequency": 4,
+    "Monetary": 1440.13,
+    "Recency": 274,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12355",
+    "Frequency": 1,
+    "Monetary": 459.4,
+    "Recency": 96,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12356",
+    "Frequency": 3,
+    "Monetary": 3693.86,
+    "Recency": 128,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12357",
+    "Frequency": 1,
+    "Monetary": 6207.67,
+    "Recency": 182,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12358",
+    "Frequency": 3,
+    "Monetary": 2182.79,
+    "Recency": 3,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12359",
+    "Frequency": 6,
+    "Monetary": 5145.49,
+    "Recency": 9,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12360",
+    "Frequency": 1,
+    "Monetary": 690.79,
+    "Recency": 364,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12361",
+    "Frequency": 2,
+    "Monetary": 212.15,
+    "Recency": 461,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12362",
+    "Frequency": 5,
+    "Monetary": 1736.75,
+    "Recency": 30,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12363",
+    "Frequency": 1,
+    "Monetary": 299.1,
+    "Recency": 36,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12364",
+    "Frequency": 1,
+    "Monetary": 310.32,
+    "Recency": 301,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12369",
+    "Frequency": 1,
+    "Monetary": 348.32,
+    "Recency": 494,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12370",
+    "Frequency": 2,
+    "Monetary": 1501.35,
+    "Recency": 68,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12371",
+    "Frequency": 3,
+    "Monetary": 2135.64,
+    "Recency": 30,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12372",
+    "Frequency": 1,
+    "Monetary": 515.7,
+    "Recency": 35,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12373",
+    "Frequency": 2,
+    "Monetary": 802.5,
+    "Recency": 342,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12375",
+    "Frequency": 1,
+    "Monetary": 230.3,
+    "Recency": 304,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12378",
+    "Frequency": 1,
+    "Monetary": 4008.62,
+    "Recency": 305,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12380",
+    "Frequency": 2,
+    "Monetary": 807.55,
+    "Recency": 157,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12381",
+    "Frequency": 4,
+    "Monetary": 1698.3,
+    "Recency": 0,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12383",
+    "Frequency": 2,
+    "Monetary": 750.61,
+    "Recency": 9,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12384",
+    "Frequency": 2,
+    "Monetary": 585.27,
+    "Recency": 29,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12386",
+    "Frequency": 2,
+    "Monetary": 401.9,
+    "Recency": 192,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12388",
+    "Frequency": 3,
+    "Monetary": 796.57,
+    "Recency": 98,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12389",
+    "Frequency": 1,
+    "Monetary": 870.3,
+    "Recency": 667,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12391",
+    "Frequency": 1,
+    "Monetary": 382.99,
+    "Recency": 700,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12393",
+    "Frequency": 3,
+    "Monetary": 1187.9,
+    "Recency": 39,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12394",
+    "Frequency": 2,
+    "Monetary": 1272.48,
+    "Recency": 153,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12395",
+    "Frequency": 8,
+    "Monetary": 2014.01,
+    "Recency": 5,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12396",
+    "Frequency": 1,
+    "Monetary": 931.43,
+    "Recency": 648,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12397",
+    "Frequency": 1,
+    "Monetary": 1195.09,
+    "Recency": 243,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12399",
+    "Frequency": 5,
+    "Monetary": 1360.05,
+    "Recency": 2,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12401",
+    "Frequency": 1,
+    "Monetary": 84.3,
+    "Recency": 99,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12402",
+    "Frequency": 3,
+    "Monetary": 567.25,
+    "Recency": 364,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12403",
+    "Frequency": 1,
+    "Monetary": 591.66,
+    "Recency": 551,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12406",
+    "Frequency": 3,
+    "Monetary": 3848.31,
+    "Recency": 95,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12407",
+    "Frequency": 1,
+    "Monetary": 719.06,
+    "Recency": 186,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12408",
+    "Frequency": 2,
+    "Monetary": 1396.78,
+    "Recency": 152,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12409",
+    "Frequency": 3,
+    "Monetary": 6520.16,
+    "Recency": 65,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12410",
+    "Frequency": 2,
+    "Monetary": 693.33,
+    "Recency": 252,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12412",
+    "Frequency": 2,
+    "Monetary": 699.17,
+    "Recency": 458,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12413",
+    "Frequency": 3,
+    "Monetary": 914.8,
+    "Recency": 192,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12414",
+    "Frequency": 5,
+    "Monetary": 709.61,
+    "Recency": 188,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12415",
+    "Frequency": 11,
+    "Monetary": 44592.79,
+    "Recency": 70,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12417",
+    "Frequency": 9,
+    "Monetary": 2851.26,
+    "Recency": 218,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12418",
+    "Frequency": 1,
+    "Monetary": 535.37,
+    "Recency": 370,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12420",
+    "Frequency": 1,
+    "Monetary": 600.39,
+    "Recency": 153,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12422",
+    "Frequency": 9,
+    "Monetary": 2524.03,
+    "Recency": 215,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12423",
+    "Frequency": 2,
+    "Monetary": 340.28,
+    "Recency": 159,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12424",
+    "Frequency": 1,
+    "Monetary": 446.54,
+    "Recency": 460,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12427",
+    "Frequency": 2,
+    "Monetary": 586.08,
+    "Recency": 61,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12428",
+    "Frequency": 6,
+    "Monetary": 6580.52,
+    "Recency": 32,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12429",
+    "Frequency": 3,
+    "Monetary": 2688.86,
+    "Recency": 399,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12431",
+    "Frequency": 10,
+    "Monetary": 3871.52,
+    "Recency": 2,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12433",
+    "Frequency": 4,
+    "Monetary": 8687.41,
+    "Recency": 92,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12435",
+    "Frequency": 3,
+    "Monetary": 4257.72,
+    "Recency": 372,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12436",
+    "Frequency": 1,
+    "Monetary": 509.01,
+    "Recency": 335,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12437",
+    "Frequency": 17,
+    "Monetary": 6489.98,
+    "Recency": 9,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12440",
+    "Frequency": 1,
+    "Monetary": 290.69,
+    "Recency": 641,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12441",
+    "Frequency": 1,
+    "Monetary": 173.55,
+    "Recency": 485,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12443",
+    "Frequency": 1,
+    "Monetary": 485.31,
+    "Recency": 881,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12444",
+    "Frequency": 2,
+    "Monetary": 1636.08,
+    "Recency": 0,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12447",
+    "Frequency": 1,
+    "Monetary": 476.49,
+    "Recency": 67,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12449",
+    "Frequency": 3,
+    "Monetary": 2724.58,
+    "Recency": 92,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12450",
+    "Frequency": 2,
+    "Monetary": 332.3,
+    "Recency": 186,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12451",
+    "Frequency": 4,
+    "Monetary": 6410.96,
+    "Recency": 214,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12454",
+    "Frequency": 1,
+    "Monetary": 4098.96,
+    "Recency": 455,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12455",
+    "Frequency": 4,
+    "Monetary": 993.07,
+    "Recency": 186,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12457",
+    "Frequency": 1,
+    "Monetary": 196.35,
+    "Recency": 244,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12458",
+    "Frequency": 2,
+    "Monetary": 830.09,
+    "Recency": 458,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12460",
+    "Frequency": 1,
+    "Monetary": 326.65,
+    "Recency": 457,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12461",
+    "Frequency": 2,
+    "Monetary": 826.88,
+    "Recency": 125,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12462",
+    "Frequency": 1,
+    "Monetary": 762.11,
+    "Recency": 99,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12463",
+    "Frequency": 1,
+    "Monetary": 350.57,
+    "Recency": 6,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12464",
+    "Frequency": 1,
+    "Monetary": 213.9,
+    "Recency": 283,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12467",
+    "Frequency": 1,
+    "Monetary": 132.8,
+    "Recency": 365,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12468",
+    "Frequency": 3,
+    "Monetary": 3008.92,
+    "Recency": 218,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12469",
+    "Frequency": 1,
+    "Monetary": 1113.7,
+    "Recency": 582,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12471",
+    "Frequency": 29,
+    "Monetary": 13991.09,
+    "Recency": 156,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12472",
+    "Frequency": 7,
+    "Monetary": 5731.09,
+    "Recency": 152,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12473",
+    "Frequency": 3,
+    "Monetary": 1716.01,
+    "Recency": 60,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12474",
+    "Frequency": 7,
+    "Monetary": 3304.39,
+    "Recency": 3,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12476",
+    "Frequency": 6,
+    "Monetary": 3212.79,
+    "Recency": 219,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12477",
+    "Frequency": 4,
+    "Monetary": 8450.59,
+    "Recency": 38,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12480",
+    "Frequency": 4,
+    "Monetary": 3684.25,
+    "Recency": 29,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12481",
+    "Frequency": 5,
+    "Monetary": 5345.83,
+    "Recency": 162,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12482",
+    "Frequency": 15,
+    "Monetary": 9034.76,
+    "Recency": 370,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12483",
+    "Frequency": 9,
+    "Monetary": 2315.36,
+    "Recency": 35,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12484",
+    "Frequency": 4,
+    "Monetary": 2132.34,
+    "Recency": 152,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12486",
+    "Frequency": 1,
+    "Monetary": 1037.28,
+    "Recency": 609,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12487",
+    "Frequency": 1,
+    "Monetary": 285.3,
+    "Recency": 819,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12489",
+    "Frequency": 1,
+    "Monetary": 334.93,
+    "Recency": 162,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12490",
+    "Frequency": 11,
+    "Monetary": 5035.55,
+    "Recency": 96,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12491",
+    "Frequency": 1,
+    "Monetary": 460.4,
+    "Recency": 333,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12492",
+    "Frequency": 2,
+    "Monetary": 588.82,
+    "Recency": 153,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12494",
+    "Frequency": 3,
+    "Monetary": 555.69,
+    "Recency": 337,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12495",
+    "Frequency": 1,
+    "Monetary": 357.4,
+    "Recency": 463,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12497",
+    "Frequency": 2,
+    "Monetary": 5205.4,
+    "Recency": 586,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12500",
+    "Frequency": 8,
+    "Monetary": 1873.96,
+    "Recency": 70,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12501",
+    "Frequency": 1,
+    "Monetary": 2169.39,
+    "Recency": 162,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12502",
+    "Frequency": 4,
+    "Monetary": 3021.07,
+    "Recency": 188,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12503",
+    "Frequency": 1,
+    "Monetary": 1126.0,
+    "Recency": 614,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12504",
+    "Frequency": 1,
+    "Monetary": 449.4,
+    "Recency": 90,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12507",
+    "Frequency": 2,
+    "Monetary": 586.0,
+    "Recency": 156,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12508",
+    "Frequency": 1,
+    "Monetary": 274.8,
+    "Recency": 60,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12510",
+    "Frequency": 5,
+    "Monetary": 2645.09,
+    "Recency": 404,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12511",
+    "Frequency": 1,
+    "Monetary": 3084.02,
+    "Recency": 518,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12512",
+    "Frequency": 2,
+    "Monetary": 132.18,
+    "Recency": 244,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12514",
+    "Frequency": 1,
+    "Monetary": 580.08,
+    "Recency": 494,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12516",
+    "Frequency": 2,
+    "Monetary": 1230.3,
+    "Recency": 4,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12517",
+    "Frequency": 4,
+    "Monetary": 2064.4,
+    "Recency": 29,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12518",
+    "Frequency": 2,
+    "Monetary": 868.02,
+    "Recency": 0,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12519",
+    "Frequency": 1,
+    "Monetary": 330.84,
+    "Recency": 153,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12520",
+    "Frequency": 1,
+    "Monetary": 987.42,
+    "Recency": 37,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12523",
+    "Frequency": 9,
+    "Monetary": 2003.05,
+    "Recency": 9,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12524",
+    "Frequency": 8,
+    "Monetary": 5801.5,
+    "Recency": 70,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12525",
+    "Frequency": 2,
+    "Monetary": 713.83,
+    "Recency": 675,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12526",
+    "Frequency": 1,
+    "Monetary": 520.3,
+    "Recency": 184,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12527",
+    "Frequency": 1,
+    "Monetary": 85.0,
+    "Recency": 670,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12528",
+    "Frequency": 2,
+    "Monetary": 552.64,
+    "Recency": 129,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12530",
+    "Frequency": 4,
+    "Monetary": 1601.68,
+    "Recency": 30,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12532",
+    "Frequency": 1,
+    "Monetary": 349.83,
+    "Recency": 90,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12533",
+    "Frequency": 1,
+    "Monetary": 929.92,
+    "Recency": 1062,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12534",
+    "Frequency": 1,
+    "Monetary": 1089.18,
+    "Recency": 336,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12535",
+    "Frequency": 2,
+    "Monetary": 716.35,
+    "Recency": 92,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12536",
+    "Frequency": 1,
+    "Monetary": 4279.71,
+    "Recency": 30,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12538",
+    "Frequency": 1,
+    "Monetary": 363.95,
+    "Recency": 60,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12539",
+    "Frequency": 1,
+    "Monetary": 1715.85,
+    "Recency": 70,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12540",
+    "Frequency": 15,
+    "Monetary": 8091.41,
+    "Recency": 39,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12541",
+    "Frequency": 2,
+    "Monetary": 757.44,
+    "Recency": 60,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12542",
+    "Frequency": 2,
+    "Monetary": 481.88,
+    "Recency": 367,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12544",
+    "Frequency": 1,
+    "Monetary": 372.7,
+    "Recency": 274,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12547",
+    "Frequency": 1,
+    "Monetary": 159.4,
+    "Recency": 251,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12549",
+    "Frequency": 4,
+    "Monetary": 887.93,
+    "Recency": 374,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12552",
+    "Frequency": 1,
+    "Monetary": 120.0,
+    "Recency": 333,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12553",
+    "Frequency": 5,
+    "Monetary": 1894.56,
+    "Recency": 0,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12556",
+    "Frequency": 1,
+    "Monetary": 308.75,
+    "Recency": 33,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12557",
+    "Frequency": 5,
+    "Monetary": 12336.0,
+    "Recency": 39,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12558",
+    "Frequency": 1,
+    "Monetary": 269.96,
+    "Recency": 301,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12559",
+    "Frequency": 1,
+    "Monetary": 75.6,
+    "Recency": 311,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12561",
+    "Frequency": 1,
+    "Monetary": 238.85,
+    "Recency": 69,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12562",
+    "Frequency": 2,
+    "Monetary": 1304.37,
+    "Recency": 216,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12567",
+    "Frequency": 9,
+    "Monetary": 6359.91,
+    "Recency": 126,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12568",
+    "Frequency": 1,
+    "Monetary": 70.0,
+    "Recency": 586,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12569",
+    "Frequency": 14,
+    "Monetary": 2115.12,
+    "Recency": 0,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12571",
+    "Frequency": 1,
+    "Monetary": 248.35,
+    "Recency": 63,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12572",
+    "Frequency": 1,
+    "Monetary": 487.68,
+    "Recency": 332,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12573",
+    "Frequency": 1,
+    "Monetary": 165.46,
+    "Recency": 395,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12575",
+    "Frequency": 2,
+    "Monetary": 622.82,
+    "Recency": 488,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12576",
+    "Frequency": 7,
+    "Monetary": 1903.52,
+    "Recency": 130,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12577",
+    "Frequency": 3,
+    "Monetary": 641.26,
+    "Recency": 243,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12580",
+    "Frequency": 2,
+    "Monetary": 1052.9,
+    "Recency": 159,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12582",
+    "Frequency": 1,
+    "Monetary": 837.11,
+    "Recency": 400,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12583",
+    "Frequency": 15,
+    "Monetary": 8268.41,
+    "Recency": 0,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12584",
+    "Frequency": 3,
+    "Monetary": 635.49,
+    "Recency": 157,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12587",
+    "Frequency": 1,
+    "Monetary": 144.0,
+    "Recency": 301,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12588",
+    "Frequency": 2,
+    "Monetary": 414.98,
+    "Recency": 578,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12589",
+    "Frequency": 4,
+    "Monetary": 2788.68,
+    "Recency": 29,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12590",
+    "Frequency": 2,
+    "Monetary": 9864.26,
+    "Recency": 5,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12592",
+    "Frequency": 5,
+    "Monetary": 2582.66,
+    "Recency": 66,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12593",
+    "Frequency": 2,
+    "Monetary": 321.8,
+    "Recency": 219,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12594",
+    "Frequency": 5,
+    "Monetary": 1373.67,
+    "Recency": 63,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12596",
+    "Frequency": 1,
+    "Monetary": 269.95,
+    "Recency": 36,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12597",
+    "Frequency": 1,
+    "Monetary": 912.66,
+    "Recency": 95,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12598",
+    "Frequency": 7,
+    "Monetary": 2711.33,
+    "Recency": 29,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12599",
+    "Frequency": 8,
+    "Monetary": 1587.68,
+    "Recency": 33,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12600",
+    "Frequency": 9,
+    "Monetary": 2551.17,
+    "Recency": 29,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12601",
+    "Frequency": 3,
+    "Monetary": 325.46,
+    "Recency": 39,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12602",
+    "Frequency": 1,
+    "Monetary": 153.12,
+    "Recency": 0,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12605",
+    "Frequency": 2,
+    "Monetary": 758.91,
+    "Recency": 365,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12607",
+    "Frequency": 1,
+    "Monetary": 1579.51,
+    "Recency": 61,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12609",
+    "Frequency": 3,
+    "Monetary": 1291.65,
+    "Recency": 187,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12610",
+    "Frequency": 1,
+    "Monetary": 946.75,
+    "Recency": 216,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12613",
+    "Frequency": 1,
+    "Monetary": 392.62,
+    "Recency": 462,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12614",
+    "Frequency": 1,
+    "Monetary": 315.6,
+    "Recency": 160,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12615",
+    "Frequency": 1,
+    "Monetary": 656.95,
+    "Recency": 274,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12616",
+    "Frequency": 1,
+    "Monetary": 457.7,
+    "Recency": 215,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12617",
+    "Frequency": 1,
+    "Monetary": 352.98,
+    "Recency": 60,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12619",
+    "Frequency": 2,
+    "Monetary": 871.84,
+    "Recency": 182,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12621",
+    "Frequency": 10,
+    "Monetary": 5730.15,
+    "Recency": 5,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12623",
+    "Frequency": 3,
+    "Monetary": 2228.92,
+    "Recency": 129,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12625",
+    "Frequency": 1,
+    "Monetary": 967.2,
+    "Recency": 5,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12626",
+    "Frequency": 2,
+    "Monetary": 2440.39,
+    "Recency": 183,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12627",
+    "Frequency": 3,
+    "Monetary": 2441.14,
+    "Recency": 183,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12628",
+    "Frequency": 2,
+    "Monetary": 571.21,
+    "Recency": 182,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12629",
+    "Frequency": 1,
+    "Monetary": 704.36,
+    "Recency": 365,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12631",
+    "Frequency": 1,
+    "Monetary": 642.52,
+    "Recency": 457,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12632",
+    "Frequency": 1,
+    "Monetary": 410.56,
+    "Recency": 521,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12633",
+    "Frequency": 4,
+    "Monetary": 3339.91,
+    "Recency": 0,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12634",
+    "Frequency": 1,
+    "Monetary": 360.0,
+    "Recency": 460,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12635",
+    "Frequency": 4,
+    "Monetary": 2930.41,
+    "Recency": 31,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12636",
+    "Frequency": 1,
+    "Monetary": 141.0,
+    "Recency": 1062,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12637",
+    "Frequency": 5,
+    "Monetary": 4120.29,
+    "Recency": 92,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12638",
+    "Frequency": 2,
+    "Monetary": 921.49,
+    "Recency": 182,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12639",
+    "Frequency": 1,
+    "Monetary": 572.69,
+    "Recency": 699,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12643",
+    "Frequency": 7,
+    "Monetary": 5322.34,
+    "Recency": 39,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12644",
+    "Frequency": 3,
+    "Monetary": 1246.56,
+    "Recency": 305,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12645",
+    "Frequency": 5,
+    "Monetary": 2187.64,
+    "Recency": 182,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12647",
+    "Frequency": 20,
+    "Monetary": 8563.31,
+    "Recency": 31,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12648",
+    "Frequency": 3,
+    "Monetary": 629.85,
+    "Recency": 125,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12649",
+    "Frequency": 4,
+    "Monetary": 1471.2,
+    "Recency": 35,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12651",
+    "Frequency": 1,
+    "Monetary": 114.0,
+    "Recency": 100,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12652",
+    "Frequency": 2,
+    "Monetary": 1017.03,
+    "Recency": 9,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12653",
+    "Frequency": 1,
+    "Monetary": 1950.98,
+    "Recency": 702,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12654",
+    "Frequency": 1,
+    "Monetary": 171.23,
+    "Recency": 302,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12655",
+    "Frequency": 1,
+    "Monetary": 261.35,
+    "Recency": 365,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12656",
+    "Frequency": 1,
+    "Monetary": 876.41,
+    "Recency": 426,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12659",
+    "Frequency": 1,
+    "Monetary": 91.68,
+    "Recency": 60,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12662",
+    "Frequency": 10,
+    "Monetary": 3430.61,
+    "Recency": 129,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12663",
+    "Frequency": 1,
+    "Monetary": 153.75,
+    "Recency": 464,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12664",
+    "Frequency": 4,
+    "Monetary": 2294.8,
+    "Recency": 0,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12665",
+    "Frequency": 1,
+    "Monetary": 168.8,
+    "Recency": 495,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12666",
+    "Frequency": 1,
+    "Monetary": 1248.42,
+    "Recency": 425,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12667",
+    "Frequency": 1,
+    "Monetary": 620.13,
+    "Recency": 0,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12668",
+    "Frequency": 3,
+    "Monetary": 4012.99,
+    "Recency": 463,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12669",
+    "Frequency": 2,
+    "Monetary": 1607.73,
+    "Recency": 3,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12670",
+    "Frequency": 3,
+    "Monetary": 1499.14,
+    "Recency": 60,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12671",
+    "Frequency": 1,
+    "Monetary": 2622.48,
+    "Recency": 371,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12673",
+    "Frequency": 1,
+    "Monetary": 619.5,
+    "Recency": 639,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12674",
+    "Frequency": 2,
+    "Monetary": 993.8,
+    "Recency": 92,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12675",
+    "Frequency": 2,
+    "Monetary": 957.25,
+    "Recency": 431,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12676",
+    "Frequency": 4,
+    "Monetary": 1483.94,
+    "Recency": 124,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12677",
+    "Frequency": 2,
+    "Monetary": 395.1,
+    "Recency": 403,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12678",
+    "Frequency": 8,
+    "Monetary": 16079.53,
+    "Recency": 218,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12679",
+    "Frequency": 2,
+    "Monetary": 906.38,
+    "Recency": 0,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12680",
+    "Frequency": 1,
+    "Monetary": 112.38,
+    "Recency": 31,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12681",
+    "Frequency": 20,
+    "Monetary": 12943.18,
+    "Recency": 33,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12682",
+    "Frequency": 26,
+    "Monetary": 12961.98,
+    "Recency": 2,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12683",
+    "Frequency": 11,
+    "Monetary": 4694.57,
+    "Recency": 5,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12684",
+    "Frequency": 3,
+    "Monetary": 916.26,
+    "Recency": 66,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12685",
+    "Frequency": 3,
+    "Monetary": 2019.54,
+    "Recency": 29,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12686",
+    "Frequency": 1,
+    "Monetary": 89.14,
+    "Recency": 638,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12689",
+    "Frequency": 1,
+    "Monetary": 511.03,
+    "Recency": 246,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12691",
+    "Frequency": 2,
+    "Monetary": 479.5,
+    "Recency": 0,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12692",
+    "Frequency": 1,
+    "Monetary": 110.95,
+    "Recency": 372,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12693",
+    "Frequency": 4,
+    "Monetary": 1143.16,
+    "Recency": 5,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12694",
+    "Frequency": 1,
+    "Monetary": 439.5,
+    "Recency": 95,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12695",
+    "Frequency": 3,
+    "Monetary": 741.86,
+    "Recency": 244,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12696",
+    "Frequency": 1,
+    "Monetary": 534.76,
+    "Recency": 699,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12697",
+    "Frequency": 1,
+    "Monetary": 223.68,
+    "Recency": 29,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12700",
+    "Frequency": 4,
+    "Monetary": 4939.99,
+    "Recency": 127,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12701",
+    "Frequency": 3,
+    "Monetary": 1259.18,
+    "Recency": 36,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12704",
+    "Frequency": 3,
+    "Monetary": 1120.85,
+    "Recency": 243,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12705",
+    "Frequency": 2,
+    "Monetary": 2319.67,
+    "Recency": 128,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12708",
+    "Frequency": 6,
+    "Monetary": 1266.3,
+    "Recency": 60,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12709",
+    "Frequency": 12,
+    "Monetary": 8036.53,
+    "Recency": 0,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12710",
+    "Frequency": 2,
+    "Monetary": 430.06,
+    "Recency": 245,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12711",
+    "Frequency": 2,
+    "Monetary": 1339.05,
+    "Recency": 524,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12712",
+    "Frequency": 13,
+    "Monetary": 4039.11,
+    "Recency": 9,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12714",
+    "Frequency": 3,
+    "Monetary": 4601.58,
+    "Recency": 457,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12717",
+    "Frequency": 2,
+    "Monetary": 1030.98,
+    "Recency": 33,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12719",
+    "Frequency": 1,
+    "Monetary": 283.6,
+    "Recency": 214,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12720",
+    "Frequency": 12,
+    "Monetary": 2646.85,
+    "Recency": 3,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12721",
+    "Frequency": 4,
+    "Monetary": 2026.63,
+    "Recency": 95,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12722",
+    "Frequency": 1,
+    "Monetary": 302.92,
+    "Recency": 3,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12723",
+    "Frequency": 2,
+    "Monetary": 299.41,
+    "Recency": 214,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12724",
+    "Frequency": 1,
+    "Monetary": 154.9,
+    "Recency": 39,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12725",
+    "Frequency": 2,
+    "Monetary": 1436.75,
+    "Recency": 614,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12726",
+    "Frequency": 5,
+    "Monetary": 2076.88,
+    "Recency": 29,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12727",
+    "Frequency": 5,
+    "Monetary": 2437.97,
+    "Recency": 215,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12728",
+    "Frequency": 1,
+    "Monetary": 252.54,
+    "Recency": 39,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12730",
+    "Frequency": 1,
+    "Monetary": 829.25,
+    "Recency": 551,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12731",
+    "Frequency": 4,
+    "Monetary": 4331.6,
+    "Recency": 35,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12734",
+    "Frequency": 1,
+    "Monetary": 130.35,
+    "Recency": 364,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12735",
+    "Frequency": 1,
+    "Monetary": 319.77,
+    "Recency": 192,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12736",
+    "Frequency": 1,
+    "Monetary": 234.0,
+    "Recency": 39,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12738",
+    "Frequency": 1,
+    "Monetary": 155.35,
+    "Recency": 666,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12739",
+    "Frequency": 2,
+    "Monetary": 2421.23,
+    "Recency": 335,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12740",
+    "Frequency": 1,
+    "Monetary": 427.6,
+    "Recency": 153,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12744",
+    "Frequency": 6,
+    "Monetary": 10994.4,
+    "Recency": 220,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12745",
+    "Frequency": 1,
+    "Monetary": 266.93,
+    "Recency": 428,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12747",
+    "Frequency": 11,
+    "Monetary": 4140.15,
+    "Recency": 219,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12748",
+    "Frequency": 153,
+    "Monetary": 22339.0,
+    "Recency": 5,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12749",
+    "Frequency": 7,
+    "Monetary": 5561.71,
+    "Recency": 66,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12750",
+    "Frequency": 1,
+    "Monetary": 275.88,
+    "Recency": 277,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12753",
+    "Frequency": 4,
+    "Monetary": 12940.51,
+    "Recency": 99,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12754",
+    "Frequency": 2,
+    "Monetary": 61.62,
+    "Recency": 160,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12755",
+    "Frequency": 3,
+    "Monetary": 3830.25,
+    "Recency": 251,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12757",
+    "Frequency": 6,
+    "Monetary": 3417.37,
+    "Recency": 5,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12758",
+    "Frequency": 4,
+    "Monetary": 6710.93,
+    "Recency": 129,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12759",
+    "Frequency": 3,
+    "Monetary": 1449.51,
+    "Recency": 98,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12760",
+    "Frequency": 1,
+    "Monetary": 347.8,
+    "Recency": 427,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12761",
+    "Frequency": 2,
+    "Monetary": 782.95,
+    "Recency": 488,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12762",
+    "Frequency": 1,
+    "Monetary": 1436.93,
+    "Recency": 301,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12763",
+    "Frequency": 1,
+    "Monetary": 320.08,
+    "Recency": 577,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12765",
+    "Frequency": 5,
+    "Monetary": 1110.58,
+    "Recency": 493,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12766",
+    "Frequency": 2,
+    "Monetary": 1835.77,
+    "Recency": 100,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12770",
+    "Frequency": 1,
+    "Monetary": 1895.0,
+    "Recency": 457,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12771",
+    "Frequency": 1,
+    "Monetary": 282.3,
+    "Recency": 397,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12772",
+    "Frequency": 1,
+    "Monetary": 892.47,
+    "Recency": 30,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12775",
+    "Frequency": 2,
+    "Monetary": 634.25,
+    "Recency": 279,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12776",
+    "Frequency": 1,
+    "Monetary": 55.5,
+    "Recency": 434,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12777",
+    "Frequency": 1,
+    "Monetary": 519.45,
+    "Recency": 488,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12778",
+    "Frequency": 3,
+    "Monetary": 653.37,
+    "Recency": 95,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12779",
+    "Frequency": 9,
+    "Monetary": 3707.3,
+    "Recency": 220,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12781",
+    "Frequency": 1,
+    "Monetary": 277.48,
+    "Recency": 153,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12782",
+    "Frequency": 3,
+    "Monetary": 1252.43,
+    "Recency": 395,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12783",
+    "Frequency": 1,
+    "Monetary": 222.26,
+    "Recency": 152,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12785",
+    "Frequency": 2,
+    "Monetary": 678.85,
+    "Recency": 424,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12786",
+    "Frequency": 1,
+    "Monetary": 728.5,
+    "Recency": 462,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12787",
+    "Frequency": 1,
+    "Monetary": 186.56,
+    "Recency": 92,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12788",
+    "Frequency": 1,
+    "Monetary": 130.2,
+    "Recency": 669,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12789",
+    "Frequency": 1,
+    "Monetary": 91.85,
+    "Recency": 214,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12791",
+    "Frequency": 2,
+    "Monetary": 308.4,
+    "Recency": 364,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12793",
+    "Frequency": 3,
+    "Monetary": 885.53,
+    "Recency": 100,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12794",
+    "Frequency": 1,
+    "Monetary": 317.0,
+    "Recency": 304,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12797",
+    "Frequency": 2,
+    "Monetary": 552.08,
+    "Recency": 395,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12800",
+    "Frequency": 2,
+    "Monetary": 403.33,
+    "Recency": 707,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12802",
+    "Frequency": 2,
+    "Monetary": 437.58,
+    "Recency": 187,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12803",
+    "Frequency": 1,
+    "Monetary": 1092.81,
+    "Recency": 394,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12805",
+    "Frequency": 1,
+    "Monetary": 266.5,
+    "Recency": 648,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12808",
+    "Frequency": 4,
+    "Monetary": 673.3,
+    "Recency": 126,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12809",
+    "Frequency": 1,
+    "Monetary": 633.68,
+    "Recency": 675,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12810",
+    "Frequency": 1,
+    "Monetary": 159.66,
+    "Recency": 707,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12811",
+    "Frequency": 1,
+    "Monetary": 282.95,
+    "Recency": 487,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12813",
+    "Frequency": 1,
+    "Monetary": 821.6,
+    "Recency": 431,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12816",
+    "Frequency": 1,
+    "Monetary": 253.55,
+    "Recency": 215,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12817",
+    "Frequency": 3,
+    "Monetary": 690.98,
+    "Recency": 282,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12819",
+    "Frequency": 1,
+    "Monetary": 540.52,
+    "Recency": 519,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12820",
+    "Frequency": 2,
+    "Monetary": 326.85,
+    "Recency": 517,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12821",
+    "Frequency": 2,
+    "Monetary": 220.8,
+    "Recency": 96,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12823",
+    "Frequency": 9,
+    "Monetary": 3412.0,
+    "Recency": 246,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12824",
+    "Frequency": 1,
+    "Monetary": 397.12,
+    "Recency": 30,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12825",
+    "Frequency": 2,
+    "Monetary": 518.63,
+    "Recency": 494,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12826",
+    "Frequency": 3,
+    "Monetary": 568.8,
+    "Recency": 60,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12827",
+    "Frequency": 2,
+    "Monetary": 212.4,
+    "Recency": 152,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12828",
+    "Frequency": 4,
+    "Monetary": 823.89,
+    "Recency": 214,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12829",
+    "Frequency": 2,
+    "Monetary": 299.55,
+    "Recency": 162,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12830",
+    "Frequency": 3,
+    "Monetary": 2258.56,
+    "Recency": 92,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12831",
+    "Frequency": 2,
+    "Monetary": 236.06,
+    "Recency": 669,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12832",
+    "Frequency": 2,
+    "Monetary": 383.03,
+    "Recency": 152,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12834",
+    "Frequency": 1,
+    "Monetary": 312.38,
+    "Recency": 310,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12835",
+    "Frequency": 16,
+    "Monetary": 2479.26,
+    "Recency": 367,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12836",
+    "Frequency": 6,
+    "Monetary": 3425.65,
+    "Recency": 30,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12838",
+    "Frequency": 5,
+    "Monetary": 1622.75,
+    "Recency": 182,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12839",
+    "Frequency": 10,
+    "Monetary": 3231.5,
+    "Recency": 95,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12840",
+    "Frequency": 4,
+    "Monetary": 1938.39,
+    "Recency": 65,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12841",
+    "Frequency": 18,
+    "Monetary": 3360.21,
+    "Recency": 4,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12842",
+    "Frequency": 2,
+    "Monetary": 707.93,
+    "Recency": 252,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12843",
+    "Frequency": 13,
+    "Monetary": 4113.9,
+    "Recency": 66,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12844",
+    "Frequency": 2,
+    "Monetary": 325.96,
+    "Recency": 60,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12848",
+    "Frequency": 1,
+    "Monetary": 208.0,
+    "Recency": 676,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12849",
+    "Frequency": 3,
+    "Monetary": 1180.5,
+    "Recency": 121,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12851",
+    "Frequency": 1,
+    "Monetary": 131.81,
+    "Recency": 245,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12853",
+    "Frequency": 3,
+    "Monetary": 1521.44,
+    "Recency": 487,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12854",
+    "Frequency": 2,
+    "Monetary": 942.91,
+    "Recency": 6,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12855",
+    "Frequency": 4,
+    "Monetary": 612.84,
+    "Recency": 425,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12856",
+    "Frequency": 3,
+    "Monetary": 869.71,
+    "Recency": 29,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12857",
+    "Frequency": 2,
+    "Monetary": 1630.95,
+    "Recency": 69,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12859",
+    "Frequency": 1,
+    "Monetary": 575.1,
+    "Recency": 519,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12862",
+    "Frequency": 2,
+    "Monetary": 984.62,
+    "Recency": 426,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12863",
+    "Frequency": 2,
+    "Monetary": 743.5,
+    "Recency": 430,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12865",
+    "Frequency": 1,
+    "Monetary": 981.38,
+    "Recency": 124,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12866",
+    "Frequency": 1,
+    "Monetary": 559.12,
+    "Recency": 341,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12867",
+    "Frequency": 4,
+    "Monetary": 2664.67,
+    "Recency": 96,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12868",
+    "Frequency": 5,
+    "Monetary": 1477.39,
+    "Recency": 9,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12872",
+    "Frequency": 5,
+    "Monetary": 1645.3,
+    "Recency": 366,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12873",
+    "Frequency": 2,
+    "Monetary": 1534.9,
+    "Recency": 310,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12874",
+    "Frequency": 1,
+    "Monetary": 489.26,
+    "Recency": 644,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12875",
+    "Frequency": 2,
+    "Monetary": 599.04,
+    "Recency": 363,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12876",
+    "Frequency": 1,
+    "Monetary": 978.23,
+    "Recency": 425,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12877",
+    "Frequency": 6,
+    "Monetary": 663.16,
+    "Recency": 155,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12879",
+    "Frequency": 1,
+    "Monetary": 140.5,
+    "Recency": 92,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12881",
+    "Frequency": 1,
+    "Monetary": 298.0,
+    "Recency": 98,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12882",
+    "Frequency": 1,
+    "Monetary": 471.84,
+    "Recency": 182,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12883",
+    "Frequency": 1,
+    "Monetary": 291.63,
+    "Recency": 31,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12884",
+    "Frequency": 1,
+    "Monetary": 309.05,
+    "Recency": 1,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12885",
+    "Frequency": 3,
+    "Monetary": 1175.22,
+    "Recency": 124,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12886",
+    "Frequency": 2,
+    "Monetary": 1378.4,
+    "Recency": 249,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12888",
+    "Frequency": 1,
+    "Monetary": 81.36,
+    "Recency": 96,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12889",
+    "Frequency": 1,
+    "Monetary": 165.6,
+    "Recency": 548,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12891",
+    "Frequency": 6,
+    "Monetary": 624.0,
+    "Recency": 157,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12892",
+    "Frequency": 1,
+    "Monetary": 263.38,
+    "Recency": 486,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12893",
+    "Frequency": 1,
+    "Monetary": 176.55,
+    "Recency": 90,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12897",
+    "Frequency": 1,
+    "Monetary": 128.8,
+    "Recency": 38,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12898",
+    "Frequency": 1,
+    "Monetary": 152.64,
+    "Recency": 669,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12901",
+    "Frequency": 6,
+    "Monetary": 1621.92,
+    "Recency": 35,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12903",
+    "Frequency": 1,
+    "Monetary": 833.53,
+    "Recency": 518,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12905",
+    "Frequency": 1,
+    "Monetary": 424.76,
+    "Recency": 370,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12907",
+    "Frequency": 2,
+    "Monetary": 508.91,
+    "Recency": 455,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12909",
+    "Frequency": 1,
+    "Monetary": 337.91,
+    "Recency": 395,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12910",
+    "Frequency": 3,
+    "Monetary": 1608.04,
+    "Recency": 6,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12911",
+    "Frequency": 1,
+    "Monetary": 1651.72,
+    "Recency": 552,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12912",
+    "Frequency": 1,
+    "Monetary": 616.32,
+    "Recency": 332,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12913",
+    "Frequency": 7,
+    "Monetary": 2291.12,
+    "Recency": 38,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12914",
+    "Frequency": 1,
+    "Monetary": 223.98,
+    "Recency": 608,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12915",
+    "Frequency": 1,
+    "Monetary": 199.65,
+    "Recency": 666,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12916",
+    "Frequency": 1,
+    "Monetary": 663.2,
+    "Recency": 401,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12917",
+    "Frequency": 5,
+    "Monetary": 3375.0,
+    "Recency": 277,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12919",
+    "Frequency": 3,
+    "Monetary": 676.82,
+    "Recency": 3,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12921",
+    "Frequency": 30,
+    "Monetary": 11710.46,
+    "Recency": 35,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12922",
+    "Frequency": 1,
+    "Monetary": 405.38,
+    "Recency": 337,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12923",
+    "Frequency": 1,
+    "Monetary": 172.82,
+    "Recency": 183,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12924",
+    "Frequency": 7,
+    "Monetary": 1127.62,
+    "Recency": 1,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12926",
+    "Frequency": 2,
+    "Monetary": 585.25,
+    "Recency": 675,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12927",
+    "Frequency": 1,
+    "Monetary": 197.31,
+    "Recency": 425,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12928",
+    "Frequency": 3,
+    "Monetary": 1465.05,
+    "Recency": 6,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12929",
+    "Frequency": 1,
+    "Monetary": 117.85,
+    "Recency": 342,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12931",
+    "Frequency": 24,
+    "Monetary": 59066.51,
+    "Recency": 32,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12932",
+    "Frequency": 5,
+    "Monetary": 1348.21,
+    "Recency": 434,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12933",
+    "Frequency": 3,
+    "Monetary": 697.09,
+    "Recency": 341,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12934",
+    "Frequency": 1,
+    "Monetary": 181.65,
+    "Recency": 1003,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12935",
+    "Frequency": 4,
+    "Monetary": 1097.65,
+    "Recency": 400,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12937",
+    "Frequency": 4,
+    "Monetary": 1448.83,
+    "Recency": 367,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12939",
+    "Frequency": 9,
+    "Monetary": 9945.42,
+    "Recency": 37,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12942",
+    "Frequency": 1,
+    "Monetary": 258.75,
+    "Recency": 454,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12944",
+    "Frequency": 1,
+    "Monetary": 317.56,
+    "Recency": 243,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12947",
+    "Frequency": 4,
+    "Monetary": 950.12,
+    "Recency": 65,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12948",
+    "Frequency": 4,
+    "Monetary": 913.15,
+    "Recency": 30,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12949",
+    "Frequency": 9,
+    "Monetary": 7988.79,
+    "Recency": 90,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12950",
+    "Frequency": 1,
+    "Monetary": 1171.4,
+    "Recency": 332,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12951",
+    "Frequency": 6,
+    "Monetary": 1351.63,
+    "Recency": 220,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12952",
+    "Frequency": 1,
+    "Monetary": 297.73,
+    "Recency": 242,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12953",
+    "Frequency": 1,
+    "Monetary": 498.96,
+    "Recency": 582,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12954",
+    "Frequency": 1,
+    "Monetary": 162.45,
+    "Recency": 402,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12955",
+    "Frequency": 4,
+    "Monetary": 2158.14,
+    "Recency": 123,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12956",
+    "Frequency": 1,
+    "Monetary": 108.07,
+    "Recency": 191,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12957",
+    "Frequency": 4,
+    "Monetary": 3717.16,
+    "Recency": 187,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12958",
+    "Frequency": 2,
+    "Monetary": 467.34,
+    "Recency": 584,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12959",
+    "Frequency": 1,
+    "Monetary": 150.95,
+    "Recency": 367,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12960",
+    "Frequency": 1,
+    "Monetary": 319.9,
+    "Recency": 400,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12962",
+    "Frequency": 1,
+    "Monetary": 95.85,
+    "Recency": 301,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12963",
+    "Frequency": 4,
+    "Monetary": 1521.13,
+    "Recency": 332,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12965",
+    "Frequency": 1,
+    "Monetary": 769.81,
+    "Recency": 31,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12967",
+    "Frequency": 1,
+    "Monetary": 1368.4,
+    "Recency": 638,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12970",
+    "Frequency": 3,
+    "Monetary": 619.66,
+    "Recency": 301,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12971",
+    "Frequency": 43,
+    "Monetary": 5967.72,
+    "Recency": 9,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12972",
+    "Frequency": 2,
+    "Monetary": 549.53,
+    "Recency": 553,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12975",
+    "Frequency": 2,
+    "Monetary": 953.01,
+    "Recency": 490,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12976",
+    "Frequency": 3,
+    "Monetary": 1422.82,
+    "Recency": 5,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12977",
+    "Frequency": 1,
+    "Monetary": 39.24,
+    "Recency": 186,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12978",
+    "Frequency": 3,
+    "Monetary": 1552.58,
+    "Recency": 527,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12979",
+    "Frequency": 1,
+    "Monetary": 517.7,
+    "Recency": 789,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12980",
+    "Frequency": 11,
+    "Monetary": 8207.94,
+    "Recency": 9,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12981",
+    "Frequency": 1,
+    "Monetary": 185.04,
+    "Recency": 60,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12982",
+    "Frequency": 3,
+    "Monetary": 1260.36,
+    "Recency": 36,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12985",
+    "Frequency": 1,
+    "Monetary": 754.38,
+    "Recency": 29,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12986",
+    "Frequency": 7,
+    "Monetary": 1750.12,
+    "Recency": 494,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12987",
+    "Frequency": 1,
+    "Monetary": 178.35,
+    "Recency": 493,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12989",
+    "Frequency": 13,
+    "Monetary": 6237.81,
+    "Recency": 1,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "12990",
+    "Frequency": 3,
+    "Monetary": 409.5,
+    "Recency": 121,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12993",
+    "Frequency": 1,
+    "Monetary": 197.1,
+    "Recency": 32,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12994",
+    "Frequency": 1,
+    "Monetary": 292.87,
+    "Recency": 32,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "12997",
+    "Frequency": 4,
+    "Monetary": 888.16,
+    "Recency": 1,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "12998",
+    "Frequency": 2,
+    "Monetary": 619.88,
+    "Recency": 493,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "12999",
+    "Frequency": 1,
+    "Monetary": 320.28,
+    "Recency": 128,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13000",
+    "Frequency": 1,
+    "Monetary": 201.75,
+    "Recency": 424,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13001",
+    "Frequency": 11,
+    "Monetary": 7536.27,
+    "Recency": 126,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13002",
+    "Frequency": 1,
+    "Monetary": 180.38,
+    "Recency": 699,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13003",
+    "Frequency": 2,
+    "Monetary": 89.05,
+    "Recency": 33,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13004",
+    "Frequency": 14,
+    "Monetary": 4735.98,
+    "Recency": 70,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13005",
+    "Frequency": 3,
+    "Monetary": 807.63,
+    "Recency": 159,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13007",
+    "Frequency": 1,
+    "Monetary": 175.25,
+    "Recency": 461,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13008",
+    "Frequency": 1,
+    "Monetary": 193.35,
+    "Recency": 517,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13009",
+    "Frequency": 1,
+    "Monetary": 234.0,
+    "Recency": 587,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13010",
+    "Frequency": 1,
+    "Monetary": 177.12,
+    "Recency": 706,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13011",
+    "Frequency": 1,
+    "Monetary": 50.55,
+    "Recency": 666,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13012",
+    "Frequency": 3,
+    "Monetary": 853.6,
+    "Recency": 66,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13013",
+    "Frequency": 15,
+    "Monetary": 5745.17,
+    "Recency": 35,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13014",
+    "Frequency": 5,
+    "Monetary": 3348.88,
+    "Recency": 152,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13015",
+    "Frequency": 3,
+    "Monetary": 979.37,
+    "Recency": 128,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13016",
+    "Frequency": 1,
+    "Monetary": 425.25,
+    "Recency": 124,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13017",
+    "Frequency": 1,
+    "Monetary": 204.0,
+    "Recency": 301,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13018",
+    "Frequency": 10,
+    "Monetary": 2935.1,
+    "Recency": 90,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13019",
+    "Frequency": 3,
+    "Monetary": 611.53,
+    "Recency": 524,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13021",
+    "Frequency": 6,
+    "Monetary": 1644.89,
+    "Recency": 127,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13022",
+    "Frequency": 1,
+    "Monetary": 65.3,
+    "Recency": 548,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13023",
+    "Frequency": 2,
+    "Monetary": 689.9,
+    "Recency": 183,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13024",
+    "Frequency": 1,
+    "Monetary": 247.83,
+    "Recency": 553,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13025",
+    "Frequency": 1,
+    "Monetary": 323.39,
+    "Recency": 850,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13026",
+    "Frequency": 6,
+    "Monetary": 1085.7,
+    "Recency": 98,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13027",
+    "Frequency": 6,
+    "Monetary": 5328.0,
+    "Recency": 156,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13029",
+    "Frequency": 2,
+    "Monetary": 822.0,
+    "Recency": 90,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13030",
+    "Frequency": 1,
+    "Monetary": 402.36,
+    "Recency": 546,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13031",
+    "Frequency": 2,
+    "Monetary": 1585.64,
+    "Recency": 581,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13032",
+    "Frequency": 7,
+    "Monetary": 1805.78,
+    "Recency": 364,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13033",
+    "Frequency": 1,
+    "Monetary": 30.0,
+    "Recency": 548,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13034",
+    "Frequency": 2,
+    "Monetary": 279.91,
+    "Recency": 577,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13035",
+    "Frequency": 1,
+    "Monetary": 442.32,
+    "Recency": 609,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13037",
+    "Frequency": 6,
+    "Monetary": 1856.66,
+    "Recency": 249,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13038",
+    "Frequency": 1,
+    "Monetary": 196.66,
+    "Recency": 95,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13039",
+    "Frequency": 1,
+    "Monetary": 373.18,
+    "Recency": 614,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13040",
+    "Frequency": 2,
+    "Monetary": 676.99,
+    "Recency": 182,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13041",
+    "Frequency": 1,
+    "Monetary": 181.94,
+    "Recency": 582,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13042",
+    "Frequency": 2,
+    "Monetary": 972.7,
+    "Recency": 676,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13043",
+    "Frequency": 1,
+    "Monetary": 516.42,
+    "Recency": 37,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13044",
+    "Frequency": 6,
+    "Monetary": 1910.29,
+    "Recency": 368,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13045",
+    "Frequency": 3,
+    "Monetary": 808.92,
+    "Recency": 335,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13046",
+    "Frequency": 2,
+    "Monetary": 751.53,
+    "Recency": 90,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13047",
+    "Frequency": 15,
+    "Monetary": 3956.71,
+    "Recency": 121,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13049",
+    "Frequency": 2,
+    "Monetary": 750.46,
+    "Recency": 183,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13050",
+    "Frequency": 11,
+    "Monetary": 3585.74,
+    "Recency": 63,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13051",
+    "Frequency": 1,
+    "Monetary": 80.8,
+    "Recency": 431,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13052",
+    "Frequency": 3,
+    "Monetary": 1255.08,
+    "Recency": 35,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13055",
+    "Frequency": 2,
+    "Monetary": 1451.56,
+    "Recency": 66,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13056",
+    "Frequency": 1,
+    "Monetary": 209.48,
+    "Recency": 552,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13058",
+    "Frequency": 2,
+    "Monetary": 137.7,
+    "Recency": 0,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13059",
+    "Frequency": 3,
+    "Monetary": 834.63,
+    "Recency": 250,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13062",
+    "Frequency": 1,
+    "Monetary": 346.98,
+    "Recency": 338,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13064",
+    "Frequency": 3,
+    "Monetary": 960.63,
+    "Recency": 1,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13065",
+    "Frequency": 3,
+    "Monetary": 618.78,
+    "Recency": 364,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13066",
+    "Frequency": 1,
+    "Monetary": 151.81,
+    "Recency": 152,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13069",
+    "Frequency": 18,
+    "Monetary": 4363.04,
+    "Recency": 2,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13070",
+    "Frequency": 2,
+    "Monetary": 368.7,
+    "Recency": 549,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13071",
+    "Frequency": 1,
+    "Monetary": 129.22,
+    "Recency": 554,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13074",
+    "Frequency": 1,
+    "Monetary": 428.24,
+    "Recency": 705,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13075",
+    "Frequency": 1,
+    "Monetary": 919.61,
+    "Recency": 305,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13076",
+    "Frequency": 1,
+    "Monetary": 135.4,
+    "Recency": 488,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13077",
+    "Frequency": 3,
+    "Monetary": 840.59,
+    "Recency": 485,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13078",
+    "Frequency": 22,
+    "Monetary": 10693.31,
+    "Recency": 0,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13079",
+    "Frequency": 1,
+    "Monetary": 35.7,
+    "Recency": 92,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13080",
+    "Frequency": 2,
+    "Monetary": 132.2,
+    "Recency": 462,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13081",
+    "Frequency": 12,
+    "Monetary": 29898.34,
+    "Recency": 60,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13082",
+    "Frequency": 8,
+    "Monetary": 2793.46,
+    "Recency": 216,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13083",
+    "Frequency": 1,
+    "Monetary": 91.68,
+    "Recency": 426,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13084",
+    "Frequency": 1,
+    "Monetary": 122.4,
+    "Recency": 581,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13085",
+    "Frequency": 5,
+    "Monetary": 1234.78,
+    "Recency": 217,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13089",
+    "Frequency": 66,
+    "Monetary": 43400.21,
+    "Recency": 6,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13090",
+    "Frequency": 11,
+    "Monetary": 6549.95,
+    "Recency": 121,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13091",
+    "Frequency": 3,
+    "Monetary": 2321.82,
+    "Recency": 29,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13092",
+    "Frequency": 6,
+    "Monetary": 1342.35,
+    "Recency": 5,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13093",
+    "Frequency": 23,
+    "Monetary": 22229.84,
+    "Recency": 98,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13094",
+    "Frequency": 8,
+    "Monetary": 1134.24,
+    "Recency": 38,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13096",
+    "Frequency": 1,
+    "Monetary": 419.7,
+    "Recency": 425,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13097",
+    "Frequency": 10,
+    "Monetary": 4857.09,
+    "Recency": 93,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13098",
+    "Frequency": 14,
+    "Monetary": 16659.38,
+    "Recency": 33,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13099",
+    "Frequency": 1,
+    "Monetary": 207.36,
+    "Recency": 335,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13102",
+    "Frequency": 16,
+    "Monetary": 5486.73,
+    "Recency": 39,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13103",
+    "Frequency": 1,
+    "Monetary": 123.34,
+    "Recency": 400,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13107",
+    "Frequency": 3,
+    "Monetary": 1869.17,
+    "Recency": 70,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13108",
+    "Frequency": 1,
+    "Monetary": 350.06,
+    "Recency": 666,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13109",
+    "Frequency": 3,
+    "Monetary": 1134.03,
+    "Recency": 30,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13110",
+    "Frequency": 5,
+    "Monetary": 1386.56,
+    "Recency": 121,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13113",
+    "Frequency": 17,
+    "Monetary": 7630.46,
+    "Recency": 5,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13114",
+    "Frequency": 1,
+    "Monetary": 234.38,
+    "Recency": 819,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13115",
+    "Frequency": 3,
+    "Monetary": 2882.04,
+    "Recency": 0,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13117",
+    "Frequency": 7,
+    "Monetary": 857.63,
+    "Recency": 63,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13118",
+    "Frequency": 1,
+    "Monetary": 281.55,
+    "Recency": 578,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13119",
+    "Frequency": 1,
+    "Monetary": 134.9,
+    "Recency": 464,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13122",
+    "Frequency": 1,
+    "Monetary": 18.72,
+    "Recency": 184,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13124",
+    "Frequency": 2,
+    "Monetary": 2500.01,
+    "Recency": 31,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13125",
+    "Frequency": 1,
+    "Monetary": 148.62,
+    "Recency": 612,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13126",
+    "Frequency": 5,
+    "Monetary": 1222.1,
+    "Recency": 68,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13130",
+    "Frequency": 1,
+    "Monetary": 64.0,
+    "Recency": 184,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13131",
+    "Frequency": 4,
+    "Monetary": 1718.48,
+    "Recency": 218,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13133",
+    "Frequency": 3,
+    "Monetary": 200.45,
+    "Recency": 37,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13134",
+    "Frequency": 2,
+    "Monetary": 767.84,
+    "Recency": 95,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13135",
+    "Frequency": 1,
+    "Monetary": 275.45,
+    "Recency": 581,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13136",
+    "Frequency": 5,
+    "Monetary": 2857.98,
+    "Recency": 35,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13137",
+    "Frequency": 8,
+    "Monetary": 3353.9,
+    "Recency": 29,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13138",
+    "Frequency": 2,
+    "Monetary": 504.85,
+    "Recency": 486,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13139",
+    "Frequency": 3,
+    "Monetary": 1887.38,
+    "Recency": 127,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13140",
+    "Frequency": 2,
+    "Monetary": 410.56,
+    "Recency": 485,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13141",
+    "Frequency": 5,
+    "Monetary": 1538.84,
+    "Recency": 96,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13143",
+    "Frequency": 1,
+    "Monetary": 405.1,
+    "Recency": 614,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13144",
+    "Frequency": 2,
+    "Monetary": 135.35,
+    "Recency": 39,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13145",
+    "Frequency": 4,
+    "Monetary": 601.72,
+    "Recency": 92,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13147",
+    "Frequency": 2,
+    "Monetary": 356.4,
+    "Recency": 90,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13148",
+    "Frequency": 9,
+    "Monetary": 3379.1,
+    "Recency": 60,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13150",
+    "Frequency": 2,
+    "Monetary": 273.45,
+    "Recency": 367,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13153",
+    "Frequency": 1,
+    "Monetary": 486.22,
+    "Recency": 242,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13154",
+    "Frequency": 2,
+    "Monetary": 948.96,
+    "Recency": 578,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13155",
+    "Frequency": 3,
+    "Monetary": 704.66,
+    "Recency": 182,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13156",
+    "Frequency": 2,
+    "Monetary": 1239.6,
+    "Recency": 464,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13157",
+    "Frequency": 2,
+    "Monetary": 493.32,
+    "Recency": 6,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13158",
+    "Frequency": 3,
+    "Monetary": 944.65,
+    "Recency": 2,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13159",
+    "Frequency": 1,
+    "Monetary": 282.56,
+    "Recency": 332,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13162",
+    "Frequency": 7,
+    "Monetary": 4079.27,
+    "Recency": 93,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13163",
+    "Frequency": 1,
+    "Monetary": 17.65,
+    "Recency": 493,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13164",
+    "Frequency": 1,
+    "Monetary": 275.8,
+    "Recency": 434,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13166",
+    "Frequency": 1,
+    "Monetary": 417.2,
+    "Recency": 341,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13167",
+    "Frequency": 2,
+    "Monetary": 416.76,
+    "Recency": 275,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13168",
+    "Frequency": 1,
+    "Monetary": 346.53,
+    "Recency": 274,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13169",
+    "Frequency": 2,
+    "Monetary": 712.88,
+    "Recency": 153,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13172",
+    "Frequency": 1,
+    "Monetary": 69.6,
+    "Recency": 608,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13173",
+    "Frequency": 5,
+    "Monetary": 972.75,
+    "Recency": 516,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13174",
+    "Frequency": 6,
+    "Monetary": 4196.69,
+    "Recency": 364,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13175",
+    "Frequency": 2,
+    "Monetary": 831.45,
+    "Recency": 553,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13177",
+    "Frequency": 2,
+    "Monetary": 512.2,
+    "Recency": 183,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13178",
+    "Frequency": 6,
+    "Monetary": 4178.04,
+    "Recency": 96,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13180",
+    "Frequency": 1,
+    "Monetary": 86.1,
+    "Recency": 401,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13183",
+    "Frequency": 6,
+    "Monetary": 2687.12,
+    "Recency": 100,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13184",
+    "Frequency": 5,
+    "Monetary": 813.19,
+    "Recency": 33,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13186",
+    "Frequency": 2,
+    "Monetary": 1301.94,
+    "Recency": 154,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13187",
+    "Frequency": 1,
+    "Monetary": 236.02,
+    "Recency": 192,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13190",
+    "Frequency": 1,
+    "Monetary": 147.1,
+    "Recency": 881,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13192",
+    "Frequency": 1,
+    "Monetary": 447.62,
+    "Recency": 215,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13193",
+    "Frequency": 1,
+    "Monetary": 112.08,
+    "Recency": 91,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13196",
+    "Frequency": 2,
+    "Monetary": 623.88,
+    "Recency": 458,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13197",
+    "Frequency": 1,
+    "Monetary": 373.01,
+    "Recency": 462,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13198",
+    "Frequency": 4,
+    "Monetary": 2646.28,
+    "Recency": 32,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13199",
+    "Frequency": 24,
+    "Monetary": 5218.12,
+    "Recency": 121,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13200",
+    "Frequency": 1,
+    "Monetary": 319.32,
+    "Recency": 216,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13201",
+    "Frequency": 2,
+    "Monetary": 783.88,
+    "Recency": 490,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13202",
+    "Frequency": 4,
+    "Monetary": 944.68,
+    "Recency": 425,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13203",
+    "Frequency": 3,
+    "Monetary": 956.18,
+    "Recency": 32,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13204",
+    "Frequency": 1,
+    "Monetary": 966.66,
+    "Recency": 850,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13206",
+    "Frequency": 5,
+    "Monetary": 3965.74,
+    "Recency": 400,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13207",
+    "Frequency": 2,
+    "Monetary": 411.72,
+    "Recency": 3,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13208",
+    "Frequency": 5,
+    "Monetary": 753.26,
+    "Recency": 0,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13209",
+    "Frequency": 5,
+    "Monetary": 2892.31,
+    "Recency": 90,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13210",
+    "Frequency": 1,
+    "Monetary": 353.48,
+    "Recency": 154,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13211",
+    "Frequency": 4,
+    "Monetary": 1394.73,
+    "Recency": 215,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13212",
+    "Frequency": 2,
+    "Monetary": 291.47,
+    "Recency": 91,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13213",
+    "Frequency": 4,
+    "Monetary": 1299.05,
+    "Recency": 95,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13214",
+    "Frequency": 3,
+    "Monetary": 2031.25,
+    "Recency": 367,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13215",
+    "Frequency": 1,
+    "Monetary": 81.6,
+    "Recency": 667,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13217",
+    "Frequency": 2,
+    "Monetary": 137.02,
+    "Recency": 93,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13218",
+    "Frequency": 1,
+    "Monetary": 62.64,
+    "Recency": 246,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13220",
+    "Frequency": 2,
+    "Monetary": 643.09,
+    "Recency": 157,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13222",
+    "Frequency": 1,
+    "Monetary": 88.5,
+    "Recency": 400,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13223",
+    "Frequency": 2,
+    "Monetary": 418.2,
+    "Recency": 365,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13224",
+    "Frequency": 2,
+    "Monetary": 2155.95,
+    "Recency": 33,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13225",
+    "Frequency": 4,
+    "Monetary": 4640.44,
+    "Recency": 61,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13226",
+    "Frequency": 2,
+    "Monetary": 312.46,
+    "Recency": 37,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13230",
+    "Frequency": 10,
+    "Monetary": 1679.3,
+    "Recency": 60,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13232",
+    "Frequency": 3,
+    "Monetary": 461.58,
+    "Recency": 4,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13233",
+    "Frequency": 1,
+    "Monetary": 304.24,
+    "Recency": 162,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13234",
+    "Frequency": 2,
+    "Monetary": 346.5,
+    "Recency": 587,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13235",
+    "Frequency": 1,
+    "Monetary": 1031.07,
+    "Recency": 35,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13238",
+    "Frequency": 1,
+    "Monetary": 188.9,
+    "Recency": 579,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13239",
+    "Frequency": 1,
+    "Monetary": 634.35,
+    "Recency": 581,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13240",
+    "Frequency": 2,
+    "Monetary": 334.11,
+    "Recency": 245,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13242",
+    "Frequency": 3,
+    "Monetary": 221.0,
+    "Recency": 66,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13244",
+    "Frequency": 1,
+    "Monetary": 121.74,
+    "Recency": 123,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13245",
+    "Frequency": 1,
+    "Monetary": 558.72,
+    "Recency": 640,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13246",
+    "Frequency": 3,
+    "Monetary": 861.55,
+    "Recency": 394,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13248",
+    "Frequency": 2,
+    "Monetary": 465.68,
+    "Recency": 155,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13249",
+    "Frequency": 5,
+    "Monetary": 941.97,
+    "Recency": 123,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13250",
+    "Frequency": 1,
+    "Monetary": 120.0,
+    "Recency": 580,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13251",
+    "Frequency": 1,
+    "Monetary": 252.68,
+    "Recency": 667,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13252",
+    "Frequency": 1,
+    "Monetary": 52.4,
+    "Recency": 425,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13253",
+    "Frequency": 4,
+    "Monetary": 2951.11,
+    "Recency": 186,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13255",
+    "Frequency": 1,
+    "Monetary": 225.7,
+    "Recency": 697,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13258",
+    "Frequency": 1,
+    "Monetary": 136.2,
+    "Recency": 608,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13259",
+    "Frequency": 6,
+    "Monetary": 1058.06,
+    "Recency": 91,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13260",
+    "Frequency": 1,
+    "Monetary": 557.62,
+    "Recency": 91,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13263",
+    "Frequency": 14,
+    "Monetary": 3130.82,
+    "Recency": 5,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13265",
+    "Frequency": 4,
+    "Monetary": 1787.3,
+    "Recency": 1,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13266",
+    "Frequency": 6,
+    "Monetary": 1903.32,
+    "Recency": 60,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13267",
+    "Frequency": 16,
+    "Monetary": 3755.44,
+    "Recency": 9,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13268",
+    "Frequency": 3,
+    "Monetary": 837.53,
+    "Recency": 6,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13269",
+    "Frequency": 9,
+    "Monetary": 2808.2,
+    "Recency": 1,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13270",
+    "Frequency": 1,
+    "Monetary": 590.0,
+    "Recency": 485,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13271",
+    "Frequency": 1,
+    "Monetary": 211.49,
+    "Recency": 302,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13272",
+    "Frequency": 2,
+    "Monetary": 276.56,
+    "Recency": 31,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13276",
+    "Frequency": 4,
+    "Monetary": 1680.51,
+    "Recency": 153,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13278",
+    "Frequency": 2,
+    "Monetary": 556.2,
+    "Recency": 493,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13280",
+    "Frequency": 5,
+    "Monetary": 1772.13,
+    "Recency": 93,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13282",
+    "Frequency": 1,
+    "Monetary": 344.7,
+    "Recency": 280,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13283",
+    "Frequency": 3,
+    "Monetary": 221.46,
+    "Recency": 30,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13285",
+    "Frequency": 1,
+    "Monetary": 796.83,
+    "Recency": 337,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13287",
+    "Frequency": 1,
+    "Monetary": 264.38,
+    "Recency": 618,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13288",
+    "Frequency": 2,
+    "Monetary": 632.23,
+    "Recency": 403,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13291",
+    "Frequency": 6,
+    "Monetary": 1451.73,
+    "Recency": 156,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13292",
+    "Frequency": 3,
+    "Monetary": 673.72,
+    "Recency": 333,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13293",
+    "Frequency": 3,
+    "Monetary": 571.95,
+    "Recency": 364,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13294",
+    "Frequency": 3,
+    "Monetary": 1689.53,
+    "Recency": 250,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13295",
+    "Frequency": 1,
+    "Monetary": 306.5,
+    "Recency": 370,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13296",
+    "Frequency": 4,
+    "Monetary": 567.75,
+    "Recency": 365,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13297",
+    "Frequency": 2,
+    "Monetary": 1638.9,
+    "Recency": 275,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13299",
+    "Frequency": 1,
+    "Monetary": 725.02,
+    "Recency": 365,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13301",
+    "Frequency": 2,
+    "Monetary": 306.99,
+    "Recency": 247,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13302",
+    "Frequency": 2,
+    "Monetary": 159.2,
+    "Recency": 156,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13303",
+    "Frequency": 1,
+    "Monetary": 61.72,
+    "Recency": 608,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13304",
+    "Frequency": 3,
+    "Monetary": 917.57,
+    "Recency": 399,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13305",
+    "Frequency": 9,
+    "Monetary": 1806.09,
+    "Recency": 37,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13306",
+    "Frequency": 1,
+    "Monetary": 53.65,
+    "Recency": 579,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13307",
+    "Frequency": 2,
+    "Monetary": 45.6,
+    "Recency": 32,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13309",
+    "Frequency": 4,
+    "Monetary": 1256.67,
+    "Recency": 1,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13310",
+    "Frequency": 2,
+    "Monetary": 563.83,
+    "Recency": 29,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13311",
+    "Frequency": 1,
+    "Monetary": 490.11,
+    "Recency": 3,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13313",
+    "Frequency": 7,
+    "Monetary": 1929.16,
+    "Recency": 127,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13314",
+    "Frequency": 1,
+    "Monetary": 89.85,
+    "Recency": 153,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13316",
+    "Frequency": 4,
+    "Monetary": 4841.81,
+    "Recency": 302,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13317",
+    "Frequency": 4,
+    "Monetary": 2276.89,
+    "Recency": 244,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13318",
+    "Frequency": 2,
+    "Monetary": 489.92,
+    "Recency": 242,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13319",
+    "Frequency": 26,
+    "Monetary": 11205.42,
+    "Recency": 60,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13320",
+    "Frequency": 3,
+    "Monetary": 881.41,
+    "Recency": 66,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13323",
+    "Frequency": 2,
+    "Monetary": 255.45,
+    "Recency": 152,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13324",
+    "Frequency": 6,
+    "Monetary": 4667.53,
+    "Recency": 31,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13326",
+    "Frequency": 1,
+    "Monetary": 281.76,
+    "Recency": 640,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13327",
+    "Frequency": 9,
+    "Monetary": 4891.26,
+    "Recency": 157,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13329",
+    "Frequency": 4,
+    "Monetary": 3489.77,
+    "Recency": 121,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13330",
+    "Frequency": 3,
+    "Monetary": 1241.21,
+    "Recency": 123,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13331",
+    "Frequency": 1,
+    "Monetary": 262.4,
+    "Recency": 639,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13333",
+    "Frequency": 1,
+    "Monetary": 701.7,
+    "Recency": 488,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13334",
+    "Frequency": 2,
+    "Monetary": 2708.59,
+    "Recency": 161,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13337",
+    "Frequency": 1,
+    "Monetary": 1575.26,
+    "Recency": 399,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13338",
+    "Frequency": 2,
+    "Monetary": 1244.12,
+    "Recency": 217,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13340",
+    "Frequency": 1,
+    "Monetary": 3678.03,
+    "Recency": 129,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13344",
+    "Frequency": 3,
+    "Monetary": 2511.69,
+    "Recency": 160,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13346",
+    "Frequency": 1,
+    "Monetary": 53.1,
+    "Recency": 641,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13348",
+    "Frequency": 1,
+    "Monetary": 233.76,
+    "Recency": 183,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13351",
+    "Frequency": 1,
+    "Monetary": 373.94,
+    "Recency": 244,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13352",
+    "Frequency": 1,
+    "Monetary": 397.98,
+    "Recency": 61,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13355",
+    "Frequency": 1,
+    "Monetary": 674.7,
+    "Recency": 93,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13357",
+    "Frequency": 1,
+    "Monetary": 911.47,
+    "Recency": 670,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13359",
+    "Frequency": 2,
+    "Monetary": 1043.31,
+    "Recency": 153,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13360",
+    "Frequency": 2,
+    "Monetary": 1173.89,
+    "Recency": 496,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13361",
+    "Frequency": 1,
+    "Monetary": 817.25,
+    "Recency": 705,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13362",
+    "Frequency": 2,
+    "Monetary": 1577.29,
+    "Recency": 128,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13365",
+    "Frequency": 2,
+    "Monetary": 2225.37,
+    "Recency": 182,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13367",
+    "Frequency": 1,
+    "Monetary": 510.2,
+    "Recency": 609,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13368",
+    "Frequency": 2,
+    "Monetary": 498.1,
+    "Recency": 192,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13369",
+    "Frequency": 1,
+    "Monetary": 308.28,
+    "Recency": 454,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13370",
+    "Frequency": 1,
+    "Monetary": 754.87,
+    "Recency": 638,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13372",
+    "Frequency": 1,
+    "Monetary": 378.64,
+    "Recency": 31,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13373",
+    "Frequency": 4,
+    "Monetary": 4060.67,
+    "Recency": 61,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13375",
+    "Frequency": 1,
+    "Monetary": 778.65,
+    "Recency": 1,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13376",
+    "Frequency": 1,
+    "Monetary": 249.76,
+    "Recency": 335,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13377",
+    "Frequency": 2,
+    "Monetary": 1552.88,
+    "Recency": 486,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13379",
+    "Frequency": 1,
+    "Monetary": 299.53,
+    "Recency": 303,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13380",
+    "Frequency": 1,
+    "Monetary": 62.4,
+    "Recency": 640,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13381",
+    "Frequency": 3,
+    "Monetary": 1195.38,
+    "Recency": 31,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13382",
+    "Frequency": 3,
+    "Monetary": 986.97,
+    "Recency": 251,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13384",
+    "Frequency": 3,
+    "Monetary": 2251.62,
+    "Recency": 90,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13393",
+    "Frequency": 2,
+    "Monetary": 252.0,
+    "Recency": 584,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13394",
+    "Frequency": 7,
+    "Monetary": 2549.87,
+    "Recency": 33,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13395",
+    "Frequency": 2,
+    "Monetary": 667.35,
+    "Recency": 157,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13396",
+    "Frequency": 1,
+    "Monetary": 973.72,
+    "Recency": 60,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13397",
+    "Frequency": 4,
+    "Monetary": 1301.82,
+    "Recency": 95,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13399",
+    "Frequency": 2,
+    "Monetary": 197.4,
+    "Recency": 490,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13400",
+    "Frequency": 1,
+    "Monetary": 310.83,
+    "Recency": 553,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13402",
+    "Frequency": 2,
+    "Monetary": 621.23,
+    "Recency": 246,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13404",
+    "Frequency": 1,
+    "Monetary": 217.81,
+    "Recency": 35,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13406",
+    "Frequency": 1,
+    "Monetary": 428.76,
+    "Recency": 487,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13407",
+    "Frequency": 1,
+    "Monetary": 59.7,
+    "Recency": 431,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13408",
+    "Frequency": 41,
+    "Monetary": 19162.19,
+    "Recency": 3,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13410",
+    "Frequency": 4,
+    "Monetary": 1039.32,
+    "Recency": 218,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13413",
+    "Frequency": 4,
+    "Monetary": 236.71,
+    "Recency": 433,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13414",
+    "Frequency": 2,
+    "Monetary": 780.12,
+    "Recency": 217,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13415",
+    "Frequency": 1,
+    "Monetary": 466.92,
+    "Recency": 758,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13416",
+    "Frequency": 1,
+    "Monetary": 228.3,
+    "Recency": 1003,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13417",
+    "Frequency": 3,
+    "Monetary": 918.36,
+    "Recency": 430,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13418",
+    "Frequency": 18,
+    "Monetary": 7011.86,
+    "Recency": 35,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13419",
+    "Frequency": 1,
+    "Monetary": 221.06,
+    "Recency": 153,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13421",
+    "Frequency": 1,
+    "Monetary": 392.54,
+    "Recency": 428,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13422",
+    "Frequency": 1,
+    "Monetary": 2626.3,
+    "Recency": 183,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13423",
+    "Frequency": 1,
+    "Monetary": 217.03,
+    "Recency": 518,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13425",
+    "Frequency": 1,
+    "Monetary": 823.36,
+    "Recency": 461,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13426",
+    "Frequency": 9,
+    "Monetary": 4028.1,
+    "Recency": 31,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13427",
+    "Frequency": 2,
+    "Monetary": 464.86,
+    "Recency": 32,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13429",
+    "Frequency": 1,
+    "Monetary": 165.72,
+    "Recency": 61,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13431",
+    "Frequency": 2,
+    "Monetary": 1269.1,
+    "Recency": 1,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13432",
+    "Frequency": 1,
+    "Monetary": 130.3,
+    "Recency": 554,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13433",
+    "Frequency": 1,
+    "Monetary": 95.2,
+    "Recency": 374,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13434",
+    "Frequency": 2,
+    "Monetary": 449.76,
+    "Recency": 245,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13435",
+    "Frequency": 2,
+    "Monetary": 694.98,
+    "Recency": 216,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13437",
+    "Frequency": 4,
+    "Monetary": 2374.81,
+    "Recency": 121,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13438",
+    "Frequency": 1,
+    "Monetary": 46.5,
+    "Recency": 430,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13439",
+    "Frequency": 1,
+    "Monetary": 284.28,
+    "Recency": 702,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13440",
+    "Frequency": 5,
+    "Monetary": 24.75,
+    "Recency": 365,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13441",
+    "Frequency": 2,
+    "Monetary": 720.9,
+    "Recency": 92,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13442",
+    "Frequency": 3,
+    "Monetary": 419.87,
+    "Recency": 434,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13443",
+    "Frequency": 3,
+    "Monetary": 842.9,
+    "Recency": 371,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13446",
+    "Frequency": 6,
+    "Monetary": 1954.98,
+    "Recency": 397,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13447",
+    "Frequency": 2,
+    "Monetary": 654.01,
+    "Recency": 182,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13448",
+    "Frequency": 6,
+    "Monetary": 3251.19,
+    "Recency": 219,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13450",
+    "Frequency": 8,
+    "Monetary": 2455.7,
+    "Recency": 31,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13451",
+    "Frequency": 3,
+    "Monetary": 1778.37,
+    "Recency": 5,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13453",
+    "Frequency": 1,
+    "Monetary": 424.71,
+    "Recency": 667,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13454",
+    "Frequency": 1,
+    "Monetary": 219.87,
+    "Recency": 494,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13455",
+    "Frequency": 3,
+    "Monetary": 1228.14,
+    "Recency": 366,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13456",
+    "Frequency": 2,
+    "Monetary": 884.76,
+    "Recency": 153,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13457",
+    "Frequency": 1,
+    "Monetary": 112.5,
+    "Recency": 1031,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13458",
+    "Frequency": 8,
+    "Monetary": 5803.16,
+    "Recency": 6,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13460",
+    "Frequency": 1,
+    "Monetary": 75.98,
+    "Recency": 60,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13461",
+    "Frequency": 1,
+    "Monetary": 560.8,
+    "Recency": 333,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13462",
+    "Frequency": 2,
+    "Monetary": 300.44,
+    "Recency": 340,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13464",
+    "Frequency": 2,
+    "Monetary": 1795.82,
+    "Recency": 0,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13465",
+    "Frequency": 1,
+    "Monetary": 611.5,
+    "Recency": 673,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13466",
+    "Frequency": 1,
+    "Monetary": 307.9,
+    "Recency": 126,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13467",
+    "Frequency": 1,
+    "Monetary": 770.66,
+    "Recency": 274,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13468",
+    "Frequency": 37,
+    "Monetary": 6665.89,
+    "Recency": 0,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13470",
+    "Frequency": 1,
+    "Monetary": 49.5,
+    "Recency": 335,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13471",
+    "Frequency": 1,
+    "Monetary": 863.2,
+    "Recency": 242,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13472",
+    "Frequency": 2,
+    "Monetary": 592.24,
+    "Recency": 669,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13473",
+    "Frequency": 6,
+    "Monetary": 1885.62,
+    "Recency": 39,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13474",
+    "Frequency": 1,
+    "Monetary": 350.6,
+    "Recency": 701,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13475",
+    "Frequency": 2,
+    "Monetary": 525.26,
+    "Recency": 188,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13476",
+    "Frequency": 3,
+    "Monetary": 1272.0,
+    "Recency": 282,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13477",
+    "Frequency": 4,
+    "Monetary": 811.5,
+    "Recency": 5,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13481",
+    "Frequency": 1,
+    "Monetary": 311.2,
+    "Recency": 972,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13483",
+    "Frequency": 1,
+    "Monetary": 140.34,
+    "Recency": 214,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13484",
+    "Frequency": 2,
+    "Monetary": 479.58,
+    "Recency": 6,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13485",
+    "Frequency": 6,
+    "Monetary": 1249.85,
+    "Recency": 365,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13486",
+    "Frequency": 2,
+    "Monetary": 819.61,
+    "Recency": 156,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13487",
+    "Frequency": 2,
+    "Monetary": 319.6,
+    "Recency": 66,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13488",
+    "Frequency": 9,
+    "Monetary": 5528.79,
+    "Recency": 9,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13489",
+    "Frequency": 1,
+    "Monetary": 51.36,
+    "Recency": 217,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13491",
+    "Frequency": 13,
+    "Monetary": 2626.17,
+    "Recency": 39,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13492",
+    "Frequency": 2,
+    "Monetary": 676.1,
+    "Recency": 96,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13493",
+    "Frequency": 1,
+    "Monetary": 439.28,
+    "Recency": 98,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13494",
+    "Frequency": 1,
+    "Monetary": 316.26,
+    "Recency": 342,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13495",
+    "Frequency": 5,
+    "Monetary": 2923.91,
+    "Recency": 243,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13497",
+    "Frequency": 4,
+    "Monetary": 797.64,
+    "Recency": 310,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13498",
+    "Frequency": 1,
+    "Monetary": 327.38,
+    "Recency": 819,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13499",
+    "Frequency": 1,
+    "Monetary": 323.62,
+    "Recency": 60,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13500",
+    "Frequency": 3,
+    "Monetary": 968.33,
+    "Recency": 93,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13501",
+    "Frequency": 1,
+    "Monetary": 949.62,
+    "Recency": 428,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13502",
+    "Frequency": 2,
+    "Monetary": 382.46,
+    "Recency": 68,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13503",
+    "Frequency": 2,
+    "Monetary": 453.05,
+    "Recency": 702,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13504",
+    "Frequency": 1,
+    "Monetary": 295.93,
+    "Recency": 183,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13506",
+    "Frequency": 3,
+    "Monetary": 950.19,
+    "Recency": 455,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13507",
+    "Frequency": 1,
+    "Monetary": 386.32,
+    "Recency": 304,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13508",
+    "Frequency": 2,
+    "Monetary": 287.05,
+    "Recency": 67,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13509",
+    "Frequency": 3,
+    "Monetary": 265.3,
+    "Recency": 37,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13510",
+    "Frequency": 3,
+    "Monetary": 1286.69,
+    "Recency": 95,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13511",
+    "Frequency": 1,
+    "Monetary": 282.76,
+    "Recency": 707,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13512",
+    "Frequency": 1,
+    "Monetary": 153.3,
+    "Recency": 584,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13513",
+    "Frequency": 1,
+    "Monetary": 205.1,
+    "Recency": 216,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13514",
+    "Frequency": 2,
+    "Monetary": 317.4,
+    "Recency": 461,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13515",
+    "Frequency": 2,
+    "Monetary": 391.5,
+    "Recency": 189,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13517",
+    "Frequency": 1,
+    "Monetary": 516.24,
+    "Recency": 30,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13520",
+    "Frequency": 6,
+    "Monetary": 3261.88,
+    "Recency": 0,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13522",
+    "Frequency": 1,
+    "Monetary": 125.8,
+    "Recency": 90,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13523",
+    "Frequency": 3,
+    "Monetary": 2115.48,
+    "Recency": 182,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13524",
+    "Frequency": 1,
+    "Monetary": 159.2,
+    "Recency": 249,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13525",
+    "Frequency": 1,
+    "Monetary": 282.88,
+    "Recency": 220,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13526",
+    "Frequency": 2,
+    "Monetary": 1182.0,
+    "Recency": 1062,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13527",
+    "Frequency": 3,
+    "Monetary": 879.84,
+    "Recency": 31,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13531",
+    "Frequency": 2,
+    "Monetary": 617.15,
+    "Recency": 485,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13532",
+    "Frequency": 1,
+    "Monetary": 210.31,
+    "Recency": 182,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13533",
+    "Frequency": 1,
+    "Monetary": 124.15,
+    "Recency": 65,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13534",
+    "Frequency": 7,
+    "Monetary": 1581.86,
+    "Recency": 130,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13535",
+    "Frequency": 1,
+    "Monetary": 89.5,
+    "Recency": 667,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13536",
+    "Frequency": 1,
+    "Monetary": 655.75,
+    "Recency": 242,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13537",
+    "Frequency": 1,
+    "Monetary": 302.0,
+    "Recency": 426,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13538",
+    "Frequency": 6,
+    "Monetary": 2068.27,
+    "Recency": 32,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13539",
+    "Frequency": 2,
+    "Monetary": 176.7,
+    "Recency": 283,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13541",
+    "Frequency": 1,
+    "Monetary": 474.9,
+    "Recency": 487,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13542",
+    "Frequency": 5,
+    "Monetary": 1289.86,
+    "Recency": 426,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13544",
+    "Frequency": 3,
+    "Monetary": 342.69,
+    "Recency": 586,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13546",
+    "Frequency": 1,
+    "Monetary": 192.41,
+    "Recency": 395,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13548",
+    "Frequency": 2,
+    "Monetary": 678.16,
+    "Recency": 67,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13549",
+    "Frequency": 3,
+    "Monetary": 370.2,
+    "Recency": 3,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13551",
+    "Frequency": 1,
+    "Monetary": 152.4,
+    "Recency": 403,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13552",
+    "Frequency": 6,
+    "Monetary": 1983.44,
+    "Recency": 124,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13553",
+    "Frequency": 1,
+    "Monetary": 499.6,
+    "Recency": 648,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13554",
+    "Frequency": 2,
+    "Monetary": 617.08,
+    "Recency": 548,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13556",
+    "Frequency": 1,
+    "Monetary": 93.6,
+    "Recency": 548,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13557",
+    "Frequency": 7,
+    "Monetary": 1964.01,
+    "Recency": 29,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13558",
+    "Frequency": 3,
+    "Monetary": 435.39,
+    "Recency": 91,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13560",
+    "Frequency": 1,
+    "Monetary": 171.42,
+    "Recency": 301,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13561",
+    "Frequency": 5,
+    "Monetary": 593.39,
+    "Recency": 127,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13562",
+    "Frequency": 4,
+    "Monetary": 2025.17,
+    "Recency": 128,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13564",
+    "Frequency": 17,
+    "Monetary": 6765.34,
+    "Recency": 371,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13565",
+    "Frequency": 1,
+    "Monetary": 110.18,
+    "Recency": 100,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13566",
+    "Frequency": 2,
+    "Monetary": 553.79,
+    "Recency": 433,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13567",
+    "Frequency": 1,
+    "Monetary": 389.75,
+    "Recency": 518,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13569",
+    "Frequency": 2,
+    "Monetary": 345.78,
+    "Recency": 516,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13570",
+    "Frequency": 1,
+    "Monetary": 239.49,
+    "Recency": 67,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13571",
+    "Frequency": 12,
+    "Monetary": 2170.67,
+    "Recency": 123,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13573",
+    "Frequency": 1,
+    "Monetary": 81.85,
+    "Recency": 372,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13575",
+    "Frequency": 1,
+    "Monetary": 147.41,
+    "Recency": 0,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13576",
+    "Frequency": 12,
+    "Monetary": 5224.15,
+    "Recency": 60,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13577",
+    "Frequency": 2,
+    "Monetary": 728.45,
+    "Recency": 6,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13579",
+    "Frequency": 3,
+    "Monetary": 688.45,
+    "Recency": 427,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13581",
+    "Frequency": 1,
+    "Monetary": 118.0,
+    "Recency": 283,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13582",
+    "Frequency": 1,
+    "Monetary": 77.5,
+    "Recency": 705,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13583",
+    "Frequency": 1,
+    "Monetary": 781.03,
+    "Recency": 156,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13584",
+    "Frequency": 2,
+    "Monetary": 143.7,
+    "Recency": 191,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13585",
+    "Frequency": 2,
+    "Monetary": 366.17,
+    "Recency": 431,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13587",
+    "Frequency": 1,
+    "Monetary": 712.4,
+    "Recency": 153,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13588",
+    "Frequency": 4,
+    "Monetary": 1043.85,
+    "Recency": 29,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13589",
+    "Frequency": 2,
+    "Monetary": 428.55,
+    "Recency": 461,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13590",
+    "Frequency": 7,
+    "Monetary": 2358.43,
+    "Recency": 3,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13591",
+    "Frequency": 2,
+    "Monetary": 446.25,
+    "Recency": 183,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13592",
+    "Frequency": 2,
+    "Monetary": 138.39,
+    "Recency": 66,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13593",
+    "Frequency": 6,
+    "Monetary": 2554.96,
+    "Recency": 162,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13594",
+    "Frequency": 1,
+    "Monetary": 136.35,
+    "Recency": 397,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13595",
+    "Frequency": 3,
+    "Monetary": 784.48,
+    "Recency": 398,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13596",
+    "Frequency": 1,
+    "Monetary": 285.44,
+    "Recency": 242,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13597",
+    "Frequency": 2,
+    "Monetary": 396.71,
+    "Recency": 608,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13598",
+    "Frequency": 2,
+    "Monetary": 333.55,
+    "Recency": 461,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13599",
+    "Frequency": 17,
+    "Monetary": 6078.34,
+    "Recency": 6,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13601",
+    "Frequency": 3,
+    "Monetary": 839.87,
+    "Recency": 5,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13602",
+    "Frequency": 1,
+    "Monetary": 428.89,
+    "Recency": 183,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13606",
+    "Frequency": 3,
+    "Monetary": 276.75,
+    "Recency": 60,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13607",
+    "Frequency": 1,
+    "Monetary": 400.3,
+    "Recency": 667,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13610",
+    "Frequency": 4,
+    "Monetary": 696.35,
+    "Recency": 67,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13611",
+    "Frequency": 3,
+    "Monetary": 996.69,
+    "Recency": 31,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13614",
+    "Frequency": 3,
+    "Monetary": 1049.43,
+    "Recency": 31,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13615",
+    "Frequency": 2,
+    "Monetary": 1788.25,
+    "Recency": 487,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13617",
+    "Frequency": 3,
+    "Monetary": 378.48,
+    "Recency": 4,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13619",
+    "Frequency": 1,
+    "Monetary": 100.24,
+    "Recency": 648,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13622",
+    "Frequency": 1,
+    "Monetary": 658.95,
+    "Recency": 374,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13623",
+    "Frequency": 5,
+    "Monetary": 1521.7,
+    "Recency": 90,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13626",
+    "Frequency": 1,
+    "Monetary": 257.23,
+    "Recency": 340,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13627",
+    "Frequency": 3,
+    "Monetary": 911.72,
+    "Recency": 30,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13628",
+    "Frequency": 1,
+    "Monetary": 310.14,
+    "Recency": 707,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13629",
+    "Frequency": 9,
+    "Monetary": 6602.5,
+    "Recency": 90,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13630",
+    "Frequency": 2,
+    "Monetary": 752.7,
+    "Recency": 126,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13631",
+    "Frequency": 1,
+    "Monetary": 52.5,
+    "Recency": 335,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13632",
+    "Frequency": 4,
+    "Monetary": 1786.12,
+    "Recency": 67,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13634",
+    "Frequency": 7,
+    "Monetary": 2250.21,
+    "Recency": 36,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13635",
+    "Frequency": 2,
+    "Monetary": 1453.4,
+    "Recency": 275,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13636",
+    "Frequency": 3,
+    "Monetary": 657.27,
+    "Recency": 93,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13637",
+    "Frequency": 1,
+    "Monetary": 262.25,
+    "Recency": 218,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13640",
+    "Frequency": 1,
+    "Monetary": 405.0,
+    "Recency": 524,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13641",
+    "Frequency": 2,
+    "Monetary": 458.71,
+    "Recency": 463,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13642",
+    "Frequency": 4,
+    "Monetary": 472.2,
+    "Recency": 127,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13643",
+    "Frequency": 7,
+    "Monetary": 1206.41,
+    "Recency": 121,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13645",
+    "Frequency": 1,
+    "Monetary": 252.1,
+    "Recency": 32,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13646",
+    "Frequency": 2,
+    "Monetary": 326.25,
+    "Recency": 578,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13647",
+    "Frequency": 2,
+    "Monetary": 561.36,
+    "Recency": 670,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13648",
+    "Frequency": 3,
+    "Monetary": 622.38,
+    "Recency": 526,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13649",
+    "Frequency": 2,
+    "Monetary": 576.37,
+    "Recency": 485,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13650",
+    "Frequency": 4,
+    "Monetary": 839.83,
+    "Recency": 1,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13651",
+    "Frequency": 1,
+    "Monetary": 15.0,
+    "Recency": 243,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13652",
+    "Frequency": 2,
+    "Monetary": 1081.81,
+    "Recency": 518,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13653",
+    "Frequency": 1,
+    "Monetary": 152.2,
+    "Recency": 458,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13654",
+    "Frequency": 4,
+    "Monetary": 1056.92,
+    "Recency": 36,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13655",
+    "Frequency": 1,
+    "Monetary": 383.65,
+    "Recency": 6,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13656",
+    "Frequency": 1,
+    "Monetary": 162.7,
+    "Recency": 192,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13658",
+    "Frequency": 3,
+    "Monetary": 2705.53,
+    "Recency": 430,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13659",
+    "Frequency": 3,
+    "Monetary": 1035.44,
+    "Recency": 402,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13660",
+    "Frequency": 1,
+    "Monetary": 306.64,
+    "Recency": 608,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13662",
+    "Frequency": 1,
+    "Monetary": 288.74,
+    "Recency": 35,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13663",
+    "Frequency": 1,
+    "Monetary": 545.45,
+    "Recency": 647,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13666",
+    "Frequency": 2,
+    "Monetary": 40.1,
+    "Recency": 61,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13668",
+    "Frequency": 15,
+    "Monetary": 6173.44,
+    "Recency": 36,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13671",
+    "Frequency": 1,
+    "Monetary": 172.6,
+    "Recency": 425,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13672",
+    "Frequency": 3,
+    "Monetary": 419.92,
+    "Recency": 38,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13673",
+    "Frequency": 1,
+    "Monetary": 204.12,
+    "Recency": 152,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13674",
+    "Frequency": 1,
+    "Monetary": 240.68,
+    "Recency": 640,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13675",
+    "Frequency": 1,
+    "Monetary": 178.38,
+    "Recency": 33,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13677",
+    "Frequency": 1,
+    "Monetary": 273.96,
+    "Recency": 521,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13678",
+    "Frequency": 1,
+    "Monetary": 232.6,
+    "Recency": 33,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13679",
+    "Frequency": 2,
+    "Monetary": 228.51,
+    "Recency": 642,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13680",
+    "Frequency": 5,
+    "Monetary": 4623.87,
+    "Recency": 192,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13681",
+    "Frequency": 2,
+    "Monetary": 531.08,
+    "Recency": 156,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13682",
+    "Frequency": 1,
+    "Monetary": 59.5,
+    "Recency": 218,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13683",
+    "Frequency": 1,
+    "Monetary": 258.6,
+    "Recency": 488,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13685",
+    "Frequency": 1,
+    "Monetary": 1334.16,
+    "Recency": 61,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13686",
+    "Frequency": 2,
+    "Monetary": 297.44,
+    "Recency": 65,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13689",
+    "Frequency": 1,
+    "Monetary": 910.0,
+    "Recency": 153,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13690",
+    "Frequency": 1,
+    "Monetary": 172.25,
+    "Recency": 30,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13691",
+    "Frequency": 1,
+    "Monetary": 212.78,
+    "Recency": 486,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13692",
+    "Frequency": 1,
+    "Monetary": 14.95,
+    "Recency": 66,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13693",
+    "Frequency": 4,
+    "Monetary": 930.7,
+    "Recency": 364,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13694",
+    "Frequency": 56,
+    "Monetary": 70791.26,
+    "Recency": 66,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13695",
+    "Frequency": 10,
+    "Monetary": 1991.07,
+    "Recency": 2,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13696",
+    "Frequency": 1,
+    "Monetary": 306.0,
+    "Recency": 403,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13697",
+    "Frequency": 1,
+    "Monetary": 151.3,
+    "Recency": 333,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13699",
+    "Frequency": 2,
+    "Monetary": 764.15,
+    "Recency": 156,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13700",
+    "Frequency": 5,
+    "Monetary": 801.53,
+    "Recency": 6,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13704",
+    "Frequency": 2,
+    "Monetary": 485.85,
+    "Recency": 0,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13705",
+    "Frequency": 2,
+    "Monetary": 507.32,
+    "Recency": 301,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13706",
+    "Frequency": 1,
+    "Monetary": 330.79,
+    "Recency": 69,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13707",
+    "Frequency": 2,
+    "Monetary": 1838.95,
+    "Recency": 548,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13709",
+    "Frequency": 8,
+    "Monetary": 3141.51,
+    "Recency": 214,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13710",
+    "Frequency": 3,
+    "Monetary": 509.52,
+    "Recency": 121,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13711",
+    "Frequency": 4,
+    "Monetary": 1017.94,
+    "Recency": 219,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13712",
+    "Frequency": 2,
+    "Monetary": 766.42,
+    "Recency": 159,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13713",
+    "Frequency": 1,
+    "Monetary": 247.98,
+    "Recency": 584,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13715",
+    "Frequency": 9,
+    "Monetary": 3765.98,
+    "Recency": 223,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13717",
+    "Frequency": 4,
+    "Monetary": 707.54,
+    "Recency": 152,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13718",
+    "Frequency": 1,
+    "Monetary": 192.5,
+    "Recency": 159,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13719",
+    "Frequency": 3,
+    "Monetary": 1285.32,
+    "Recency": 182,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13721",
+    "Frequency": 2,
+    "Monetary": 741.54,
+    "Recency": 274,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13722",
+    "Frequency": 2,
+    "Monetary": 2128.01,
+    "Recency": 310,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13723",
+    "Frequency": 3,
+    "Monetary": 682.9,
+    "Recency": 188,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13724",
+    "Frequency": 1,
+    "Monetary": 213.01,
+    "Recency": 372,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13725",
+    "Frequency": 2,
+    "Monetary": 1168.63,
+    "Recency": 161,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13726",
+    "Frequency": 1,
+    "Monetary": 786.98,
+    "Recency": 333,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13727",
+    "Frequency": 7,
+    "Monetary": 945.6,
+    "Recency": 29,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13728",
+    "Frequency": 5,
+    "Monetary": 917.48,
+    "Recency": 274,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13730",
+    "Frequency": 1,
+    "Monetary": 306.75,
+    "Recency": 337,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13731",
+    "Frequency": 2,
+    "Monetary": 610.59,
+    "Recency": 159,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13732",
+    "Frequency": 1,
+    "Monetary": 491.86,
+    "Recency": 29,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13733",
+    "Frequency": 1,
+    "Monetary": 149.1,
+    "Recency": 972,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13734",
+    "Frequency": 2,
+    "Monetary": 5996.2,
+    "Recency": 459,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13735",
+    "Frequency": 4,
+    "Monetary": 3823.9,
+    "Recency": 425,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13736",
+    "Frequency": 4,
+    "Monetary": 1375.85,
+    "Recency": 426,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13738",
+    "Frequency": 1,
+    "Monetary": 434.78,
+    "Recency": 486,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13740",
+    "Frequency": 2,
+    "Monetary": 607.59,
+    "Recency": 370,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13741",
+    "Frequency": 2,
+    "Monetary": 363.13,
+    "Recency": 95,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13742",
+    "Frequency": 5,
+    "Monetary": 954.87,
+    "Recency": 31,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13743",
+    "Frequency": 3,
+    "Monetary": 640.92,
+    "Recency": 1,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13744",
+    "Frequency": 1,
+    "Monetary": 263.2,
+    "Recency": 215,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13745",
+    "Frequency": 1,
+    "Monetary": 477.32,
+    "Recency": 399,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13747",
+    "Frequency": 2,
+    "Monetary": 169.8,
+    "Recency": 395,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13748",
+    "Frequency": 6,
+    "Monetary": 1343.5,
+    "Recency": 159,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13750",
+    "Frequency": 4,
+    "Monetary": 1311.48,
+    "Recency": 162,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13752",
+    "Frequency": 5,
+    "Monetary": 876.39,
+    "Recency": 96,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13753",
+    "Frequency": 1,
+    "Monetary": 642.2,
+    "Recency": 1003,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13754",
+    "Frequency": 1,
+    "Monetary": 126.6,
+    "Recency": 33,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13755",
+    "Frequency": 2,
+    "Monetary": 569.91,
+    "Recency": 153,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13756",
+    "Frequency": 8,
+    "Monetary": 3045.45,
+    "Recency": 61,
+    "Segment": "High-Value"
+  },
+  {
+    "CustomerID": "13757",
+    "Frequency": 1,
+    "Monetary": 195.55,
+    "Recency": 648,
+    "Segment": "Inactive"
+  },
+  {
+    "CustomerID": "13758",
+    "Frequency": 8,
+    "Monetary": 3665.91,
+    "Recency": 100,
+    "Segment": "Regular"
+  },
+  {
+    "CustomerID": "13759",
+    "Frequency": 1,
+    "Monetary": 99.0,
+    "Recency": 182,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13762",
+    "Frequency": 3,
+    "Monetary": 1400.88,
+    "Recency": 219,
+    "Segment": "Occasional"
+  },
+  {
+    "CustomerID": "13763",
+    "Frequency": 1,
+    "Monetary": 1714.96,
+    "Recency": 153,
+    "Segment": "Occasional"
+  }
+]

@@ -5,7 +5,6 @@ venv/
 .pytest_cache/
 .idea/
 .vscode/
-hadoop-local/
 data/raw/*
 data/processed/*
 data/output/*
@@ -15,3 +14,4 @@ online_retail_II.csv
 !data/processed/.gitkeep
 !data/output/.gitkeep
 *.log
+hadoop-local/

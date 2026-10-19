@@ -25,7 +25,13 @@ def clean_data(dataframe: DataFrame) -> DataFrame:
     cleaned = normalize_columns(dataframe)
     cleaned = (
         cleaned
-        .withColumn("InvoiceDate", F.to_timestamp("InvoiceDate"))
+        .withColumn(
+            "InvoiceDate",
+            F.coalesce(
+                F.to_timestamp("InvoiceDate"),
+                F.to_timestamp("InvoiceDate", "MM-dd-yyyy HH:mm"),
+            ),
+        )
         .withColumn("CustomerID", F.col("CustomerID").cast("string"))
         .withColumn("Quantity", F.col("Quantity").cast("integer"))
         .withColumn("Price", F.col("Price").cast("double"))

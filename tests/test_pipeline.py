@@ -25,6 +25,15 @@ def test_revenue_is_quantity_times_price(spark_session):
     assert result.Revenue == 13.5
 
 
+def test_cleaning_parses_online_retail_date_format(spark_session):
+    dataframe = spark_session.sql("""
+        SELECT * FROM VALUES
+            ('1', 'A', 'Item', 1, '01-12-2009 07:45', 5.0, '100', 'UK')
+        AS records(Invoice, StockCode, Description, Quantity, InvoiceDate, Price, `Customer ID`, Country)
+    """)
+    assert clean_data(dataframe).count() == 1
+
+
 def test_customer_aggregation(spark_session):
     dataframe = spark_session.sql("""
         SELECT * FROM VALUES

@@ -1,18 +1,16 @@
 # Big Data Analytics for E-Commerce Customer Behavior
 
-This project implements the first review milestone for the Online Retail II transaction dataset. It demonstrates a beginner-friendly pipeline from CSV ingestion through cleaning, feature engineering, Parquet storage, optional HDFS storage, and Spark SQL analytics.
+This project implements an end-to-end local PySpark pipeline for the Online Retail II transaction dataset. It covers CSV ingestion, cleaning, feature engineering, Parquet storage, Spark SQL analytics, RFM segmentation, ALS recommendations, evaluation, static JSON export, and a React dashboard.
 
 ## Architecture
 
-`CSV dataset -> PySpark cleaning -> transaction/customer/product Parquet -> Spark SQL -> CSV analytics`
+`CSV dataset -> PySpark cleaning -> transaction/customer/product Parquet -> Spark SQL -> RFM/ALS -> static JSON -> React`
 
-HDFS is supported as an optional distributed storage stage. The current implementation intentionally does not include recommendations, MongoDB, dashboards, APIs, or deployment services.
 
 ## Technologies
 
-- Python 3.10+ and PySpark 3.5+
-- Apache Hadoop HDFS (optional for local demonstration)
-- Apache Spark SQL
+- Python 3.10+ and PySpark 3.5+ (the requirements include NumPy and setuptools for Spark MLlib)
+- Apache Spark SQL and Spark MLlib ALS
 - CSV input and Parquet processed data
 - Pytest for three focused checks
 
@@ -36,20 +34,7 @@ python -m pip install -r requirements.txt
 
 Java 8 or newer is required by Spark. On Windows, set `JAVA_HOME` to the JDK directory before running Spark. Do not download the dataset automatically; place it manually as described above.
 
-### Windows local Spark setup
-
-PySpark 3.5.9 bundles Hadoop 3.3.4. This project uses the small, pure-Java GlobalMentor local filesystem adapter in `hadoop-local/lib` so local Spark can write Parquet without `winutils.exe` and without installing or starting an HDFS cluster. The adapter is loaded automatically by `src/spark_session.py` when that project-local JAR exists. Keep `hadoop-local/` outside Git; it is ignored in `.gitignore`.
-
-Download the pinned adapter once if `hadoop-local/lib/hadoop-bare-naked-local-fs-0.1.0.jar` is missing:
-
-```powershell
-New-Item -ItemType Directory -Force hadoop-local/lib
-Invoke-WebRequest `
-	-Uri https://repo1.maven.org/maven2/com/globalmentor/hadoop-bare-naked-local-fs/0.1.0/hadoop-bare-naked-local-fs-0.1.0.jar `
-	-OutFile hadoop-local/lib/hadoop-bare-naked-local-fs-0.1.0.jar
-```
-
-The application sets project-local `HADOOP_HOME` and `hadoop.home.dir`; it does not modify system-wide Hadoop settings. The `hdfs` command remains optional and is separate from local Parquet processing.
+On Windows, Spark uses a project-local filesystem compatibility adapter for local Parquet writes. This is not an HDFS cluster or storage layer; no HDFS commands, namenode, datanode, or HDFS configuration are used.
 
 ## Commands
 
@@ -57,29 +42,29 @@ The application sets project-local `HADOOP_HOME` and `hadoop.home.dir`; it does 
 python main.py load
 python main.py clean
 python main.py features
-python main.py hdfs
 python main.py analytics
 python main.py all
+python main.py all_records
+python main.py segment
+python main.py recommend --top-n 10
+python main.py evaluate-recommendations --top-n 10
+python main.py export-json
 python -m pytest
 ```
 
 `features` writes `data/processed/transactions`, `customers`, and `products` as Parquet. `analytics` writes one Spark CSV directory per report under `data/output/`. Spark creates part files inside each output directory.
+
+`all_records` reads the stored transaction Parquet dataset and streams every stored record to the terminal. Use `--limit` for a smaller test display, for example `python main.py all_records --limit 20`. Run `python main.py all` first if the processed transaction dataset does not exist.
+
+`segment` writes RFM values and customer segments to `data/processed/segments`. `recommend` trains an implicit-feedback ALS model, writes it to `data/models/als`, writes stable ID mappings to `data/processed/mappings`, and writes filtered recommendations to `data/processed/recommendations`. `evaluate-recommendations` uses a per-customer temporal holdout and writes RMSE, Precision@K, and Recall@K to `data/processed/evaluation`.
+
+`export-json` creates deterministic, bounded static exports in `frontend/public/data`. It can run after `all`, or it will create the required processed datasets when they are absent. Start the dashboard with `cd frontend; npm install; npm run dev`. The dashboard has no backend: it reads only these JSON files.
 
 You can provide a different CSV explicitly:
 
 ```bash
 python main.py load --input data/raw/online_retail_II.csv
 ```
-
-## Hadoop/HDFS setup
-
-Install Hadoop, configure the local NameNode and DataNode, format the NameNode once, and start both services. Add Hadoop's `bin` directory to `PATH`, then set `HDFS_NAMENODE` in `src/config.py` if your NameNode uses another URI or port. Run:
-
-```bash
-python main.py hdfs
-```
-
-This creates `/ecommerce/raw`, `/ecommerce/processed`, and `/ecommerce/analytics`, uploads the raw CSV, and verifies the tree with `hdfs dfs -ls`. If HDFS is not installed or running, the command prints setup guidance and the rest of the local pipeline remains usable.
 
 ## Completed for the review
 
@@ -88,15 +73,12 @@ This creates `/ecommerce/raw`, `/ecommerce/processed`, and `/ecommerce/analytics
 - Cancelled-invoice handling, timestamp conversion, normalized names, and Revenue
 - Date/time features and customer/product aggregates
 - Parquet processed datasets
-- Optional HDFS utility
 - Ten Spark SQL analytics and persisted outputs
 - Basic tests and progress messages
 
-## Future work
+## Viva notes
 
-1. Collaborative filtering recommendation engine using Spark MLlib ALS
-2. Recommendation evaluation
-3. MongoDB recommendation storage
-4. Customer segmentation/RFM
-5. Power BI dashboard
-6. Final end-to-end deployment
+- RFM uses the latest cleaned transaction date as the reference date, distinct invoices for frequency, and cleaned revenue for monetary value.
+- ALS uses stable, deterministic integer mappings and implicit purchase strength. Recommendations are anti-joined with every training purchase before ranking.
+- Evaluation holds out each customer's latest product interaction. RMSE is reported only for non-cold-start test rows; ranking metrics remove training products.
+- JSON collection is bounded to protect the driver, sorted before serialization, and written to the React public directory.

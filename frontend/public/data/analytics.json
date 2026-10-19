@@ -1,0 +1,492 @@
+{
+  "average_order_value": [
+    {
+      "AverageOrderValue": 464.56
+    }
+  ],
+  "monthly_revenue": [
+    {
+      "Month": 1,
+      "TotalRevenue": 43894.87,
+      "Year": 2009
+    },
+    {
+      "Month": 2,
+      "TotalRevenue": 52762.06,
+      "Year": 2009
+    },
+    {
+      "Month": 3,
+      "TotalRevenue": 67413.62,
+      "Year": 2009
+    },
+    {
+      "Month": 4,
+      "TotalRevenue": 33913.81,
+      "Year": 2009
+    },
+    {
+      "Month": 5,
+      "TotalRevenue": 9803.05,
+      "Year": 2009
+    },
+    {
+      "Month": 6,
+      "TotalRevenue": 24390.1,
+      "Year": 2009
+    },
+    {
+      "Month": 7,
+      "TotalRevenue": 33002.49,
+      "Year": 2009
+    },
+    {
+      "Month": 8,
+      "TotalRevenue": 44763.34,
+      "Year": 2009
+    },
+    {
+      "Month": 9,
+      "TotalRevenue": 30763.17,
+      "Year": 2009
+    },
+    {
+      "Month": 10,
+      "TotalRevenue": 38598.21,
+      "Year": 2009
+    },
+    {
+      "Month": 11,
+      "TotalRevenue": 39204.17,
+      "Year": 2009
+    },
+    {
+      "Month": 1,
+      "TotalRevenue": 263574.2,
+      "Year": 2010
+    },
+    {
+      "Month": 2,
+      "TotalRevenue": 233602.1,
+      "Year": 2010
+    },
+    {
+      "Month": 3,
+      "TotalRevenue": 237909.36,
+      "Year": 2010
+    },
+    {
+      "Month": 4,
+      "TotalRevenue": 243024.98,
+      "Year": 2010
+    },
+    {
+      "Month": 5,
+      "TotalRevenue": 281232.25,
+      "Year": 2010
+    },
+    {
+      "Month": 6,
+      "TotalRevenue": 223520.93,
+      "Year": 2010
+    },
+    {
+      "Month": 7,
+      "TotalRevenue": 400681.92,
+      "Year": 2010
+    },
+    {
+      "Month": 8,
+      "TotalRevenue": 331330.7,
+      "Year": 2010
+    },
+    {
+      "Month": 9,
+      "TotalRevenue": 291572.21,
+      "Year": 2010
+    },
+    {
+      "Month": 10,
+      "TotalRevenue": 271052.72,
+      "Year": 2010
+    },
+    {
+      "Month": 11,
+      "TotalRevenue": 257966.43,
+      "Year": 2010
+    },
+    {
+      "Month": 12,
+      "TotalRevenue": 280839.95,
+      "Year": 2010
+    },
+    {
+      "Month": 1,
+      "TotalRevenue": 239564.8,
+      "Year": 2011
+    },
+    {
+      "Month": 2,
+      "TotalRevenue": 208854.58,
+      "Year": 2011
+    },
+    {
+      "Month": 3,
+      "TotalRevenue": 260988.66,
+      "Year": 2011
+    },
+    {
+      "Month": 4,
+      "TotalRevenue": 318571.64,
+      "Year": 2011
+    },
+    {
+      "Month": 5,
+      "TotalRevenue": 263190.34,
+      "Year": 2011
+    },
+    {
+      "Month": 6,
+      "TotalRevenue": 258654.12,
+      "Year": 2011
+    },
+    {
+      "Month": 7,
+      "TotalRevenue": 253078.69,
+      "Year": 2011
+    },
+    {
+      "Month": 8,
+      "TotalRevenue": 206348.34,
+      "Year": 2011
+    },
+    {
+      "Month": 9,
+      "TotalRevenue": 236782.57,
+      "Year": 2011
+    },
+    {
+      "Month": 10,
+      "TotalRevenue": 290996.86,
+      "Year": 2011
+    },
+    {
+      "Month": 11,
+      "TotalRevenue": 344620.67,
+      "Year": 2011
+    },
+    {
+      "Month": 12,
+      "TotalRevenue": 204679.39,
+      "Year": 2011
+    }
+  ],
+  "revenue_by_country": [
+    {
+      "Country": "Australia",
+      "TotalRevenue": 53999.19
+    },
+    {
+      "Country": "Austria",
+      "TotalRevenue": 7260.02
+    },
+    {
+      "Country": "Bahrain",
+      "TotalRevenue": 459.4
+    },
+    {
+      "Country": "Belgium",
+      "TotalRevenue": 21041.26
+    },
+    {
+      "Country": "Canada",
+      "TotalRevenue": 2133.65
+    },
+    {
+      "Country": "Channel Islands",
+      "TotalRevenue": 13174.38
+    },
+    {
+      "Country": "Cyprus",
+      "TotalRevenue": 8458.92
+    },
+    {
+      "Country": "Czech Republic",
+      "TotalRevenue": 277.48
+    },
+    {
+      "Country": "Denmark",
+      "TotalRevenue": 14236.23
+    },
+    {
+      "Country": "EIRE",
+      "TotalRevenue": 248990.15
+    },
+    {
+      "Country": "European Community",
+      "TotalRevenue": 432.05
+    },
+    {
+      "Country": "Finland",
+      "TotalRevenue": 13786.97
+    },
+    {
+      "Country": "France",
+      "TotalRevenue": 156285.25
+    },
+    {
+      "Country": "Germany",
+      "TotalRevenue": 174340.19
+    },
+    {
+      "Country": "Greece",
+      "TotalRevenue": 6049.55
+    },
+    {
+      "Country": "Iceland",
+      "TotalRevenue": 2315.47
+    },
+    {
+      "Country": "Israel",
+      "TotalRevenue": 3331.58
+    },
+    {
+      "Country": "Italy",
+      "TotalRevenue": 7057.18
+    },
+    {
+      "Country": "Japan",
+      "TotalRevenue": 19207.12
+    },
+    {
+      "Country": "Lithuania",
+      "TotalRevenue": 3186.45
+    },
+    {
+      "Country": "Malta",
+      "TotalRevenue": 2469.54
+    },
+    {
+      "Country": "Netherlands",
+      "TotalRevenue": 176009.32
+    },
+    {
+      "Country": "Norway",
+      "TotalRevenue": 16783.98
+    },
+    {
+      "Country": "Poland",
+      "TotalRevenue": 6140.25
+    },
+    {
+      "Country": "Portugal",
+      "TotalRevenue": 24226.54
+    },
+    {
+      "Country": "RSA",
+      "TotalRevenue": 931.43
+    },
+    {
+      "Country": "Singapore",
+      "TotalRevenue": 10994.4
+    },
+    {
+      "Country": "Spain",
+      "TotalRevenue": 41758.39
+    },
+    {
+      "Country": "Sweden",
+      "TotalRevenue": 29850.56
+    },
+    {
+      "Country": "Switzerland",
+      "TotalRevenue": 34772.55
+    },
+    {
+      "Country": "Thailand",
+      "TotalRevenue": 1113.7
+    },
+    {
+      "Country": "USA",
+      "TotalRevenue": 3371.2
+    },
+    {
+      "Country": "United Arab Emirates",
+      "TotalRevenue": 3372.53
+    },
+    {
+      "Country": "United Kingdom",
+      "TotalRevenue": 5709947.97
+    },
+    {
+      "Country": "Unspecified",
+      "TotalRevenue": 3382.45
+    }
+  ],
+  "top_customers_by_revenue": [
+    {
+      "CustomerID": "12931",
+      "TotalRevenue": 59066.51
+    },
+    {
+      "CustomerID": "13694",
+      "TotalRevenue": 70791.26
+    },
+    {
+      "CustomerID": "14156",
+      "TotalRevenue": 136837.76
+    },
+    {
+      "CustomerID": "14646",
+      "TotalRevenue": 166966.86
+    },
+    {
+      "CustomerID": "14911",
+      "TotalRevenue": 106972.74
+    },
+    {
+      "CustomerID": "15061",
+      "TotalRevenue": 77628.0
+    },
+    {
+      "CustomerID": "15838",
+      "TotalRevenue": 59593.08
+    },
+    {
+      "CustomerID": "16029",
+      "TotalRevenue": 73122.65
+    },
+    {
+      "CustomerID": "17511",
+      "TotalRevenue": 71864.4
+    },
+    {
+      "CustomerID": "18102",
+      "TotalRevenue": 278294.44
+    }
+  ],
+  "top_products_by_quantity": [
+    {
+      "Description": "BROCADE RING PURSE ",
+      "StockCode": "17003",
+      "TotalQuantitySold": 37452
+    },
+    {
+      "Description": "PACK OF 72 RETRO SPOT CAKE CASES",
+      "StockCode": "21212",
+      "TotalQuantitySold": 34545
+    },
+    {
+      "Description": "RED  HARMONICA IN BOX ",
+      "StockCode": "21915",
+      "TotalQuantitySold": 21572
+    },
+    {
+      "Description": "SMALL POPCORN HOLDER",
+      "StockCode": "22197",
+      "TotalQuantitySold": 25112
+    },
+    {
+      "Description": "MINI PAINT SET VINTAGE ",
+      "StockCode": "22492",
+      "TotalQuantitySold": 19336
+    },
+    {
+      "Description": "WORLD WAR 2 GLIDERS ASSTD DESIGNS",
+      "StockCode": "84077",
+      "TotalQuantitySold": 51763
+    },
+    {
+      "Description": "ROTATING SILVER ANGELS T-LIGHT HLDR",
+      "StockCode": "84347",
+      "TotalQuantitySold": 19819
+    },
+    {
+      "Description": "ASSORTED COLOUR BIRD ORNAMENT",
+      "StockCode": "84879",
+      "TotalQuantitySold": 37233
+    },
+    {
+      "Description": "JUMBO BAG RED WHITE SPOTTY ",
+      "StockCode": "85099B",
+      "TotalQuantitySold": 41795
+    },
+    {
+      "Description": "WHITE HANGING HEART T-LIGHT HOLDER",
+      "StockCode": "85123A",
+      "TotalQuantitySold": 39283
+    }
+  ],
+  "top_products_by_revenue": [
+    {
+      "Description": "PAPER CHAIN KIT 50'S CHRISTMAS ",
+      "StockCode": "22086",
+      "TotalRevenue": 35434.08
+    },
+    {
+      "Description": "REGENCY CAKESTAND 3 TIER",
+      "StockCode": "22423",
+      "TotalRevenue": 106114.38
+    },
+    {
+      "Description": "PICNIC BASKET WICKER SMALL",
+      "StockCode": "22502",
+      "TotalRevenue": 46462.2
+    },
+    {
+      "Description": "PARTY BUNTING",
+      "StockCode": "47566",
+      "TotalRevenue": 39506.07
+    },
+    {
+      "Description": "ROTATING SILVER ANGELS T-LIGHT HLDR",
+      "StockCode": "84347",
+      "TotalRevenue": 36406.13
+    },
+    {
+      "Description": "ASSORTED COLOUR BIRD ORNAMENT",
+      "StockCode": "84879",
+      "TotalRevenue": 58663.29
+    },
+    {
+      "Description": "JUMBO BAG RED WHITE SPOTTY ",
+      "StockCode": "85099B",
+      "TotalRevenue": 74591.19
+    },
+    {
+      "Description": "WHITE HANGING HEART T-LIGHT HOLDER",
+      "StockCode": "85123A",
+      "TotalRevenue": 105906.63
+    },
+    {
+      "Description": "Manual",
+      "StockCode": "M",
+      "TotalRevenue": 43629.11
+    },
+    {
+      "Description": "POSTAGE",
+      "StockCode": "POST",
+      "TotalRevenue": 53098.73
+    }
+  ],
+  "total_customers": [
+    {
+      "TotalCustomers": 4214
+    }
+  ],
+  "total_orders": [
+    {
+      "TotalOrders": 14683
+    }
+  ],
+  "total_products": [
+    {
+      "TotalProducts": 4499
+    }
+  ],
+  "total_revenue": [
+    {
+      "TotalRevenue": 6821147.3
+    }
+  ]
+}

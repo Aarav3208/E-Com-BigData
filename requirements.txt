@@ -1,2 +1,4 @@
 pyspark>=3.5,<4
+numpy>=2,<3
+setuptools>=75
 pytest>=8,<9

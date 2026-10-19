@@ -1,0 +1,14 @@
+[
+  {
+    "metric": "Precision@K",
+    "value": 0.013658536585365854
+  },
+  {
+    "metric": "RMSE",
+    "value": 189.1098342973261
+  },
+  {
+    "metric": "Recall@K",
+    "value": 0.132890365448505
+  }
+]
