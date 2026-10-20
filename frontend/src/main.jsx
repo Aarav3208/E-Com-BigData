@@ -29,12 +29,13 @@ function App() {
       <Card title="Customers" value={metric("total_customers", "TotalCustomers")} />
       <Card title="Products" value={metric("total_products", "TotalProducts")} />
     </section>
-    <section className="panel"><h2>Customer recommendations</h2>
+    <section className="panel"><h2>New products recommended from prior purchases</h2>
       <select value={customer} onChange={(event) => setCustomer(event.target.value)}>
         <option value="">Select a customer</option>
         {[...new Set((data.recommendations || []).map((item) => item.CustomerID))].sort().map((id) => <option key={id}>{id}</option>)}
       </select>
-      <ul>{recommendations.map((item) => <li key={`${item.CustomerID}-${item.StockCode}`}>{item.StockCode} — {item.Description || "Product"} <strong>{Number(item.score).toFixed(2)}</strong></li>)}</ul>
+      {customer && <p className="hint">These products were not previously purchased by this customer. Recommendations are based on similar purchase patterns learned by ALS.</p>}
+      <ul>{recommendations.map((item) => <li key={`${item.CustomerID}-${item.StockCode}`}><span className="badge">{item.RecommendationType || "New product"}</span> {item.StockCode} — {item.Description || "Product"} <strong>Score: {Number(item.score).toFixed(2)}</strong></li>)}</ul>
     </section>
     <section className="columns">
       <Table title="Monthly revenue" rows={summary.monthly_revenue || []} columns={["Year", "Month", "TotalRevenue"]} />

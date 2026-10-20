@@ -14,16 +14,24 @@ def build_interactions(dataframe: DataFrame) -> DataFrame:
 
 
 def add_stable_ids(interactions: DataFrame) -> tuple[DataFrame, DataFrame, DataFrame]:
-    customer_window = Window.orderBy("CustomerID")
-    product_window = Window.orderBy("StockCode")
     customers = (
         interactions.select("CustomerID").distinct()
-        .withColumn("user_id", (F.row_number().over(customer_window) - 1).cast("int"))
+        .withColumn(
+            "user_id",
+            F.pmod(F.xxhash64("CustomerID"), F.lit(2147483647)).cast("int"),
+        )
     )
     products = (
         interactions.select("StockCode").distinct()
-        .withColumn("item_id", (F.row_number().over(product_window) - 1).cast("int"))
+        .withColumn(
+            "item_id",
+            F.pmod(F.xxhash64("StockCode"), F.lit(2147483647)).cast("int"),
+        )
     )
+    if customers.select("CustomerID").count() != customers.select("user_id").distinct().count():
+        raise ValueError("Customer ID hash collision detected; cannot create stable ALS mappings.")
+    if products.select("StockCode").count() != products.select("item_id").distinct().count():
+        raise ValueError("Product ID hash collision detected; cannot create stable ALS mappings.")
     numeric = (
         interactions.join(customers, "CustomerID")
         .join(products, "StockCode")
@@ -59,8 +67,19 @@ def train_recommender(
     descriptions = dataframe.groupBy("StockCode").agg(
         F.first("Description", ignorenulls=True).alias("Description")
     )
+    purchase_counts = numeric.groupBy("user_id").agg(
+        F.count("item_id").alias("PriorPurchaseCount")
+    )
+    product_count = products.select("item_id").count()
+    max_prior_purchases = purchase_counts.agg(
+        F.max("PriorPurchaseCount")
+    ).first()[0]
+    candidate_count = min(
+        product_count,
+        top_n + int(max_prior_purchases or 0),
+    )
     recommendations = (
-        model.recommendForAllUsers(top_n)
+        model.recommendForAllUsers(candidate_count)
         .select("user_id", F.explode("recommendations").alias("recommendation"))
         .select(
             "user_id",
@@ -68,6 +87,7 @@ def train_recommender(
             F.col("recommendation.rating").alias("score"),
         )
         .join(customers, "user_id")
+        .join(purchase_counts, "user_id")
         .join(products, "item_id")
         .join(
             numeric.select("user_id", "item_id").withColumn("purchased", F.lit(True)),
@@ -77,7 +97,14 @@ def train_recommender(
         .filter(F.col("purchased").isNull())
         .drop("purchased")
         .join(descriptions, "StockCode", "left")
-        .select("CustomerID", "StockCode", "Description", "score")
+        .select(
+            "CustomerID",
+            "StockCode",
+            "Description",
+            "score",
+            "PriorPurchaseCount",
+            F.lit("New product").alias("RecommendationType"),
+        )
         .withColumn(
             "rank",
             F.row_number().over(Window.partitionBy("CustomerID").orderBy(F.desc("score"), F.asc("StockCode"))),

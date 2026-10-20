@@ -56,9 +56,9 @@ python -m pytest
 
 `all_records` reads the stored transaction Parquet dataset and streams every stored record to the terminal. Use `--limit` for a smaller test display, for example `python main.py all_records --limit 20`. Run `python main.py all` first if the processed transaction dataset does not exist.
 
-`segment` writes RFM values and customer segments to `data/processed/segments`. `recommend` trains an implicit-feedback ALS model, writes it to `data/models/als`, writes stable ID mappings to `data/processed/mappings`, and writes filtered recommendations to `data/processed/recommendations`. `evaluate-recommendations` uses a per-customer temporal holdout and writes RMSE, Precision@K, and Recall@K to `data/processed/evaluation`.
+`segment` writes RFM values and customer segments to `data/processed/segments`. `recommend` trains an implicit-feedback ALS model, writes it to `data/models/als`, writes stable ID mappings to `data/processed/mappings`, and writes filtered **new-product** recommendations to `data/processed/recommendations`. The engine requests enough candidates to remove each customer's prior purchases and still return up to `--top-n` unseen products. `evaluate-recommendations` uses a per-customer temporal holdout and writes RMSE, Precision@K, and Recall@K to `data/processed/evaluation`.
 
-`export-json` creates deterministic, bounded static exports in `frontend/public/data`. It can run after `all`, or it will create the required processed datasets when they are absent. Start the dashboard with `cd frontend; npm install; npm run dev`. The dashboard has no backend: it reads only these JSON files.
+`export-json` creates deterministic, bounded static exports in `frontend/public/data`. Recommendation exports allow up to 50,000 ranked rows so the customer selector can include the full precomputed recommendation set while remaining bounded on the driver. It can run after `all`, or it will create the required processed datasets when they are absent. Start the dashboard with `cd frontend; npm install; npm run dev`. The dashboard has no backend: it reads only these JSON files.
 
 You can provide a different CSV explicitly:
 

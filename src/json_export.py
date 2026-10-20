@@ -9,6 +9,7 @@ from .config import FRONTEND_DATA_DIR
 
 
 MAX_ROWS = 1000
+RECOMMENDATION_MAX_ROWS = 50000
 
 
 def _records(dataframe: DataFrame, limit: int = MAX_ROWS) -> list[dict[str, Any]]:
@@ -45,7 +46,8 @@ def export_json(
         products.orderBy("StockCode")
     ))
     _write_json(output_path / "recommendations.json", _records(
-        recommendations.orderBy("CustomerID", "rank", "StockCode")
+        recommendations.orderBy("CustomerID", "rank", "StockCode"),
+        RECOMMENDATION_MAX_ROWS,
     ))
     _write_json(output_path / "evaluation.json", _records(
         evaluation.orderBy("metric")

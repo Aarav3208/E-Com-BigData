@@ -1,0 +1,7002 @@
+[
+  {
+    "Description": "INFLATABLE POLITICAL GLOBE ",
+    "StockCode": "10002",
+    "TotalQuantitySold": 3854,
+    "TotalRevenue": 2992.76,
+    "UniqueCustomers": 84
+  },
+  {
+    "Description": "GROOVY CACTUS INFLATABLE",
+    "StockCode": "10080",
+    "TotalQuantitySold": 149,
+    "TotalRevenue": 59.95,
+    "UniqueCustomers": 10
+  },
+  {
+    "Description": "BENDY COLOUR PENCILS",
+    "StockCode": "10109",
+    "TotalQuantitySold": 4,
+    "TotalRevenue": 1.68,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "DOGGY RUBBER",
+    "StockCode": "10120",
+    "TotalQuantitySold": 412,
+    "TotalRevenue": 86.52,
+    "UniqueCustomers": 28
+  },
+  {
+    "Description": "HEARTS WRAPPING TAPE ",
+    "StockCode": "10123C",
+    "TotalQuantitySold": 206,
+    "TotalRevenue": 48.94,
+    "UniqueCustomers": 15
+  },
+  {
+    "Description": "ARMY CAMO WRAPPING TAPE",
+    "StockCode": "10123G",
+    "TotalQuantitySold": 1113,
+    "TotalRevenue": 72.09,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "SPOTS ON RED BOOKCOVER TAPE",
+    "StockCode": "10124A",
+    "TotalQuantitySold": 32,
+    "TotalRevenue": 13.44,
+    "UniqueCustomers": 10
+  },
+  {
+    "Description": "ARMY CAMO BOOKCOVER TAPE",
+    "StockCode": "10124G",
+    "TotalQuantitySold": 23,
+    "TotalRevenue": 9.66,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "MINI FUNKY DESIGN TAPES",
+    "StockCode": "10125",
+    "TotalQuantitySold": 849,
+    "TotalRevenue": 661.45,
+    "UniqueCustomers": 50
+  },
+  {
+    "Description": "COLOURING PENCILS BROWN TUBE",
+    "StockCode": "10133",
+    "TotalQuantitySold": 1475,
+    "TotalRevenue": 872.19,
+    "UniqueCustomers": 75
+  },
+  {
+    "Description": "COLOURING PENCILS BROWN TUBE",
+    "StockCode": "10134",
+    "TotalQuantitySold": 475,
+    "TotalRevenue": 531.05,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "COLOURING PENCILS BROWN TUBE",
+    "StockCode": "10135",
+    "TotalQuantitySold": 1232,
+    "TotalRevenue": 1292.91,
+    "UniqueCustomers": 78
+  },
+  {
+    "Description": "ASSORTED COLOUR JUMBO PEN",
+    "StockCode": "10138",
+    "TotalQuantitySold": 197,
+    "TotalRevenue": 82.74,
+    "UniqueCustomers": 9
+  },
+  {
+    "Description": "ASSTD DESIGN RACING CAR PEN",
+    "StockCode": "11001",
+    "TotalQuantitySold": 2202,
+    "TotalRevenue": 3291.22,
+    "UniqueCustomers": 63
+  },
+  {
+    "Description": "FAN BLACK FRAME ",
+    "StockCode": "15030",
+    "TotalQuantitySold": 82,
+    "TotalRevenue": 23.78,
+    "UniqueCustomers": 9
+  },
+  {
+    "Description": "PAPER POCKET TRAVELING FAN ",
+    "StockCode": "15034",
+    "TotalQuantitySold": 6058,
+    "TotalRevenue": 646.52,
+    "UniqueCustomers": 62
+  },
+  {
+    "Description": "ASSORTED COLOURS SILK FAN",
+    "StockCode": "15036",
+    "TotalQuantitySold": 16130,
+    "TotalRevenue": 11517.32,
+    "UniqueCustomers": 166
+  },
+  {
+    "Description": "SANDALWOOD FAN",
+    "StockCode": "15039",
+    "TotalQuantitySold": 1851,
+    "TotalRevenue": 1253.35,
+    "UniqueCustomers": 63
+  },
+  {
+    "Description": "PINK PAPER PARASOL ",
+    "StockCode": "15044A",
+    "TotalQuantitySold": 3968,
+    "TotalRevenue": 10231.2,
+    "UniqueCustomers": 48
+  },
+  {
+    "Description": "BLUE PAPER PARASOL ",
+    "StockCode": "15044B",
+    "TotalQuantitySold": 941,
+    "TotalRevenue": 2486.35,
+    "UniqueCustomers": 49
+  },
+  {
+    "Description": "PURPLE PAPER PARASOL",
+    "StockCode": "15044C",
+    "TotalQuantitySold": 441,
+    "TotalRevenue": 1211.35,
+    "UniqueCustomers": 44
+  },
+  {
+    "Description": "RED PAPER PARASOL",
+    "StockCode": "15044D",
+    "TotalQuantitySold": 823,
+    "TotalRevenue": 2216.65,
+    "UniqueCustomers": 55
+  },
+  {
+    "Description": "EDWARDIAN PARASOL BLACK",
+    "StockCode": "15056BL",
+    "TotalQuantitySold": 5206,
+    "TotalRevenue": 23379.7,
+    "UniqueCustomers": 168
+  },
+  {
+    "Description": "EDWARDIAN PARASOL NATURAL",
+    "StockCode": "15056N",
+    "TotalQuantitySold": 5966,
+    "TotalRevenue": 27279.51,
+    "UniqueCustomers": 198
+  },
+  {
+    "Description": "EDWARDIAN PARASOL PINK",
+    "StockCode": "15056P",
+    "TotalQuantitySold": 1564,
+    "TotalRevenue": 6911.0,
+    "UniqueCustomers": 89
+  },
+  {
+    "Description": "BLUE POLKADOT GARDEN PARASOL",
+    "StockCode": "15058A",
+    "TotalQuantitySold": 61,
+    "TotalRevenue": 448.95,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "BLUE WHITE SPOTS GARDEN PARASOL",
+    "StockCode": "15058A",
+    "TotalQuantitySold": 105,
+    "TotalRevenue": 526.75,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "PINK WHITE SPOTS GARDEN PARASOL",
+    "StockCode": "15058B",
+    "TotalQuantitySold": 80,
+    "TotalRevenue": 452.0,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "PINK POLKADOT GARDEN PARASOL",
+    "StockCode": "15058B",
+    "TotalQuantitySold": 45,
+    "TotalRevenue": 333.75,
+    "UniqueCustomers": 15
+  },
+  {
+    "Description": "ICE CREAM DESIGN GARDEN PARASOL",
+    "StockCode": "15058C",
+    "TotalQuantitySold": 240,
+    "TotalRevenue": 1068.0,
+    "UniqueCustomers": 30
+  },
+  {
+    "Description": "ENGLISH ROSE EDWARDIAN PARASOL",
+    "StockCode": "15059A",
+    "TotalQuantitySold": 505,
+    "TotalRevenue": 1515.0,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "FAIRY CAKE DESIGN UMBRELLA",
+    "StockCode": "15060B",
+    "TotalQuantitySold": 430,
+    "TotalRevenue": 1549.84,
+    "UniqueCustomers": 78
+  },
+  {
+    "Description": "SMALL FOLDING SCISSOR(POINTED EDGE)",
+    "StockCode": "16008",
+    "TotalQuantitySold": 1316,
+    "TotalRevenue": 189.12,
+    "UniqueCustomers": 27
+  },
+  {
+    "Description": "FOLDING CAMPING SCISSOR W/KNIF & S",
+    "StockCode": "16010",
+    "TotalQuantitySold": 24,
+    "TotalRevenue": 2.88,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "ANIMAL STICKERS",
+    "StockCode": "16011",
+    "TotalQuantitySold": 1224,
+    "TotalRevenue": 257.04,
+    "UniqueCustomers": 27
+  },
+  {
+    "Description": " ANIMAL STICKERS",
+    "StockCode": "16011",
+    "TotalQuantitySold": 168,
+    "TotalRevenue": 35.28,
+    "UniqueCustomers": 4
+  },
+  {
+    "Description": "FOOD/DRINK SPUNGE STICKERS",
+    "StockCode": "16012",
+    "TotalQuantitySold": 407,
+    "TotalRevenue": 85.47,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "FOOD/DRINK SPONGE STICKERS",
+    "StockCode": "16012",
+    "TotalQuantitySold": 1001,
+    "TotalRevenue": 210.21,
+    "UniqueCustomers": 24
+  },
+  {
+    "Description": "SMALL CHINESE STYLE SCISSOR",
+    "StockCode": "16014",
+    "TotalQuantitySold": 10584,
+    "TotalRevenue": 3429.28,
+    "UniqueCustomers": 25
+  },
+  {
+    "Description": "MEDIUM CHINESE STYLE SCISSOR",
+    "StockCode": "16015",
+    "TotalQuantitySold": 600,
+    "TotalRevenue": 263.6,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "LARGE CHINESE STYLE SCISSOR",
+    "StockCode": "16016",
+    "TotalQuantitySold": 1171,
+    "TotalRevenue": 925.15,
+    "UniqueCustomers": 31
+  },
+  {
+    "Description": "CLEAR STATIONERY BOX SET ",
+    "StockCode": "16020C",
+    "TotalQuantitySold": 33,
+    "TotalRevenue": 28.05,
+    "UniqueCustomers": 11
+  },
+  {
+    "Description": "MINI HIGHLIGHTER PENS",
+    "StockCode": "16033",
+    "TotalQuantitySold": 6960,
+    "TotalRevenue": 705.6,
+    "UniqueCustomers": 19
+  },
+  {
+    "Description": "POP ART PUSH DOWN RUBBER ",
+    "StockCode": "16043",
+    "TotalQuantitySold": 1130,
+    "TotalRevenue": 99.6,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "POPART WOODEN PENCILS ASST",
+    "StockCode": "16045",
+    "TotalQuantitySold": 2600,
+    "TotalRevenue": 120.0,
+    "UniqueCustomers": 19
+  },
+  {
+    "Description": "TEATIME PEN CASE & PENS",
+    "StockCode": "16046",
+    "TotalQuantitySold": 5019,
+    "TotalRevenue": 527.91,
+    "UniqueCustomers": 20
+  },
+  {
+    "Description": "POP ART PEN CASE & PENS",
+    "StockCode": "16047",
+    "TotalQuantitySold": 5273,
+    "TotalRevenue": 490.37,
+    "UniqueCustomers": 14
+  },
+  {
+    "Description": "TEATIME ROUND PENCIL SHARPENER ",
+    "StockCode": "16048",
+    "TotalQuantitySold": 1021,
+    "TotalRevenue": 167.52,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "TEATIME GEL PENS ASST",
+    "StockCode": "16049",
+    "TotalQuantitySold": 2052,
+    "TotalRevenue": 343.44,
+    "UniqueCustomers": 11
+  },
+  {
+    "Description": "TEATIME PENCIL WITH RUBBER",
+    "StockCode": "16050",
+    "TotalQuantitySold": 101,
+    "TotalRevenue": 25.25,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "TEATIME PENCIL W STAMP ASST",
+    "StockCode": "16051",
+    "TotalQuantitySold": 72,
+    "TotalRevenue": 30.24,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "TEATIME PUSH DOWN RUBBER",
+    "StockCode": "16052",
+    "TotalQuantitySold": 617,
+    "TotalRevenue": 168.29,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "POPART COL BALLPOINT PEN ASST",
+    "StockCode": "16053",
+    "TotalQuantitySold": 2198,
+    "TotalRevenue": 101.58,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "POPART RECT PENCIL SHARPENER ASST",
+    "StockCode": "16054",
+    "TotalQuantitySold": 298,
+    "TotalRevenue": 47.76,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "FUNKY GIRL ADDRESS BOOK",
+    "StockCode": "16119",
+    "TotalQuantitySold": 2,
+    "TotalRevenue": 2.5,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "FLOWER DES BLUE HANDBAG/ORANG HANDL",
+    "StockCode": "16151A",
+    "TotalQuantitySold": 2,
+    "TotalRevenue": 7.5,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "FLOWERS HANDBAG blue and orange",
+    "StockCode": "16151A",
+    "TotalQuantitySold": 2,
+    "TotalRevenue": 2.5,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "WRAP CAROUSEL",
+    "StockCode": "16156L",
+    "TotalQuantitySold": 200,
+    "TotalRevenue": 84.0,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "WRAP, CAROUSEL",
+    "StockCode": "16156L",
+    "TotalQuantitySold": 225,
+    "TotalRevenue": 94.5,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "WRAP, FRIENDSHIP ON GREEN",
+    "StockCode": "16156N",
+    "TotalQuantitySold": 475,
+    "TotalRevenue": 199.5,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "WRAP PINK FAIRY CAKES ",
+    "StockCode": "16156S",
+    "TotalQuantitySold": 6844,
+    "TotalRevenue": 2743.48,
+    "UniqueCustomers": 137
+  },
+  {
+    "Description": "WRAP SPEED DEMONS ",
+    "StockCode": "16161C",
+    "TotalQuantitySold": 100,
+    "TotalRevenue": 10.0,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "WRAP BOUDOIR ",
+    "StockCode": "16161E",
+    "TotalQuantitySold": 75,
+    "TotalRevenue": 7.5,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "WRAP BAD HAIR DAY",
+    "StockCode": "16161G",
+    "TotalQuantitySold": 350,
+    "TotalRevenue": 35.0,
+    "UniqueCustomers": 13
+  },
+  {
+    "Description": "WRAP  PINK FLOCK",
+    "StockCode": "16161M",
+    "TotalQuantitySold": 425,
+    "TotalRevenue": 178.5,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "WRAP ENGLISH ROSE ",
+    "StockCode": "16161P",
+    "TotalQuantitySold": 5476,
+    "TotalRevenue": 2271.92,
+    "UniqueCustomers": 140
+  },
+  {
+    "Description": "WRAP,SUKI AND FRIENDS",
+    "StockCode": "16161U",
+    "TotalQuantitySold": 1500,
+    "TotalRevenue": 622.0,
+    "UniqueCustomers": 46
+  },
+  {
+    "Description": "WRAP SUKI AND FRIENDS",
+    "StockCode": "16161U",
+    "TotalQuantitySold": 2975,
+    "TotalRevenue": 1223.5,
+    "UniqueCustomers": 78
+  },
+  {
+    "Description": "THE KING GIFT BAG",
+    "StockCode": "16162L",
+    "TotalQuantitySold": 3978,
+    "TotalRevenue": 264.42,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "THE KING GIFT BAG 25x24x12cm",
+    "StockCode": "16162M",
+    "TotalQuantitySold": 16,
+    "TotalRevenue": 6.72,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "FUNKY MONKEY GIFT BAG MEDIUM",
+    "StockCode": "16168M",
+    "TotalQuantitySold": 455,
+    "TotalRevenue": 147.9,
+    "UniqueCustomers": 20
+  },
+  {
+    "Description": "FUNKY MONKEY GIFT BAG SMALL",
+    "StockCode": "16168S",
+    "TotalQuantitySold": 1034,
+    "TotalRevenue": 95.46,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "WRAP BLUE REINDEER",
+    "StockCode": "16169C",
+    "TotalQuantitySold": 700,
+    "TotalRevenue": 294.0,
+    "UniqueCustomers": 22
+  },
+  {
+    "Description": "WRAP WINTER FOREST",
+    "StockCode": "16169D",
+    "TotalQuantitySold": 175,
+    "TotalRevenue": 73.5,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "WRAP 50'S  CHRISTMAS",
+    "StockCode": "16169E",
+    "TotalQuantitySold": 2026,
+    "TotalRevenue": 838.92,
+    "UniqueCustomers": 64
+  },
+  {
+    "Description": "WRAP BLIZZARD",
+    "StockCode": "16169F",
+    "TotalQuantitySold": 475,
+    "TotalRevenue": 199.5,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "WRAP ROMANTIC DECOUPAGE",
+    "StockCode": "16169G",
+    "TotalQuantitySold": 25,
+    "TotalRevenue": 10.5,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "WRAP FOLK ART",
+    "StockCode": "16169K",
+    "TotalQuantitySold": 700,
+    "TotalRevenue": 248.0,
+    "UniqueCustomers": 27
+  },
+  {
+    "Description": "WRAP DAISY CARPET ",
+    "StockCode": "16169M",
+    "TotalQuantitySold": 725,
+    "TotalRevenue": 258.5,
+    "UniqueCustomers": 27
+  },
+  {
+    "Description": "WRAP BLUE RUSSIAN FOLKART",
+    "StockCode": "16169N",
+    "TotalQuantitySold": 600,
+    "TotalRevenue": 229.0,
+    "UniqueCustomers": 22
+  },
+  {
+    "Description": "WRAP GREEN RUSSIAN FOLKART ",
+    "StockCode": "16169P",
+    "TotalQuantitySold": 550,
+    "TotalRevenue": 202.25,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "PASTEL PINK PHOTO ALBUM",
+    "StockCode": "16201A",
+    "TotalQuantitySold": 63,
+    "TotalRevenue": 122.85,
+    "UniqueCustomers": 4
+  },
+  {
+    "Description": "PASTEL BLUE PHOTO ALBUM",
+    "StockCode": "16201B",
+    "TotalQuantitySold": 24,
+    "TotalRevenue": 46.8,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "PASTEL PINK PHOTO ALBUM ",
+    "StockCode": "16202A",
+    "TotalQuantitySold": 322,
+    "TotalRevenue": 114.75,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "PASTEL BLUE PHOTO ALBUM ",
+    "StockCode": "16202B",
+    "TotalQuantitySold": 511,
+    "TotalRevenue": 231.33,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "BEIGE PHOTO ALBUM",
+    "StockCode": "16202C",
+    "TotalQuantitySold": 68,
+    "TotalRevenue": 147.0,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "BLACK PHOTO ALBUM ",
+    "StockCode": "16202E",
+    "TotalQuantitySold": 39,
+    "TotalRevenue": 71.7,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "RED PURSE WITH PINK HEART",
+    "StockCode": "16206B",
+    "TotalQuantitySold": 6,
+    "TotalRevenue": 7.5,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "PINK STRAWBERRY HANDBAG ",
+    "StockCode": "16207A",
+    "TotalQuantitySold": 26,
+    "TotalRevenue": 76.7,
+    "UniqueCustomers": 10
+  },
+  {
+    "Description": "PINK HEART RED HANDBAG",
+    "StockCode": "16207B",
+    "TotalQuantitySold": 72,
+    "TotalRevenue": 110.4,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "FUNKY GIRLZ ASST MAGNETIC MEMO PAD",
+    "StockCode": "16212",
+    "TotalQuantitySold": 183,
+    "TotalRevenue": 118.95,
+    "UniqueCustomers": 13
+  },
+  {
+    "Description": "FUNKY GIRLZ MAGNETIC TO DO LIST ",
+    "StockCode": "16215",
+    "TotalQuantitySold": 8,
+    "TotalRevenue": 5.2,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "LETTER SHAPE PENCIL SHARPENER",
+    "StockCode": "16216",
+    "TotalQuantitySold": 2179,
+    "TotalRevenue": 163.14,
+    "UniqueCustomers": 26
+  },
+  {
+    "Description": "CARTOON  PENCIL SHARPENERS",
+    "StockCode": "16218",
+    "TotalQuantitySold": 1977,
+    "TotalRevenue": 157.32,
+    "UniqueCustomers": 28
+  },
+  {
+    "Description": "HOUSE SHAPE PENCIL SHARPENER",
+    "StockCode": "16219",
+    "TotalQuantitySold": 1785,
+    "TotalRevenue": 242.7,
+    "UniqueCustomers": 24
+  },
+  {
+    "Description": "RATTLE SNAKE EGGS",
+    "StockCode": "16225",
+    "TotalQuantitySold": 350,
+    "TotalRevenue": 374.74,
+    "UniqueCustomers": 37
+  },
+  {
+    "Description": "RECYCLED PENCIL WITH RABBIT ERASER",
+    "StockCode": "16235",
+    "TotalQuantitySold": 1448,
+    "TotalRevenue": 305.76,
+    "UniqueCustomers": 47
+  },
+  {
+    "Description": "KITTY PENCIL ERASERS",
+    "StockCode": "16236",
+    "TotalQuantitySold": 1030,
+    "TotalRevenue": 216.3,
+    "UniqueCustomers": 45
+  },
+  {
+    "Description": "SLEEPING CAT ERASERS",
+    "StockCode": "16237",
+    "TotalQuantitySold": 4759,
+    "TotalRevenue": 954.39,
+    "UniqueCustomers": 105
+  },
+  {
+    "Description": "PARTY TIME PENCIL ERASERS",
+    "StockCode": "16238",
+    "TotalQuantitySold": 877,
+    "TotalRevenue": 184.8,
+    "UniqueCustomers": 51
+  },
+  {
+    "Description": "BALLERINA HEART DECORATION.",
+    "StockCode": "16239",
+    "TotalQuantitySold": 37,
+    "TotalRevenue": 70.05,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "BROWN COZY SQUARE PHOTO ALBUM",
+    "StockCode": "16243B",
+    "TotalQuantitySold": 205,
+    "TotalRevenue": 399.75,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "MAXWELL 2 TONE PINK 60 PAGE PHOTO A",
+    "StockCode": "16244A",
+    "TotalQuantitySold": 3,
+    "TotalRevenue": 12.75,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "MAXWELL 2 TONE BLUE 60 PAGE PHOTO A",
+    "StockCode": "16244B",
+    "TotalQuantitySold": 257,
+    "TotalRevenue": 517.25,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "PINK MINI STATIONERY SET W CASE",
+    "StockCode": "16245A",
+    "TotalQuantitySold": 9,
+    "TotalRevenue": 11.25,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "BLUE HOLE PUNCH",
+    "StockCode": "16248B",
+    "TotalQuantitySold": 10,
+    "TotalRevenue": 12.5,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "TRANSPARENT ACRYLIC TAPE DISPENSER",
+    "StockCode": "16254",
+    "TotalQuantitySold": 18,
+    "TotalRevenue": 15.3,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "FLOWER PENCIL/RUBBER+5 MINI PENCILS",
+    "StockCode": "16256B",
+    "TotalQuantitySold": 223,
+    "TotalRevenue": 93.66,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "HEARTS PENCIL/RUBBER+5 MINI PENCILS",
+    "StockCode": "16256C",
+    "TotalQuantitySold": 97,
+    "TotalRevenue": 40.74,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "SWIRLY CIRCULAR RUBBERS IN BAG",
+    "StockCode": "16258A",
+    "TotalQuantitySold": 258,
+    "TotalRevenue": 105.37,
+    "UniqueCustomers": 25
+  },
+  {
+    "Description": "DAISY ERASERS IN BAG",
+    "StockCode": "16258B",
+    "TotalQuantitySold": 164,
+    "TotalRevenue": 57.84,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "PIECE OF CAMO STATIONERY SET",
+    "StockCode": "16259",
+    "TotalQuantitySold": 2342,
+    "TotalRevenue": 323.08,
+    "UniqueCustomers": 23
+  },
+  {
+    "Description": "HEAVENS SCENT FRAGRANCE OILS ASSTD",
+    "StockCode": "17001",
+    "TotalQuantitySold": 904,
+    "TotalRevenue": 210.32,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "BROCADE RING PURSE ",
+    "StockCode": "17003",
+    "TotalQuantitySold": 37452,
+    "TotalRevenue": 7376.7,
+    "UniqueCustomers": 108
+  },
+  {
+    "Description": "S/3 POT POURI CUSHIONS BLUE COLOURS",
+    "StockCode": "17007B",
+    "TotalQuantitySold": 26,
+    "TotalRevenue": 54.6,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "ORIGAMI SANDLEWOOD INCENSE+FLOWER",
+    "StockCode": "17011F",
+    "TotalQuantitySold": 48,
+    "TotalRevenue": 66.0,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "ORIGAMI VANILLA INCENSE/CANDLE SET ",
+    "StockCode": "17012A",
+    "TotalQuantitySold": 225,
+    "TotalRevenue": 196.35,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "ORIGAMI JASMINE INCENSE/CANDLE SET",
+    "StockCode": "17012B",
+    "TotalQuantitySold": 245,
+    "TotalRevenue": 237.15,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "ORIGAMI LAVENDER INCENSE/CANDL SET ",
+    "StockCode": "17012C",
+    "TotalQuantitySold": 274,
+    "TotalRevenue": 261.8,
+    "UniqueCustomers": 14
+  },
+  {
+    "Description": "ORIGAMI ROSE INCENSE/CANDLE SET ",
+    "StockCode": "17012D",
+    "TotalQuantitySold": 104,
+    "TotalRevenue": 108.8,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "ORIGAMI OPIUM INCENSE/CANDLE SET ",
+    "StockCode": "17012E",
+    "TotalQuantitySold": 11,
+    "TotalRevenue": 28.05,
+    "UniqueCustomers": 4
+  },
+  {
+    "Description": "ORIGAMI SANDLEWOOD INCENSE/CAND SET",
+    "StockCode": "17012F",
+    "TotalQuantitySold": 256,
+    "TotalRevenue": 249.9,
+    "UniqueCustomers": 15
+  },
+  {
+    "Description": "ORIGAMI JASMINE INCENSE IN TUBE",
+    "StockCode": "17013B",
+    "TotalQuantitySold": 130,
+    "TotalRevenue": 165.1,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "ORIGAMI LAVENDER INCENSE IN TUBE",
+    "StockCode": "17013C",
+    "TotalQuantitySold": 96,
+    "TotalRevenue": 40.32,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "ORIGAMI ROSE INCENSE IN TUBE",
+    "StockCode": "17013D",
+    "TotalQuantitySold": 342,
+    "TotalRevenue": 180.54,
+    "UniqueCustomers": 9
+  },
+  {
+    "Description": "ORIGAMI VANILLA INCENSE CONES",
+    "StockCode": "17014A",
+    "TotalQuantitySold": 28,
+    "TotalRevenue": 16.68,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "ORIGAMI LAVENDER INCENSE CONES",
+    "StockCode": "17014C",
+    "TotalQuantitySold": 96,
+    "TotalRevenue": 40.32,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "ORIGAMI ROSE INCENSE CONES",
+    "StockCode": "17014D",
+    "TotalQuantitySold": 196,
+    "TotalRevenue": 87.24,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "ORIGAMI OPIUM INCENSE CONES",
+    "StockCode": "17014E",
+    "TotalQuantitySold": 1,
+    "TotalRevenue": 1.65,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "ORIGAMI SANDLEWOOD INCENSE CONES",
+    "StockCode": "17014F",
+    "TotalQuantitySold": 3,
+    "TotalRevenue": 4.95,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "NAMASTE SWAGAT INCENSE",
+    "StockCode": "17021",
+    "TotalQuantitySold": 2209,
+    "TotalRevenue": 550.38,
+    "UniqueCustomers": 15
+  },
+  {
+    "Description": "INCENSE BAZAAR CANNABIS",
+    "StockCode": "17027A",
+    "TotalQuantitySold": 228,
+    "TotalRevenue": 84.84,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "BROCADE PURSE,SMALL ARCH BUTTON",
+    "StockCode": "17033",
+    "TotalQuantitySold": 2015,
+    "TotalRevenue": 506.75,
+    "UniqueCustomers": 33
+  },
+  {
+    "Description": "PORCELAIN BUDAH INCENSE HOLDER",
+    "StockCode": "17038",
+    "TotalQuantitySold": 1209,
+    "TotalRevenue": 108.9,
+    "UniqueCustomers": 10
+  },
+  {
+    "Description": "INLAID WOOD INCENSE HOLDER",
+    "StockCode": "17039",
+    "TotalQuantitySold": 2082,
+    "TotalRevenue": 444.98,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "ASSORTED SHAPED STENCIL FOR HENNA",
+    "StockCode": "17061",
+    "TotalQuantitySold": 52,
+    "TotalRevenue": 2.08,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "TRANQUILITY MASALA INCENSE",
+    "StockCode": "17084A",
+    "TotalQuantitySold": 137,
+    "TotalRevenue": 28.77,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "MOON INCENSE",
+    "StockCode": "17084G",
+    "TotalQuantitySold": 50,
+    "TotalRevenue": 10.5,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "LOVE POTION MASALA INCENSE",
+    "StockCode": "17084J",
+    "TotalQuantitySold": 152,
+    "TotalRevenue": 31.92,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "FAIRY DREAMS INCENSE ",
+    "StockCode": "17084N",
+    "TotalQuantitySold": 886,
+    "TotalRevenue": 172.31,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "DRAGONS BLOOD INCENSE",
+    "StockCode": "17084P",
+    "TotalQuantitySold": 475,
+    "TotalRevenue": 89.75,
+    "UniqueCustomers": 10
+  },
+  {
+    "Description": "ASSORTED INCENSE PACK",
+    "StockCode": "17084R",
+    "TotalQuantitySold": 6804,
+    "TotalRevenue": 1184.04,
+    "UniqueCustomers": 19
+  },
+  {
+    "Description": "LAVENDER INCENSE 40 CONES IN TIN",
+    "StockCode": "17090A",
+    "TotalQuantitySold": 123,
+    "TotalRevenue": 120.15,
+    "UniqueCustomers": 13
+  },
+  {
+    "Description": "VANILLA INCENSE 40 CONES IN TIN",
+    "StockCode": "17090D",
+    "TotalQuantitySold": 59,
+    "TotalRevenue": 68.95,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "LAVENDER INCENSE IN TIN",
+    "StockCode": "17091A",
+    "TotalQuantitySold": 1144,
+    "TotalRevenue": 769.52,
+    "UniqueCustomers": 39
+  },
+  {
+    "Description": "JASMINE TEA INCENSE IN TIN",
+    "StockCode": "17091B",
+    "TotalQuantitySold": 114,
+    "TotalRevenue": 128.1,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "SANDALWOOD INCENSE IN TIN",
+    "StockCode": "17091F",
+    "TotalQuantitySold": 12,
+    "TotalRevenue": 15.0,
+    "UniqueCustomers": 4
+  },
+  {
+    "Description": "VANILLA INCENSE IN TIN",
+    "StockCode": "17091J",
+    "TotalQuantitySold": 1693,
+    "TotalRevenue": 1025.9,
+    "UniqueCustomers": 53
+  },
+  {
+    "Description": "ASSORTED LAQUERED INCENSE HOLDERS",
+    "StockCode": "17096",
+    "TotalQuantitySold": 3374,
+    "TotalRevenue": 585.66,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "FLOWER FAIRY,5 SUMMER B'DRAW LINERS",
+    "StockCode": "17107D",
+    "TotalQuantitySold": 126,
+    "TotalRevenue": 321.3,
+    "UniqueCustomers": 28
+  },
+  {
+    "Description": "FLOWER FAIRY 5 DRAWER LINERS",
+    "StockCode": "17107D",
+    "TotalQuantitySold": 1,
+    "TotalRevenue": 2.55,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "FLOWER FAIRY SUMMER BOUQUET SACHET",
+    "StockCode": "17108D",
+    "TotalQuantitySold": 169,
+    "TotalRevenue": 70.98,
+    "UniqueCustomers": 11
+  },
+  {
+    "Description": "FLOWER FAIRY INCENSE LILY",
+    "StockCode": "17109A",
+    "TotalQuantitySold": 254,
+    "TotalRevenue": 146.3,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "FLOWER FAIRY INCENSE LAVENDER",
+    "StockCode": "17109B",
+    "TotalQuantitySold": 210,
+    "TotalRevenue": 126.96,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "FLOWER FAIRY INCENSE ROSE",
+    "StockCode": "17109C",
+    "TotalQuantitySold": 169,
+    "TotalRevenue": 114.0,
+    "UniqueCustomers": 9
+  },
+  {
+    "Description": "FLOWER FAIRY INCENSE BOUQUET",
+    "StockCode": "17109D",
+    "TotalQuantitySold": 307,
+    "TotalRevenue": 188.71,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "SKY BLUE COLOUR GLASS GEMS IN BAG",
+    "StockCode": "17129C",
+    "TotalQuantitySold": 75,
+    "TotalRevenue": 48.63,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "CLEAR COLOUR GLASS GEMS IN BAG",
+    "StockCode": "17129D",
+    "TotalQuantitySold": 79,
+    "TotalRevenue": 62.11,
+    "UniqueCustomers": 4
+  },
+  {
+    "Description": "DEEP BLUE GLASS GEMS IN BAG",
+    "StockCode": "17129F",
+    "TotalQuantitySold": 238,
+    "TotalRevenue": 156.94,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "BLUE GLASS GEMS IN BAG",
+    "StockCode": "17129F",
+    "TotalQuantitySold": 285,
+    "TotalRevenue": 187.59,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "BLUE STONES ON WIRE FOR CANDLE",
+    "StockCode": "17136A",
+    "TotalQuantitySold": 524,
+    "TotalRevenue": 43.87,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "ASS COL SMALL SAND GECKO P'WEIGHT",
+    "StockCode": "17164B",
+    "TotalQuantitySold": 772,
+    "TotalRevenue": 308.4,
+    "UniqueCustomers": 29
+  },
+  {
+    "Description": "ASS COL SMALL SAND FROG P'WEIGHT",
+    "StockCode": "17164D",
+    "TotalQuantitySold": 605,
+    "TotalRevenue": 232.5,
+    "UniqueCustomers": 14
+  },
+  {
+    "Description": "ASS COL LARGE SAND GECKO P'WEIGHT",
+    "StockCode": "17165B",
+    "TotalQuantitySold": 573,
+    "TotalRevenue": 502.83,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "ASS COL LARGE SAND FROG P'WEIGHT",
+    "StockCode": "17165D",
+    "TotalQuantitySold": 424,
+    "TotalRevenue": 375.72,
+    "UniqueCustomers": 26
+  },
+  {
+    "Description": "ASSTD RASTA KEY-CHAINS",
+    "StockCode": "17174",
+    "TotalQuantitySold": 24,
+    "TotalRevenue": 10.08,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "FLAT PALM T-LIGHT HOLDER",
+    "StockCode": "17178",
+    "TotalQuantitySold": 52,
+    "TotalRevenue": 55.4,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "CIRCLE OF FRIENDS CANDLE HOLDER",
+    "StockCode": "17181",
+    "TotalQuantitySold": 232,
+    "TotalRevenue": 244.8,
+    "UniqueCustomers": 15
+  },
+  {
+    "Description": "ROSE FLOWER CANDLE+INCENSE 16X16CM",
+    "StockCode": "17191A",
+    "TotalQuantitySold": 4,
+    "TotalRevenue": 15.0,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "ESSENTIAL BALM 3.5g TIN IN ENVELOPE",
+    "StockCode": "18007",
+    "TotalQuantitySold": 2939,
+    "TotalRevenue": 344.22,
+    "UniqueCustomers": 22
+  },
+  {
+    "Description": "ASSORTED FRAGRANCE BATH CONFETTI",
+    "StockCode": "18010",
+    "TotalQuantitySold": 6,
+    "TotalRevenue": 2.52,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "WHITE AND BLUE CERAMIC OIL BURNER",
+    "StockCode": "18094C",
+    "TotalQuantitySold": 122,
+    "TotalRevenue": 133.3,
+    "UniqueCustomers": 11
+  },
+  {
+    "Description": "WHITE/BLUE RECT CERAMIC OIL BURNER",
+    "StockCode": "18094C",
+    "TotalQuantitySold": 8,
+    "TotalRevenue": 10.0,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "WHITE ROUND PORCELAIN TLIGHT HOLDER",
+    "StockCode": "18096C",
+    "TotalQuantitySold": 25,
+    "TotalRevenue": 63.75,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "PINK TALL PORCELAIN T-LIGHT HOLDER ",
+    "StockCode": "18097A",
+    "TotalQuantitySold": 4,
+    "TotalRevenue": 10.2,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "BLUE TALL PORCELAIN T-LIGHT HOLDER",
+    "StockCode": "18097B",
+    "TotalQuantitySold": 4,
+    "TotalRevenue": 10.2,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "WHITE TALL PORCELAIN T-LIGHT HOLDER",
+    "StockCode": "18097C",
+    "TotalQuantitySold": 559,
+    "TotalRevenue": 1276.65,
+    "UniqueCustomers": 56
+  },
+  {
+    "Description": "PORCELAIN BUTTERFLY OIL BURNER",
+    "StockCode": "18098C",
+    "TotalQuantitySold": 537,
+    "TotalRevenue": 1303.35,
+    "UniqueCustomers": 62
+  },
+  {
+    "Description": "BLUE POLKADOT PASSPORT COVER",
+    "StockCode": "20615",
+    "TotalQuantitySold": 117,
+    "TotalRevenue": 118.13,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "BLUE SPOTTY PASSPORT COVER",
+    "StockCode": "20615",
+    "TotalQuantitySold": 72,
+    "TotalRevenue": 151.2,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "CHERRY BLOSSOM PASSPORT COVER",
+    "StockCode": "20616",
+    "TotalQuantitySold": 59,
+    "TotalRevenue": 86.1,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "FIRST CLASS PASSPORT COVER ",
+    "StockCode": "20617",
+    "TotalQuantitySold": 327,
+    "TotalRevenue": 599.78,
+    "UniqueCustomers": 32
+  },
+  {
+    "Description": "QUEEN OF THE SKIES PASSPORT COVER ",
+    "StockCode": "20618",
+    "TotalQuantitySold": 58,
+    "TotalRevenue": 119.34,
+    "UniqueCustomers": 23
+  },
+  {
+    "Description": "TROPICAL PASSPORT COVER ",
+    "StockCode": "20619",
+    "TotalQuantitySold": 70,
+    "TotalRevenue": 144.54,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "RED SPOTTY PASSPORT COVER",
+    "StockCode": "20620",
+    "TotalQuantitySold": 1,
+    "TotalRevenue": 2.1,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "ECONOMY PASSPORT COVER ",
+    "StockCode": "20621",
+    "TotalQuantitySold": 150,
+    "TotalRevenue": 315.0,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "VIPPASSPORT COVER ",
+    "StockCode": "20622",
+    "TotalQuantitySold": 304,
+    "TotalRevenue": 553.94,
+    "UniqueCustomers": 26
+  },
+  {
+    "Description": "VIP PASSPORT COVER ",
+    "StockCode": "20622",
+    "TotalQuantitySold": 15,
+    "TotalRevenue": 31.5,
+    "UniqueCustomers": 4
+  },
+  {
+    "Description": "BLUE POLKADOT LUGGAGE TAG ",
+    "StockCode": "20652",
+    "TotalQuantitySold": 89,
+    "TotalRevenue": 111.25,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "BLUE SPOTTY LUGGAGE TAG ",
+    "StockCode": "20652",
+    "TotalQuantitySold": 162,
+    "TotalRevenue": 202.5,
+    "UniqueCustomers": 19
+  },
+  {
+    "Description": "CHERRY BLOSSOM LUGGAGE TAG",
+    "StockCode": "20653",
+    "TotalQuantitySold": 55,
+    "TotalRevenue": 68.75,
+    "UniqueCustomers": 11
+  },
+  {
+    "Description": "FIRST CLASS LUGGAGE TAG ",
+    "StockCode": "20654",
+    "TotalQuantitySold": 210,
+    "TotalRevenue": 257.94,
+    "UniqueCustomers": 38
+  },
+  {
+    "Description": "QUEEN OF SKIES LUGGAGE TAG",
+    "StockCode": "20655",
+    "TotalQuantitySold": 106,
+    "TotalRevenue": 129.15,
+    "UniqueCustomers": 26
+  },
+  {
+    "Description": "TROPICAL LUGGAGE TAG",
+    "StockCode": "20657",
+    "TotalQuantitySold": 105,
+    "TotalRevenue": 128.97,
+    "UniqueCustomers": 32
+  },
+  {
+    "Description": "RED SPOTTY LUGGAGE TAG",
+    "StockCode": "20658",
+    "TotalQuantitySold": 367,
+    "TotalRevenue": 454.19,
+    "UniqueCustomers": 48
+  },
+  {
+    "Description": "RED RETROSPOT LUGGAGE TAG",
+    "StockCode": "20658",
+    "TotalQuantitySold": 232,
+    "TotalRevenue": 290.0,
+    "UniqueCustomers": 39
+  },
+  {
+    "Description": "ECONOMY LUGGAGE TAG",
+    "StockCode": "20659",
+    "TotalQuantitySold": 133,
+    "TotalRevenue": 168.81,
+    "UniqueCustomers": 29
+  },
+  {
+    "Description": "VIP LUGGAGE TAG ",
+    "StockCode": "20660",
+    "TotalQuantitySold": 35,
+    "TotalRevenue": 43.75,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "BLUE POLKADOT PURSE ",
+    "StockCode": "20661",
+    "TotalQuantitySold": 9,
+    "TotalRevenue": 29.39,
+    "UniqueCustomers": 4
+  },
+  {
+    "Description": "BLUE SPOTTY PURSE ",
+    "StockCode": "20661",
+    "TotalQuantitySold": 356,
+    "TotalRevenue": 216.2,
+    "UniqueCustomers": 10
+  },
+  {
+    "Description": "FIRST CLASS HOLIDAY PURSE ",
+    "StockCode": "20662",
+    "TotalQuantitySold": 345,
+    "TotalRevenue": 184.19,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "QUEEN OF THE SKIES HOLIDAY PURSE ",
+    "StockCode": "20663",
+    "TotalQuantitySold": 520,
+    "TotalRevenue": 139.2,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "TROPICAL HOLIDAY PURSE ",
+    "StockCode": "20664",
+    "TotalQuantitySold": 16,
+    "TotalRevenue": 47.2,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "RED RETROSPOT PURSE ",
+    "StockCode": "20665",
+    "TotalQuantitySold": 177,
+    "TotalRevenue": 517.35,
+    "UniqueCustomers": 34
+  },
+  {
+    "Description": "RED SPOTTY PURSE ",
+    "StockCode": "20665",
+    "TotalQuantitySold": 349,
+    "TotalRevenue": 1022.35,
+    "UniqueCustomers": 49
+  },
+  {
+    "Description": "ECONOMY HOLIDAY PURSE",
+    "StockCode": "20666",
+    "TotalQuantitySold": 435,
+    "TotalRevenue": 166.45,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "CHERRY BLOSSOM PURSE",
+    "StockCode": "20667",
+    "TotalQuantitySold": 11,
+    "TotalRevenue": 32.45,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "DISCO BALL CHRISTMAS DECORATION",
+    "StockCode": "20668",
+    "TotalQuantitySold": 9371,
+    "TotalRevenue": 1027.36,
+    "UniqueCustomers": 82
+  },
+  {
+    "Description": "RED HEART LUGGAGE TAG",
+    "StockCode": "20669",
+    "TotalQuantitySold": 372,
+    "TotalRevenue": 462.72,
+    "UniqueCustomers": 52
+  },
+  {
+    "Description": "VIP HOLIDAY PURSE",
+    "StockCode": "20670",
+    "TotalQuantitySold": 338,
+    "TotalRevenue": 165.94,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "BLUE TEATIME PRINT BOWL ",
+    "StockCode": "20671",
+    "TotalQuantitySold": 243,
+    "TotalRevenue": 303.75,
+    "UniqueCustomers": 28
+  },
+  {
+    "Description": "PINK TEATIME PRINT BOWL",
+    "StockCode": "20672",
+    "TotalQuantitySold": 45,
+    "TotalRevenue": 56.25,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "STRAWBERRIES PRINT BOWL",
+    "StockCode": "20673",
+    "TotalQuantitySold": 5,
+    "TotalRevenue": 6.25,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "GREEN POLKADOT BOWL",
+    "StockCode": "20674",
+    "TotalQuantitySold": 887,
+    "TotalRevenue": 1041.56,
+    "UniqueCustomers": 64
+  },
+  {
+    "Description": "GREEN SPOTTY BOWL",
+    "StockCode": "20674",
+    "TotalQuantitySold": 511,
+    "TotalRevenue": 611.39,
+    "UniqueCustomers": 46
+  },
+  {
+    "Description": "BLUE SPOTTY BOWL",
+    "StockCode": "20675",
+    "TotalQuantitySold": 982,
+    "TotalRevenue": 1172.78,
+    "UniqueCustomers": 81
+  },
+  {
+    "Description": "BLUE POLKADOT BOWL",
+    "StockCode": "20675",
+    "TotalQuantitySold": 1534,
+    "TotalRevenue": 1780.7,
+    "UniqueCustomers": 96
+  },
+  {
+    "Description": "RED RETROSPOT BOWL",
+    "StockCode": "20676",
+    "TotalQuantitySold": 2491,
+    "TotalRevenue": 2853.83,
+    "UniqueCustomers": 116
+  },
+  {
+    "Description": "RED SPOTTY BOWL",
+    "StockCode": "20676",
+    "TotalQuantitySold": 1590,
+    "TotalRevenue": 1887.18,
+    "UniqueCustomers": 108
+  },
+  {
+    "Description": "PINK SPOTTY BOWL",
+    "StockCode": "20677",
+    "TotalQuantitySold": 1239,
+    "TotalRevenue": 1452.99,
+    "UniqueCustomers": 81
+  },
+  {
+    "Description": "PINK POLKADOT BOWL",
+    "StockCode": "20677",
+    "TotalQuantitySold": 1965,
+    "TotalRevenue": 2237.37,
+    "UniqueCustomers": 82
+  },
+  {
+    "Description": "EDWARDIAN PARASOL RED",
+    "StockCode": "20679",
+    "TotalQuantitySold": 3770,
+    "TotalRevenue": 16071.5,
+    "UniqueCustomers": 148
+  },
+  {
+    "Description": "PINK FLOWERS CHILDS UMBRELLA",
+    "StockCode": "20680",
+    "TotalQuantitySold": 1,
+    "TotalRevenue": 3.25,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "PINK SPOTTY CHILDS UMBRELLA",
+    "StockCode": "20681",
+    "TotalQuantitySold": 406,
+    "TotalRevenue": 1259.5,
+    "UniqueCustomers": 65
+  },
+  {
+    "Description": "PINK POLKADOT CHILDRENS UMBRELLA",
+    "StockCode": "20681",
+    "TotalQuantitySold": 124,
+    "TotalRevenue": 403.0,
+    "UniqueCustomers": 33
+  },
+  {
+    "Description": "RED RETROSPOT CHILDRENS UMBRELLA",
+    "StockCode": "20682",
+    "TotalQuantitySold": 577,
+    "TotalRevenue": 1845.25,
+    "UniqueCustomers": 86
+  },
+  {
+    "Description": "RED SPOTTY CHILDS UMBRELLA",
+    "StockCode": "20682",
+    "TotalQuantitySold": 541,
+    "TotalRevenue": 1698.25,
+    "UniqueCustomers": 83
+  },
+  {
+    "Description": "RAIN GIRL CHILDS UMBRELLA",
+    "StockCode": "20683",
+    "TotalQuantitySold": 1,
+    "TotalRevenue": 3.25,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "STRAWBERRY DREAM CHILDS UMBRELLA",
+    "StockCode": "20684",
+    "TotalQuantitySold": 228,
+    "TotalRevenue": 741.0,
+    "UniqueCustomers": 65
+  },
+  {
+    "Description": "DOOR MAT RED SPOT",
+    "StockCode": "20685",
+    "TotalQuantitySold": 980,
+    "TotalRevenue": 6020.58,
+    "UniqueCustomers": 122
+  },
+  {
+    "Description": "RED SPOTTY COIR DOORMAT",
+    "StockCode": "20685",
+    "TotalQuantitySold": 592,
+    "TotalRevenue": 3652.0,
+    "UniqueCustomers": 76
+  },
+  {
+    "Description": "DOORMAT RED RETROSPOT",
+    "StockCode": "20685",
+    "TotalQuantitySold": 2372,
+    "TotalRevenue": 14721.3,
+    "UniqueCustomers": 218
+  },
+  {
+    "Description": "DOORMAT RED SPOT",
+    "StockCode": "20685",
+    "TotalQuantitySold": 391,
+    "TotalRevenue": 2654.35,
+    "UniqueCustomers": 63
+  },
+  {
+    "Description": "DOLLY MIXTURE CHILDREN'S UMBRELLA",
+    "StockCode": "20686",
+    "TotalQuantitySold": 184,
+    "TotalRevenue": 598.0,
+    "UniqueCustomers": 54
+  },
+  {
+    "Description": "BEAUTY SPEED EXPRESSO CUPS",
+    "StockCode": "20688",
+    "TotalQuantitySold": 40,
+    "TotalRevenue": 106.0,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "RETRO SISTERS EXPRESSO CUPS",
+    "StockCode": "20689",
+    "TotalQuantitySold": 47,
+    "TotalRevenue": 183.65,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "FLORAL ELEPHANT SOFT TOY",
+    "StockCode": "20692",
+    "TotalQuantitySold": 387,
+    "TotalRevenue": 1506.75,
+    "UniqueCustomers": 37
+  },
+  {
+    "Description": "FLORAL DINOSAUR GREEN",
+    "StockCode": "20693",
+    "TotalQuantitySold": 12,
+    "TotalRevenue": 51.0,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "FLORAL PINK MONSTER",
+    "StockCode": "20694",
+    "TotalQuantitySold": 28,
+    "TotalRevenue": 105.0,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "FLORAL BLUE MONSTER",
+    "StockCode": "20695",
+    "TotalQuantitySold": 10,
+    "TotalRevenue": 42.5,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "FLORAL SOFT CAR TOY",
+    "StockCode": "20696",
+    "TotalQuantitySold": 47,
+    "TotalRevenue": 176.25,
+    "UniqueCustomers": 13
+  },
+  {
+    "Description": "LITTLE GREEN MONSTER SOFT TOY",
+    "StockCode": "20697",
+    "TotalQuantitySold": 11,
+    "TotalRevenue": 25.35,
+    "UniqueCustomers": 4
+  },
+  {
+    "Description": "LITTLE PINK MONSTER SOFT TOY",
+    "StockCode": "20698",
+    "TotalQuantitySold": 12,
+    "TotalRevenue": 27.9,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "MOUSEY LONG LEGS SOFT TOY",
+    "StockCode": "20699",
+    "TotalQuantitySold": 83,
+    "TotalRevenue": 211.65,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "GREEN CAT FLORAL CUSHION COVER ",
+    "StockCode": "20700",
+    "TotalQuantitySold": 154,
+    "TotalRevenue": 217.5,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "PINK CAT FLORAL CUSHION COVER ",
+    "StockCode": "20701",
+    "TotalQuantitySold": 174,
+    "TotalRevenue": 232.5,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "PINK PADDED MOBILE",
+    "StockCode": "20702",
+    "TotalQuantitySold": 335,
+    "TotalRevenue": 1404.25,
+    "UniqueCustomers": 67
+  },
+  {
+    "Description": "BLUE PADDED SOFT MOBILE",
+    "StockCode": "20703",
+    "TotalQuantitySold": 219,
+    "TotalRevenue": 929.25,
+    "UniqueCustomers": 55
+  },
+  {
+    "Description": "MR ROBOT SOFT TOY",
+    "StockCode": "20704",
+    "TotalQuantitySold": 112,
+    "TotalRevenue": 386.4,
+    "UniqueCustomers": 19
+  },
+  {
+    "Description": "MRS ROBOT SOFT TOY",
+    "StockCode": "20705",
+    "TotalQuantitySold": 84,
+    "TotalRevenue": 263.8,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "CRAZY DAISY HEART DECORATION",
+    "StockCode": "20707",
+    "TotalQuantitySold": 203,
+    "TotalRevenue": 254.96,
+    "UniqueCustomers": 23
+  },
+  {
+    "Description": "JUMBO BAG TOYS ",
+    "StockCode": "20711",
+    "TotalQuantitySold": 4844,
+    "TotalRevenue": 8501.86,
+    "UniqueCustomers": 170
+  },
+  {
+    "Description": "JUMBO BAG WOODLAND ANIMALS",
+    "StockCode": "20712",
+    "TotalQuantitySold": 6234,
+    "TotalRevenue": 11628.88,
+    "UniqueCustomers": 211
+  },
+  {
+    "Description": "JUMBO BAG OWLS",
+    "StockCode": "20713",
+    "TotalQuantitySold": 7155,
+    "TotalRevenue": 12946.54,
+    "UniqueCustomers": 197
+  },
+  {
+    "Description": "POSY SHOPPER BAG",
+    "StockCode": "20714",
+    "TotalQuantitySold": 503,
+    "TotalRevenue": 193.75,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "LITTLE FLOWER SHOPPER BAG",
+    "StockCode": "20715",
+    "TotalQuantitySold": 400,
+    "TotalRevenue": 424.0,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "PARTY FOOD SHOPPER BAG",
+    "StockCode": "20716",
+    "TotalQuantitySold": 515,
+    "TotalRevenue": 634.25,
+    "UniqueCustomers": 60
+  },
+  {
+    "Description": "STRAWBERRY SHOPPER BAG",
+    "StockCode": "20717",
+    "TotalQuantitySold": 2008,
+    "TotalRevenue": 2390.13,
+    "UniqueCustomers": 146
+  },
+  {
+    "Description": "RED SPOTTY SHOPPER BAG",
+    "StockCode": "20718",
+    "TotalQuantitySold": 2850,
+    "TotalRevenue": 3287.0,
+    "UniqueCustomers": 117
+  },
+  {
+    "Description": "RED RETROSPOT SHOPPER BAG",
+    "StockCode": "20718",
+    "TotalQuantitySold": 2146,
+    "TotalRevenue": 2553.13,
+    "UniqueCustomers": 138
+  },
+  {
+    "Description": "WOODLAND CHARLOTTE BAG",
+    "StockCode": "20719",
+    "TotalQuantitySold": 7432,
+    "TotalRevenue": 5857.78,
+    "UniqueCustomers": 208
+  },
+  {
+    "Description": "OWLS CHARLOTTE BAG",
+    "StockCode": "20721",
+    "TotalQuantitySold": 1,
+    "TotalRevenue": 0.85,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "STRAWBERRY CHARLOTTE BAG",
+    "StockCode": "20723",
+    "TotalQuantitySold": 5933,
+    "TotalRevenue": 4735.73,
+    "UniqueCustomers": 212
+  },
+  {
+    "Description": "RED SPOTTY CHARLOTTE BAG",
+    "StockCode": "20724",
+    "TotalQuantitySold": 4414,
+    "TotalRevenue": 3495.8,
+    "UniqueCustomers": 147
+  },
+  {
+    "Description": "RED RETROSPOT CHARLOTTE BAG",
+    "StockCode": "20724",
+    "TotalQuantitySold": 5942,
+    "TotalRevenue": 4736.1,
+    "UniqueCustomers": 211
+  },
+  {
+    "Description": "LUNCH BAG RED SPOTTY",
+    "StockCode": "20725",
+    "TotalQuantitySold": 6871,
+    "TotalRevenue": 10735.15,
+    "UniqueCustomers": 294
+  },
+  {
+    "Description": "LUNCH BAG RED RETROSPOT",
+    "StockCode": "20725",
+    "TotalQuantitySold": 8332,
+    "TotalRevenue": 13138.52,
+    "UniqueCustomers": 355
+  },
+  {
+    "Description": "LUNCH BAG WOODLAND",
+    "StockCode": "20726",
+    "TotalQuantitySold": 9891,
+    "TotalRevenue": 15400.63,
+    "UniqueCustomers": 357
+  },
+  {
+    "Description": "LUNCH BAG  BLACK SKULL.",
+    "StockCode": "20727",
+    "TotalQuantitySold": 11465,
+    "TotalRevenue": 17801.65,
+    "UniqueCustomers": 402
+  },
+  {
+    "Description": "LUNCH BAG CARS BLUE",
+    "StockCode": "20728",
+    "TotalQuantitySold": 11158,
+    "TotalRevenue": 17238.98,
+    "UniqueCustomers": 399
+  },
+  {
+    "Description": "RED SPOTTY CANDY BAG",
+    "StockCode": "20729",
+    "TotalQuantitySold": 145,
+    "TotalRevenue": 177.45,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "STRAWBERRY CANDY BAG",
+    "StockCode": "20730",
+    "TotalQuantitySold": 120,
+    "TotalRevenue": 146.2,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "POSY CANDY BAG",
+    "StockCode": "20731",
+    "TotalQuantitySold": 502,
+    "TotalRevenue": 347.5,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "GOLD MINI TAPE MEASURE ",
+    "StockCode": "20733",
+    "TotalQuantitySold": 504,
+    "TotalRevenue": 372.26,
+    "UniqueCustomers": 33
+  },
+  {
+    "Description": "SILVER MINI TAPE MEASURE ",
+    "StockCode": "20734",
+    "TotalQuantitySold": 601,
+    "TotalRevenue": 464.05,
+    "UniqueCustomers": 29
+  },
+  {
+    "Description": "BLACK MINI TAPE MEASURE ",
+    "StockCode": "20735",
+    "TotalQuantitySold": 438,
+    "TotalRevenue": 307.5,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "PINK MINI TAPE MEASURE ",
+    "StockCode": "20736",
+    "TotalQuantitySold": 232,
+    "TotalRevenue": 184.2,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "GREEN MINI TAPE MEASURE ",
+    "StockCode": "20738",
+    "TotalQuantitySold": 739,
+    "TotalRevenue": 596.95,
+    "UniqueCustomers": 28
+  },
+  {
+    "Description": "PICCADILLY TEA SET",
+    "StockCode": "20747",
+    "TotalQuantitySold": 136,
+    "TotalRevenue": 1890.2,
+    "UniqueCustomers": 29
+  },
+  {
+    "Description": "KENSINGTON COFFEE SET",
+    "StockCode": "20748",
+    "TotalQuantitySold": 194,
+    "TotalRevenue": 1933.5,
+    "UniqueCustomers": 52
+  },
+  {
+    "Description": "ASSORTED COLOUR MINI CASES",
+    "StockCode": "20749",
+    "TotalQuantitySold": 1006,
+    "TotalRevenue": 7375.3,
+    "UniqueCustomers": 201
+  },
+  {
+    "Description": "RED/WHITE DOT MINI CASES",
+    "StockCode": "20750",
+    "TotalQuantitySold": 557,
+    "TotalRevenue": 3877.75,
+    "UniqueCustomers": 78
+  },
+  {
+    "Description": "RED RETROSPOT MINI CASES",
+    "StockCode": "20750",
+    "TotalQuantitySold": 759,
+    "TotalRevenue": 5531.65,
+    "UniqueCustomers": 141
+  },
+  {
+    "Description": " RED/WHITE DOT MINI CASES",
+    "StockCode": "20750",
+    "TotalQuantitySold": 260,
+    "TotalRevenue": 1923.08,
+    "UniqueCustomers": 68
+  },
+  {
+    "Description": "FUNKY WASHING UP GLOVES ASSORTED",
+    "StockCode": "20751",
+    "TotalQuantitySold": 968,
+    "TotalRevenue": 2032.8,
+    "UniqueCustomers": 130
+  },
+  {
+    "Description": "RETRO BLUE SPOTTY WASHING UP GLOVES",
+    "StockCode": "20752",
+    "TotalQuantitySold": 230,
+    "TotalRevenue": 438.0,
+    "UniqueCustomers": 43
+  },
+  {
+    "Description": "BLUE POLKADOT WASHING UP GLOVES",
+    "StockCode": "20752",
+    "TotalQuantitySold": 186,
+    "TotalRevenue": 390.6,
+    "UniqueCustomers": 55
+  },
+  {
+    "Description": "RETRO PINK SPOT WASHING UP GLOVES",
+    "StockCode": "20753",
+    "TotalQuantitySold": 100,
+    "TotalRevenue": 208.4,
+    "UniqueCustomers": 19
+  },
+  {
+    "Description": "RETRO RED SPOTTY WASHING UP GLOVES",
+    "StockCode": "20754",
+    "TotalQuantitySold": 1247,
+    "TotalRevenue": 2402.22,
+    "UniqueCustomers": 111
+  },
+  {
+    "Description": "RETROSPOT RED WASHING UP GLOVES",
+    "StockCode": "20754",
+    "TotalQuantitySold": 874,
+    "TotalRevenue": 1687.8,
+    "UniqueCustomers": 111
+  },
+  {
+    "Description": "BLUE PAISLEY POCKET BOOK",
+    "StockCode": "20755",
+    "TotalQuantitySold": 426,
+    "TotalRevenue": 311.7,
+    "UniqueCustomers": 24
+  },
+  {
+    "Description": "GREEN FERN POCKET BOOK",
+    "StockCode": "20756",
+    "TotalQuantitySold": 285,
+    "TotalRevenue": 191.85,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "RED DAISY POCKET BOOK ",
+    "StockCode": "20757",
+    "TotalQuantitySold": 314,
+    "TotalRevenue": 216.5,
+    "UniqueCustomers": 19
+  },
+  {
+    "Description": "ABSTRACT CIRCLES POCKET BOOK",
+    "StockCode": "20758",
+    "TotalQuantitySold": 425,
+    "TotalRevenue": 310.85,
+    "UniqueCustomers": 30
+  },
+  {
+    "Description": "CHRYSANTHEMUM POCKET BOOK ",
+    "StockCode": "20759",
+    "TotalQuantitySold": 348,
+    "TotalRevenue": 245.4,
+    "UniqueCustomers": 15
+  },
+  {
+    "Description": "GARDEN PATH POCKET BOOK",
+    "StockCode": "20760",
+    "TotalQuantitySold": 982,
+    "TotalRevenue": 683.5,
+    "UniqueCustomers": 22
+  },
+  {
+    "Description": "BLUE PAISLEY SKETCHBOOK",
+    "StockCode": "20761",
+    "TotalQuantitySold": 141,
+    "TotalRevenue": 463.15,
+    "UniqueCustomers": 43
+  },
+  {
+    "Description": "GREEN FERN SKETCHBOOK ",
+    "StockCode": "20762",
+    "TotalQuantitySold": 176,
+    "TotalRevenue": 551.2,
+    "UniqueCustomers": 42
+  },
+  {
+    "Description": "DAISY SKETCHBOOK ",
+    "StockCode": "20763",
+    "TotalQuantitySold": 91,
+    "TotalRevenue": 275.65,
+    "UniqueCustomers": 22
+  },
+  {
+    "Description": "ABSTRACT CIRCLES SKETCHBOOK ",
+    "StockCode": "20764",
+    "TotalQuantitySold": 246,
+    "TotalRevenue": 751.3,
+    "UniqueCustomers": 47
+  },
+  {
+    "Description": "CHRYSANTHEMUM SKETCHBOOK ",
+    "StockCode": "20765",
+    "TotalQuantitySold": 113,
+    "TotalRevenue": 398.15,
+    "UniqueCustomers": 41
+  },
+  {
+    "Description": "GARDEN PATH SKETCHBOOK",
+    "StockCode": "20766",
+    "TotalQuantitySold": 131,
+    "TotalRevenue": 425.65,
+    "UniqueCustomers": 39
+  },
+  {
+    "Description": "BLUE PAISLEY JOURNAL ",
+    "StockCode": "20767",
+    "TotalQuantitySold": 284,
+    "TotalRevenue": 645.0,
+    "UniqueCustomers": 44
+  },
+  {
+    "Description": "GREEN FERN JOURNAL ",
+    "StockCode": "20768",
+    "TotalQuantitySold": 271,
+    "TotalRevenue": 639.75,
+    "UniqueCustomers": 37
+  },
+  {
+    "Description": "DAISY JOURNAL ",
+    "StockCode": "20769",
+    "TotalQuantitySold": 144,
+    "TotalRevenue": 318.6,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "ABSTRACT CIRCLE JOURNAL ",
+    "StockCode": "20770",
+    "TotalQuantitySold": 434,
+    "TotalRevenue": 993.3,
+    "UniqueCustomers": 39
+  },
+  {
+    "Description": "CHRYSANTHEMUM  JOURNAL",
+    "StockCode": "20771",
+    "TotalQuantitySold": 179,
+    "TotalRevenue": 409.65,
+    "UniqueCustomers": 32
+  },
+  {
+    "Description": "GARDEN PATH JOURNAL",
+    "StockCode": "20772",
+    "TotalQuantitySold": 338,
+    "TotalRevenue": 644.1,
+    "UniqueCustomers": 33
+  },
+  {
+    "Description": "BLUE PAISLEY NOTEBOOK",
+    "StockCode": "20773",
+    "TotalQuantitySold": 117,
+    "TotalRevenue": 193.05,
+    "UniqueCustomers": 37
+  },
+  {
+    "Description": "GREEN FERN NOTEBOOK",
+    "StockCode": "20774",
+    "TotalQuantitySold": 114,
+    "TotalRevenue": 188.1,
+    "UniqueCustomers": 36
+  },
+  {
+    "Description": "DAISY NOTEBOOK ",
+    "StockCode": "20775",
+    "TotalQuantitySold": 70,
+    "TotalRevenue": 115.5,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "ABSTRACT CIRCLES NOTEBOOK",
+    "StockCode": "20776",
+    "TotalQuantitySold": 73,
+    "TotalRevenue": 120.45,
+    "UniqueCustomers": 23
+  },
+  {
+    "Description": "CHRYSANTHEMUM NOTEBOOK",
+    "StockCode": "20777",
+    "TotalQuantitySold": 106,
+    "TotalRevenue": 174.9,
+    "UniqueCustomers": 33
+  },
+  {
+    "Description": "GARDEN PATH NOTEBOOK ",
+    "StockCode": "20778",
+    "TotalQuantitySold": 91,
+    "TotalRevenue": 150.15,
+    "UniqueCustomers": 31
+  },
+  {
+    "Description": "BLACK EAR MUFF HEADPHONES",
+    "StockCode": "20780",
+    "TotalQuantitySold": 126,
+    "TotalRevenue": 594.08,
+    "UniqueCustomers": 20
+  },
+  {
+    "Description": "GOLD EAR MUFF HEADPHONES",
+    "StockCode": "20781",
+    "TotalQuantitySold": 23,
+    "TotalRevenue": 126.27,
+    "UniqueCustomers": 13
+  },
+  {
+    "Description": "CAMOUFLAGE EAR MUFF HEADPHONES",
+    "StockCode": "20782",
+    "TotalQuantitySold": 49,
+    "TotalRevenue": 269.01,
+    "UniqueCustomers": 23
+  },
+  {
+    "Description": "HEART EAR MUFF HEADPHONES",
+    "StockCode": "20783",
+    "TotalQuantitySold": 31,
+    "TotalRevenue": 170.19,
+    "UniqueCustomers": 13
+  },
+  {
+    "Description": "RED RETRO BAR STOOL",
+    "StockCode": "20784",
+    "TotalQuantitySold": 19,
+    "TotalRevenue": 691.05,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "FUSCHIA RETRO BAR STOOL",
+    "StockCode": "20785",
+    "TotalQuantitySold": 17,
+    "TotalRevenue": 663.15,
+    "UniqueCustomers": 9
+  },
+  {
+    "Description": "BLACK RETRO BAR STOOL",
+    "StockCode": "20786",
+    "TotalQuantitySold": 5,
+    "TotalRevenue": 199.75,
+    "UniqueCustomers": 4
+  },
+  {
+    "Description": "BLUE RETRO BAR STOOL",
+    "StockCode": "20787",
+    "TotalQuantitySold": 9,
+    "TotalRevenue": 355.55,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "BLUE TILED TRAY",
+    "StockCode": "20793",
+    "TotalQuantitySold": 18,
+    "TotalRevenue": 121.5,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "BLUE  TILE HOOK",
+    "StockCode": "20794",
+    "TotalQuantitySold": 98,
+    "TotalRevenue": 249.9,
+    "UniqueCustomers": 13
+  },
+  {
+    "Description": "LARGE BLUE PROVENCAL CERAMIC BALL",
+    "StockCode": "20795",
+    "TotalQuantitySold": 60,
+    "TotalRevenue": 111.24,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "SMALL BLUE PROVENCAL CERAMIC BALL",
+    "StockCode": "20796",
+    "TotalQuantitySold": 58,
+    "TotalRevenue": 95.7,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "CLEAR MILKSHAKE GLASS",
+    "StockCode": "20798",
+    "TotalQuantitySold": 330,
+    "TotalRevenue": 628.2,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "PINK MILKSHAKE GLASS",
+    "StockCode": "20799",
+    "TotalQuantitySold": 28,
+    "TotalRevenue": 58.8,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "LARGE PINK GLASS SUNDAE DISH",
+    "StockCode": "20801",
+    "TotalQuantitySold": 389,
+    "TotalRevenue": 370.99,
+    "UniqueCustomers": 35
+  },
+  {
+    "Description": "SMALL GLASS SUNDAE DISH CLEAR",
+    "StockCode": "20802",
+    "TotalQuantitySold": 299,
+    "TotalRevenue": 471.75,
+    "UniqueCustomers": 26
+  },
+  {
+    "Description": "SMALL PINK GLASS SUNDAE DISH",
+    "StockCode": "20803",
+    "TotalQuantitySold": 389,
+    "TotalRevenue": 254.67,
+    "UniqueCustomers": 26
+  },
+  {
+    "Description": "GLASS CHICKEN BUTTER DISH",
+    "StockCode": "20804",
+    "TotalQuantitySold": 59,
+    "TotalRevenue": 97.35,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "EMBOSSED FLOWER TRELLIS PHOTO FRAME",
+    "StockCode": "20812",
+    "TotalQuantitySold": 3,
+    "TotalRevenue": 7.65,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "SILVER FINCH DECORATION",
+    "StockCode": "20814",
+    "TotalQuantitySold": 58,
+    "TotalRevenue": 66.8,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "GOLD FLOWER CUSHION COVER ",
+    "StockCode": "20816",
+    "TotalQuantitySold": 3,
+    "TotalRevenue": 20.25,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "GOLD TEDDY BEAR",
+    "StockCode": "20818",
+    "TotalQuantitySold": 32,
+    "TotalRevenue": 95.0,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "SILVER TEDDY BEAR",
+    "StockCode": "20819",
+    "TotalQuantitySold": 118,
+    "TotalRevenue": 262.5,
+    "UniqueCustomers": 22
+  },
+  {
+    "Description": "SILVER LOOKING MIRROR",
+    "StockCode": "20820",
+    "TotalQuantitySold": 7,
+    "TotalRevenue": 34.65,
+    "UniqueCustomers": 4
+  },
+  {
+    "Description": "GOLDIE LOOKING MIRROR",
+    "StockCode": "20821",
+    "TotalQuantitySold": 21,
+    "TotalRevenue": 103.95,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "SILVER WINE GOBLET",
+    "StockCode": "20822",
+    "TotalQuantitySold": 2,
+    "TotalRevenue": 9.3,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "GOLD WINE GOBLET",
+    "StockCode": "20823",
+    "TotalQuantitySold": 120,
+    "TotalRevenue": 307.2,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "GOLD WINE GLASS",
+    "StockCode": "20825",
+    "TotalQuantitySold": 336,
+    "TotalRevenue": 1139.04,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "SILVER APERITIF GLASS",
+    "StockCode": "20826",
+    "TotalQuantitySold": 162,
+    "TotalRevenue": 156.6,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "GOLD APERITIF GLASS",
+    "StockCode": "20827",
+    "TotalQuantitySold": 54,
+    "TotalRevenue": 114.48,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "GLITTER BUTTERFLY CLIPS",
+    "StockCode": "20828",
+    "TotalQuantitySold": 1414,
+    "TotalRevenue": 3400.5,
+    "UniqueCustomers": 129
+  },
+  {
+    "Description": "GLITTER HANGING BUTTERFLY STRING",
+    "StockCode": "20829",
+    "TotalQuantitySold": 1682,
+    "TotalRevenue": 3380.03,
+    "UniqueCustomers": 95
+  },
+  {
+    "Description": "SILVER PHOTO FRAME",
+    "StockCode": "20830",
+    "TotalQuantitySold": 82,
+    "TotalRevenue": 172.2,
+    "UniqueCustomers": 20
+  },
+  {
+    "Description": "GOLD PHOTO FRAME",
+    "StockCode": "20831",
+    "TotalQuantitySold": 76,
+    "TotalRevenue": 159.6,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "RED FLOCK LOVE HEART PHOTO FRAME",
+    "StockCode": "20832",
+    "TotalQuantitySold": 675,
+    "TotalRevenue": 449.55,
+    "UniqueCustomers": 40
+  },
+  {
+    "Description": "SHAKER THROW  QUILTED",
+    "StockCode": "20833",
+    "TotalQuantitySold": 16,
+    "TotalRevenue": 352.8,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "FRENCH LATTICE CUSHION COVER ",
+    "StockCode": "20835",
+    "TotalQuantitySold": 60,
+    "TotalRevenue": 50.04,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "FRENCH PAISLEY CUSHION COVER",
+    "StockCode": "20836",
+    "TotalQuantitySold": 138,
+    "TotalRevenue": 153.18,
+    "UniqueCustomers": 10
+  },
+  {
+    "Description": "FRENCH FLORAL CUSHION COVER ",
+    "StockCode": "20837",
+    "TotalQuantitySold": 84,
+    "TotalRevenue": 82.68,
+    "UniqueCustomers": 9
+  },
+  {
+    "Description": "FRENCH LATTICE CUSHION COVER ",
+    "StockCode": "20838",
+    "TotalQuantitySold": 211,
+    "TotalRevenue": 194.39,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "FRENCH PAISLEY CUSHION COVER ",
+    "StockCode": "20839",
+    "TotalQuantitySold": 232,
+    "TotalRevenue": 287.84,
+    "UniqueCustomers": 27
+  },
+  {
+    "Description": "FRENCH FLORAL CUSHION COVER ",
+    "StockCode": "20840",
+    "TotalQuantitySold": 509,
+    "TotalRevenue": 819.69,
+    "UniqueCustomers": 23
+  },
+  {
+    "Description": "ZINC HEART LATTICE 2 WALL PLANTER",
+    "StockCode": "20845",
+    "TotalQuantitySold": 23,
+    "TotalRevenue": 146.05,
+    "UniqueCustomers": 4
+  },
+  {
+    "Description": "ZINC HEART LATTICE T-LIGHT HOLDER",
+    "StockCode": "20846",
+    "TotalQuantitySold": 298,
+    "TotalRevenue": 372.5,
+    "UniqueCustomers": 33
+  },
+  {
+    "Description": "ZINC HEART LATTICE CHARGER LARGE",
+    "StockCode": "20847",
+    "TotalQuantitySold": 14,
+    "TotalRevenue": 52.5,
+    "UniqueCustomers": 4
+  },
+  {
+    "Description": "ZINC HEART LATTICE CHARGER SMALL",
+    "StockCode": "20848",
+    "TotalQuantitySold": 8,
+    "TotalRevenue": 23.6,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "ZINC HEART LATTICE DOUBLE PLANTER",
+    "StockCode": "20849",
+    "TotalQuantitySold": 18,
+    "TotalRevenue": 67.5,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "ZINC HEART LATTICE PLANTER BOWL",
+    "StockCode": "20850",
+    "TotalQuantitySold": 75,
+    "TotalRevenue": 221.25,
+    "UniqueCustomers": 11
+  },
+  {
+    "Description": "ZINC HEART LATTICE TRAY OVAL ",
+    "StockCode": "20851",
+    "TotalQuantitySold": 17,
+    "TotalRevenue": 101.15,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "BLUE PATCH PURSE PINK HEART",
+    "StockCode": "20854",
+    "TotalQuantitySold": 138,
+    "TotalRevenue": 227.7,
+    "UniqueCustomers": 34
+  },
+  {
+    "Description": "PINK PATCH PURSE BLUE HEART",
+    "StockCode": "20855",
+    "TotalQuantitySold": 64,
+    "TotalRevenue": 105.6,
+    "UniqueCustomers": 23
+  },
+  {
+    "Description": "DENIM PATCH PURSE PINK BUTTERFLY",
+    "StockCode": "20856",
+    "TotalQuantitySold": 153,
+    "TotalRevenue": 252.45,
+    "UniqueCustomers": 33
+  },
+  {
+    "Description": "BLUE ROSE PATCH PURSE PINK BUTTERFL",
+    "StockCode": "20857",
+    "TotalQuantitySold": 123,
+    "TotalRevenue": 202.95,
+    "UniqueCustomers": 26
+  },
+  {
+    "Description": "GOLD COSMETICS BAG WITH BUTTERFLY",
+    "StockCode": "20860",
+    "TotalQuantitySold": 11,
+    "TotalRevenue": 23.1,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "GOLD COSMETIC BAG PINK STAR",
+    "StockCode": "20861",
+    "TotalQuantitySold": 35,
+    "TotalRevenue": 73.5,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "PINK PATCH PENCIL CASE BLUE HEART",
+    "StockCode": "20862",
+    "TotalQuantitySold": 93,
+    "TotalRevenue": 195.3,
+    "UniqueCustomers": 14
+  },
+  {
+    "Description": "BLUE PATCH PENCIL CASE PINK HEART",
+    "StockCode": "20863",
+    "TotalQuantitySold": 85,
+    "TotalRevenue": 167.43,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "DENIM PATCH PENCIL CASE BUTTERFLY",
+    "StockCode": "20864",
+    "TotalQuantitySold": 51,
+    "TotalRevenue": 94.95,
+    "UniqueCustomers": 10
+  },
+  {
+    "Description": "PATCHWORK PENCIL CASE BUTTERFLY ",
+    "StockCode": "20865",
+    "TotalQuantitySold": 56,
+    "TotalRevenue": 106.53,
+    "UniqueCustomers": 13
+  },
+  {
+    "Description": "BLUE ROSE FABRIC MIRROR",
+    "StockCode": "20866",
+    "TotalQuantitySold": 357,
+    "TotalRevenue": 421.17,
+    "UniqueCustomers": 34
+  },
+  {
+    "Description": "PINK ROSE FABRIC MIRROR",
+    "StockCode": "20867",
+    "TotalQuantitySold": 233,
+    "TotalRevenue": 288.97,
+    "UniqueCustomers": 27
+  },
+  {
+    "Description": "SILVER FABRIC MIRROR",
+    "StockCode": "20868",
+    "TotalQuantitySold": 338,
+    "TotalRevenue": 156.94,
+    "UniqueCustomers": 15
+  },
+  {
+    "Description": "GOLD FABRIC MIRROR",
+    "StockCode": "20869",
+    "TotalQuantitySold": 286,
+    "TotalRevenue": 123.62,
+    "UniqueCustomers": 11
+  },
+  {
+    "Description": "OPULENT VELVET CANDLE IN BOX",
+    "StockCode": "20870",
+    "TotalQuantitySold": 25,
+    "TotalRevenue": 37.2,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "OPULENT VELVET SET/3 CANDLES",
+    "StockCode": "20871",
+    "TotalQuantitySold": 789,
+    "TotalRevenue": 1095.9,
+    "UniqueCustomers": 38
+  },
+  {
+    "Description": "MODERN CHRISTMAS BAUBLE CANDLE ",
+    "StockCode": "20877",
+    "TotalQuantitySold": 3,
+    "TotalRevenue": 1.26,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "SET/9 CHRISTMAS T-LIGHTS SCENTED ",
+    "StockCode": "20878",
+    "TotalQuantitySold": 331,
+    "TotalRevenue": 390.95,
+    "UniqueCustomers": 31
+  },
+  {
+    "Description": "TREE OF NOAH FESTIVE SCENTED CANDLE",
+    "StockCode": "20879",
+    "TotalQuantitySold": 12,
+    "TotalRevenue": 7.8,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "MODERN CHRISTMAS TREE CANDLE",
+    "StockCode": "20881",
+    "TotalQuantitySold": 2,
+    "TotalRevenue": 1.7,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "MODERN CHRISTMAS TREE CANDLE ",
+    "StockCode": "20884",
+    "TotalQuantitySold": 1,
+    "TotalRevenue": 2.1,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "BOX OF 9 PEBBLE CANDLES",
+    "StockCode": "20886",
+    "TotalQuantitySold": 800,
+    "TotalRevenue": 1485.0,
+    "UniqueCustomers": 82
+  },
+  {
+    "Description": "BOX OF 6 PEBBLE CANDLES",
+    "StockCode": "20887",
+    "TotalQuantitySold": 5,
+    "TotalRevenue": 17.25,
+    "UniqueCustomers": 4
+  },
+  {
+    "Description": "SET 3 JARDIN DE FEMME SCENT CANDLES",
+    "StockCode": "20888",
+    "TotalQuantitySold": 48,
+    "TotalRevenue": 60.0,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "JARDIN DE FEMME SCENTED CANDLE",
+    "StockCode": "20889",
+    "TotalQuantitySold": 160,
+    "TotalRevenue": 169.6,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "SET/3 TALL GLASS CANDLE HOLDER PINK",
+    "StockCode": "20892",
+    "TotalQuantitySold": 22,
+    "TotalRevenue": 139.7,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "HANGING BAUBLE T-LIGHT HOLDER SMALL",
+    "StockCode": "20893",
+    "TotalQuantitySold": 211,
+    "TotalRevenue": 462.9,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "HANGING BAUBLE T-LIGHT HOLDER LARGE",
+    "StockCode": "20894",
+    "TotalQuantitySold": 69,
+    "TotalRevenue": 203.55,
+    "UniqueCustomers": 23
+  },
+  {
+    "Description": "VINTAGE NOTEBOOK FRENCH LETTER ",
+    "StockCode": "20895",
+    "TotalQuantitySold": 4,
+    "TotalRevenue": 11.8,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "VINTAGE NOTEBOOK PINK FLOWER",
+    "StockCode": "20896",
+    "TotalQuantitySold": 23,
+    "TotalRevenue": 67.85,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "VINTAGE NOTEBOOK PARIS DAYS",
+    "StockCode": "20897",
+    "TotalQuantitySold": 105,
+    "TotalRevenue": 289.35,
+    "UniqueCustomers": 14
+  },
+  {
+    "Description": "VINTAGE NOTEBOOK TRAVELOGUE",
+    "StockCode": "20898",
+    "TotalQuantitySold": 82,
+    "TotalRevenue": 201.1,
+    "UniqueCustomers": 15
+  },
+  {
+    "Description": "VINTAGE NOTEBOOK RED ROSE",
+    "StockCode": "20899",
+    "TotalQuantitySold": 33,
+    "TotalRevenue": 97.35,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "VINTAGE KEEPSAKE BOX PINK FLOWER",
+    "StockCode": "20901",
+    "TotalQuantitySold": 15,
+    "TotalRevenue": 95.25,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "VINTAGE KEEPSAKE BOX PARIS DAYS",
+    "StockCode": "20902",
+    "TotalQuantitySold": 38,
+    "TotalRevenue": 222.1,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "VINTAGE KEEPSAKE BOX TRAVELOGUE",
+    "StockCode": "20903",
+    "TotalQuantitySold": 67,
+    "TotalRevenue": 214.25,
+    "UniqueCustomers": 11
+  },
+  {
+    "Description": "VINTAGE KEEPSAKE BOX BEAUTY GIRL",
+    "StockCode": "20905",
+    "TotalQuantitySold": 6,
+    "TotalRevenue": 38.1,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "VINTAGE NOTEBOOK BEAUTY GIRL",
+    "StockCode": "20906",
+    "TotalQuantitySold": 34,
+    "TotalRevenue": 100.3,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "VINTAGE PHOTO ALBUM PARIS DAYS",
+    "StockCode": "20910",
+    "TotalQuantitySold": 37,
+    "TotalRevenue": 234.95,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "SET/5 BLUE SPOTTY LID GLASS BOWLS",
+    "StockCode": "20913",
+    "TotalQuantitySold": 276,
+    "TotalRevenue": 731.0,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "SET/5 RED RETROSPOT LID GLASS BOWLS",
+    "StockCode": "20914",
+    "TotalQuantitySold": 2789,
+    "TotalRevenue": 7851.35,
+    "UniqueCustomers": 247
+  },
+  {
+    "Description": "SET/5 RED SPOTTY LID GLASS BOWLS",
+    "StockCode": "20914",
+    "TotalQuantitySold": 4972,
+    "TotalRevenue": 13293.4,
+    "UniqueCustomers": 200
+  },
+  {
+    "Description": "BLUE POT PLANT CANDLE ",
+    "StockCode": "20931",
+    "TotalQuantitySold": 186,
+    "TotalRevenue": 519.9,
+    "UniqueCustomers": 33
+  },
+  {
+    "Description": "PINK POT PLANT CANDLE",
+    "StockCode": "20932",
+    "TotalQuantitySold": 76,
+    "TotalRevenue": 254.6,
+    "UniqueCustomers": 19
+  },
+  {
+    "Description": "YELLOW POT PLANT CANDLE",
+    "StockCode": "20933",
+    "TotalQuantitySold": 96,
+    "TotalRevenue": 274.4,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "SET/3 POT PLANT CANDLES",
+    "StockCode": "20934",
+    "TotalQuantitySold": 63,
+    "TotalRevenue": 326.35,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "ROUND CACTUS CANDLE",
+    "StockCode": "20935",
+    "TotalQuantitySold": 190,
+    "TotalRevenue": 315.7,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "FORKED CACTUS CANDLE",
+    "StockCode": "20936",
+    "TotalQuantitySold": 127,
+    "TotalRevenue": 249.85,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "ORANGE CANDLE",
+    "StockCode": "20939",
+    "TotalQuantitySold": 12,
+    "TotalRevenue": 10.2,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "SET/6 GARDEN GNOME T-LIGHT CANDLES",
+    "StockCode": "20940",
+    "TotalQuantitySold": 111,
+    "TotalRevenue": 306.65,
+    "UniqueCustomers": 15
+  },
+  {
+    "Description": "FROG CANDLE",
+    "StockCode": "20941",
+    "TotalQuantitySold": 349,
+    "TotalRevenue": 310.97,
+    "UniqueCustomers": 24
+  },
+  {
+    "Description": "SET/6 GINGERBREAD TREE T-LIGHTS",
+    "StockCode": "20942",
+    "TotalQuantitySold": 5,
+    "TotalRevenue": 6.25,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "SET/6 GINGERBREAD STAR T-LIGHTS",
+    "StockCode": "20943",
+    "TotalQuantitySold": 160,
+    "TotalRevenue": 200.0,
+    "UniqueCustomers": 23
+  },
+  {
+    "Description": "SET/6  ANGEL T-LIGHTS WHITE/GOLD",
+    "StockCode": "20950",
+    "TotalQuantitySold": 288,
+    "TotalRevenue": 130.09,
+    "UniqueCustomers": 29
+  },
+  {
+    "Description": "PORCELAIN CHERUB BELL SMALL",
+    "StockCode": "20952",
+    "TotalQuantitySold": 27,
+    "TotalRevenue": 11.34,
+    "UniqueCustomers": 9
+  },
+  {
+    "Description": "PORCELAIN CHERUB BELL LARGE",
+    "StockCode": "20953",
+    "TotalQuantitySold": 3,
+    "TotalRevenue": 4.95,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "PORCELAIN T-LIGHT HOLDERS ASSORTED",
+    "StockCode": "20956",
+    "TotalQuantitySold": 749,
+    "TotalRevenue": 936.25,
+    "UniqueCustomers": 51
+  },
+  {
+    "Description": "PORCELAIN HANGING BELL SMALL",
+    "StockCode": "20957",
+    "TotalQuantitySold": 32,
+    "TotalRevenue": 46.4,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "PORCELAIN HANGING BELL LARGE",
+    "StockCode": "20958",
+    "TotalQuantitySold": 9,
+    "TotalRevenue": 17.55,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "WATERMELON BATH SPONGE",
+    "StockCode": "20960",
+    "TotalQuantitySold": 861,
+    "TotalRevenue": 1072.45,
+    "UniqueCustomers": 53
+  },
+  {
+    "Description": "STRAWBERRY BATH SPONGE ",
+    "StockCode": "20961",
+    "TotalQuantitySold": 1604,
+    "TotalRevenue": 1918.64,
+    "UniqueCustomers": 88
+  },
+  {
+    "Description": "APPLE BATH SPONGE",
+    "StockCode": "20963",
+    "TotalQuantitySold": 1470,
+    "TotalRevenue": 1751.14,
+    "UniqueCustomers": 83
+  },
+  {
+    "Description": "POLYESTER FILLER PAD 60x40cm",
+    "StockCode": "20964",
+    "TotalQuantitySold": 11,
+    "TotalRevenue": 28.05,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "SANDWICH BATH SPONGE",
+    "StockCode": "20966",
+    "TotalQuantitySold": 1322,
+    "TotalRevenue": 1614.5,
+    "UniqueCustomers": 78
+  },
+  {
+    "Description": "GREY FLORAL FELTCRAFT SHOULDER BAG",
+    "StockCode": "20967",
+    "TotalQuantitySold": 474,
+    "TotalRevenue": 1777.5,
+    "UniqueCustomers": 103
+  },
+  {
+    "Description": "GREEN FLORAL FELTCRAFT SHOULDER BAG",
+    "StockCode": "20968",
+    "TotalQuantitySold": 24,
+    "TotalRevenue": 90.0,
+    "UniqueCustomers": 9
+  },
+  {
+    "Description": "RED FLORAL FELTCRAFT SHOULDER BAG",
+    "StockCode": "20969",
+    "TotalQuantitySold": 1347,
+    "TotalRevenue": 4877.23,
+    "UniqueCustomers": 154
+  },
+  {
+    "Description": "PINK FLORAL FELTCRAFT SHOULDER BAG",
+    "StockCode": "20970",
+    "TotalQuantitySold": 917,
+    "TotalRevenue": 3408.51,
+    "UniqueCustomers": 157
+  },
+  {
+    "Description": "PINK BLUE FELT CRAFT TRINKET BOX",
+    "StockCode": "20971",
+    "TotalQuantitySold": 11519,
+    "TotalRevenue": 12979.66,
+    "UniqueCustomers": 262
+  },
+  {
+    "Description": "PINK CREAM FELT CRAFT TRINKET BOX ",
+    "StockCode": "20972",
+    "TotalQuantitySold": 8410,
+    "TotalRevenue": 9995.71,
+    "UniqueCustomers": 303
+  },
+  {
+    "Description": "12 PENCIL SMALL TUBE WOODLAND",
+    "StockCode": "20973",
+    "TotalQuantitySold": 3066,
+    "TotalRevenue": 1989.9,
+    "UniqueCustomers": 147
+  },
+  {
+    "Description": "12 PENCILS SMALL TUBE SKULL",
+    "StockCode": "20974",
+    "TotalQuantitySold": 5982,
+    "TotalRevenue": 3687.9,
+    "UniqueCustomers": 190
+  },
+  {
+    "Description": "12 PENCILS SMALL TUBE RED SPOTTY",
+    "StockCode": "20975",
+    "TotalQuantitySold": 2894,
+    "TotalRevenue": 1781.1,
+    "UniqueCustomers": 103
+  },
+  {
+    "Description": "12 PENCILS SMALL TUBE RED RETROSPOT",
+    "StockCode": "20975",
+    "TotalQuantitySold": 4492,
+    "TotalRevenue": 2861.0,
+    "UniqueCustomers": 155
+  },
+  {
+    "Description": "12 PENCILS SMALL TUBE POSY",
+    "StockCode": "20976",
+    "TotalQuantitySold": 270,
+    "TotalRevenue": 175.5,
+    "UniqueCustomers": 24
+  },
+  {
+    "Description": "36 PENCILS TUBE WOODLAND",
+    "StockCode": "20977",
+    "TotalQuantitySold": 1601,
+    "TotalRevenue": 1976.93,
+    "UniqueCustomers": 128
+  },
+  {
+    "Description": "36 PENCILS TUBE SKULLS",
+    "StockCode": "20978",
+    "TotalQuantitySold": 1620,
+    "TotalRevenue": 1949.0,
+    "UniqueCustomers": 116
+  },
+  {
+    "Description": "36 PENCILS TUBE RED RETROSPOT",
+    "StockCode": "20979",
+    "TotalQuantitySold": 1765,
+    "TotalRevenue": 2133.29,
+    "UniqueCustomers": 100
+  },
+  {
+    "Description": "36 PENCILS TUBE RED SPOTTY",
+    "StockCode": "20979",
+    "TotalQuantitySold": 1508,
+    "TotalRevenue": 1787.72,
+    "UniqueCustomers": 69
+  },
+  {
+    "Description": "36 PENCILS TUBE POSY",
+    "StockCode": "20980",
+    "TotalQuantitySold": 59,
+    "TotalRevenue": 73.75,
+    "UniqueCustomers": 19
+  },
+  {
+    "Description": "12 PENCILS TALL TUBE WOODLAND",
+    "StockCode": "20981",
+    "TotalQuantitySold": 1982,
+    "TotalRevenue": 1634.78,
+    "UniqueCustomers": 147
+  },
+  {
+    "Description": "12 PENCILS TALL TUBE SKULLS",
+    "StockCode": "20982",
+    "TotalQuantitySold": 1793,
+    "TotalRevenue": 1516.25,
+    "UniqueCustomers": 151
+  },
+  {
+    "Description": "12 PENCILS TALL TUBE RED RETROSPOT",
+    "StockCode": "20983",
+    "TotalQuantitySold": 1475,
+    "TotalRevenue": 1247.51,
+    "UniqueCustomers": 109
+  },
+  {
+    "Description": "12 PENCILS TALL TUBE RED SPOTTY",
+    "StockCode": "20983",
+    "TotalQuantitySold": 1259,
+    "TotalRevenue": 1045.19,
+    "UniqueCustomers": 87
+  },
+  {
+    "Description": "12 PENCILS TALL TUBE POSY",
+    "StockCode": "20984",
+    "TotalQuantitySold": 2586,
+    "TotalRevenue": 873.3,
+    "UniqueCustomers": 86
+  },
+  {
+    "Description": "HEART CALCULATOR",
+    "StockCode": "20985",
+    "TotalQuantitySold": 1014,
+    "TotalRevenue": 1192.71,
+    "UniqueCustomers": 75
+  },
+  {
+    "Description": "BLUE CALCULATOR RULER",
+    "StockCode": "20986",
+    "TotalQuantitySold": 347,
+    "TotalRevenue": 417.17,
+    "UniqueCustomers": 42
+  },
+  {
+    "Description": "GEISHA GIRL CHOPSTICKS SET/5",
+    "StockCode": "20987",
+    "TotalQuantitySold": 117,
+    "TotalRevenue": 228.15,
+    "UniqueCustomers": 11
+  },
+  {
+    "Description": "TRELLIS FLOWER CHOPSTICKS SET/5",
+    "StockCode": "20988",
+    "TotalQuantitySold": 6,
+    "TotalRevenue": 11.7,
+    "UniqueCustomers": 4
+  },
+  {
+    "Description": "URBAN CHIC CHOPSTICKS SET/5",
+    "StockCode": "20989",
+    "TotalQuantitySold": 159,
+    "TotalRevenue": 310.05,
+    "UniqueCustomers": 15
+  },
+  {
+    "Description": "SPRING FLOWER CHOPSTICKS SET/5",
+    "StockCode": "20990",
+    "TotalQuantitySold": 435,
+    "TotalRevenue": 788.25,
+    "UniqueCustomers": 25
+  },
+  {
+    "Description": "JAZZ HEARTS MAGNETIC MEMO PAD",
+    "StockCode": "20991",
+    "TotalQuantitySold": 13,
+    "TotalRevenue": 8.45,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "JAZZ HEARTS PURSE NOTEBOOK",
+    "StockCode": "20992",
+    "TotalQuantitySold": 2399,
+    "TotalRevenue": 1255.31,
+    "UniqueCustomers": 107
+  },
+  {
+    "Description": "JAZZ HEARTS MEMO PAD",
+    "StockCode": "20993",
+    "TotalQuantitySold": 250,
+    "TotalRevenue": 85.78,
+    "UniqueCustomers": 11
+  },
+  {
+    "Description": "JAZZ HEARTS SPIRAL NOTEPAD",
+    "StockCode": "20994",
+    "TotalQuantitySold": 42,
+    "TotalRevenue": 35.7,
+    "UniqueCustomers": 10
+  },
+  {
+    "Description": "JAZZ HEARTS ADDRESS BOOK",
+    "StockCode": "20996",
+    "TotalQuantitySold": 2005,
+    "TotalRevenue": 582.17,
+    "UniqueCustomers": 73
+  },
+  {
+    "Description": "ROSE DU SUD CUSHION COVER ",
+    "StockCode": "20997",
+    "TotalQuantitySold": 36,
+    "TotalRevenue": 178.2,
+    "UniqueCustomers": 13
+  },
+  {
+    "Description": "ROSE DU SUD OVEN GLOVE",
+    "StockCode": "20998",
+    "TotalQuantitySold": 97,
+    "TotalRevenue": 286.15,
+    "UniqueCustomers": 24
+  },
+  {
+    "Description": "ROSE DU SUD COSMETICS BAG",
+    "StockCode": "21000",
+    "TotalQuantitySold": 558,
+    "TotalRevenue": 1246.5,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "ROSE DU SUD WASHBAG ",
+    "StockCode": "21001",
+    "TotalQuantitySold": 34,
+    "TotalRevenue": 202.3,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "ROSE DU SUD DRAWSTRING BAG",
+    "StockCode": "21002",
+    "TotalQuantitySold": 76,
+    "TotalRevenue": 323.0,
+    "UniqueCustomers": 15
+  },
+  {
+    "Description": "ROSE DU SUD CUSHION COVER",
+    "StockCode": "21003",
+    "TotalQuantitySold": 14,
+    "TotalRevenue": 88.9,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "ROSE DU SUD CHILDRENS APRON",
+    "StockCode": "21004",
+    "TotalQuantitySold": 11,
+    "TotalRevenue": 46.75,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "ROSE DU SUD CHILDS APRON",
+    "StockCode": "21004",
+    "TotalQuantitySold": 41,
+    "TotalRevenue": 174.25,
+    "UniqueCustomers": 14
+  },
+  {
+    "Description": "ETCHED GLASS DROPLET DECORATION",
+    "StockCode": "21007",
+    "TotalQuantitySold": 644,
+    "TotalRevenue": 317.48,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "ETCHED GLASS STAR TREE DECORATION",
+    "StockCode": "21009",
+    "TotalQuantitySold": 398,
+    "TotalRevenue": 497.5,
+    "UniqueCustomers": 36
+  },
+  {
+    "Description": "ETCHED GLASS BIRD TREE DECORATION",
+    "StockCode": "21010",
+    "TotalQuantitySold": 255,
+    "TotalRevenue": 318.75,
+    "UniqueCustomers": 23
+  },
+  {
+    "Description": "GLITTER SNOW PEAR TREE DECORATION",
+    "StockCode": "21011",
+    "TotalQuantitySold": 684,
+    "TotalRevenue": 491.04,
+    "UniqueCustomers": 37
+  },
+  {
+    "Description": "ANTIQUE ALL GLASS CANDLESTICK",
+    "StockCode": "21012",
+    "TotalQuantitySold": 296,
+    "TotalRevenue": 570.28,
+    "UniqueCustomers": 39
+  },
+  {
+    "Description": "SWISS CHALET TREE DECORATION ",
+    "StockCode": "21014",
+    "TotalQuantitySold": 910,
+    "TotalRevenue": 423.82,
+    "UniqueCustomers": 48
+  },
+  {
+    "Description": "DARK BIRD HOUSE TREE DECORATION",
+    "StockCode": "21015",
+    "TotalQuantitySold": 504,
+    "TotalRevenue": 183.76,
+    "UniqueCustomers": 32
+  },
+  {
+    "Description": "LIGHT BIRD HOUSE TREE DECORATION",
+    "StockCode": "21016",
+    "TotalQuantitySold": 398,
+    "TotalRevenue": 255.74,
+    "UniqueCustomers": 29
+  },
+  {
+    "Description": "RED BIRD HOUSE TREE DECORATION",
+    "StockCode": "21017",
+    "TotalQuantitySold": 329,
+    "TotalRevenue": 213.41,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "BIRD BOX CHRISTMAS TREE DECORATION",
+    "StockCode": "21018",
+    "TotalQuantitySold": 82,
+    "TotalRevenue": 69.7,
+    "UniqueCustomers": 15
+  },
+  {
+    "Description": "SPACE FROG",
+    "StockCode": "21025",
+    "TotalQuantitySold": 82,
+    "TotalRevenue": 99.91,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "SPACE OWL",
+    "StockCode": "21026",
+    "TotalQuantitySold": 147,
+    "TotalRevenue": 179.95,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "NINJA RABBIT PINK",
+    "StockCode": "21027",
+    "TotalQuantitySold": 83,
+    "TotalRevenue": 103.75,
+    "UniqueCustomers": 10
+  },
+  {
+    "Description": "NINJA RABBIT BLACK",
+    "StockCode": "21028",
+    "TotalQuantitySold": 94,
+    "TotalRevenue": 117.33,
+    "UniqueCustomers": 14
+  },
+  {
+    "Description": "SPACE CADET RED",
+    "StockCode": "21030",
+    "TotalQuantitySold": 27,
+    "TotalRevenue": 33.75,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "SPACE CADET BLACK",
+    "StockCode": "21031",
+    "TotalQuantitySold": 18,
+    "TotalRevenue": 23.71,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "SPACE CADET WHITE",
+    "StockCode": "21032",
+    "TotalQuantitySold": 30,
+    "TotalRevenue": 39.92,
+    "UniqueCustomers": 9
+  },
+  {
+    "Description": "JUMBO BAG CHARLIE AND LOLA TOYS",
+    "StockCode": "21033",
+    "TotalQuantitySold": 1312,
+    "TotalRevenue": 2633.98,
+    "UniqueCustomers": 84
+  },
+  {
+    "Description": "REX CASH+CARRY JUMBO SHOPPER",
+    "StockCode": "21034",
+    "TotalQuantitySold": 1450,
+    "TotalRevenue": 1377.5,
+    "UniqueCustomers": 432
+  },
+  {
+    "Description": "SET/2 RED SPOTTY TEA TOWELS ",
+    "StockCode": "21035",
+    "TotalQuantitySold": 712,
+    "TotalRevenue": 2095.6,
+    "UniqueCustomers": 101
+  },
+  {
+    "Description": "SET/2 RED RETROSPOT TEA TOWELS ",
+    "StockCode": "21035",
+    "TotalQuantitySold": 1140,
+    "TotalRevenue": 3337.66,
+    "UniqueCustomers": 103
+  },
+  {
+    "Description": "SET/4 MODERN VINTAGE COTTON NAPKINS",
+    "StockCode": "21038",
+    "TotalQuantitySold": 41,
+    "TotalRevenue": 82.07,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "RED RETROSPOT SHOPPING BAG",
+    "StockCode": "21039",
+    "TotalQuantitySold": 328,
+    "TotalRevenue": 791.4,
+    "UniqueCustomers": 33
+  },
+  {
+    "Description": "RED SPOTTY SHOPPING BAG",
+    "StockCode": "21039",
+    "TotalQuantitySold": 298,
+    "TotalRevenue": 759.9,
+    "UniqueCustomers": 29
+  },
+  {
+    "Description": "MODERN VINTAGE COTTON SHOPPING BAG",
+    "StockCode": "21040",
+    "TotalQuantitySold": 275,
+    "TotalRevenue": 284.45,
+    "UniqueCustomers": 14
+  },
+  {
+    "Description": "RED RETROSPOT OVEN GLOVE DOUBLE",
+    "StockCode": "21041",
+    "TotalQuantitySold": 407,
+    "TotalRevenue": 1200.65,
+    "UniqueCustomers": 79
+  },
+  {
+    "Description": "RED SPOTTY OVEN GLOVE DOUBLE",
+    "StockCode": "21041",
+    "TotalQuantitySold": 577,
+    "TotalRevenue": 1572.15,
+    "UniqueCustomers": 40
+  },
+  {
+    "Description": "RED RETROSPOT APRON ",
+    "StockCode": "21042",
+    "TotalQuantitySold": 332,
+    "TotalRevenue": 1819.4,
+    "UniqueCustomers": 55
+  },
+  {
+    "Description": "RED SPOTTY APRON ",
+    "StockCode": "21042",
+    "TotalQuantitySold": 360,
+    "TotalRevenue": 1970.4,
+    "UniqueCustomers": 52
+  },
+  {
+    "Description": "APRON MODERN VINTAGE COTTON",
+    "StockCode": "21043",
+    "TotalQuantitySold": 289,
+    "TotalRevenue": 703.55,
+    "UniqueCustomers": 36
+  },
+  {
+    "Description": "RIBBONS PURSE ",
+    "StockCode": "21051",
+    "TotalQuantitySold": 249,
+    "TotalRevenue": 503.22,
+    "UniqueCustomers": 36
+  },
+  {
+    "Description": "NURSE'S BAG SOFT TOY",
+    "StockCode": "21054",
+    "TotalQuantitySold": 165,
+    "TotalRevenue": 1456.75,
+    "UniqueCustomers": 61
+  },
+  {
+    "Description": "TOOL BOX SOFT TOY ",
+    "StockCode": "21055",
+    "TotalQuantitySold": 129,
+    "TotalRevenue": 1177.59,
+    "UniqueCustomers": 55
+  },
+  {
+    "Description": "DOCTOR'S BAG SOFT TOY",
+    "StockCode": "21056",
+    "TotalQuantitySold": 195,
+    "TotalRevenue": 1700.61,
+    "UniqueCustomers": 54
+  },
+  {
+    "Description": "PARTY INVITES WOODLAND",
+    "StockCode": "21058",
+    "TotalQuantitySold": 592,
+    "TotalRevenue": 503.98,
+    "UniqueCustomers": 64
+  },
+  {
+    "Description": "PARTY INVITES DINOSAURS",
+    "StockCode": "21059",
+    "TotalQuantitySold": 631,
+    "TotalRevenue": 517.63,
+    "UniqueCustomers": 62
+  },
+  {
+    "Description": "PARTY INVITES BALLOON GIRL",
+    "StockCode": "21060",
+    "TotalQuantitySold": 469,
+    "TotalRevenue": 376.09,
+    "UniqueCustomers": 46
+  },
+  {
+    "Description": "PARTY INVITES FOOTBALL",
+    "StockCode": "21061",
+    "TotalQuantitySold": 462,
+    "TotalRevenue": 347.58,
+    "UniqueCustomers": 44
+  },
+  {
+    "Description": "PARTY INVITES SPACEMAN",
+    "StockCode": "21062",
+    "TotalQuantitySold": 478,
+    "TotalRevenue": 406.3,
+    "UniqueCustomers": 49
+  },
+  {
+    "Description": "PARTY INVITES JAZZ HEARTS",
+    "StockCode": "21063",
+    "TotalQuantitySold": 663,
+    "TotalRevenue": 543.27,
+    "UniqueCustomers": 65
+  },
+  {
+    "Description": "BOOM BOX SPEAKER BOYS",
+    "StockCode": "21064",
+    "TotalQuantitySold": 98,
+    "TotalRevenue": 487.1,
+    "UniqueCustomers": 30
+  },
+  {
+    "Description": "BOOM BOX SPEAKER GIRLS",
+    "StockCode": "21065",
+    "TotalQuantitySold": 166,
+    "TotalRevenue": 310.9,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "VINTAGE RED MUG",
+    "StockCode": "21066",
+    "TotalQuantitySold": 1253,
+    "TotalRevenue": 831.43,
+    "UniqueCustomers": 42
+  },
+  {
+    "Description": "VINTAGE RED TEATIME MUG",
+    "StockCode": "21067",
+    "TotalQuantitySold": 1712,
+    "TotalRevenue": 1202.51,
+    "UniqueCustomers": 63
+  },
+  {
+    "Description": "VINTAGE BILLBOARD LOVE/HATE MUG",
+    "StockCode": "21068",
+    "TotalQuantitySold": 2184,
+    "TotalRevenue": 2058.9,
+    "UniqueCustomers": 65
+  },
+  {
+    "Description": "VINTAGE BILLBOARD TEA MUG",
+    "StockCode": "21069",
+    "TotalQuantitySold": 1174,
+    "TotalRevenue": 1178.42,
+    "UniqueCustomers": 55
+  },
+  {
+    "Description": "VINTAGE BILLBOARD MUG ",
+    "StockCode": "21070",
+    "TotalQuantitySold": 984,
+    "TotalRevenue": 897.85,
+    "UniqueCustomers": 53
+  },
+  {
+    "Description": "VINTAGE BILLBOARD DRINK ME MUG",
+    "StockCode": "21071",
+    "TotalQuantitySold": 1753,
+    "TotalRevenue": 1838.4,
+    "UniqueCustomers": 83
+  },
+  {
+    "Description": "SET/20 COLLAGE PAPER NAPKIN ",
+    "StockCode": "21076",
+    "TotalQuantitySold": 314,
+    "TotalRevenue": 246.74,
+    "UniqueCustomers": 30
+  },
+  {
+    "Description": "SET/20 WOODLAND PAPER NAPKINS ",
+    "StockCode": "21077",
+    "TotalQuantitySold": 1361,
+    "TotalRevenue": 961.97,
+    "UniqueCustomers": 56
+  },
+  {
+    "Description": "SET/20 STRAWBERRY PAPER NAPKINS ",
+    "StockCode": "21078",
+    "TotalQuantitySold": 2686,
+    "TotalRevenue": 2109.34,
+    "UniqueCustomers": 175
+  },
+  {
+    "Description": "SET/20 RED RETROSPOT PAPER NAPKINS ",
+    "StockCode": "21080",
+    "TotalQuantitySold": 5306,
+    "TotalRevenue": 4186.28,
+    "UniqueCustomers": 241
+  },
+  {
+    "Description": "SET/20 RED SPOTTY PAPER NAPKINS ",
+    "StockCode": "21080",
+    "TotalQuantitySold": 5904,
+    "TotalRevenue": 4486.68,
+    "UniqueCustomers": 255
+  },
+  {
+    "Description": "SET/20 POSIES PAPER NAPKINS",
+    "StockCode": "21081",
+    "TotalQuantitySold": 1,
+    "TotalRevenue": 0.85,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "SET/20 FRUIT SALAD PAPER NAPKINS ",
+    "StockCode": "21082",
+    "TotalQuantitySold": 3543,
+    "TotalRevenue": 882.27,
+    "UniqueCustomers": 42
+  },
+  {
+    "Description": "SET/6 COLLAGE PAPER CUPS",
+    "StockCode": "21084",
+    "TotalQuantitySold": 723,
+    "TotalRevenue": 208.73,
+    "UniqueCustomers": 43
+  },
+  {
+    "Description": "SET/6 WOODLAND PAPER CUPS",
+    "StockCode": "21085",
+    "TotalQuantitySold": 427,
+    "TotalRevenue": 251.63,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "SET/6 RED SPOTTY PAPER CUPS",
+    "StockCode": "21086",
+    "TotalQuantitySold": 5508,
+    "TotalRevenue": 3346.06,
+    "UniqueCustomers": 149
+  },
+  {
+    "Description": "SET/6 POSIES PAPER CUPS",
+    "StockCode": "21087",
+    "TotalQuantitySold": 74,
+    "TotalRevenue": 46.26,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "SET/6 FRUIT SALAD PAPER CUPS",
+    "StockCode": "21088",
+    "TotalQuantitySold": 8369,
+    "TotalRevenue": 875.03,
+    "UniqueCustomers": 45
+  },
+  {
+    "Description": "SET/6 GREEN SPRING PAPER CUPS",
+    "StockCode": "21089",
+    "TotalQuantitySold": 143,
+    "TotalRevenue": 38.21,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "SET/6 COLLAGE PAPER PLATES",
+    "StockCode": "21090",
+    "TotalQuantitySold": 929,
+    "TotalRevenue": 380.37,
+    "UniqueCustomers": 52
+  },
+  {
+    "Description": "SET/6 WOODLAND PAPER PLATES",
+    "StockCode": "21091",
+    "TotalQuantitySold": 256,
+    "TotalRevenue": 197.44,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "SET/6 STRAWBERRY PAPER PLATES",
+    "StockCode": "21092",
+    "TotalQuantitySold": 135,
+    "TotalRevenue": 114.75,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "SET/6 RED SPOTTY PAPER PLATES",
+    "StockCode": "21094",
+    "TotalQuantitySold": 6073,
+    "TotalRevenue": 4609.75,
+    "UniqueCustomers": 162
+  },
+  {
+    "Description": "SET/6 POSIES PAPER PLATES",
+    "StockCode": "21095",
+    "TotalQuantitySold": 117,
+    "TotalRevenue": 99.45,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "SET/6 FRUIT SALAD  PAPER PLATES",
+    "StockCode": "21096",
+    "TotalQuantitySold": 8172,
+    "TotalRevenue": 1352.6,
+    "UniqueCustomers": 44
+  },
+  {
+    "Description": "SET/6 GREEN SPRING  PAPER PLATE",
+    "StockCode": "21097",
+    "TotalQuantitySold": 8,
+    "TotalRevenue": 6.8,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "CHRISTMAS TOILET ROLL",
+    "StockCode": "21098",
+    "TotalQuantitySold": 2180,
+    "TotalRevenue": 2561.63,
+    "UniqueCustomers": 128
+  },
+  {
+    "Description": "SET/6 STRAWBERRY PAPER CUPS",
+    "StockCode": "21099",
+    "TotalQuantitySold": 165,
+    "TotalRevenue": 107.25,
+    "UniqueCustomers": 11
+  },
+  {
+    "Description": "CHARLIE AND LOLA CHARLOTTE BAG",
+    "StockCode": "21100",
+    "TotalQuantitySold": 1005,
+    "TotalRevenue": 1329.65,
+    "UniqueCustomers": 59
+  },
+  {
+    "Description": "CANDLE IN JAR COLLAGE , VANILLA",
+    "StockCode": "21102",
+    "TotalQuantitySold": 54,
+    "TotalRevenue": 137.7,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "CREAM SLICE FLANNEL CHOCOLATE SPOT ",
+    "StockCode": "21106",
+    "TotalQuantitySold": 291,
+    "TotalRevenue": 817.65,
+    "UniqueCustomers": 39
+  },
+  {
+    "Description": "CREAM SLICE FLANNEL PINK SPOT ",
+    "StockCode": "21107",
+    "TotalQuantitySold": 1203,
+    "TotalRevenue": 3239.25,
+    "UniqueCustomers": 82
+  },
+  {
+    "Description": "FAIRY CAKE FLANNEL ASSORTED COLOUR",
+    "StockCode": "21108",
+    "TotalQuantitySold": 5556,
+    "TotalRevenue": 10633.17,
+    "UniqueCustomers": 148
+  },
+  {
+    "Description": "LARGE CAKE TOWEL CHOCOLATE SPOTS",
+    "StockCode": "21109",
+    "TotalQuantitySold": 243,
+    "TotalRevenue": 512.25,
+    "UniqueCustomers": 14
+  },
+  {
+    "Description": "LARGE CAKE TOWEL, CHOCOLATE SPOTS",
+    "StockCode": "21109",
+    "TotalQuantitySold": 90,
+    "TotalRevenue": 605.9,
+    "UniqueCustomers": 42
+  },
+  {
+    "Description": "LARGE CAKE TOWEL PINK SPOTS",
+    "StockCode": "21110",
+    "TotalQuantitySold": 474,
+    "TotalRevenue": 1892.3,
+    "UniqueCustomers": 83
+  },
+  {
+    "Description": "SWISS ROLL TOWEL, CHOCOLATE  SPOTS",
+    "StockCode": "21111",
+    "TotalQuantitySold": 405,
+    "TotalRevenue": 911.25,
+    "UniqueCustomers": 46
+  },
+  {
+    "Description": "SWISS ROLL TOWEL, PINK  SPOTS",
+    "StockCode": "21112",
+    "TotalQuantitySold": 601,
+    "TotalRevenue": 1525.75,
+    "UniqueCustomers": 39
+  },
+  {
+    "Description": "SWISS ROLL TOWEL PINK  SPOTS",
+    "StockCode": "21112",
+    "TotalQuantitySold": 229,
+    "TotalRevenue": 601.23,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "LAVENDER SCENTED FABRIC HEART",
+    "StockCode": "21114",
+    "TotalQuantitySold": 2275,
+    "TotalRevenue": 2803.85,
+    "UniqueCustomers": 159
+  },
+  {
+    "Description": "ROSE CARAVAN DOORSTOP",
+    "StockCode": "21115",
+    "TotalQuantitySold": 413,
+    "TotalRevenue": 2554.15,
+    "UniqueCustomers": 96
+  },
+  {
+    "Description": "OWL DOORSTOP",
+    "StockCode": "21116",
+    "TotalQuantitySold": 432,
+    "TotalRevenue": 2044.6,
+    "UniqueCustomers": 80
+  },
+  {
+    "Description": "BLOND DOLL DOORSTOP",
+    "StockCode": "21117",
+    "TotalQuantitySold": 64,
+    "TotalRevenue": 91.0,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "SHOPPING BAG DOORSTOP",
+    "StockCode": "21118",
+    "TotalQuantitySold": 37,
+    "TotalRevenue": 55.25,
+    "UniqueCustomers": 4
+  },
+  {
+    "Description": "SET/10 RED SPOTTY PARTY CANDLES",
+    "StockCode": "21121",
+    "TotalQuantitySold": 2525,
+    "TotalRevenue": 2987.53,
+    "UniqueCustomers": 111
+  },
+  {
+    "Description": "SET/10 RED POLKADOT PARTY CANDLES",
+    "StockCode": "21121",
+    "TotalQuantitySold": 2755,
+    "TotalRevenue": 3389.03,
+    "UniqueCustomers": 136
+  },
+  {
+    "Description": "SET/10 PINK POLKADOT PARTY CANDLES",
+    "StockCode": "21122",
+    "TotalQuantitySold": 2495,
+    "TotalRevenue": 3009.31,
+    "UniqueCustomers": 121
+  },
+  {
+    "Description": "SET/10 PINK SPOTTY PARTY CANDLES",
+    "StockCode": "21122",
+    "TotalQuantitySold": 2360,
+    "TotalRevenue": 2836.0,
+    "UniqueCustomers": 126
+  },
+  {
+    "Description": "SET/10 IVORY SPOTTY PARTY CANDLES",
+    "StockCode": "21123",
+    "TotalQuantitySold": 476,
+    "TotalRevenue": 595.0,
+    "UniqueCustomers": 29
+  },
+  {
+    "Description": "SET/10 IVORY POLKADOT PARTY CANDLES",
+    "StockCode": "21123",
+    "TotalQuantitySold": 547,
+    "TotalRevenue": 683.75,
+    "UniqueCustomers": 35
+  },
+  {
+    "Description": "SET/10 BLUE SPOTTY PARTY CANDLES",
+    "StockCode": "21124",
+    "TotalQuantitySold": 1677,
+    "TotalRevenue": 2036.97,
+    "UniqueCustomers": 113
+  },
+  {
+    "Description": "SET/10 BLUE POLKADOT PARTY CANDLES",
+    "StockCode": "21124",
+    "TotalQuantitySold": 2121,
+    "TotalRevenue": 2541.81,
+    "UniqueCustomers": 106
+  },
+  {
+    "Description": "SET 6 FOOTBALL CELEBRATION CANDLES",
+    "StockCode": "21125",
+    "TotalQuantitySold": 788,
+    "TotalRevenue": 817.96,
+    "UniqueCustomers": 67
+  },
+  {
+    "Description": "SET OF 6 GIRLS CELEBRATION CANDLES",
+    "StockCode": "21126",
+    "TotalQuantitySold": 709,
+    "TotalRevenue": 760.97,
+    "UniqueCustomers": 72
+  },
+  {
+    "Description": "COLOURFUL FISHING GNOME",
+    "StockCode": "21127",
+    "TotalQuantitySold": 53,
+    "TotalRevenue": 291.35,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "GOLD FISHING GNOME",
+    "StockCode": "21128",
+    "TotalQuantitySold": 29,
+    "TotalRevenue": 153.55,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "SILVER FISHING GNOME ",
+    "StockCode": "21129",
+    "TotalQuantitySold": 17,
+    "TotalRevenue": 123.66,
+    "UniqueCustomers": 10
+  },
+  {
+    "Description": "COLOURFUL STANDING GNOME",
+    "StockCode": "21130",
+    "TotalQuantitySold": 98,
+    "TotalRevenue": 326.1,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "GOLD STANDING GNOME",
+    "StockCode": "21131",
+    "TotalQuantitySold": 173,
+    "TotalRevenue": 660.25,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "SILVER STANDING GNOME   ",
+    "StockCode": "21132",
+    "TotalQuantitySold": 32,
+    "TotalRevenue": 136.0,
+    "UniqueCustomers": 9
+  },
+  {
+    "Description": "PAINTED BIRD ASSORTED CHRISTMAS",
+    "StockCode": "21133",
+    "TotalQuantitySold": 303,
+    "TotalRevenue": 512.07,
+    "UniqueCustomers": 26
+  },
+  {
+    "Description": "VICTORIAN METAL POSTCARD CHRISTMAS",
+    "StockCode": "21134",
+    "TotalQuantitySold": 210,
+    "TotalRevenue": 346.5,
+    "UniqueCustomers": 22
+  },
+  {
+    "Description": "VICTORIAN  METAL POSTCARD SPRING",
+    "StockCode": "21135",
+    "TotalQuantitySold": 2344,
+    "TotalRevenue": 3103.12,
+    "UniqueCustomers": 116
+  },
+  {
+    "Description": "PAINTED METAL PEARS ASSORTED",
+    "StockCode": "21136",
+    "TotalQuantitySold": 3352,
+    "TotalRevenue": 5664.88,
+    "UniqueCustomers": 216
+  },
+  {
+    "Description": "BLACK RECORD COVER FRAME",
+    "StockCode": "21137",
+    "TotalQuantitySold": 8700,
+    "TotalRevenue": 29724.84,
+    "UniqueCustomers": 105
+  },
+  {
+    "Description": "ANTIQUE GLASS HEART DECORATION ",
+    "StockCode": "21143",
+    "TotalQuantitySold": 898,
+    "TotalRevenue": 1722.3,
+    "UniqueCustomers": 65
+  },
+  {
+    "Description": "PINK POODLE HANGING DECORATION ",
+    "StockCode": "21144",
+    "TotalQuantitySold": 297,
+    "TotalRevenue": 141.75,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "ANTIQUE GLASS PLACE SETTING",
+    "StockCode": "21145",
+    "TotalQuantitySold": 333,
+    "TotalRevenue": 388.89,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "ANTIQUE GLASS RIDGED HANGING BALL",
+    "StockCode": "21146",
+    "TotalQuantitySold": 352,
+    "TotalRevenue": 657.6,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "JINGLE BELLS TREE DECORATION",
+    "StockCode": "21147",
+    "TotalQuantitySold": 142,
+    "TotalRevenue": 211.08,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "RED SPOTTY TABLECLOTH ",
+    "StockCode": "21153",
+    "TotalQuantitySold": 137,
+    "TotalRevenue": 1459.05,
+    "UniqueCustomers": 44
+  },
+  {
+    "Description": "RED RETROSPOT OVEN GLOVE ",
+    "StockCode": "21154",
+    "TotalQuantitySold": 2085,
+    "TotalRevenue": 2430.77,
+    "UniqueCustomers": 109
+  },
+  {
+    "Description": "RED SPOTTY OVEN GLOVE ",
+    "StockCode": "21154",
+    "TotalQuantitySold": 967,
+    "TotalRevenue": 1147.19,
+    "UniqueCustomers": 77
+  },
+  {
+    "Description": "RED RETROSPOT PEG BAG",
+    "StockCode": "21155",
+    "TotalQuantitySold": 1759,
+    "TotalRevenue": 3821.75,
+    "UniqueCustomers": 125
+  },
+  {
+    "Description": "RED SPOTTY PEG BAG",
+    "StockCode": "21155",
+    "TotalQuantitySold": 1307,
+    "TotalRevenue": 2385.12,
+    "UniqueCustomers": 82
+  },
+  {
+    "Description": "RED SPOTTY CHILDS APRON",
+    "StockCode": "21156",
+    "TotalQuantitySold": 1144,
+    "TotalRevenue": 2094.0,
+    "UniqueCustomers": 98
+  },
+  {
+    "Description": "RETROSPOT CHILDRENS APRON",
+    "StockCode": "21156",
+    "TotalQuantitySold": 3311,
+    "TotalRevenue": 5808.99,
+    "UniqueCustomers": 158
+  },
+  {
+    "Description": "RED RETROSPOT WASHBAG",
+    "StockCode": "21157",
+    "TotalQuantitySold": 36,
+    "TotalRevenue": 75.6,
+    "UniqueCustomers": 9
+  },
+  {
+    "Description": "RED SPOTTY WASHBAG",
+    "StockCode": "21157",
+    "TotalQuantitySold": 210,
+    "TotalRevenue": 436.08,
+    "UniqueCustomers": 28
+  },
+  {
+    "Description": "MOODY GIRL DOOR HANGER ",
+    "StockCode": "21158",
+    "TotalQuantitySold": 655,
+    "TotalRevenue": 587.25,
+    "UniqueCustomers": 88
+  },
+  {
+    "Description": "MOODY BOY  DOOR HANGER ",
+    "StockCode": "21159",
+    "TotalQuantitySold": 462,
+    "TotalRevenue": 413.72,
+    "UniqueCustomers": 63
+  },
+  {
+    "Description": "KEEP OUT GIRLS DOOR HANGER ",
+    "StockCode": "21160",
+    "TotalQuantitySold": 108,
+    "TotalRevenue": 100.44,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "KEEP OUT BOYS DOOR HANGER ",
+    "StockCode": "21161",
+    "TotalQuantitySold": 371,
+    "TotalRevenue": 430.43,
+    "UniqueCustomers": 60
+  },
+  {
+    "Description": "TOXIC AREA  DOOR HANGER ",
+    "StockCode": "21162",
+    "TotalQuantitySold": 502,
+    "TotalRevenue": 455.24,
+    "UniqueCustomers": 85
+  },
+  {
+    "Description": "DO NOT TOUCH MY STUFF DOOR HANGER ",
+    "StockCode": "21163",
+    "TotalQuantitySold": 449,
+    "TotalRevenue": 345.53,
+    "UniqueCustomers": 64
+  },
+  {
+    "Description": "HOME SWEET HOME METAL SIGN ",
+    "StockCode": "21164",
+    "TotalQuantitySold": 2570,
+    "TotalRevenue": 6929.42,
+    "UniqueCustomers": 188
+  },
+  {
+    "Description": "BEWARE OF THE CAT METAL SIGN ",
+    "StockCode": "21165",
+    "TotalQuantitySold": 3506,
+    "TotalRevenue": 5444.9,
+    "UniqueCustomers": 182
+  },
+  {
+    "Description": "COOK WITH WINE METAL SIGN ",
+    "StockCode": "21166",
+    "TotalQuantitySold": 7735,
+    "TotalRevenue": 14420.91,
+    "UniqueCustomers": 295
+  },
+  {
+    "Description": "WHITE SAGE INCENSE",
+    "StockCode": "21167",
+    "TotalQuantitySold": 835,
+    "TotalRevenue": 175.35,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "YOU'RE CONFUSING ME METAL SIGN ",
+    "StockCode": "21169",
+    "TotalQuantitySold": 3365,
+    "TotalRevenue": 5257.73,
+    "UniqueCustomers": 164
+  },
+  {
+    "Description": "BATHROOM METAL SIGN ",
+    "StockCode": "21171",
+    "TotalQuantitySold": 656,
+    "TotalRevenue": 914.0,
+    "UniqueCustomers": 68
+  },
+  {
+    "Description": "PARTY METAL SIGN ",
+    "StockCode": "21172",
+    "TotalQuantitySold": 3270,
+    "TotalRevenue": 4573.66,
+    "UniqueCustomers": 225
+  },
+  {
+    "Description": "LOO ROLL  METAL SIGN ",
+    "StockCode": "21173",
+    "TotalQuantitySold": 140,
+    "TotalRevenue": 228.6,
+    "UniqueCustomers": 24
+  },
+  {
+    "Description": "POTTERING IN THE SHED METAL SIGN",
+    "StockCode": "21174",
+    "TotalQuantitySold": 3603,
+    "TotalRevenue": 6818.9,
+    "UniqueCustomers": 229
+  },
+  {
+    "Description": "GIN + TONIC DIET METAL SIGN",
+    "StockCode": "21175",
+    "TotalQuantitySold": 8115,
+    "TotalRevenue": 16737.1,
+    "UniqueCustomers": 330
+  },
+  {
+    "Description": "GIN AND TONIC DIET METAL SIGN",
+    "StockCode": "21175",
+    "TotalQuantitySold": 101,
+    "TotalRevenue": 257.55,
+    "UniqueCustomers": 9
+  },
+  {
+    "Description": "NO JUNK MAIL METAL SIGN",
+    "StockCode": "21179",
+    "TotalQuantitySold": 1584,
+    "TotalRevenue": 1219.94,
+    "UniqueCustomers": 110
+  },
+  {
+    "Description": "PLEASE ONE PERSON  METAL SIGN",
+    "StockCode": "21181",
+    "TotalQuantitySold": 769,
+    "TotalRevenue": 1530.9,
+    "UniqueCustomers": 67
+  },
+  {
+    "Description": "PLEASE ONE PERSON METAL SIGN",
+    "StockCode": "21181",
+    "TotalQuantitySold": 8527,
+    "TotalRevenue": 16663.92,
+    "UniqueCustomers": 324
+  },
+  {
+    "Description": "HOME SWEET HOME  BLACKBOARD",
+    "StockCode": "21185",
+    "TotalQuantitySold": 3,
+    "TotalRevenue": 19.05,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": " HOME SWEET HOME  BLACKBOARD",
+    "StockCode": "21185",
+    "TotalQuantitySold": 72,
+    "TotalRevenue": 436.56,
+    "UniqueCustomers": 15
+  },
+  {
+    "Description": "WHITE DOVE HONEYCOMB PAPER GARLAND",
+    "StockCode": "21186",
+    "TotalQuantitySold": 2211,
+    "TotalRevenue": 3419.95,
+    "UniqueCustomers": 93
+  },
+  {
+    "Description": "WHITE BELL HONEYCOMB PAPER GARLAND ",
+    "StockCode": "21187",
+    "TotalQuantitySold": 666,
+    "TotalRevenue": 1022.1,
+    "UniqueCustomers": 42
+  },
+  {
+    "Description": "3D HEARTS  HONEYCOMB PAPER GARLAND",
+    "StockCode": "21188",
+    "TotalQuantitySold": 383,
+    "TotalRevenue": 1101.05,
+    "UniqueCustomers": 31
+  },
+  {
+    "Description": "WHITE HONEYCOMB PAPER GARLAND ",
+    "StockCode": "21189",
+    "TotalQuantitySold": 294,
+    "TotalRevenue": 475.5,
+    "UniqueCustomers": 27
+  },
+  {
+    "Description": "PINK HEARTS PAPER GARLAND",
+    "StockCode": "21190",
+    "TotalQuantitySold": 348,
+    "TotalRevenue": 542.6,
+    "UniqueCustomers": 33
+  },
+  {
+    "Description": "LARGE WHITE HONEYCOMB PAPER BELL  ",
+    "StockCode": "21191",
+    "TotalQuantitySold": 460,
+    "TotalRevenue": 867.6,
+    "UniqueCustomers": 39
+  },
+  {
+    "Description": "WHITE BELL HONEYCOMB PAPER ",
+    "StockCode": "21192",
+    "TotalQuantitySold": 648,
+    "TotalRevenue": 1002.0,
+    "UniqueCustomers": 41
+  },
+  {
+    "Description": "WHITE HONEYCOMB PAPER FAN ",
+    "StockCode": "21193",
+    "TotalQuantitySold": 60,
+    "TotalRevenue": 107.96,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "PINK  HONEYCOMB PAPER FAN",
+    "StockCode": "21194",
+    "TotalQuantitySold": 115,
+    "TotalRevenue": 106.65,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "PINK  HONEYCOMB PAPER BALL ",
+    "StockCode": "21195",
+    "TotalQuantitySold": 73,
+    "TotalRevenue": 153.3,
+    "UniqueCustomers": 14
+  },
+  {
+    "Description": "ROUND WHITE CONFETTI IN TUBE",
+    "StockCode": "21196",
+    "TotalQuantitySold": 39,
+    "TotalRevenue": 64.35,
+    "UniqueCustomers": 4
+  },
+  {
+    "Description": "MULTICOLOUR  CONFETTI IN TUBE",
+    "StockCode": "21197",
+    "TotalQuantitySold": 141,
+    "TotalRevenue": 232.65,
+    "UniqueCustomers": 15
+  },
+  {
+    "Description": "WHITE HEART CONFETTI IN TUBE",
+    "StockCode": "21198",
+    "TotalQuantitySold": 411,
+    "TotalRevenue": 441.99,
+    "UniqueCustomers": 31
+  },
+  {
+    "Description": "PINK  HEART CONFETTI IN TUBE",
+    "StockCode": "21199",
+    "TotalQuantitySold": 413,
+    "TotalRevenue": 445.29,
+    "UniqueCustomers": 31
+  },
+  {
+    "Description": "MULTICOLOUR HONEYCOMB PAPER GARLAND",
+    "StockCode": "21200",
+    "TotalQuantitySold": 730,
+    "TotalRevenue": 1031.7,
+    "UniqueCustomers": 33
+  },
+  {
+    "Description": "TROPICAL  HONEYCOMB PAPER GARLAND ",
+    "StockCode": "21201",
+    "TotalQuantitySold": 1300,
+    "TotalRevenue": 2872.2,
+    "UniqueCustomers": 51
+  },
+  {
+    "Description": "DOLLY HONEYCOMB GARLAND",
+    "StockCode": "21202",
+    "TotalQuantitySold": 202,
+    "TotalRevenue": 275.7,
+    "UniqueCustomers": 20
+  },
+  {
+    "Description": "BUTTERFLIES  HONEYCOMB GARLAND",
+    "StockCode": "21203",
+    "TotalQuantitySold": 696,
+    "TotalRevenue": 1062.0,
+    "UniqueCustomers": 41
+  },
+  {
+    "Description": "DAISIES  HONEYCOMB GARLAND ",
+    "StockCode": "21204",
+    "TotalQuantitySold": 821,
+    "TotalRevenue": 1287.45,
+    "UniqueCustomers": 58
+  },
+  {
+    "Description": "MULTICOLOUR 3D BALLS GARLAND",
+    "StockCode": "21205",
+    "TotalQuantitySold": 207,
+    "TotalRevenue": 506.25,
+    "UniqueCustomers": 37
+  },
+  {
+    "Description": "STRAWBERRY HONEYCOMB  GARLAND ",
+    "StockCode": "21206",
+    "TotalQuantitySold": 672,
+    "TotalRevenue": 955.2,
+    "UniqueCustomers": 55
+  },
+  {
+    "Description": "SKULL AND CROSSBONES  GARLAND ",
+    "StockCode": "21207",
+    "TotalQuantitySold": 852,
+    "TotalRevenue": 1367.4,
+    "UniqueCustomers": 81
+  },
+  {
+    "Description": "PASTEL COLOUR HONEYCOMB FAN",
+    "StockCode": "21208",
+    "TotalQuantitySold": 274,
+    "TotalRevenue": 134.58,
+    "UniqueCustomers": 19
+  },
+  {
+    "Description": "MULTICOLOUR HONEYCOMB FAN",
+    "StockCode": "21209",
+    "TotalQuantitySold": 551,
+    "TotalRevenue": 319.35,
+    "UniqueCustomers": 27
+  },
+  {
+    "Description": "SET OF 72 RETRO SPOT PAPER  DOILIES",
+    "StockCode": "21210",
+    "TotalQuantitySold": 2374,
+    "TotalRevenue": 3334.3,
+    "UniqueCustomers": 148
+  },
+  {
+    "Description": "SET OF 72 RETROSPOT PAPER  DOILIES",
+    "StockCode": "21210",
+    "TotalQuantitySold": 2504,
+    "TotalRevenue": 3519.47,
+    "UniqueCustomers": 143
+  },
+  {
+    "Description": "SET OF 72 SKULL PAPER  DOILIES",
+    "StockCode": "21211",
+    "TotalQuantitySold": 502,
+    "TotalRevenue": 727.9,
+    "UniqueCustomers": 58
+  },
+  {
+    "Description": "PACK OF 72 RETRO SPOT CAKE CASES",
+    "StockCode": "21212",
+    "TotalQuantitySold": 17168,
+    "TotalRevenue": 8276.72,
+    "UniqueCustomers": 323
+  },
+  {
+    "Description": "PACK OF 72 RETROSPOT CAKE CASES",
+    "StockCode": "21212",
+    "TotalQuantitySold": 17377,
+    "TotalRevenue": 8378.11,
+    "UniqueCustomers": 396
+  },
+  {
+    "Description": "PACK OF 72 SKULL CAKE CASES",
+    "StockCode": "21213",
+    "TotalQuantitySold": 13187,
+    "TotalRevenue": 6293.81,
+    "UniqueCustomers": 280
+  },
+  {
+    "Description": "SET OF 72 IVORY PAPER DOILIES",
+    "StockCode": "21214",
+    "TotalQuantitySold": 967,
+    "TotalRevenue": 1306.15,
+    "UniqueCustomers": 55
+  },
+  {
+    "Description": " IVORY PAPER CUP CAKE CASES ",
+    "StockCode": "21215",
+    "TotalQuantitySold": 793,
+    "TotalRevenue": 358.15,
+    "UniqueCustomers": 10
+  },
+  {
+    "Description": "IVORY PAPER CUP CAKE CASES ",
+    "StockCode": "21215",
+    "TotalQuantitySold": 1130,
+    "TotalRevenue": 590.3,
+    "UniqueCustomers": 55
+  },
+  {
+    "Description": "SET 3 RETROSPOT TEA,COFFEE,SUGAR",
+    "StockCode": "21216",
+    "TotalQuantitySold": 697,
+    "TotalRevenue": 3212.15,
+    "UniqueCustomers": 90
+  },
+  {
+    "Description": "SET 3 RED SPOT TIN TEA,COFFEE,SUGAR",
+    "StockCode": "21216",
+    "TotalQuantitySold": 557,
+    "TotalRevenue": 2580.75,
+    "UniqueCustomers": 67
+  },
+  {
+    "Description": "RED RETROSPOT ROUND CAKE TINS",
+    "StockCode": "21217",
+    "TotalQuantitySold": 584,
+    "TotalRevenue": 5522.8,
+    "UniqueCustomers": 122
+  },
+  {
+    "Description": "RED SPOTTY ROUND CAKE TINS",
+    "StockCode": "21217",
+    "TotalQuantitySold": 531,
+    "TotalRevenue": 5076.45,
+    "UniqueCustomers": 126
+  },
+  {
+    "Description": "RED SPOTTY BISCUIT TIN",
+    "StockCode": "21218",
+    "TotalQuantitySold": 1939,
+    "TotalRevenue": 6730.83,
+    "UniqueCustomers": 163
+  },
+  {
+    "Description": "SET/4 BADGES BALLOON GIRL",
+    "StockCode": "21219",
+    "TotalQuantitySold": 412,
+    "TotalRevenue": 517.42,
+    "UniqueCustomers": 42
+  },
+  {
+    "Description": "SET/4 BADGES DOGS",
+    "StockCode": "21220",
+    "TotalQuantitySold": 195,
+    "TotalRevenue": 243.75,
+    "UniqueCustomers": 27
+  },
+  {
+    "Description": "SET/4 BADGES CUTE CREATURES",
+    "StockCode": "21221",
+    "TotalQuantitySold": 198,
+    "TotalRevenue": 247.5,
+    "UniqueCustomers": 24
+  },
+  {
+    "Description": "SET/4 BADGES BEETLES",
+    "StockCode": "21222",
+    "TotalQuantitySold": 222,
+    "TotalRevenue": 279.92,
+    "UniqueCustomers": 32
+  },
+  {
+    "Description": "SET/4 BADGES WOODLAND ANIMAL",
+    "StockCode": "21223",
+    "TotalQuantitySold": 186,
+    "TotalRevenue": 232.5,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "SET/4 SKULL BADGES",
+    "StockCode": "21224",
+    "TotalQuantitySold": 775,
+    "TotalRevenue": 968.75,
+    "UniqueCustomers": 64
+  },
+  {
+    "Description": "POCKET MIRROR BUTTERFLY ",
+    "StockCode": "21225",
+    "TotalQuantitySold": 1,
+    "TotalRevenue": 1.25,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "POCKET MIRROR WOODLAND",
+    "StockCode": "21226",
+    "TotalQuantitySold": 56,
+    "TotalRevenue": 70.0,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "POCKET MIRROR \"GLAMOROUS\"",
+    "StockCode": "21228",
+    "TotalQuantitySold": 39,
+    "TotalRevenue": 48.75,
+    "UniqueCustomers": 10
+  },
+  {
+    "Description": "SWEETHEART CERAMIC TRINKET BOX",
+    "StockCode": "21231",
+    "TotalQuantitySold": 6426,
+    "TotalRevenue": 7599.35,
+    "UniqueCustomers": 270
+  },
+  {
+    "Description": "STRAWBERRY CERAMIC TRINKET BOX",
+    "StockCode": "21232",
+    "TotalQuantitySold": 14276,
+    "TotalRevenue": 16741.9,
+    "UniqueCustomers": 424
+  },
+  {
+    "Description": "STRAWBERRY CERAMIC TRINKET POT",
+    "StockCode": "21232",
+    "TotalQuantitySold": 295,
+    "TotalRevenue": 361.12,
+    "UniqueCustomers": 23
+  },
+  {
+    "Description": "RED SPOTTY CUP",
+    "StockCode": "21238",
+    "TotalQuantitySold": 1558,
+    "TotalRevenue": 1283.74,
+    "UniqueCustomers": 98
+  },
+  {
+    "Description": "RED RETROSPOT CUP",
+    "StockCode": "21238",
+    "TotalQuantitySold": 2063,
+    "TotalRevenue": 1634.73,
+    "UniqueCustomers": 102
+  },
+  {
+    "Description": "PINK  SPOTTY CUP",
+    "StockCode": "21239",
+    "TotalQuantitySold": 1034,
+    "TotalRevenue": 853.94,
+    "UniqueCustomers": 81
+  },
+  {
+    "Description": "PINK  POLKADOT CUP",
+    "StockCode": "21239",
+    "TotalQuantitySold": 1566,
+    "TotalRevenue": 1237.5,
+    "UniqueCustomers": 86
+  },
+  {
+    "Description": "BLUE  SPOTTY CUP",
+    "StockCode": "21240",
+    "TotalQuantitySold": 811,
+    "TotalRevenue": 676.87,
+    "UniqueCustomers": 81
+  },
+  {
+    "Description": "BLUE POLKADOT CUP",
+    "StockCode": "21240",
+    "TotalQuantitySold": 1629,
+    "TotalRevenue": 1290.79,
+    "UniqueCustomers": 92
+  },
+  {
+    "Description": "GREEN SPOTTY CUP",
+    "StockCode": "21241",
+    "TotalQuantitySold": 573,
+    "TotalRevenue": 474.57,
+    "UniqueCustomers": 49
+  },
+  {
+    "Description": "GREEN POLKADOT CUP",
+    "StockCode": "21241",
+    "TotalQuantitySold": 103,
+    "TotalRevenue": 87.55,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "RED RETROSPOT PLATE ",
+    "StockCode": "21242",
+    "TotalQuantitySold": 1701,
+    "TotalRevenue": 2678.85,
+    "UniqueCustomers": 92
+  },
+  {
+    "Description": "RED SPOTTY PLATE ",
+    "StockCode": "21242",
+    "TotalQuantitySold": 1049,
+    "TotalRevenue": 1703.69,
+    "UniqueCustomers": 80
+  },
+  {
+    "Description": "PINK  POLKADOT PLATE ",
+    "StockCode": "21243",
+    "TotalQuantitySold": 1432,
+    "TotalRevenue": 2224.24,
+    "UniqueCustomers": 63
+  },
+  {
+    "Description": "PINK  SPOTTY PLATE ",
+    "StockCode": "21243",
+    "TotalQuantitySold": 1043,
+    "TotalRevenue": 1624.43,
+    "UniqueCustomers": 55
+  },
+  {
+    "Description": "PINK POLKADOT PLATE ",
+    "StockCode": "21243",
+    "TotalQuantitySold": 33,
+    "TotalRevenue": 55.77,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "BLUE  SPOTTY PLATE ",
+    "StockCode": "21244",
+    "TotalQuantitySold": 712,
+    "TotalRevenue": 1134.16,
+    "UniqueCustomers": 54
+  },
+  {
+    "Description": "BLUE POLKADOT PLATE ",
+    "StockCode": "21244",
+    "TotalQuantitySold": 1433,
+    "TotalRevenue": 2225.93,
+    "UniqueCustomers": 64
+  },
+  {
+    "Description": "GREEN POLKADOT PLATE ",
+    "StockCode": "21245",
+    "TotalQuantitySold": 463,
+    "TotalRevenue": 759.43,
+    "UniqueCustomers": 42
+  },
+  {
+    "Description": "GREEN  SPOTTY PLATE ",
+    "StockCode": "21245",
+    "TotalQuantitySold": 272,
+    "TotalRevenue": 459.68,
+    "UniqueCustomers": 33
+  },
+  {
+    "Description": "RED RETROSPOT BIG BOWL",
+    "StockCode": "21246",
+    "TotalQuantitySold": 74,
+    "TotalRevenue": 366.3,
+    "UniqueCustomers": 20
+  },
+  {
+    "Description": "RED SPOTTY BIG BOWL",
+    "StockCode": "21246",
+    "TotalQuantitySold": 109,
+    "TotalRevenue": 539.55,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "SET OF RED SALAD SERVERS ",
+    "StockCode": "21247",
+    "TotalQuantitySold": 119,
+    "TotalRevenue": 177.31,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "DOOR HANGER  MUM + DADS ROOM",
+    "StockCode": "21248",
+    "TotalQuantitySold": 229,
+    "TotalRevenue": 301.57,
+    "UniqueCustomers": 41
+  },
+  {
+    "Description": "WOODLAND  HEIGHT CHART STICKERS ",
+    "StockCode": "21249",
+    "TotalQuantitySold": 518,
+    "TotalRevenue": 1453.7,
+    "UniqueCustomers": 67
+  },
+  {
+    "Description": "WOOD ANIMALS HEIGHT CHART STICKERS ",
+    "StockCode": "21249",
+    "TotalQuantitySold": 6,
+    "TotalRevenue": 17.7,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "SET OF SKULL WALL STICKERS",
+    "StockCode": "21250",
+    "TotalQuantitySold": 108,
+    "TotalRevenue": 304.2,
+    "UniqueCustomers": 19
+  },
+  {
+    "Description": "DINOSAUR HEIGHT CHART STICKER SET",
+    "StockCode": "21251",
+    "TotalQuantitySold": 138,
+    "TotalRevenue": 407.1,
+    "UniqueCustomers": 32
+  },
+  {
+    "Description": "SET OF MEADOW  FLOWER STICKERS",
+    "StockCode": "21252",
+    "TotalQuantitySold": 117,
+    "TotalRevenue": 283.35,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "SET OF PICTURE FRAME  STICKERS",
+    "StockCode": "21253",
+    "TotalQuantitySold": 139,
+    "TotalRevenue": 347.05,
+    "UniqueCustomers": 23
+  },
+  {
+    "Description": "FRENCH BOTTLE , LAVENDER",
+    "StockCode": "21255",
+    "TotalQuantitySold": 123,
+    "TotalRevenue": 202.95,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "FRENCH BOTTLE, BRASSERIE DES ARTIST",
+    "StockCode": "21256",
+    "TotalQuantitySold": 150,
+    "TotalRevenue": 237.9,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "VICTORIAN SEWING BOX MEDIUM",
+    "StockCode": "21257",
+    "TotalQuantitySold": 365,
+    "TotalRevenue": 2821.75,
+    "UniqueCustomers": 98
+  },
+  {
+    "Description": "VICTORIAN SEWING BOX LARGE",
+    "StockCode": "21258",
+    "TotalQuantitySold": 532,
+    "TotalRevenue": 6173.82,
+    "UniqueCustomers": 92
+  },
+  {
+    "Description": "VICTORIAN SEWING BOX SMALL ",
+    "StockCode": "21259",
+    "TotalQuantitySold": 830,
+    "TotalRevenue": 4681.01,
+    "UniqueCustomers": 153
+  },
+  {
+    "Description": "FIRST AID TIN",
+    "StockCode": "21260",
+    "TotalQuantitySold": 1175,
+    "TotalRevenue": 3655.85,
+    "UniqueCustomers": 138
+  },
+  {
+    "Description": "GREEN GOOSE FEATHER CHRISTMAS TREE ",
+    "StockCode": "21261",
+    "TotalQuantitySold": 53,
+    "TotalRevenue": 212.35,
+    "UniqueCustomers": 13
+  },
+  {
+    "Description": "WHITE GOOSE FEATHER CHRISTMAS TREE ",
+    "StockCode": "21262",
+    "TotalQuantitySold": 190,
+    "TotalRevenue": 630.5,
+    "UniqueCustomers": 30
+  },
+  {
+    "Description": "GREEN GOOSE FEATHER TREE 60CM",
+    "StockCode": "21263",
+    "TotalQuantitySold": 52,
+    "TotalRevenue": 109.4,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "WHITE GOOSE FEATHER TREE 60CM ",
+    "StockCode": "21264",
+    "TotalQuantitySold": 158,
+    "TotalRevenue": 380.1,
+    "UniqueCustomers": 24
+  },
+  {
+    "Description": "PINK GOOSE FEATHER TREE 60CM",
+    "StockCode": "21265",
+    "TotalQuantitySold": 83,
+    "TotalRevenue": 201.85,
+    "UniqueCustomers": 10
+  },
+  {
+    "Description": "VINTAGE PINK TINSEL REEL ",
+    "StockCode": "21267",
+    "TotalQuantitySold": 13,
+    "TotalRevenue": 27.3,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "VINTAGE BLUE TINSEL REEL",
+    "StockCode": "21268",
+    "TotalQuantitySold": 219,
+    "TotalRevenue": 140.7,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "ANTIQUE CREAM CUTLERY SHELF ",
+    "StockCode": "21269",
+    "TotalQuantitySold": 39,
+    "TotalRevenue": 331.5,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "ANTIQUE CREAM CUTLERY CUPBOARD",
+    "StockCode": "21270",
+    "TotalQuantitySold": 15,
+    "TotalRevenue": 191.25,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "SALLE DE BAIN HOOK",
+    "StockCode": "21272",
+    "TotalQuantitySold": 817,
+    "TotalRevenue": 1021.73,
+    "UniqueCustomers": 86
+  },
+  {
+    "Description": "EMBOSSED HEART 3 DRAWER SHELF",
+    "StockCode": "21274",
+    "TotalQuantitySold": 73,
+    "TotalRevenue": 916.35,
+    "UniqueCustomers": 29
+  },
+  {
+    "Description": "ZINC TOP  2 DOOR WOODEN SHELF ",
+    "StockCode": "21275",
+    "TotalQuantitySold": 165,
+    "TotalRevenue": 908.75,
+    "UniqueCustomers": 26
+  },
+  {
+    "Description": "TWO EMBOSSED HEART MINI DRAWERS",
+    "StockCode": "21276",
+    "TotalQuantitySold": 419,
+    "TotalRevenue": 958.05,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "FRENCH STYLE EMBOSSED HEART CABINET",
+    "StockCode": "21277",
+    "TotalQuantitySold": 18,
+    "TotalRevenue": 395.1,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "VINTAGE KITCHEN PRINT PUDDINGS",
+    "StockCode": "21278",
+    "TotalQuantitySold": 1293,
+    "TotalRevenue": 537.15,
+    "UniqueCustomers": 30
+  },
+  {
+    "Description": "VINTAGE KITCHEN PRINT FRUITS",
+    "StockCode": "21279",
+    "TotalQuantitySold": 1723,
+    "TotalRevenue": 640.05,
+    "UniqueCustomers": 25
+  },
+  {
+    "Description": "VINTAGE KITCHEN PRINT VEGETABLES",
+    "StockCode": "21280",
+    "TotalQuantitySold": 1608,
+    "TotalRevenue": 740.4,
+    "UniqueCustomers": 23
+  },
+  {
+    "Description": "VINTAGE KITCHEN PRINT SEAFOOD",
+    "StockCode": "21281",
+    "TotalQuantitySold": 1723,
+    "TotalRevenue": 616.05,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "NATURAL BARK CANDLE LARGE",
+    "StockCode": "21282",
+    "TotalQuantitySold": 165,
+    "TotalRevenue": 650.25,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "NATURAL BARK CANDLE SMALL",
+    "StockCode": "21283",
+    "TotalQuantitySold": 252,
+    "TotalRevenue": 757.5,
+    "UniqueCustomers": 28
+  },
+  {
+    "Description": "RETROSPOT CANDLE  SMALL",
+    "StockCode": "21284",
+    "TotalQuantitySold": 582,
+    "TotalRevenue": 357.66,
+    "UniqueCustomers": 20
+  },
+  {
+    "Description": "RETRO SPOT CANDLE  SMALL",
+    "StockCode": "21284",
+    "TotalQuantitySold": 155,
+    "TotalRevenue": 256.19,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "RETRO SPOT CANDLE  MEDIUM",
+    "StockCode": "21285",
+    "TotalQuantitySold": 126,
+    "TotalRevenue": 258.6,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "RETROSPOT CANDLE  MEDIUM",
+    "StockCode": "21285",
+    "TotalQuantitySold": 218,
+    "TotalRevenue": 216.23,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "RETRO SPOT CANDLE  LARGE",
+    "StockCode": "21286",
+    "TotalQuantitySold": 91,
+    "TotalRevenue": 226.65,
+    "UniqueCustomers": 11
+  },
+  {
+    "Description": "RETROSPOT CANDLE  LARGE",
+    "StockCode": "21286",
+    "TotalQuantitySold": 312,
+    "TotalRevenue": 320.16,
+    "UniqueCustomers": 10
+  },
+  {
+    "Description": "SCENTED VELVET LOUNGE CANDLE ",
+    "StockCode": "21287",
+    "TotalQuantitySold": 2365,
+    "TotalRevenue": 979.61,
+    "UniqueCustomers": 25
+  },
+  {
+    "Description": "STRIPEY CHOCOLATE NESTING BOXES",
+    "StockCode": "21288",
+    "TotalQuantitySold": 395,
+    "TotalRevenue": 860.45,
+    "UniqueCustomers": 52
+  },
+  {
+    "Description": "LARGE STRIPES CHOCOLATE GIFT BAG",
+    "StockCode": "21289",
+    "TotalQuantitySold": 534,
+    "TotalRevenue": 458.7,
+    "UniqueCustomers": 23
+  },
+  {
+    "Description": "SMALL POLKADOT CHOCOLATE GIFT BAG ",
+    "StockCode": "21291",
+    "TotalQuantitySold": 527,
+    "TotalRevenue": 447.95,
+    "UniqueCustomers": 20
+  },
+  {
+    "Description": "SMALL SPOTTY CHOCOLATE GIFT BAG ",
+    "StockCode": "21291",
+    "TotalQuantitySold": 475,
+    "TotalRevenue": 403.75,
+    "UniqueCustomers": 30
+  },
+  {
+    "Description": "SMALL STRIPES CHOCOLATE GIFT BAG ",
+    "StockCode": "21292",
+    "TotalQuantitySold": 844,
+    "TotalRevenue": 474.52,
+    "UniqueCustomers": 30
+  },
+  {
+    "Description": "MIRRORED DOVE WALL DECORATION",
+    "StockCode": "21293",
+    "TotalQuantitySold": 98,
+    "TotalRevenue": 205.8,
+    "UniqueCustomers": 11
+  },
+  {
+    "Description": "ETCHED GLASS COASTER",
+    "StockCode": "21294",
+    "TotalQuantitySold": 914,
+    "TotalRevenue": 698.74,
+    "UniqueCustomers": 43
+  },
+  {
+    "Description": "EDWARDIAN 2 DRAWER WALL CABINET ",
+    "StockCode": "21298",
+    "TotalQuantitySold": 36,
+    "TotalRevenue": 459.0,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "EDWARDIAN TOILET ROLL UNIT ",
+    "StockCode": "21299",
+    "TotalQuantitySold": 142,
+    "TotalRevenue": 648.9,
+    "UniqueCustomers": 20
+  },
+  {
+    "Description": "ANTIQUE EDWARDIAN DRESSER",
+    "StockCode": "21300",
+    "TotalQuantitySold": 40,
+    "TotalRevenue": 584.4,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "FILIGREE WALL MIRROR  ANTIQUE WHITE",
+    "StockCode": "21303",
+    "TotalQuantitySold": 75,
+    "TotalRevenue": 613.45,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "ARCHED GREY MIRROR",
+    "StockCode": "21304",
+    "TotalQuantitySold": 29,
+    "TotalRevenue": 182.55,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "SET/4 DAISY MIRROR MAGNETS",
+    "StockCode": "21306",
+    "TotalQuantitySold": 290,
+    "TotalRevenue": 147.45,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "SET/4 BUTTERFLY MIRROR MAGNETS",
+    "StockCode": "21307",
+    "TotalQuantitySold": 191,
+    "TotalRevenue": 199.08,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "LOUVRE VANITY MIRROR",
+    "StockCode": "21308",
+    "TotalQuantitySold": 127,
+    "TotalRevenue": 637.95,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "LOUVRE CHALKBOARD",
+    "StockCode": "21309",
+    "TotalQuantitySold": 46,
+    "TotalRevenue": 295.75,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "CAPIZ CHANDELIER",
+    "StockCode": "21310",
+    "TotalQuantitySold": 2,
+    "TotalRevenue": 59.9,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "SET/4 BIRD MIRROR MAGNETS ",
+    "StockCode": "21311",
+    "TotalQuantitySold": 226,
+    "TotalRevenue": 139.75,
+    "UniqueCustomers": 25
+  },
+  {
+    "Description": "LARGE CHUNKY GLASS ROMAN BOWL",
+    "StockCode": "21312",
+    "TotalQuantitySold": 106,
+    "TotalRevenue": 254.7,
+    "UniqueCustomers": 9
+  },
+  {
+    "Description": "GLASS HEART T-LIGHT HOLDER ",
+    "StockCode": "21313",
+    "TotalQuantitySold": 2588,
+    "TotalRevenue": 1874.72,
+    "UniqueCustomers": 73
+  },
+  {
+    "Description": "SMALL GLASS HEART TRINKET POT",
+    "StockCode": "21314",
+    "TotalQuantitySold": 4584,
+    "TotalRevenue": 8944.93,
+    "UniqueCustomers": 166
+  },
+  {
+    "Description": "SMALL CHUNKY GLASS ROMAN  BOWL",
+    "StockCode": "21316",
+    "TotalQuantitySold": 341,
+    "TotalRevenue": 319.79,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "GLASS SPHERE CANDLE STAND MEDIUM",
+    "StockCode": "21317",
+    "TotalQuantitySold": 72,
+    "TotalRevenue": 291.6,
+    "UniqueCustomers": 19
+  },
+  {
+    "Description": "GLASS CHALICE BLUE SMALL ",
+    "StockCode": "21318",
+    "TotalQuantitySold": 563,
+    "TotalRevenue": 420.63,
+    "UniqueCustomers": 34
+  },
+  {
+    "Description": "GLASS CHALICE GREEN  SMALL ",
+    "StockCode": "21319",
+    "TotalQuantitySold": 231,
+    "TotalRevenue": 260.91,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "GLASS CHALICE GREEN  LARGE ",
+    "StockCode": "21320",
+    "TotalQuantitySold": 141,
+    "TotalRevenue": 216.51,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "GLASS CHALICE BLUE  LARGE ",
+    "StockCode": "21321",
+    "TotalQuantitySold": 84,
+    "TotalRevenue": 184.05,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "GLASS SPHERE CANDLE STAND LARGE ",
+    "StockCode": "21322",
+    "TotalQuantitySold": 74,
+    "TotalRevenue": 229.9,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "HANGING MEDINA LANTERN LARGE",
+    "StockCode": "21323",
+    "TotalQuantitySold": 380,
+    "TotalRevenue": 1168.0,
+    "UniqueCustomers": 19
+  },
+  {
+    "Description": "HANGING MEDINA LANTERN SMALL",
+    "StockCode": "21324",
+    "TotalQuantitySold": 654,
+    "TotalRevenue": 1584.9,
+    "UniqueCustomers": 44
+  },
+  {
+    "Description": "AGED GLASS SILVER T-LIGHT HOLDER",
+    "StockCode": "21326",
+    "TotalQuantitySold": 6903,
+    "TotalRevenue": 4189.35,
+    "UniqueCustomers": 158
+  },
+  {
+    "Description": "SKULLS WRITING SET ",
+    "StockCode": "21327",
+    "TotalQuantitySold": 500,
+    "TotalRevenue": 825.0,
+    "UniqueCustomers": 92
+  },
+  {
+    "Description": "BALLOONS  WRITING SET ",
+    "StockCode": "21328",
+    "TotalQuantitySold": 623,
+    "TotalRevenue": 1027.95,
+    "UniqueCustomers": 117
+  },
+  {
+    "Description": "DINOSAURS  WRITING SET ",
+    "StockCode": "21329",
+    "TotalQuantitySold": 596,
+    "TotalRevenue": 964.64,
+    "UniqueCustomers": 110
+  },
+  {
+    "Description": "WOODLAND ANIMAL  WRITING SET ",
+    "StockCode": "21330",
+    "TotalQuantitySold": 318,
+    "TotalRevenue": 518.7,
+    "UniqueCustomers": 41
+  },
+  {
+    "Description": "MOROCCAN BEATEN METAL DISH LARGE",
+    "StockCode": "21331",
+    "TotalQuantitySold": 64,
+    "TotalRevenue": 393.6,
+    "UniqueCustomers": 10
+  },
+  {
+    "Description": "MOROCCAN BEATEN METAL MIRROR",
+    "StockCode": "21332",
+    "TotalQuantitySold": 143,
+    "TotalRevenue": 733.65,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "CLASSIC WHITE FRAME",
+    "StockCode": "21333",
+    "TotalQuantitySold": 425,
+    "TotalRevenue": 1251.35,
+    "UniqueCustomers": 79
+  },
+  {
+    "Description": "LIBRARY LAMP",
+    "StockCode": "21335",
+    "TotalQuantitySold": 17,
+    "TotalRevenue": 361.15,
+    "UniqueCustomers": 10
+  },
+  {
+    "Description": "GOLD WASHBAG",
+    "StockCode": "21336",
+    "TotalQuantitySold": 890,
+    "TotalRevenue": 189.02,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "SILVER WASHBAG",
+    "StockCode": "21337",
+    "TotalQuantitySold": 23,
+    "TotalRevenue": 67.85,
+    "UniqueCustomers": 4
+  },
+  {
+    "Description": "MARAKESH LANTERN SMALL ",
+    "StockCode": "21338",
+    "TotalQuantitySold": 182,
+    "TotalRevenue": 765.05,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "MARAKESH LANTERN LARGE",
+    "StockCode": "21339",
+    "TotalQuantitySold": 9,
+    "TotalRevenue": 167.55,
+    "UniqueCustomers": 4
+  },
+  {
+    "Description": "CLASSIC METAL BIRDCAGE PLANT HOLDER",
+    "StockCode": "21340",
+    "TotalQuantitySold": 475,
+    "TotalRevenue": 5173.45,
+    "UniqueCustomers": 102
+  },
+  {
+    "Description": "KASBAH LANTERN WITH GLASS ",
+    "StockCode": "21341",
+    "TotalQuantitySold": 47,
+    "TotalRevenue": 208.95,
+    "UniqueCustomers": 11
+  },
+  {
+    "Description": "GOLD JEWELERY BOX",
+    "StockCode": "21343",
+    "TotalQuantitySold": 8,
+    "TotalRevenue": 44.6,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "MOROCCAN BEATEN METAL DISH",
+    "StockCode": "21344",
+    "TotalQuantitySold": 105,
+    "TotalRevenue": 372.75,
+    "UniqueCustomers": 9
+  },
+  {
+    "Description": "GOTHIC CARRIAGE LANTERN",
+    "StockCode": "21347",
+    "TotalQuantitySold": 8,
+    "TotalRevenue": 47.6,
+    "UniqueCustomers": 4
+  },
+  {
+    "Description": "PINK SPOTS CHOCOLATE NESTING BOXES ",
+    "StockCode": "21348",
+    "TotalQuantitySold": 275,
+    "TotalRevenue": 592.85,
+    "UniqueCustomers": 44
+  },
+  {
+    "Description": "IVY HEART WREATH",
+    "StockCode": "21349",
+    "TotalQuantitySold": 216,
+    "TotalRevenue": 1419.6,
+    "UniqueCustomers": 52
+  },
+  {
+    "Description": "GINGHAM HEART WREATH",
+    "StockCode": "21350",
+    "TotalQuantitySold": 68,
+    "TotalRevenue": 200.6,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "CINAMMON & ORANGE WREATH",
+    "StockCode": "21351",
+    "TotalQuantitySold": 488,
+    "TotalRevenue": 1436.4,
+    "UniqueCustomers": 51
+  },
+  {
+    "Description": "EUCALYPTUS & PINECONE  WREATH",
+    "StockCode": "21352",
+    "TotalQuantitySold": 312,
+    "TotalRevenue": 1032.6,
+    "UniqueCustomers": 33
+  },
+  {
+    "Description": "SILVER SLEIGHBELL  WREATH",
+    "StockCode": "21353",
+    "TotalQuantitySold": 18,
+    "TotalRevenue": 143.1,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "TOAST ITS - BEST MUM",
+    "StockCode": "21354",
+    "TotalQuantitySold": 1188,
+    "TotalRevenue": 1389.0,
+    "UniqueCustomers": 63
+  },
+  {
+    "Description": "TOAST ITS - I LOVE YOU ",
+    "StockCode": "21355",
+    "TotalQuantitySold": 1441,
+    "TotalRevenue": 1738.85,
+    "UniqueCustomers": 104
+  },
+  {
+    "Description": "TOAST ITS - FAIRY FLOWER",
+    "StockCode": "21356",
+    "TotalQuantitySold": 475,
+    "TotalRevenue": 590.88,
+    "UniqueCustomers": 50
+  },
+  {
+    "Description": "TOAST ITS - DINOSAUR",
+    "StockCode": "21357",
+    "TotalQuantitySold": 554,
+    "TotalRevenue": 690.1,
+    "UniqueCustomers": 44
+  },
+  {
+    "Description": "TOAST ITS - HAPPY BIRTHDAY",
+    "StockCode": "21358",
+    "TotalQuantitySold": 539,
+    "TotalRevenue": 668.95,
+    "UniqueCustomers": 61
+  },
+  {
+    "Description": "RELAX LARGE WOOD LETTERS",
+    "StockCode": "21359",
+    "TotalQuantitySold": 100,
+    "TotalRevenue": 719.0,
+    "UniqueCustomers": 24
+  },
+  {
+    "Description": "JOY LARGE WOOD LETTERS",
+    "StockCode": "21360",
+    "TotalQuantitySold": 143,
+    "TotalRevenue": 846.85,
+    "UniqueCustomers": 35
+  },
+  {
+    "Description": "LOVE LARGE WOOD LETTERS ",
+    "StockCode": "21361",
+    "TotalQuantitySold": 208,
+    "TotalRevenue": 2554.8,
+    "UniqueCustomers": 74
+  },
+  {
+    "Description": "HOME SMALL WOOD LETTERS",
+    "StockCode": "21363",
+    "TotalQuantitySold": 352,
+    "TotalRevenue": 1742.4,
+    "UniqueCustomers": 106
+  },
+  {
+    "Description": "PEACE SMALL WOOD LETTERS",
+    "StockCode": "21364",
+    "TotalQuantitySold": 102,
+    "TotalRevenue": 688.5,
+    "UniqueCustomers": 49
+  },
+  {
+    "Description": "MIRRORED WALL ART STARS",
+    "StockCode": "21365",
+    "TotalQuantitySold": 223,
+    "TotalRevenue": 217.85,
+    "UniqueCustomers": 23
+  },
+  {
+    "Description": "MIRRORED WALL ART PHOTO FRAMES",
+    "StockCode": "21366",
+    "TotalQuantitySold": 22,
+    "TotalRevenue": 93.5,
+    "UniqueCustomers": 11
+  },
+  {
+    "Description": "MIRRORED WALL ART GENTS",
+    "StockCode": "21367",
+    "TotalQuantitySold": 122,
+    "TotalRevenue": 115.51,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "MIRRORED WALL ART LADIES",
+    "StockCode": "21368",
+    "TotalQuantitySold": 124,
+    "TotalRevenue": 109.2,
+    "UniqueCustomers": 14
+  },
+  {
+    "Description": "MIRRORED WALL ART SPLODGES",
+    "StockCode": "21369",
+    "TotalQuantitySold": 44,
+    "TotalRevenue": 65.0,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "MIRRORED WALL ART FOXY",
+    "StockCode": "21370",
+    "TotalQuantitySold": 31,
+    "TotalRevenue": 74.45,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "MIRRORED WALL ART POPPIES",
+    "StockCode": "21371",
+    "TotalQuantitySold": 221,
+    "TotalRevenue": 229.95,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "MIRRORED WALL ART TABLE LAMP",
+    "StockCode": "21372",
+    "TotalQuantitySold": 59,
+    "TotalRevenue": 59.85,
+    "UniqueCustomers": 15
+  },
+  {
+    "Description": "MIRRORED WALL ART SNOWFLAKES",
+    "StockCode": "21373",
+    "TotalQuantitySold": 238,
+    "TotalRevenue": 186.3,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "MIRRORED WALL ART SKULLS",
+    "StockCode": "21374",
+    "TotalQuantitySold": 235,
+    "TotalRevenue": 348.75,
+    "UniqueCustomers": 25
+  },
+  {
+    "Description": "LARGE CAMPHOR WOOD FIELD MUSHROOM ",
+    "StockCode": "21375",
+    "TotalQuantitySold": 47,
+    "TotalRevenue": 159.55,
+    "UniqueCustomers": 14
+  },
+  {
+    "Description": "LARGE  TALL CAMPHOR WOOD TOADSTOOL ",
+    "StockCode": "21376",
+    "TotalQuantitySold": 125,
+    "TotalRevenue": 508.45,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "SMALL CAMPHOR WOOD FIELD  MUSHROOM",
+    "StockCode": "21377",
+    "TotalQuantitySold": 162,
+    "TotalRevenue": 221.34,
+    "UniqueCustomers": 19
+  },
+  {
+    "Description": "SMALL TALL CAMPHOR WOOD TOADSTOOL",
+    "StockCode": "21378",
+    "TotalQuantitySold": 178,
+    "TotalRevenue": 233.34,
+    "UniqueCustomers": 19
+  },
+  {
+    "Description": "CAMPHOR WOOD PORTOBELLO MUSHROOM",
+    "StockCode": "21379",
+    "TotalQuantitySold": 136,
+    "TotalRevenue": 144.92,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": " CAMPHOR WOOD PORTOBELLO MUSHROOM",
+    "StockCode": "21379",
+    "TotalQuantitySold": 9,
+    "TotalRevenue": 11.25,
+    "UniqueCustomers": 3
+  },
+  {
+    "Description": "WOODEN HAPPY BIRTHDAY GARLAND",
+    "StockCode": "21380",
+    "TotalQuantitySold": 2185,
+    "TotalRevenue": 6047.35,
+    "UniqueCustomers": 153
+  },
+  {
+    "Description": "MINI WOODEN HAPPY BIRTHDAY GARLAND",
+    "StockCode": "21381",
+    "TotalQuantitySold": 2392,
+    "TotalRevenue": 3763.12,
+    "UniqueCustomers": 117
+  },
+  {
+    "Description": "SET/4 SPRING FLOWER DECORATION",
+    "StockCode": "21382",
+    "TotalQuantitySold": 389,
+    "TotalRevenue": 458.95,
+    "UniqueCustomers": 30
+  },
+  {
+    "Description": "PACK OF 12 STICKY BUNNIES",
+    "StockCode": "21383",
+    "TotalQuantitySold": 562,
+    "TotalRevenue": 362.9,
+    "UniqueCustomers": 62
+  },
+  {
+    "Description": "IVORY HANGING DECORATION  BUTTERFLY",
+    "StockCode": "21384",
+    "TotalQuantitySold": 738,
+    "TotalRevenue": 624.18,
+    "UniqueCustomers": 44
+  },
+  {
+    "Description": "IVORY HANGING DECORATION  HEART",
+    "StockCode": "21385",
+    "TotalQuantitySold": 4006,
+    "TotalRevenue": 3289.66,
+    "UniqueCustomers": 168
+  },
+  {
+    "Description": "IVORY HANGING DECORATION  EGG",
+    "StockCode": "21386",
+    "TotalQuantitySold": 548,
+    "TotalRevenue": 236.96,
+    "UniqueCustomers": 35
+  },
+  {
+    "Description": "IVORY HANGING DECORATION  RABBIT",
+    "StockCode": "21387",
+    "TotalQuantitySold": 2,
+    "TotalRevenue": 1.7,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "IVORY HANGING DECORATION  CHICKEN",
+    "StockCode": "21388",
+    "TotalQuantitySold": 110,
+    "TotalRevenue": 93.5,
+    "UniqueCustomers": 13
+  },
+  {
+    "Description": "IVORY HANGING DECORATION  BIRD",
+    "StockCode": "21389",
+    "TotalQuantitySold": 851,
+    "TotalRevenue": 720.23,
+    "UniqueCustomers": 67
+  },
+  {
+    "Description": "FILIGRIS HEART WITH BUTTERFLY",
+    "StockCode": "21390",
+    "TotalQuantitySold": 3424,
+    "TotalRevenue": 4211.6,
+    "UniqueCustomers": 128
+  },
+  {
+    "Description": "FRENCH EMROIDR LAVENDER SCENT HEART",
+    "StockCode": "21391",
+    "TotalQuantitySold": 110,
+    "TotalRevenue": 231.0,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "FRENCH LAVENDER SCENT HEART",
+    "StockCode": "21391",
+    "TotalQuantitySold": 314,
+    "TotalRevenue": 276.0,
+    "UniqueCustomers": 29
+  },
+  {
+    "Description": "RED POLKADOT PUDDING BOWL",
+    "StockCode": "21392",
+    "TotalQuantitySold": 43,
+    "TotalRevenue": 69.78,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "RED SPOTTY PUDDING BOWL",
+    "StockCode": "21392",
+    "TotalQuantitySold": 3740,
+    "TotalRevenue": 663.24,
+    "UniqueCustomers": 11
+  },
+  {
+    "Description": "BLUE  SPOTTY PUDDING BOWL",
+    "StockCode": "21393",
+    "TotalQuantitySold": 2588,
+    "TotalRevenue": 517.68,
+    "UniqueCustomers": 11
+  },
+  {
+    "Description": "BLUE POLKADOT PUDDING BOWL",
+    "StockCode": "21393",
+    "TotalQuantitySold": 42,
+    "TotalRevenue": 88.2,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "RED SPOTTY BEAKER ",
+    "StockCode": "21394",
+    "TotalQuantitySold": 21,
+    "TotalRevenue": 40.95,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "RED POLKADOT BEAKER ",
+    "StockCode": "21394",
+    "TotalQuantitySold": 1399,
+    "TotalRevenue": 583.05,
+    "UniqueCustomers": 42
+  },
+  {
+    "Description": "BLUE SPOTTY BEAKER ",
+    "StockCode": "21395",
+    "TotalQuantitySold": 28,
+    "TotalRevenue": 54.6,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "BLUE POLKADOT BEAKER ",
+    "StockCode": "21395",
+    "TotalQuantitySold": 1000,
+    "TotalRevenue": 390.0,
+    "UniqueCustomers": 29
+  },
+  {
+    "Description": "RED SPOTTY EGG CUP ",
+    "StockCode": "21396",
+    "TotalQuantitySold": 380,
+    "TotalRevenue": 438.52,
+    "UniqueCustomers": 15
+  },
+  {
+    "Description": "BLUE POLKADOT EGG CUP ",
+    "StockCode": "21397",
+    "TotalQuantitySold": 238,
+    "TotalRevenue": 135.82,
+    "UniqueCustomers": 15
+  },
+  {
+    "Description": "BLUE  SPOTTY EGG CUP ",
+    "StockCode": "21397",
+    "TotalQuantitySold": 194,
+    "TotalRevenue": 242.5,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "RED POLKADOT COFFEE  MUG",
+    "StockCode": "21398",
+    "TotalQuantitySold": 639,
+    "TotalRevenue": 307.35,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "RED  SPOTTY COFFEE  MUG",
+    "StockCode": "21398",
+    "TotalQuantitySold": 413,
+    "TotalRevenue": 762.3,
+    "UniqueCustomers": 23
+  },
+  {
+    "Description": "BLUE  SPOTTY  COFFEE MUG",
+    "StockCode": "21399",
+    "TotalQuantitySold": 96,
+    "TotalRevenue": 184.8,
+    "UniqueCustomers": 10
+  },
+  {
+    "Description": "BLUE POLKADOT COFFEE MUG",
+    "StockCode": "21399",
+    "TotalQuantitySold": 721,
+    "TotalRevenue": 317.1,
+    "UniqueCustomers": 25
+  },
+  {
+    "Description": "RED PUDDING SPOON",
+    "StockCode": "21400",
+    "TotalQuantitySold": 388,
+    "TotalRevenue": 81.06,
+    "UniqueCustomers": 25
+  },
+  {
+    "Description": "BLUE PUDDING SPOON",
+    "StockCode": "21401",
+    "TotalQuantitySold": 536,
+    "TotalRevenue": 129.42,
+    "UniqueCustomers": 29
+  },
+  {
+    "Description": "RED  EGG  SPOON",
+    "StockCode": "21402",
+    "TotalQuantitySold": 632,
+    "TotalRevenue": 110.64,
+    "UniqueCustomers": 35
+  },
+  {
+    "Description": "BLUE EGG  SPOON",
+    "StockCode": "21403",
+    "TotalQuantitySold": 869,
+    "TotalRevenue": 194.94,
+    "UniqueCustomers": 32
+  },
+  {
+    "Description": "BROWN CHECK CAT DOORSTOP ",
+    "StockCode": "21407",
+    "TotalQuantitySold": 495,
+    "TotalRevenue": 2006.5,
+    "UniqueCustomers": 109
+  },
+  {
+    "Description": "SPOTTY PINK DUCK DOORSTOP",
+    "StockCode": "21408",
+    "TotalQuantitySold": 208,
+    "TotalRevenue": 818.0,
+    "UniqueCustomers": 45
+  },
+  {
+    "Description": "COUNTRY COTTAGE  DOORSTOP GREEN",
+    "StockCode": "21410",
+    "TotalQuantitySold": 138,
+    "TotalRevenue": 530.5,
+    "UniqueCustomers": 43
+  },
+  {
+    "Description": "GINGHAM HEART  DOORSTOP RED",
+    "StockCode": "21411",
+    "TotalQuantitySold": 815,
+    "TotalRevenue": 3148.77,
+    "UniqueCustomers": 171
+  },
+  {
+    "Description": "VINTAGE GOLD TINSEL REEL",
+    "StockCode": "21412",
+    "TotalQuantitySold": 137,
+    "TotalRevenue": 70.98,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "PERIWINKLE T-LIGHT HOLDER",
+    "StockCode": "21413",
+    "TotalQuantitySold": 42,
+    "TotalRevenue": 50.22,
+    "UniqueCustomers": 8
+  },
+  {
+    "Description": "SCALLOP SHELL SOAP DISH",
+    "StockCode": "21414",
+    "TotalQuantitySold": 38,
+    "TotalRevenue": 79.8,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "CLAM SHELL SMALL ",
+    "StockCode": "21415",
+    "TotalQuantitySold": 123,
+    "TotalRevenue": 248.46,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "CLAM SHELL LARGE",
+    "StockCode": "21416",
+    "TotalQuantitySold": 4,
+    "TotalRevenue": 15.0,
+    "UniqueCustomers": 4
+  },
+  {
+    "Description": "COCKLE SHELL DISH",
+    "StockCode": "21417",
+    "TotalQuantitySold": 88,
+    "TotalRevenue": 183.3,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "STARFISH SOAP DISH",
+    "StockCode": "21418",
+    "TotalQuantitySold": 47,
+    "TotalRevenue": 119.85,
+    "UniqueCustomers": 9
+  },
+  {
+    "Description": "CONCH SHELL",
+    "StockCode": "21419",
+    "TotalQuantitySold": 31,
+    "TotalRevenue": 109.05,
+    "UniqueCustomers": 6
+  },
+  {
+    "Description": "OYSTER TRINKET BOX",
+    "StockCode": "21420",
+    "TotalQuantitySold": 49,
+    "TotalRevenue": 153.25,
+    "UniqueCustomers": 10
+  },
+  {
+    "Description": "PORCELAIN ROSE LARGE ",
+    "StockCode": "21421",
+    "TotalQuantitySold": 598,
+    "TotalRevenue": 720.14,
+    "UniqueCustomers": 30
+  },
+  {
+    "Description": "PORCELAIN ROSE SMALL",
+    "StockCode": "21422",
+    "TotalQuantitySold": 991,
+    "TotalRevenue": 805.69,
+    "UniqueCustomers": 36
+  },
+  {
+    "Description": "WOODLAND STORAGE BOX LARGE ",
+    "StockCode": "21424",
+    "TotalQuantitySold": 457,
+    "TotalRevenue": 888.79,
+    "UniqueCustomers": 29
+  },
+  {
+    "Description": "SKULLS STORAGE BOX LARGE",
+    "StockCode": "21425",
+    "TotalQuantitySold": 322,
+    "TotalRevenue": 560.14,
+    "UniqueCustomers": 22
+  },
+  {
+    "Description": "WOODLAND STORAGE BOX SMALL",
+    "StockCode": "21426",
+    "TotalQuantitySold": 361,
+    "TotalRevenue": 478.5,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "SKULLS STORAGE BOX SMALL",
+    "StockCode": "21427",
+    "TotalQuantitySold": 268,
+    "TotalRevenue": 361.2,
+    "UniqueCustomers": 27
+  },
+  {
+    "Description": "SET3 BOOK BOX GREEN GINGHAM FLOWER ",
+    "StockCode": "21428",
+    "TotalQuantitySold": 1548,
+    "TotalRevenue": 5994.0,
+    "UniqueCustomers": 107
+  },
+  {
+    "Description": "RED GINGHAM ROSE JEWELLERY BOX",
+    "StockCode": "21429",
+    "TotalQuantitySold": 2293,
+    "TotalRevenue": 3808.35,
+    "UniqueCustomers": 216
+  },
+  {
+    "Description": "SET/3 RED GINGHAM ROSE STORAGE BOX",
+    "StockCode": "21430",
+    "TotalQuantitySold": 1887,
+    "TotalRevenue": 6704.25,
+    "UniqueCustomers": 169
+  },
+  {
+    "Description": "GREEN GINGHAM FLOWER JEWELLERY BOX",
+    "StockCode": "21431",
+    "TotalQuantitySold": 510,
+    "TotalRevenue": 841.5,
+    "UniqueCustomers": 87
+  },
+  {
+    "Description": "SET OF 3 CASES WOODLAND DESIGN",
+    "StockCode": "21432",
+    "TotalQuantitySold": 401,
+    "TotalRevenue": 2284.95,
+    "UniqueCustomers": 75
+  },
+  {
+    "Description": "24 HANGING EASTER EGGS FLORAL TUB",
+    "StockCode": "21437",
+    "TotalQuantitySold": 383,
+    "TotalRevenue": 1263.45,
+    "UniqueCustomers": 34
+  },
+  {
+    "Description": "TUB 24 HANGING EASTER EGGS SPOTTY",
+    "StockCode": "21438",
+    "TotalQuantitySold": 274,
+    "TotalRevenue": 854.7,
+    "UniqueCustomers": 9
+  },
+  {
+    "Description": "BASKET OF TOADSTOOLS",
+    "StockCode": "21439",
+    "TotalQuantitySold": 1271,
+    "TotalRevenue": 1511.23,
+    "UniqueCustomers": 56
+  },
+  {
+    "Description": "12 MINI TOADSTOOL PEGS",
+    "StockCode": "21440",
+    "TotalQuantitySold": 225,
+    "TotalRevenue": 281.25,
+    "UniqueCustomers": 34
+  },
+  {
+    "Description": "BLUE BIRDHOUSE DECORATION",
+    "StockCode": "21441",
+    "TotalQuantitySold": 170,
+    "TotalRevenue": 145.28,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "GREEN BIRDHOUSE DECORATION",
+    "StockCode": "21442",
+    "TotalQuantitySold": 204,
+    "TotalRevenue": 170.28,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "OLIVE CHALET BIRDFEEDER",
+    "StockCode": "21443",
+    "TotalQuantitySold": 224,
+    "TotalRevenue": 580.0,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "BLUE CHALET BIRDFEEDER",
+    "StockCode": "21444",
+    "TotalQuantitySold": 242,
+    "TotalRevenue": 647.5,
+    "UniqueCustomers": 9
+  },
+  {
+    "Description": "12 PINK ROSE PEG PLACE SETTINGS",
+    "StockCode": "21445",
+    "TotalQuantitySold": 893,
+    "TotalRevenue": 1034.17,
+    "UniqueCustomers": 38
+  },
+  {
+    "Description": "12 RED ROSE PEG PLACE SETTINGS",
+    "StockCode": "21446",
+    "TotalQuantitySold": 427,
+    "TotalRevenue": 533.75,
+    "UniqueCustomers": 56
+  },
+  {
+    "Description": "12 IVORY ROSE PEG PLACE SETTINGS",
+    "StockCode": "21447",
+    "TotalQuantitySold": 1302,
+    "TotalRevenue": 1543.14,
+    "UniqueCustomers": 76
+  },
+  {
+    "Description": "12 DAISY PEGS IN WOOD BOX",
+    "StockCode": "21448",
+    "TotalQuantitySold": 380,
+    "TotalRevenue": 627.0,
+    "UniqueCustomers": 62
+  },
+  {
+    "Description": "DISTRESSED CANDLE STICK WHITE",
+    "StockCode": "21450",
+    "TotalQuantitySold": 12,
+    "TotalRevenue": 71.4,
+    "UniqueCustomers": 2
+  },
+  {
+    "Description": "TOADSTOOL MONEY BOX",
+    "StockCode": "21452",
+    "TotalQuantitySold": 754,
+    "TotalRevenue": 2185.9,
+    "UniqueCustomers": 122
+  },
+  {
+    "Description": "PAINTED PINK RABBIT ",
+    "StockCode": "21454",
+    "TotalQuantitySold": 210,
+    "TotalRevenue": 178.5,
+    "UniqueCustomers": 30
+  },
+  {
+    "Description": "PAINTED YELLOW WOODEN DAISY",
+    "StockCode": "21455",
+    "TotalQuantitySold": 137,
+    "TotalRevenue": 116.45,
+    "UniqueCustomers": 17
+  },
+  {
+    "Description": "2 PICTURE BOOK EGGS EASTER CHICKS",
+    "StockCode": "21456",
+    "TotalQuantitySold": 481,
+    "TotalRevenue": 436.25,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "2 PICTURE BOOK EGGS EASTER DUCKS",
+    "StockCode": "21457",
+    "TotalQuantitySold": 464,
+    "TotalRevenue": 415.0,
+    "UniqueCustomers": 19
+  },
+  {
+    "Description": "2 PICTURE BOOK EGGS EASTER BUNNY",
+    "StockCode": "21458",
+    "TotalQuantitySold": 516,
+    "TotalRevenue": 480.0,
+    "UniqueCustomers": 24
+  },
+  {
+    "Description": "YELLOW EASTER EGG HUNT START POST",
+    "StockCode": "21459",
+    "TotalQuantitySold": 82,
+    "TotalRevenue": 159.9,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "GREEN EASTER EGG HUNT START POST",
+    "StockCode": "21460",
+    "TotalQuantitySold": 50,
+    "TotalRevenue": 97.5,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "BLUE EASTER EGG HUNT START POST",
+    "StockCode": "21461",
+    "TotalQuantitySold": 47,
+    "TotalRevenue": 91.65,
+    "UniqueCustomers": 7
+  },
+  {
+    "Description": "NURSERY A,B,C PAINTED LETTERS",
+    "StockCode": "21462",
+    "TotalQuantitySold": 131,
+    "TotalRevenue": 884.25,
+    "UniqueCustomers": 55
+  },
+  {
+    "Description": "MIRRORED DISCO BALL ",
+    "StockCode": "21463",
+    "TotalQuantitySold": 514,
+    "TotalRevenue": 2753.8,
+    "UniqueCustomers": 86
+  },
+  {
+    "Description": "DISCO BALL ROTATOR BATTERY OPERATED",
+    "StockCode": "21464",
+    "TotalQuantitySold": 216,
+    "TotalRevenue": 918.0,
+    "UniqueCustomers": 63
+  },
+  {
+    "Description": "PINK FLOWER CROCHET FOOD COVER",
+    "StockCode": "21465",
+    "TotalQuantitySold": 204,
+    "TotalRevenue": 768.71,
+    "UniqueCustomers": 59
+  },
+  {
+    "Description": "RED FLOWER CROCHET FOOD COVER",
+    "StockCode": "21466",
+    "TotalQuantitySold": 265,
+    "TotalRevenue": 984.15,
+    "UniqueCustomers": 76
+  },
+  {
+    "Description": "CHERRY CROCHET FOOD COVER",
+    "StockCode": "21467",
+    "TotalQuantitySold": 382,
+    "TotalRevenue": 1162.5,
+    "UniqueCustomers": 69
+  },
+  {
+    "Description": "BUTTERFLY CROCHET FOOD COVER",
+    "StockCode": "21468",
+    "TotalQuantitySold": 92,
+    "TotalRevenue": 345.0,
+    "UniqueCustomers": 35
+  },
+  {
+    "Description": "POLKA DOT RAFFIA FOOD COVER",
+    "StockCode": "21469",
+    "TotalQuantitySold": 504,
+    "TotalRevenue": 1303.2,
+    "UniqueCustomers": 62
+  },
+  {
+    "Description": "FLOWER VINE RAFFIA FOOD COVER",
+    "StockCode": "21470",
+    "TotalQuantitySold": 457,
+    "TotalRevenue": 1675.35,
+    "UniqueCustomers": 91
+  },
+  {
+    "Description": "STRAWBERRY RAFFIA FOOD COVER",
+    "StockCode": "21471",
+    "TotalQuantitySold": 516,
+    "TotalRevenue": 1819.8,
+    "UniqueCustomers": 84
+  },
+  {
+    "Description": "LADYBIRD + BEE RAFFIA FOOD COVER",
+    "StockCode": "21472",
+    "TotalQuantitySold": 372,
+    "TotalRevenue": 1395.0,
+    "UniqueCustomers": 84
+  },
+  {
+    "Description": "SWEETHEART CREAM STEEL TABLE RECT",
+    "StockCode": "21473",
+    "TotalQuantitySold": 68,
+    "TotalRevenue": 1356.6,
+    "UniqueCustomers": 34
+  },
+  {
+    "Description": "SWEETHEART CREAM STEEL FOLDIN BENCH",
+    "StockCode": "21474",
+    "TotalQuantitySold": 107,
+    "TotalRevenue": 2134.65,
+    "UniqueCustomers": 41
+  },
+  {
+    "Description": "STEEL SWEETHEART ROUND TABLE CREAM",
+    "StockCode": "21476",
+    "TotalQuantitySold": 28,
+    "TotalRevenue": 418.6,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "STRING OF 20 ROSE LIGHTS",
+    "StockCode": "21477",
+    "TotalQuantitySold": 237,
+    "TotalRevenue": 2661.75,
+    "UniqueCustomers": 25
+  },
+  {
+    "Description": "SILVER SKULL HOT WATER BOTTLE ",
+    "StockCode": "21478",
+    "TotalQuantitySold": 64,
+    "TotalRevenue": 240.0,
+    "UniqueCustomers": 20
+  },
+  {
+    "Description": "WHITE SKULL HOT WATER BOTTLE ",
+    "StockCode": "21479",
+    "TotalQuantitySold": 2011,
+    "TotalRevenue": 7375.63,
+    "UniqueCustomers": 217
+  },
+  {
+    "Description": "PINK STRIPE HOT WATER BOTTLE",
+    "StockCode": "21480",
+    "TotalQuantitySold": 162,
+    "TotalRevenue": 449.1,
+    "UniqueCustomers": 24
+  },
+  {
+    "Description": "FAWN BLUE HOT WATER BOTTLE",
+    "StockCode": "21481",
+    "TotalQuantitySold": 2949,
+    "TotalRevenue": 8326.35,
+    "UniqueCustomers": 216
+  },
+  {
+    "Description": "MUSHROOM BLUE HOT WATER BOTTLE",
+    "StockCode": "21482",
+    "TotalQuantitySold": 249,
+    "TotalRevenue": 720.15,
+    "UniqueCustomers": 52
+  },
+  {
+    "Description": "CHICK GREY HOT WATER BOTTLE",
+    "StockCode": "21484",
+    "TotalQuantitySold": 1587,
+    "TotalRevenue": 5429.55,
+    "UniqueCustomers": 189
+  },
+  {
+    "Description": "RETROSPOT HEART HOT WATER BOTTLE",
+    "StockCode": "21485",
+    "TotalQuantitySold": 1636,
+    "TotalRevenue": 7706.68,
+    "UniqueCustomers": 243
+  },
+  {
+    "Description": "RED SPOT HEART HOT WATER BOTTLE",
+    "StockCode": "21485",
+    "TotalQuantitySold": 1109,
+    "TotalRevenue": 5161.95,
+    "UniqueCustomers": 151
+  },
+  {
+    "Description": "PINK HEART DOTS HOT WATER BOTTLE",
+    "StockCode": "21486",
+    "TotalQuantitySold": 404,
+    "TotalRevenue": 1143.48,
+    "UniqueCustomers": 66
+  },
+  {
+    "Description": "RED WHITE SCARF  HOT WATER BOTTLE",
+    "StockCode": "21488",
+    "TotalQuantitySold": 786,
+    "TotalRevenue": 2900.7,
+    "UniqueCustomers": 100
+  },
+  {
+    "Description": "BLUE WHITE SCARF HOT WATER BOTTLE",
+    "StockCode": "21489",
+    "TotalQuantitySold": 12,
+    "TotalRevenue": 47.4,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "SET OF THREE 50'S GIFT WRAPS ",
+    "StockCode": "21490",
+    "TotalQuantitySold": 582,
+    "TotalRevenue": 1016.4,
+    "UniqueCustomers": 32
+  },
+  {
+    "Description": "SET OF THREE VINTAGE GIFT WRAPS",
+    "StockCode": "21491",
+    "TotalQuantitySold": 1279,
+    "TotalRevenue": 2335.65,
+    "UniqueCustomers": 95
+  },
+  {
+    "Description": " VINTAGE DESIGN GIFT TAGS",
+    "StockCode": "21493",
+    "TotalQuantitySold": 244,
+    "TotalRevenue": 207.4,
+    "UniqueCustomers": 20
+  },
+  {
+    "Description": "ROTATING LEAVES T-LIGHT HOLDER",
+    "StockCode": "21494",
+    "TotalQuantitySold": 987,
+    "TotalRevenue": 1333.69,
+    "UniqueCustomers": 62
+  },
+  {
+    "Description": "SKULLS WRAP",
+    "StockCode": "21495",
+    "TotalQuantitySold": 1200,
+    "TotalRevenue": 502.0,
+    "UniqueCustomers": 42
+  },
+  {
+    "Description": "SKULLS AND CROSSBONES WRAP",
+    "StockCode": "21495",
+    "TotalQuantitySold": 3340,
+    "TotalRevenue": 1370.8,
+    "UniqueCustomers": 67
+  },
+  {
+    "Description": "FANCY FONTS BIRTHDAY WRAP",
+    "StockCode": "21497",
+    "TotalQuantitySold": 6200,
+    "TotalRevenue": 2540.0,
+    "UniqueCustomers": 160
+  },
+  {
+    "Description": "RED RETROSPOT WRAP ",
+    "StockCode": "21498",
+    "TotalQuantitySold": 6075,
+    "TotalRevenue": 2438.5,
+    "UniqueCustomers": 142
+  },
+  {
+    "Description": "RED SPOTS  WRAP ",
+    "StockCode": "21498",
+    "TotalQuantitySold": 5875,
+    "TotalRevenue": 2331.5,
+    "UniqueCustomers": 124
+  },
+  {
+    "Description": "BLUE SPOTS  WRAP",
+    "StockCode": "21499",
+    "TotalQuantitySold": 2750,
+    "TotalRevenue": 1091.0,
+    "UniqueCustomers": 69
+  },
+  {
+    "Description": "BLUE POLKADOT WRAP",
+    "StockCode": "21499",
+    "TotalQuantitySold": 3775,
+    "TotalRevenue": 1503.0,
+    "UniqueCustomers": 96
+  },
+  {
+    "Description": "PINK POLKADOT WRAP ",
+    "StockCode": "21500",
+    "TotalQuantitySold": 3650,
+    "TotalRevenue": 1471.0,
+    "UniqueCustomers": 97
+  },
+  {
+    "Description": "PINK SPOTS  WRAP ",
+    "StockCode": "21500",
+    "TotalQuantitySold": 3950,
+    "TotalRevenue": 1533.0,
+    "UniqueCustomers": 78
+  },
+  {
+    "Description": "TOYBOX  WRAP ",
+    "StockCode": "21503",
+    "TotalQuantitySold": 675,
+    "TotalRevenue": 283.5,
+    "UniqueCustomers": 23
+  },
+  {
+    "Description": "SKULLS GREETING CARD",
+    "StockCode": "21504",
+    "TotalQuantitySold": 1657,
+    "TotalRevenue": 664.26,
+    "UniqueCustomers": 67
+  },
+  {
+    "Description": "FANCY FONT BIRTHDAY CARD, ",
+    "StockCode": "21506",
+    "TotalQuantitySold": 3445,
+    "TotalRevenue": 1395.06,
+    "UniqueCustomers": 141
+  },
+  {
+    "Description": "ELEPHANT BIRTHDAY CARD ",
+    "StockCode": "21507",
+    "TotalQuantitySold": 494,
+    "TotalRevenue": 199.66,
+    "UniqueCustomers": 26
+  },
+  {
+    "Description": "ELEPHANT, BIRTHDAY CARD, ",
+    "StockCode": "21507",
+    "TotalQuantitySold": 2464,
+    "TotalRevenue": 1001.76,
+    "UniqueCustomers": 100
+  },
+  {
+    "Description": "VINTAGE KID DOLLY CARD ",
+    "StockCode": "21508",
+    "TotalQuantitySold": 2414,
+    "TotalRevenue": 971.09,
+    "UniqueCustomers": 106
+  },
+  {
+    "Description": "COWBOYS AND INDIANS BIRTHDAY CARD ",
+    "StockCode": "21509",
+    "TotalQuantitySold": 3377,
+    "TotalRevenue": 1349.42,
+    "UniqueCustomers": 128
+  },
+  {
+    "Description": "BANK ACCOUNT  GREETING  CARD ",
+    "StockCode": "21518",
+    "TotalQuantitySold": 408,
+    "TotalRevenue": 167.04,
+    "UniqueCustomers": 24
+  },
+  {
+    "Description": "GIN & TONIC DIET GREETING CARD ",
+    "StockCode": "21519",
+    "TotalQuantitySold": 2780,
+    "TotalRevenue": 1136.64,
+    "UniqueCustomers": 86
+  },
+  {
+    "Description": "BOOZE & WOMEN GREETING CARD ",
+    "StockCode": "21520",
+    "TotalQuantitySold": 337,
+    "TotalRevenue": 137.22,
+    "UniqueCustomers": 21
+  },
+  {
+    "Description": "FANCY FONT HOME SWEET HOME DOORMAT",
+    "StockCode": "21523",
+    "TotalQuantitySold": 291,
+    "TotalRevenue": 1796.25,
+    "UniqueCustomers": 45
+  },
+  {
+    "Description": "DOORMAT FANCY FONT HOME SWEET HOME",
+    "StockCode": "21523",
+    "TotalQuantitySold": 2516,
+    "TotalRevenue": 14547.3,
+    "UniqueCustomers": 141
+  },
+  {
+    "Description": "DOOR MAT FANCY FONT HOME SWEET HOME",
+    "StockCode": "21523",
+    "TotalQuantitySold": 358,
+    "TotalRevenue": 2387.12,
+    "UniqueCustomers": 58
+  },
+  {
+    "Description": "DOOR MAT SPOTTY HOME SWEET HOME",
+    "StockCode": "21524",
+    "TotalQuantitySold": 523,
+    "TotalRevenue": 3027.99,
+    "UniqueCustomers": 76
+  },
+  {
+    "Description": "SPOTTY  HOME SWEET HOME DOORMAT",
+    "StockCode": "21524",
+    "TotalQuantitySold": 313,
+    "TotalRevenue": 1936.75,
+    "UniqueCustomers": 44
+  },
+  {
+    "Description": "DOORMAT SPOTTY HOME SWEET HOME",
+    "StockCode": "21524",
+    "TotalQuantitySold": 896,
+    "TotalRevenue": 6548.92,
+    "UniqueCustomers": 173
+  },
+  {
+    "Description": "RETRO SPOT TRADITIONAL TEAPOT ",
+    "StockCode": "21527",
+    "TotalQuantitySold": 334,
+    "TotalRevenue": 2475.3,
+    "UniqueCustomers": 69
+  },
+  {
+    "Description": "RED RETROSPOT TRADITIONAL TEAPOT ",
+    "StockCode": "21527",
+    "TotalQuantitySold": 810,
+    "TotalRevenue": 5605.14,
+    "UniqueCustomers": 149
+  },
+  {
+    "Description": "DAIRY MAID TRADITIONAL TEAPOT ",
+    "StockCode": "21528",
+    "TotalQuantitySold": 418,
+    "TotalRevenue": 2229.3,
+    "UniqueCustomers": 63
+  },
+  {
+    "Description": "RED RETROSPOT TOASTRACK",
+    "StockCode": "21529",
+    "TotalQuantitySold": 45,
+    "TotalRevenue": 146.25,
+    "UniqueCustomers": 14
+  },
+  {
+    "Description": "RETRO SPOT CERAMIC TOASTRACK",
+    "StockCode": "21529",
+    "TotalQuantitySold": 96,
+    "TotalRevenue": 331.2,
+    "UniqueCustomers": 26
+  },
+  {
+    "Description": "DAIRY MAID TOASTRACK",
+    "StockCode": "21530",
+    "TotalQuantitySold": 263,
+    "TotalRevenue": 339.53,
+    "UniqueCustomers": 37
+  },
+  {
+    "Description": "DAIRY MAID CERAMIC TOASTRACK",
+    "StockCode": "21530",
+    "TotalQuantitySold": 16,
+    "TotalRevenue": 47.2,
+    "UniqueCustomers": 5
+  },
+  {
+    "Description": "RED RETROSPOT SUGAR JAM BOWL",
+    "StockCode": "21531",
+    "TotalQuantitySold": 1103,
+    "TotalRevenue": 2629.05,
+    "UniqueCustomers": 144
+  },
+  {
+    "Description": "RETRO SPOT SUGAR JAM BOWL",
+    "StockCode": "21531",
+    "TotalQuantitySold": 300,
+    "TotalRevenue": 711.0,
+    "UniqueCustomers": 42
+  },
+  {
+    "Description": "DAIRY MAID SUGAR JAM BOWL",
+    "StockCode": "21532",
+    "TotalQuantitySold": 93,
+    "TotalRevenue": 195.3,
+    "UniqueCustomers": 25
+  },
+  {
+    "Description": "RETRO SPOT LARGE MILK JUG",
+    "StockCode": "21533",
+    "TotalQuantitySold": 570,
+    "TotalRevenue": 2712.3,
+    "UniqueCustomers": 132
+  },
+  {
+    "Description": "RETROSPOT LARGE MILK JUG",
+    "StockCode": "21533",
+    "TotalQuantitySold": 584,
+    "TotalRevenue": 2756.4,
+    "UniqueCustomers": 129
+  },
+  {
+    "Description": "DAIRY MAID LARGE MILK JUG",
+    "StockCode": "21534",
+    "TotalQuantitySold": 298,
+    "TotalRevenue": 1416.3,
+    "UniqueCustomers": 78
+  },
+  {
+    "Description": "RETRO SPOT SMALL MILK JUG",
+    "StockCode": "21535",
+    "TotalQuantitySold": 563,
+    "TotalRevenue": 1370.85,
+    "UniqueCustomers": 77
+  },
+  {
+    "Description": "RED RETROSPOT SMALL MILK JUG",
+    "StockCode": "21535",
+    "TotalQuantitySold": 1836,
+    "TotalRevenue": 4401.0,
+    "UniqueCustomers": 201
+  },
+  {
+    "Description": "DAIRY MAID  SMALL  MILK JUG",
+    "StockCode": "21536",
+    "TotalQuantitySold": 66,
+    "TotalRevenue": 138.6,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "RETRO SPOTS PUDDING BOWL",
+    "StockCode": "21537",
+    "TotalQuantitySold": 130,
+    "TotalRevenue": 536.5,
+    "UniqueCustomers": 25
+  },
+  {
+    "Description": "RED RETROSPOT PUDDING BOWL",
+    "StockCode": "21537",
+    "TotalQuantitySold": 255,
+    "TotalRevenue": 1065.75,
+    "UniqueCustomers": 64
+  },
+  {
+    "Description": "DAIRY MAID  PUDDING BOWL",
+    "StockCode": "21538",
+    "TotalQuantitySold": 41,
+    "TotalRevenue": 153.75,
+    "UniqueCustomers": 19
+  },
+  {
+    "Description": "RETRO SPOTS BUTTER DISH",
+    "StockCode": "21539",
+    "TotalQuantitySold": 413,
+    "TotalRevenue": 1855.35,
+    "UniqueCustomers": 47
+  },
+  {
+    "Description": "RED RETROSPOT BUTTER DISH",
+    "StockCode": "21539",
+    "TotalQuantitySold": 598,
+    "TotalRevenue": 2897.1,
+    "UniqueCustomers": 132
+  },
+  {
+    "Description": "DAIRY MAID BUTTER DISH",
+    "StockCode": "21540",
+    "TotalQuantitySold": 41,
+    "TotalRevenue": 165.25,
+    "UniqueCustomers": 14
+  },
+  {
+    "Description": "DAIRY MAID CERAMIC BUTTER DISH",
+    "StockCode": "21540",
+    "TotalQuantitySold": 52,
+    "TotalRevenue": 212.0,
+    "UniqueCustomers": 13
+  },
+  {
+    "Description": "DINOSAURS WATER TRANSFER TATTOOS ",
+    "StockCode": "21541",
+    "TotalQuantitySold": 717,
+    "TotalRevenue": 567.05,
+    "UniqueCustomers": 43
+  },
+  {
+    "Description": "WOODLAND WATER TRANSFER TATTOOS ",
+    "StockCode": "21542",
+    "TotalQuantitySold": 770,
+    "TotalRevenue": 614.5,
+    "UniqueCustomers": 49
+  },
+  {
+    "Description": "BUTTERFLY WATER TRANSFER TATTOOS ",
+    "StockCode": "21543",
+    "TotalQuantitySold": 264,
+    "TotalRevenue": 184.4,
+    "UniqueCustomers": 11
+  },
+  {
+    "Description": "SKULLS  WATER TRANSFER TATTOOS ",
+    "StockCode": "21544",
+    "TotalQuantitySold": 2188,
+    "TotalRevenue": 1770.2,
+    "UniqueCustomers": 109
+  },
+  {
+    "Description": "CERAMIC BIRDHOUSE BUTTERFLY SMALL",
+    "StockCode": "21545",
+    "TotalQuantitySold": 285,
+    "TotalRevenue": 624.6,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "CERAMIC BIRDHOUSE CRESTED TIT SMALL",
+    "StockCode": "21547",
+    "TotalQuantitySold": 338,
+    "TotalRevenue": 780.95,
+    "UniqueCustomers": 26
+  },
+  {
+    "Description": "CERAMIC BIRDHOUSE FINCH BLUE ROOF",
+    "StockCode": "21548",
+    "TotalQuantitySold": 312,
+    "TotalRevenue": 704.25,
+    "UniqueCustomers": 25
+  },
+  {
+    "Description": "CERAMIC BIRDHOUSE RED ROOF SMALL",
+    "StockCode": "21549",
+    "TotalQuantitySold": 286,
+    "TotalRevenue": 615.7,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "CERAMIC BIRDHOUSE CRESTED TIT LARGE",
+    "StockCode": "21550",
+    "TotalQuantitySold": 183,
+    "TotalRevenue": 836.85,
+    "UniqueCustomers": 16
+  },
+  {
+    "Description": "CERAMIC BIRDHOUSE BUTTERFLY LARGE",
+    "StockCode": "21551",
+    "TotalQuantitySold": 149,
+    "TotalRevenue": 677.75,
+    "UniqueCustomers": 12
+  },
+  {
+    "Description": "CERAMIC BIRDHOUSE BLACK ROSE  LARGE",
+    "StockCode": "21552",
+    "TotalQuantitySold": 136,
+    "TotalRevenue": 650.95,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "CERAMIC BIRDHOUSE FINCH BLUE  LARGE",
+    "StockCode": "21553",
+    "TotalQuantitySold": 48,
+    "TotalRevenue": 232.95,
+    "UniqueCustomers": 13
+  },
+  {
+    "Description": "CERAMIC BIRDHOUSE RED ROOF LARGE",
+    "StockCode": "21554",
+    "TotalQuantitySold": 158,
+    "TotalRevenue": 700.1,
+    "UniqueCustomers": 14
+  },
+  {
+    "Description": "CERAMIC STRAWBERRY TRINKET TRAY",
+    "StockCode": "21555",
+    "TotalQuantitySold": 98,
+    "TotalRevenue": 249.9,
+    "UniqueCustomers": 22
+  },
+  {
+    "Description": "CERAMIC STRAWBERRY MONEY BOX",
+    "StockCode": "21556",
+    "TotalQuantitySold": 302,
+    "TotalRevenue": 755.7,
+    "UniqueCustomers": 59
+  },
+  {
+    "Description": "SET OF 6 FUNKY BEAKERS",
+    "StockCode": "21557",
+    "TotalQuantitySold": 185,
+    "TotalRevenue": 551.43,
+    "UniqueCustomers": 29
+  },
+  {
+    "Description": "SKULL LUNCH BOX WITH CUTLERY ",
+    "StockCode": "21558",
+    "TotalQuantitySold": 1507,
+    "TotalRevenue": 3607.95,
+    "UniqueCustomers": 130
+  },
+  {
+    "Description": "SKULL LUNCHBOX WITH CUTLERY ",
+    "StockCode": "21558",
+    "TotalQuantitySold": 84,
+    "TotalRevenue": 214.2,
+    "UniqueCustomers": 18
+  },
+  {
+    "Description": "STRAWBERRY LUNCHBOX WITH CUTLERY",
+    "StockCode": "21559",
+    "TotalQuantitySold": 488,
+    "TotalRevenue": 1158.0,
+    "UniqueCustomers": 59
+  },
+  {
+    "Description": "STRAWBERRY LUNCH BOX WITH CUTLERY",
+    "StockCode": "21559",
+    "TotalQuantitySold": 2470,
+    "TotalRevenue": 5897.42,
+    "UniqueCustomers": 195
+  },
+  {
+    "Description": "DINOSAUR LUNCHBOX WITH CUTLERY",
+    "StockCode": "21561",
+    "TotalQuantitySold": 272,
+    "TotalRevenue": 661.2,
+    "UniqueCustomers": 42
+  },
+  {
+    "Description": "DINOSAUR LUNCH BOX WITH CUTLERY",
+    "StockCode": "21561",
+    "TotalQuantitySold": 1018,
+    "TotalRevenue": 2403.62,
+    "UniqueCustomers": 107
+  },
+  {
+    "Description": "HAWAIIAN GRASS SKIRT ",
+    "StockCode": "21562",
+    "TotalQuantitySold": 386,
+    "TotalRevenue": 494.16,
+    "UniqueCustomers": 22
+  },
+  {
+    "Description": "RED HEART SHAPE LOVE BUCKET ",
+    "StockCode": "21563",
+    "TotalQuantitySold": 917,
+    "TotalRevenue": 2535.23,
+    "UniqueCustomers": 76
+  },
+  {
+    "Description": "PINK  HEART SHAPE LOVE BUCKET ",
+    "StockCode": "21564",
+    "TotalQuantitySold": 472,
+    "TotalRevenue": 1368.4,
+    "UniqueCustomers": 58
+  },
+  {
+    "Description": "LETS GO SHOPPING COTTON TOTE BAG",
+    "StockCode": "21576",
+    "TotalQuantitySold": 237,
+    "TotalRevenue": 527.25,
+    "UniqueCustomers": 52
+  },
+  {
+    "Description": "SAVE THE PLANET COTTON TOTE BAG",
+    "StockCode": "21577",
+    "TotalQuantitySold": 623,
+    "TotalRevenue": 1395.75,
+    "UniqueCustomers": 109
+  },
+  {
+    "Description": "WOODLAND DESIGN  COTTON TOTE BAG",
+    "StockCode": "21578",
+    "TotalQuantitySold": 800,
+    "TotalRevenue": 1794.0,
+    "UniqueCustomers": 91
+  },
+  {
+    "Description": "LOLITA  DESIGN  COTTON TOTE BAG",
+    "StockCode": "21579",
+    "TotalQuantitySold": 311,
+    "TotalRevenue": 498.15,
+    "UniqueCustomers": 37
+  },
+  {
+    "Description": "RABBIT  DESIGN  COTTON TOTE BAG",
+    "StockCode": "21580",
+    "TotalQuantitySold": 129,
+    "TotalRevenue": 284.25,
+    "UniqueCustomers": 33
+  },
+  {
+    "Description": "SKULLS  DESIGN  COTTON TOTE BAG",
+    "StockCode": "21581",
+    "TotalQuantitySold": 386,
+    "TotalRevenue": 596.7,
+    "UniqueCustomers": 50
+  },
+  {
+    "Description": "KINGS CHOICE SMALL TUBE MATCHES",
+    "StockCode": "21582",
+    "TotalQuantitySold": 116,
+    "TotalRevenue": 191.4,
+    "UniqueCustomers": 14
+  },
+  {
+    "Description": "RETRO SPOT SMALL TUBE MATCHES",
+    "StockCode": "21584",
+    "TotalQuantitySold": 1163,
+    "TotalRevenue": 1794.15,
+    "UniqueCustomers": 49
+  },
+  {
+    "Description": "RETROSPOT SMALL TUBE MATCHES",
+    "StockCode": "21584",
+    "TotalQuantitySold": 668,
+    "TotalRevenue": 1102.2,
+    "UniqueCustomers": 69
+  },
+  {
+    "Description": "SWALLOW SMALL TUBE MATCHES",
+    "StockCode": "21585",
+    "TotalQuantitySold": 1,
+    "TotalRevenue": 1.65,
+    "UniqueCustomers": 1
+  },
+  {
+    "Description": "KINGS CHOICE GIANT TUBE MATCHES",
+    "StockCode": "21586",
+    "TotalQuantitySold": 1226,
+    "TotalRevenue": 2790.6,
+    "UniqueCustomers": 81
+  },
+  {
+    "Description": "COSY HOUR GIANT TUBE MATCHES",
+    "StockCode": "21587",
+    "TotalQuantitySold": 876,
+    "TotalRevenue": 2125.8,
+    "UniqueCustomers": 99
+  },
+  {
+    "Description": "RETROSPOT GIANT TUBE MATCHES",
+    "StockCode": "21588",
+    "TotalQuantitySold": 938,
+    "TotalRevenue": 2094.9,
+    "UniqueCustomers": 50
+  },
+  {
+    "Description": "RETRO SPOT GIANT  TUBE MATCHES",
+    "StockCode": "21588",
+    "TotalQuantitySold": 685,
+    "TotalRevenue": 1565.85,
+    "UniqueCustomers": 42
+  },
+  {
+    "Description": "SWALLOW GIANT TUBE MATCHES",
+    "StockCode": "21589",
+    "TotalQuantitySold": 695,
+    "TotalRevenue": 1577.85,
+    "UniqueCustomers": 41
+  },
+  {
+    "Description": "KINGS CHOICE CIGAR BOX MATCHES ",
+    "StockCode": "21590",
+    "TotalQuantitySold": 1871,
+    "TotalRevenue": 2201.95,
+    "UniqueCustomers": 94
+  },
+  {
+    "Description": "COSY HOUR CIGAR BOX MATCHES ",
+    "StockCode": "21591",
+    "TotalQuantitySold": 1367,
+    "TotalRevenue": 1708.75,
+    "UniqueCustomers": 121
+  },
+  {
+    "Description": "RETRO SPOT  CIGAR BOX MATCHES ",
+    "StockCode": "21592",
+    "TotalQuantitySold": 1328,
+    "TotalRevenue": 1546.0,
+    "UniqueCustomers": 72
+  },
+  {
+    "Description": "RETROSPOT CIGAR BOX MATCHES ",
+    "StockCode": "21592",
+    "TotalQuantitySold": 798,
+    "TotalRevenue": 938.32,
+    "UniqueCustomers": 90
+  }
+]
