@@ -1,14 +1,47 @@
 [
   {
+    "metric": "MAP@K",
+    "model": "ALS",
+    "value": 0.026679304058278893
+  },
+  {
+    "metric": "NDCG@K",
+    "model": "ALS",
+    "value": 0.03760957433890245
+  },
+  {
     "metric": "Precision@K",
-    "value": 0.01321951219512195
+    "model": "ALS",
+    "value": 0.007403891789273849
   },
   {
     "metric": "RMSE",
+    "model": "ALS",
     "value": 189.10862069988607
   },
   {
     "metric": "Recall@K",
-    "value": 0.12861888941623162
+    "model": "ALS",
+    "value": 0.07403891789273849
+  },
+  {
+    "metric": "MAP@K",
+    "model": "Popularity baseline",
+    "value": 0.003782459827784933
+  },
+  {
+    "metric": "NDCG@K",
+    "model": "Popularity baseline",
+    "value": 0.006189988523644832
+  },
+  {
+    "metric": "Precision@K",
+    "model": "Popularity baseline",
+    "value": 0.001400094921689606
+  },
+  {
+    "metric": "Recall@K",
+    "model": "Popularity baseline",
+    "value": 0.01400094921689606
   }
 ]

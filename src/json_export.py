@@ -9,6 +9,7 @@ from .config import FRONTEND_DATA_DIR
 
 
 MAX_ROWS = 1000
+ENTITY_MAX_ROWS = 50000
 RECOMMENDATION_MAX_ROWS = 50000
 
 
@@ -34,23 +35,26 @@ def export_json(
     output_dir: str | Path = FRONTEND_DATA_DIR,
 ) -> Path:
     output_path = Path(output_dir)
+    evaluation_order = (
+        ["model", "metric"] if "model" in evaluation.columns else ["metric"]
+    )
     analytics_summary = {
         name: _records(frame.orderBy(*frame.columns), 100)
         for name, frame in sorted(analytics.items())
     }
     _write_json(output_path / "analytics.json", analytics_summary)
     _write_json(output_path / "customer_segments.json", _records(
-        segments.orderBy("CustomerID")
+        segments.orderBy("CustomerID"), ENTITY_MAX_ROWS
     ))
     _write_json(output_path / "products.json", _records(
-        products.orderBy("StockCode")
+        products.orderBy("StockCode"), ENTITY_MAX_ROWS
     ))
     _write_json(output_path / "recommendations.json", _records(
         recommendations.orderBy("CustomerID", "rank", "StockCode"),
         RECOMMENDATION_MAX_ROWS,
     ))
     _write_json(output_path / "evaluation.json", _records(
-        evaluation.orderBy("metric")
+        evaluation.orderBy(*evaluation_order), ENTITY_MAX_ROWS
     ))
     return output_path
 

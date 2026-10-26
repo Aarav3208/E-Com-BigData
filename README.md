@@ -60,6 +60,8 @@ python -m pytest
 
 `export-json` creates deterministic, bounded static exports in `frontend/public/data`. Recommendation exports allow up to 50,000 ranked rows so the customer selector can include the full precomputed recommendation set while remaining bounded on the driver. It can run after `all`, or it will create the required processed datasets when they are absent. Start the dashboard with `cd frontend; npm install; npm run dev`. The dashboard has no backend: it reads only these JSON files.
 
+The dashboard also consumes Spark-generated `monthly_orders`, `customer_behavior_summary`, `purchase_frequency_distribution`, and `segment_summary` reports. Recommendation evaluation exports ALS and popularity-baseline RMSE, Precision@K, Recall@K, MAP@K, and NDCG@K. MAP@K and NDCG@K use the held-out latest product per customer, with products seen during training excluded from ranking.
+
 You can provide a different CSV explicitly:
 
 ```bash

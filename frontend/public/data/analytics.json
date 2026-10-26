@@ -4,6 +4,193 @@
       "AverageOrderValue": 464.56
     }
   ],
+  "customer_behavior_summary": [
+    {
+      "AverageCustomerSpending": 1618.69,
+      "AverageOrdersPerCustomer": 3.48,
+      "OneTimeCustomers": 1731,
+      "RepeatCustomers": 2483,
+      "RepeatPurchaseRate": 0.5892,
+      "TotalCustomers": 4214
+    }
+  ],
+  "monthly_orders": [
+    {
+      "Month": 1,
+      "TotalOrders": 98,
+      "Year": 2009
+    },
+    {
+      "Month": 2,
+      "TotalOrders": 110,
+      "Year": 2009
+    },
+    {
+      "Month": 3,
+      "TotalOrders": 122,
+      "Year": 2009
+    },
+    {
+      "Month": 4,
+      "TotalOrders": 80,
+      "Year": 2009
+    },
+    {
+      "Month": 5,
+      "TotalOrders": 30,
+      "Year": 2009
+    },
+    {
+      "Month": 6,
+      "TotalOrders": 72,
+      "Year": 2009
+    },
+    {
+      "Month": 7,
+      "TotalOrders": 94,
+      "Year": 2009
+    },
+    {
+      "Month": 8,
+      "TotalOrders": 102,
+      "Year": 2009
+    },
+    {
+      "Month": 9,
+      "TotalOrders": 77,
+      "Year": 2009
+    },
+    {
+      "Month": 10,
+      "TotalOrders": 87,
+      "Year": 2009
+    },
+    {
+      "Month": 11,
+      "TotalOrders": 65,
+      "Year": 2009
+    },
+    {
+      "Month": 1,
+      "TotalOrders": 610,
+      "Year": 2010
+    },
+    {
+      "Month": 2,
+      "TotalOrders": 586,
+      "Year": 2010
+    },
+    {
+      "Month": 3,
+      "TotalOrders": 488,
+      "Year": 2010
+    },
+    {
+      "Month": 4,
+      "TotalOrders": 515,
+      "Year": 2010
+    },
+    {
+      "Month": 5,
+      "TotalOrders": 631,
+      "Year": 2010
+    },
+    {
+      "Month": 6,
+      "TotalOrders": 500,
+      "Year": 2010
+    },
+    {
+      "Month": 7,
+      "TotalOrders": 718,
+      "Year": 2010
+    },
+    {
+      "Month": 8,
+      "TotalOrders": 725,
+      "Year": 2010
+    },
+    {
+      "Month": 9,
+      "TotalOrders": 612,
+      "Year": 2010
+    },
+    {
+      "Month": 10,
+      "TotalOrders": 594,
+      "Year": 2010
+    },
+    {
+      "Month": 11,
+      "TotalOrders": 590,
+      "Year": 2010
+    },
+    {
+      "Month": 12,
+      "TotalOrders": 619,
+      "Year": 2010
+    },
+    {
+      "Month": 1,
+      "TotalOrders": 588,
+      "Year": 2011
+    },
+    {
+      "Month": 2,
+      "TotalOrders": 476,
+      "Year": 2011
+    },
+    {
+      "Month": 3,
+      "TotalOrders": 463,
+      "Year": 2011
+    },
+    {
+      "Month": 4,
+      "TotalOrders": 601,
+      "Year": 2011
+    },
+    {
+      "Month": 5,
+      "TotalOrders": 520,
+      "Year": 2011
+    },
+    {
+      "Month": 6,
+      "TotalOrders": 597,
+      "Year": 2011
+    },
+    {
+      "Month": 7,
+      "TotalOrders": 598,
+      "Year": 2011
+    },
+    {
+      "Month": 8,
+      "TotalOrders": 547,
+      "Year": 2011
+    },
+    {
+      "Month": 9,
+      "TotalOrders": 521,
+      "Year": 2011
+    },
+    {
+      "Month": 10,
+      "TotalOrders": 554,
+      "Year": 2011
+    },
+    {
+      "Month": 11,
+      "TotalOrders": 629,
+      "Year": 2011
+    },
+    {
+      "Month": 12,
+      "TotalOrders": 464,
+      "Year": 2011
+    }
+  ],
   "monthly_revenue": [
     {
       "Month": 1,
@@ -181,6 +368,216 @@
       "Year": 2011
     }
   ],
+  "purchase_frequency_distribution": [
+    {
+      "CustomerCount": 1731,
+      "TotalOrders": 1
+    },
+    {
+      "CustomerCount": 820,
+      "TotalOrders": 2
+    },
+    {
+      "CustomerCount": 515,
+      "TotalOrders": 3
+    },
+    {
+      "CustomerCount": 345,
+      "TotalOrders": 4
+    },
+    {
+      "CustomerCount": 176,
+      "TotalOrders": 5
+    },
+    {
+      "CustomerCount": 147,
+      "TotalOrders": 6
+    },
+    {
+      "CustomerCount": 109,
+      "TotalOrders": 7
+    },
+    {
+      "CustomerCount": 75,
+      "TotalOrders": 8
+    },
+    {
+      "CustomerCount": 51,
+      "TotalOrders": 9
+    },
+    {
+      "CustomerCount": 36,
+      "TotalOrders": 10
+    },
+    {
+      "CustomerCount": 31,
+      "TotalOrders": 11
+    },
+    {
+      "CustomerCount": 31,
+      "TotalOrders": 12
+    },
+    {
+      "CustomerCount": 22,
+      "TotalOrders": 13
+    },
+    {
+      "CustomerCount": 11,
+      "TotalOrders": 14
+    },
+    {
+      "CustomerCount": 12,
+      "TotalOrders": 15
+    },
+    {
+      "CustomerCount": 12,
+      "TotalOrders": 16
+    },
+    {
+      "CustomerCount": 16,
+      "TotalOrders": 17
+    },
+    {
+      "CustomerCount": 9,
+      "TotalOrders": 18
+    },
+    {
+      "CustomerCount": 6,
+      "TotalOrders": 19
+    },
+    {
+      "CustomerCount": 3,
+      "TotalOrders": 20
+    },
+    {
+      "CustomerCount": 2,
+      "TotalOrders": 21
+    },
+    {
+      "CustomerCount": 3,
+      "TotalOrders": 22
+    },
+    {
+      "CustomerCount": 6,
+      "TotalOrders": 23
+    },
+    {
+      "CustomerCount": 5,
+      "TotalOrders": 24
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 25
+    },
+    {
+      "CustomerCount": 5,
+      "TotalOrders": 26
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 27
+    },
+    {
+      "CustomerCount": 2,
+      "TotalOrders": 28
+    },
+    {
+      "CustomerCount": 4,
+      "TotalOrders": 29
+    },
+    {
+      "CustomerCount": 2,
+      "TotalOrders": 30
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 31
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 36
+    },
+    {
+      "CustomerCount": 2,
+      "TotalOrders": 37
+    },
+    {
+      "CustomerCount": 2,
+      "TotalOrders": 38
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 41
+    },
+    {
+      "CustomerCount": 2,
+      "TotalOrders": 43
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 44
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 49
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 51
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 53
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 55
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 56
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 59
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 61
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 66
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 70
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 74
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 79
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 88
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 91
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 137
+    },
+    {
+      "CustomerCount": 1,
+      "TotalOrders": 153
+    }
+  ],
   "revenue_by_country": [
     {
       "Country": "Australia",
@@ -321,6 +718,32 @@
     {
       "Country": "Unspecified",
       "TotalRevenue": 3382.45
+    }
+  ],
+  "segment_summary": [
+    {
+      "CustomerCount": 461,
+      "CustomerPercentage": 0.1094,
+      "Segment": "High-Value",
+      "SegmentRevenue": 3102016.92
+    },
+    {
+      "CustomerCount": 1431,
+      "CustomerPercentage": 0.3396,
+      "Segment": "Inactive",
+      "SegmentRevenue": 868711.87
+    },
+    {
+      "CustomerCount": 1382,
+      "CustomerPercentage": 0.328,
+      "Segment": "Occasional",
+      "SegmentRevenue": 1094930.67
+    },
+    {
+      "CustomerCount": 940,
+      "CustomerPercentage": 0.2231,
+      "Segment": "Regular",
+      "SegmentRevenue": 1755487.84
     }
   ],
   "top_customers_by_revenue": [

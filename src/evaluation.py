@@ -11,16 +11,71 @@ from .recommendations import add_stable_ids
 
 def temporal_train_test(interactions: DataFrame) -> tuple[DataFrame, DataFrame]:
     """Hold out each customer's latest product without sharing pair data."""
-    latest = Window.partitionBy("CustomerID").orderBy(F.desc("last_purchase"), F.asc("StockCode"))
-    with_dates = interactions.select(
-        "CustomerID", "StockCode", "rating",
-        F.col("InvoiceDate").alias("last_purchase"),
+    latest = Window.partitionBy("CustomerID").orderBy(
+        F.desc("last_purchase"), F.asc("StockCode")
     )
-    ranked = with_dates.withColumn("holdout_rank", F.row_number().over(latest))
-    test = ranked.filter(F.col("holdout_rank") == 1).drop("holdout_rank")
-    train = ranked.filter(F.col("holdout_rank") > 1).drop("holdout_rank")
-    # Customers with one product need a test row but cannot train an ALS user.
-    return train, test
+    ranked = interactions.select(
+        "CustomerID",
+        "StockCode",
+        "rating",
+        F.col("InvoiceDate").alias("last_purchase"),
+    ).withColumn("holdout_rank", F.row_number().over(latest))
+    return (
+        ranked.filter(F.col("holdout_rank") > 1).drop("holdout_rank"),
+        ranked.filter(F.col("holdout_rank") == 1).drop("holdout_rank"),
+    )
+
+
+def _ranking_metrics(
+    ranked: DataFrame, test: DataFrame, top_k: int
+) -> dict[str, float]:
+    eligible = test.select("CustomerID").distinct()
+    hits = (
+        ranked.filter(F.col("rank") <= top_k)
+        .join(test.select("CustomerID", "StockCode"), ["CustomerID", "StockCode"], "left_semi")
+        .select("CustomerID", "rank")
+    )
+    hit_count = hits.count()
+    user_count = eligible.count()
+    denominator = user_count * top_k
+    return {
+        "Precision@K": hit_count / denominator if denominator else 0.0,
+        "Recall@K": hit_count / user_count if user_count else 0.0,
+        "MAP@K": (
+            hits.withColumn("average_precision", F.lit(1.0) / F.col("rank"))
+            .agg(F.sum("average_precision"))
+            .first()[0] / user_count
+            if user_count else 0.0
+        ),
+        "NDCG@K": (
+            hits.withColumn(
+                "discounted_gain",
+                F.lit(1.0) / (F.log2(F.col("rank") + F.lit(1.0))),
+            ).agg(F.sum("discounted_gain")).first()[0] / user_count
+            if user_count else 0.0
+        ),
+    }
+
+
+def _rank_unseen(
+    candidates: DataFrame, train: DataFrame, top_k: int
+) -> DataFrame:
+    return (
+        candidates.join(
+            train.select("CustomerID", "StockCode").distinct(),
+            ["CustomerID", "StockCode"],
+            "leftanti",
+        )
+        .withColumn(
+            "rank",
+            F.row_number().over(
+                Window.partitionBy("CustomerID").orderBy(
+                    F.desc("score"), F.asc("StockCode")
+                )
+            ),
+        )
+        .filter(F.col("rank") <= top_k)
+    )
 
 
 def evaluate_recommendations(dataframe: DataFrame, top_k: int = 10) -> DataFrame:
@@ -28,66 +83,91 @@ def evaluate_recommendations(dataframe: DataFrame, top_k: int = 10) -> DataFrame
         raise ValueError("top_k must be at least 1")
     train, test = temporal_train_test(build_interactions_with_dates(dataframe))
     if not train.take(1):
-        return _metrics_frame(dataframe, None, 0.0, 0.0)
+        return _metrics_frame(dataframe, {"ALS": {}, "Popularity baseline": {}})
+
     numeric, customers, products = add_stable_ids(train)
     als = ALS(
-        userCol="user_id", itemCol="item_id", ratingCol="rating", rank=10,
-        maxIter=10, regParam=0.1, implicitPrefs=True, coldStartStrategy="drop", seed=42,
+        userCol="user_id",
+        itemCol="item_id",
+        ratingCol="rating",
+        rank=10,
+        maxIter=10,
+        regParam=0.1,
+        implicitPrefs=True,
+        coldStartStrategy="drop",
+        seed=42,
     ).fit(numeric.select("user_id", "item_id", "rating"))
+
     test_numeric = (
         test.join(customers, "CustomerID")
         .join(products, "StockCode")
         .select("user_id", "item_id", "rating")
     )
     predictions = als.transform(test_numeric).dropna(subset=["prediction"])
-    rmse = RegressionEvaluator(
-        metricName="rmse", labelCol="rating", predictionCol="prediction"
-    ).evaluate(predictions) if predictions.take(1) else None
+    rmse = (
+        RegressionEvaluator(
+            metricName="rmse", labelCol="rating", predictionCol="prediction"
+        ).evaluate(predictions)
+        if predictions.take(1)
+        else None
+    )
 
-    test_users = test.select("CustomerID").distinct()
-    # Use the same stable mappings and remove every training purchase before ranking.
-    train_numeric = numeric
-    candidates = (
-        als.recommendForAllUsers(top_k + 20)
-        .select("user_id", F.explode("recommendations").alias("r"))
-        .select("user_id", F.col("r.item_id").alias("item_id"))
-        .join(
-            train_numeric.select("user_id", "item_id").distinct(),
-            ["user_id", "item_id"], "leftanti",
+    purchase_counts = numeric.groupBy("user_id").count().agg(F.max("count")).first()[0] or 0
+    candidate_count = min(products.select("item_id").count(), top_k + purchase_counts)
+    als_candidates = (
+        als.recommendForAllUsers(candidate_count)
+        .select("user_id", F.posexplode("recommendations").alias("position", "recommendation"))
+        .select(
+            "user_id",
+            F.col("recommendation.item_id").alias("item_id"),
+            F.col("recommendation.rating").alias("score"),
         )
         .join(customers, "user_id")
         .join(products, "item_id")
-        .join(test.select("CustomerID", "StockCode"), ["CustomerID", "StockCode"], "left_semi")
-        .select("CustomerID", "StockCode")
+        .select("CustomerID", "StockCode", "score")
     )
-    hits = candidates.count()
-    relevant = test.join(test_users, "CustomerID").count()
-    recommended = (
-        als.recommendForAllUsers(top_k)
-        .select(F.explode("recommendations").alias("r"))
-        .count()
+    als_ranked = _rank_unseen(als_candidates, train, top_k)
+    als_metrics = _ranking_metrics(als_ranked, test, top_k)
+    als_metrics["RMSE"] = rmse
+
+    popular = (
+        train.groupBy("StockCode")
+        .agg(F.sum("rating").alias("score"))
+        .orderBy(F.desc("score"), F.asc("StockCode"))
+        .limit(candidate_count)
     )
-    precision = hits / recommended if recommended else 0.0
-    recall = hits / relevant if relevant else 0.0
-    return _metrics_frame(dataframe, rmse, precision, recall)
+    baseline_candidates = (
+        test.select("CustomerID").distinct()
+        .crossJoin(popular)
+    )
+    baseline_ranked = _rank_unseen(baseline_candidates, train, top_k)
+    baseline_metrics = _ranking_metrics(baseline_ranked, test, top_k)
+    return _metrics_frame(
+        dataframe,
+        {"ALS": als_metrics, "Popularity baseline": baseline_metrics},
+    )
 
 
 def _metrics_frame(
-    dataframe: DataFrame, rmse: float | None, precision: float, recall: float
+    dataframe: DataFrame, metrics_by_model: dict[str, dict[str, float | None]]
 ) -> DataFrame:
-    metrics = [
-        ("RMSE", rmse if rmse is not None else float("nan")),
-        ("Precision@K", precision),
-        ("Recall@K", recall),
-    ]
-    result = dataframe.sparkSession.range(1).select(
-        F.lit(metrics[0][0]).alias("metric"), F.lit(metrics[0][1]).cast("double").alias("value")
-    )
-    for name, value in metrics[1:]:
-        result = result.union(
-            dataframe.sparkSession.range(1).select(
-                F.lit(name).alias("metric"), F.lit(value).cast("double").alias("value")
+    spark = dataframe.sparkSession
+    result = None
+    for model, metrics in metrics_by_model.items():
+        for metric, value in metrics.items():
+            row = spark.range(1).select(
+                F.lit(model).alias("model"),
+                F.lit(metric).alias("metric"),
+                F.lit(value if value is not None else float("nan"))
+                .cast("double")
+                .alias("value"),
             )
+            result = row if result is None else result.union(row)
+    if result is None:
+        return spark.range(0).select(
+            F.lit(None).cast("string").alias("model"),
+            F.lit(None).cast("string").alias("metric"),
+            F.lit(None).cast("double").alias("value"),
         )
     return result
 
@@ -99,7 +179,9 @@ def build_interactions_with_dates(dataframe: DataFrame) -> DataFrame:
     )
 
 
-def save_evaluation(dataframe: DataFrame, output_path: str | Path, top_k: int = 10) -> DataFrame:
+def save_evaluation(
+    dataframe: DataFrame, output_path: str | Path, top_k: int = 10
+) -> DataFrame:
     result = evaluate_recommendations(dataframe, top_k)
     result.write.mode("overwrite").parquet(str(output_path))
     return result
