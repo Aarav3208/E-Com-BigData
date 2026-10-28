@@ -2,12 +2,12 @@ import React, { useEffect, useMemo, useState } from "react";
 import { createRoot } from "react-dom/client";
 import "./style.css";
 
-const dataFiles = ["analytics", "customer_segments", "products", "recommendations", "evaluation"];
+const dataFiles = ["analytics", "customer_segments", "products", "recommendations"];
 const number = new Intl.NumberFormat("en-US", { maximumFractionDigits: 0 });
 const decimal = new Intl.NumberFormat("en-US", { maximumFractionDigits: 2 });
 const percent = new Intl.NumberFormat("en-US", { style: "percent", maximumFractionDigits: 1 });
-const money = (value) => value == null || Number.isNaN(Number(value)) ? "—" : decimal.format(Number(value));
-const count = (value) => value == null ? "—" : number.format(Number(value));
+const money = (value) => value == null || !Number.isFinite(Number(value)) ? "—" : decimal.format(Number(value));
+const count = (value) => value == null || !Number.isFinite(Number(value)) ? "—" : number.format(Number(value));
 
 function App() {
   const [data, setData] = useState(null);
@@ -26,6 +26,24 @@ function App() {
       .then((values) => setData(Object.fromEntries(dataFiles.map((name, index) => [name, values[index]]))))
       .catch((loadError) => setError(loadError.message));
   }, []);
+
+  const recommendationCustomers = useMemo(() => {
+    const grouped = new Map();
+    (data?.recommendations || []).forEach((row) => {
+      const customerId = String(row.CustomerID);
+      const score = Number(row.score);
+      if (!Number.isFinite(score)) return;
+      const current = grouped.get(customerId) || { id: customerId, totalScore: 0, count: 0 };
+      current.totalScore += score;
+      current.count += 1;
+      grouped.set(customerId, current);
+    });
+    return [...grouped.values()]
+      .map((item) => ({ ...item, averageScore: item.totalScore / item.count }))
+      .sort((a, b) =>
+        b.averageScore - a.averageScore ||
+        a.id.localeCompare(b.id, undefined, { numeric: true }));
+  }, [data?.recommendations]);
 
   if (error) return <main><Notice title="Unable to load dashboard data" detail={error} /></main>;
   if (!data) return <main><Notice title="Loading analytics…" /></main>;
@@ -55,12 +73,10 @@ function App() {
   const frequentProduct = report("top_products_by_quantity")[0];
   const largestSegment = segments[0];
   const highestSegmentRevenue = [...segments].sort((a, b) => Number(b.SegmentRevenue || 0) - Number(a.SegmentRevenue || 0))[0];
-  const evaluation = data.evaluation || [];
 
   return <main>
     <header className="hero">
       <div><p className="eyebrow">Spark-generated analytics</p><h1>E-Commerce Analytics</h1><p>Sales, product, customer, and recommendation intelligence from cleaned Online Retail II transactions.</p></div>
-      <div className="source-note">Currency field is not present in the source dataset. Amounts are shown as dataset monetary units.</div>
     </header>
 
     <Section title="Overview" subtitle="All figures use valid, non-cancelled cleaned transactions.">
@@ -84,7 +100,7 @@ function App() {
     </Section>
 
     <Section title="Customer segmentation" subtitle="RFM rules: High-Value (recency ≤90 days, frequency ≥5, monetary ≥500), Regular (≤180, ≥2, ≥100), Occasional (≤365), otherwise Inactive.">
-      <div className="grid two"><Panel title="Segment distribution"><BarChart rows={segments} label="Segment" value="CustomerCount" /></Panel><Panel title="Segment summary"><DataTable rows={segments} columns={[["Segment", "Segment"], ["CustomerCount", "Customers"], ["CustomerPercentage", "Share"], ["SegmentRevenue", "Revenue"]]} format={(key, value) => key === "CustomerPercentage" ? percent.format(Number(value)) : key === "SegmentRevenue" ? money(value) : count(value)} /></Panel></div>
+      <div className="grid two"><Panel title="Segment distribution"><BarChart rows={segments} label="Segment" value="CustomerCount" /></Panel><Panel title="Segment summary"><DataTable rows={segments} columns={[["Segment", "Segment"], ["CustomerCount", "Customers"], ["CustomerPercentage", "Share"], ["SegmentRevenue", "Revenue"]]} format={(key, value) => key === "Segment" ? value : key === "CustomerPercentage" ? (Number.isFinite(Number(value)) ? percent.format(Number(value)) : "—") : key === "SegmentRevenue" ? money(value) : count(value)} /></Panel></div>
       <Panel title="Customer RFM details" actions={<div className="filters"><input aria-label="Search customer ID" placeholder="Search customer ID" value={customerSearch} onChange={(event) => setCustomerSearch(event.target.value)} /><select value={segment} onChange={(event) => setSegment(event.target.value)}><option value="all">All segments</option>{segments.map((item) => <option key={item.Segment}>{item.Segment}</option>)}</select></div>}><DataTable rows={visibleSegments.slice(0, 10)} columns={[["CustomerID", "Customer ID"], ["Segment", "Segment"], ["Recency", "Recency"], ["Frequency", "Frequency"], ["Monetary", "Monetary"]]} format={(key, value) => key === "Monetary" ? money(value) : value} /></Panel>
     </Section>
 
@@ -95,12 +111,8 @@ function App() {
     </Section>
 
     <Section title="Personalized ALS recommendations" subtitle="New products are filtered against each customer's complete purchase history. The score is a model score, not a probability." actions={<label>Show <select value={recommendationLimit} onChange={(event) => setRecommendationLimit(Number(event.target.value))}><option value="5">5</option><option value="10">10</option><option value="20">20</option></select></label>}>
-      <select value={customer} onChange={(event) => setCustomer(event.target.value)}><option value="">Select a customer</option>{[...new Set((data.recommendations || []).map((item) => item.CustomerID))].sort().map((id) => <option key={id}>{id}</option>)}</select>
+      <select value={customer} onChange={(event) => setCustomer(event.target.value)}><option value="">Select a customer</option>{recommendationCustomers.map((item) => <option key={item.id} value={item.id}>{item.id}</option>)}</select>
       {customer && selectedRecommendations.length ? <ul className="recommendations">{selectedRecommendations.map((item) => <li key={`${item.CustomerID}-${item.StockCode}`}><span className="badge">{item.RecommendationType || "New product"}</span><span><strong>{item.StockCode}</strong> — {item.Description || "Unnamed product"}</span><span title="ALS predicted preference score">Score: {decimal.format(Number(item.score))}</span></li>)}</ul> : <Empty text={customer ? "No unseen recommendations are available for this customer." : "Select a customer to view precomputed recommendations."} />}
-    </Section>
-
-    <Section title="Recommendation model evaluation" subtitle="Metrics use a temporal held-out interaction and exclude training purchases from ranking.">
-      {evaluation.length ? <DataTable rows={evaluation} columns={[["model", "Model"], ["metric", "Metric"], ["value", "Value"]]} format={(key, value) => key === "value" ? decimal.format(Number(value)) : value} /> : <Empty text="Evaluation results are not available. Run the Spark evaluation command and export-json." />}
     </Section>
 
     <Section title="Business insights"><div className="insight-grid"><Insight label="Top product by revenue" value={topProduct ? `${topProduct.Description || topProduct.StockCode} (${money(topProduct.TotalRevenue)})` : "Unavailable"} /><Insight label="Most frequently purchased product" value={frequentProduct ? `${frequentProduct.Description || frequentProduct.StockCode} (${count(frequentProduct.TotalQuantitySold)} units)` : "Unavailable"} /><Insight label="Largest customer segment" value={largestSegment ? `${largestSegment.Segment} (${percent.format(Number(largestSegment.CustomerPercentage))})` : "Unavailable"} /><Insight label="Segment with most revenue" value={highestSegmentRevenue ? `${highestSegmentRevenue.Segment} (${money(highestSegmentRevenue.SegmentRevenue)})` : "Unavailable"} /><Insight label="Repeat-customer rate" value={behavior.RepeatPurchaseRate == null ? "Unavailable" : percent.format(Number(behavior.RepeatPurchaseRate))} /></div></Section>
